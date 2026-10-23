@@ -1,0 +1,27 @@
+{"ts":"2026-10-23T20:20:52.524Z","sid":"wg9xuh","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T20:21:03.490Z","sid":"wg9xuh","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T20:21:06.367Z","sid":"wg9xuh","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T20:21:06.934Z","sid":"wg9xuh","event":"click","route":"/library","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T20:21:12.240Z","sid":"wg9xuh","event":"click","route":"/library","tag":"div","label":""}
+{"ts":"2026-10-23T20:21:14.187Z","sid":"wg9xuh","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-23T20:21:19.017Z","sid":"wg9xuh","event":"click","route":"/gamescreen","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-23T20:21:25.731Z","sid":"wg9xuh","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T20:21:27.215Z","sid":"wg9xuh","event":"click","route":"/","tag":"div","label":"InícioInícioProcurarProcurarBibliotecaBibliotecaDownloadsDownloadsBaixador do WorkshopBaixador do WorkshopPreferênciasPr"}
+{"ts":"2026-10-23T20:21:27.473Z","sid":"wg9xuh","event":"click","route":"/","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-23T20:21:29.707Z","sid":"wg9xuh","event":"click","route":"/downloads","tag":"a","label":"ProcurarProcurar"}
+{"ts":"2026-10-23T20:21:31.099Z","sid":"wg9xuh","event":"click","route":"/search","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T20:21:33.819Z","sid":"wg9xuh","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-23T20:21:36.170Z","sid":"wg9xuh","event":"click","route":"/gamescreen","tag":"button","label":"Jogar"}
+{"ts":"2026-10-23T20:22:10.154Z","sid":"wg9xuh","event":"click","route":"/gamescreen","tag":"button","label":"Mídia"}
+{"ts":"2026-10-23T20:23:53.698Z","sid":"wg9xuh","event":"click","route":"/gamescreen","tag":"button","label":"Parar"}
+{"ts":"2026-10-23T20:24:00.640Z","sid":"wg9xuh","event":"click","route":"/gamescreen","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-23T20:24:05.115Z","sid":"wg9xuh","event":"click","route":"/settings","tag":"button","label":"Geral e aparência"}
+{"ts":"2026-10-23T20:24:07.800Z","sid":"wg9xuh","event":"click","route":"/settings","tag":"button","label":"Funcionalidades"}
+{"ts":"2026-10-23T20:24:08.818Z","sid":"wg9xuh","event":"click","route":"/settings","tag":"p","label":"Modo console para TV: navegacao por controle, letra grande, mesmo catalogo da biblioteca normal."}
+{"ts":"2026-10-23T20:24:09.018Z","sid":"wg9xuh","event":"click","route":"/settings","tag":"div","label":"Busca de jogosEncontre qualquer jogo da sua biblioteca pelo nome direto na barra de busca, com capas e filtros.Favoritos"}
+{"ts":"2026-10-23T20:24:09.241Z","sid":"wg9xuh","event":"click","route":"/settings","tag":"div","label":"Screenshots (F12)Com um jogo rodando, aperte F12 e a captura da tela e salva na galeria da pagina do jogo."}
+{"ts":"2026-10-23T20:24:09.522Z","sid":"wg9xuh","event":"click","route":"/settings","tag":"p","label":"Com um jogo rodando, aperte F12 e a captura da tela e salva na galeria da pagina do jogo."}
+{"ts":"2026-10-23T20:24:09.801Z","sid":"wg9xuh","event":"click","route":"/settings","tag":"p","label":"Screenshots (F12)"}
+{"ts":"2026-10-23T20:24:12.216Z","sid":"wg9xuh","event":"click","route":"/settings","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-23T20:24:16.216Z","sid":"wg9xuh","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T20:24:17.265Z","sid":"wg9xuh","event":"click","route":"/download","tag":"div","label":"Carregando..."}
