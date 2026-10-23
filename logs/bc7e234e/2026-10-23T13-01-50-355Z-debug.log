@@ -1,0 +1,653 @@
+ERROR: [2026-10-23T12:22:57.596Z] (node:32056) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `GMX --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T12:22:58.150Z] Current version 1.0.0 is not broken
+[2026-10-23T12:22:58.151Z] Timestamp file not found. Probing disk instead.
+WARN: [2026-10-23T12:22:58.162Z] [Telemetry] upload failed: part.split is not a function
+[2026-10-23T12:22:58.493Z] [StartupCleanup] nenhuma outra instalação GMX/Ascendara - nada a limpar
+[2026-10-23T12:22:58.498Z] Settings file not found, creating with default values
+[2026-10-23T12:22:58.499Z] Settings file created successfully at: C:\Users\c2644\AppData\Roaming\ascendara\ascendarasettings.json
+[2026-10-23T12:22:58.609Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\dist\win-unpacked\resources\app.asar\electron\icon.ico
+[2026-10-23T12:22:58.681Z] Loading window from: http://localhost:46859
+[2026-10-23T12:22:58.831Z] System tray created successfully
+[2026-10-23T12:22:58.843Z] Achievement watcher started
+[2026-10-23T12:22:58.848Z] Local server running at http://localhost:46859
+[2026-10-23T12:22:59.028Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T12:22:59.101Z] [WATCHER] About to acquire single-instance lock...
+[2026-10-23T12:22:59.110Z] [WATCHER] Single-instance lock acquired. Starting app...
+[2026-10-23T12:22:59.111Z] [WATCHER] Achievement Watchdog starting ...
+[2026-10-23T12:22:59.119Z] [WATCHER] Watchdog status updated: running=true, timestamp=2026-10-23T09:22:59-03:00
+[2026-10-23T12:22:59.125Z] [WATCHER] monitor.getFolders() returned 3 folders
+[2026-10-23T12:22:59.128Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\c2644\AppData\Roaming\GSE Saves" with options: { recursive: true, filter: /([0-9]+)/, file: [ 'achievements.json' ] }
+Watching files in C:\Users\c2644\AppData\Roaming\GSE Saves: ["achievements.json"] with filter: /([0-9]+)/
+[2026-10-23T12:22:59.145Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\Steam\RUNE" with options: { recursive: true, filter: /.*/, file: [ 'achievements.ini' ] }
+Watching files in C:\Users\Public\Documents\Steam\RUNE: ["achievements.ini"] with filter: /.*/
+[2026-10-23T12:22:59.150Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\OnlineFix" with options: {
+  recursive: true,
+  filter: /([0-9]+)[\\/]Stats/i,
+  file: [ 'achievements.ini', 'Achievements.ini' ]
+}
+Watching files in C:\Users\Public\Documents\OnlineFix: ["achievements.ini","Achievements.ini"] with filter: /([0-9]+)[\\/]Stats/i
+[2026-10-23T12:22:59.152Z] [WATCHER] Started 3 file watchers
+Memory Usage: RSS=34.25MB, Heap=7.59/11.72MB
+[2026-10-23T12:22:59.815Z] Window DOM ready
+[2026-10-23T12:22:59.818Z] ready-to-show event fired
+[2026-10-23T12:22:59.863Z] Window shown event fired
+[2026-10-23T12:22:59.864Z] Window shown via ready-to-show event
+[2026-10-23T12:22:59.873Z] Window finished loading
+[2026-10-23T12:22:59.882Z] Window started loading
+[2026-10-23T12:23:00.845Z] Discord is not running, skipping RPC connection
+[2026-10-23T12:23:00.845Z] Discord RPC connection attempt 1/3 - Discord not running, retrying in 30s
+[2026-10-23T12:23:01.343Z] Discord RPC not connected, skipping activity update
+WARN: [2026-10-23T12:23:02.175Z] [Telemetry] upload failed: part.split is not a function
+[2026-10-23T12:23:07.301Z] Window started loading
+[2026-10-23T12:23:07.333Z] Discord RPC not connected, skipping activity update
+[2026-10-23T12:23:07.735Z] Getting auth token for download...
+[2026-10-23T12:23:07.736Z] [Build Signature] Loaded: 329e4c7ba2361d5d932d7235ce8033cc
+ERROR: [2026-10-23T12:23:08.146Z] Failed to download shared index: {}
+[2026-10-23T12:23:31.135Z] Discord is not running, skipping RPC connection
+[2026-10-23T12:23:31.135Z] Discord RPC connection attempt 2/3 - Discord not running, retrying in 30s
+[2026-10-23T12:23:34.924Z] Window started loading
+[2026-10-23T12:23:34.928Z] Window started loading
+[2026-10-23T12:23:34.946Z] Getting auth token for download...
+[2026-10-23T12:23:34.959Z] Discord RPC not connected, skipping activity update
+ERROR: [2026-10-23T12:23:35.098Z] Failed to download shared index: {}
+[2026-10-23T12:23:35.751Z] [PosterCache] Cached poster for "Schedule I"
+[2026-10-23T12:23:38.571Z] [PosterCache] Cached poster for "Marvel's Spider-Man 2"
+[2026-10-23T12:23:40.387Z] [PosterCache] Cached poster for "MECCHA CHAMELEON"
+[2026-10-23T12:23:42.680Z] [PosterCache] Cached poster for "Palworld"
+[2026-10-23T12:23:44.875Z] [PosterCache] Cached poster for "R.E.P.O"
+[2026-10-23T12:23:46.719Z] [PosterCache] Cached poster for "The Last of Us Part I"
+[2026-10-23T12:23:49.097Z] [PosterCache] Cached poster for "Ghost Of Tsushima DIRECTOR'S CUT"
+[2026-10-23T12:23:49.962Z] Window started loading
+[2026-10-23T12:23:50.018Z] Discord RPC not connected, skipping activity update
+[2026-10-23T12:23:51.252Z] [PosterCache] Cached poster for "Resident Evil 4 Remake"
+[2026-10-23T12:23:53.197Z] [PosterCache] Cached poster for "Ready or Not"
+[2026-10-23T12:23:55.272Z] [PosterCache] Cached poster for "Forza Horizon 6"
+[2026-10-23T12:23:57.150Z] Blocked popup in external window: https://werefilledwit.org/RHlyeEp7GgFFBRFAOikgJzQWS392OyMAfCAhHTAJHA0KGwsBXxMaPnlJVAovIERDXjkpRENObC9EVA53dVdBTGR3QVxPbDcNAUV6YgkAFnd0XxcVKHlJVAwjIERDTH18S0BBbDYBC0V7cE1CJ3N0SVQRJCdESl4%2FeUxKQHh1TEBMendLS0l6dF8THy8nRENPc3ZOR0B4d01UHjl5SFQeIygcTywiIVcxFywiEBxWJSJXMxYuPVcTFi5qNRcBJiEAXys%2BIRgfKgMUVxEXJ2oLEwpsNhwURSIwDQILb3c4V0oMYUs0GjA%2BEQBWPitcQD4iJQwGSX08FRgRcj1fHQs4eQoGHSspCxsIZCcWH14gNw1PSGwhFwBFemIVEQ0reRQdAiMoFRNdeAJMXEhvdklaDyMqHR0POWFLQhY%2BYUtCSXpqSVdLCGFLQg8jKk9GXXkGXEBIMnJNW114dBgCCCYhDhcaIS0NV0oMcUpFVnlyXEBIYi8RBhUmYUsxXXh0FRsTL2FLQh8vJxIdUW92SRMLKSEXFhk4JVxAPntqSVxIb3ZJERA4KxQXXXgCSEZMZHRXRU1%2FfVdAS3xhS0IdJiEaBgolKlxAPn50V0NIZHJcQEg5JR8TCiNhSzRNeXNXQU5sNxwRCCYlDU8vIyodHQ85YgoXGzooGAYOLzZEQ0hkdFdCXjkhGhQOJnlcQEoEKw1aOW93ODAKKyodV0p4YUowDm93PVdKeHxXQlZ6aklXSnhhSzFdeHRcQEoJLAsdFSMxFFdKeGFKMA5vdz1XSnh1TUZWempOR01zaktBTm92S1QLLycUHRwvKERUDDAgRF9LbDEVHRt3NA1fOhhiEBRFemIaBkV%2BYhoGG3d2Xy0uHgkyT0l9fUtFTXJ2SkVJfnxfBww4dURCSHB0SUhIe2IMBgp4eUpHXj8wC0FFemIMBgp%2BeUlUDT42TE9IbDENAE53dF8HDDhzREJePCUVGxx3dQ%3D%3D
+[2026-10-23T12:23:57.185Z] [PosterCache] Cached poster for "Hollow Knight Silksong"
+[2026-10-23T12:23:57.824Z] Intercepted download in external window: https://ts.bzzhr.to/d/haut17xlji8y?v=jkbI3durTx5F_Cmq1MK5JSM7Sa2FInUVviuT-b6MkDk2Sg8UKbwcFWEDOXy7MU_4CChEVIlUJvaa4IFkUaQp6rl-ccXzotC4mnMqBwVUe3AD2baTZdttaGJrectr0QMYZxAvBltsvQy7Dw5ME0F-BrUuHFkupbobPMUS7ulE43IMrqQ7pF4iGo4Of0CZ25Wvr84kzQMvfD-TgaSI_JmBvBS0Jq20B92sad5b3GLirmc
+[2026-10-23T12:23:57.824Z] Forwarded intercepted download URL to main window
+[2026-10-23T12:24:00.306Z] Registered download directory: E:\gmx-games (index 1)
+[2026-10-23T12:24:00.329Z] Downloading file: https://ts.bzzhr.to/d/haut17xlji8y?v=jkbI3durTx5F_Cmq1MK5JSM7Sa2FInUVviuT-b6MkDk2Sg8UKbwcFWEDOXy7MU_4CChEVIlUJvaa4IFkUaQp6rl-ccXzotC4mnMqBwVUe3AD2baTZdttaGJrectr0QMYZxAvBltsvQy7Dw5ME0F-BrUuHFkupbobPMUS7ulE43IMrqQ7pF4iGo4Of0CZ25Wvr84kzQMvfD-TgaSI_JmBvBS0Jq20B92sad5b3GLirmc, game: The Coffin of Andy and Leyley, online: false, dlc: false, isVr: false, updateFlow: false, version: 22651024, size: 640 MB, additionalDirIndex: 1, gameID: AUgwFC, folder: The Coffin of Andy and Leyley
+[2026-10-23T12:24:00.334Z] No local header image found, trying SteamGridDB fallback for: The Coffin of Andy and Leyley
+WARN: [2026-10-23T12:24:00.335Z] SteamGridDB fallback failed for The Coffin of Andy and Leyley: steamgrid.fetchGameHeader is not a function
+[2026-10-23T12:24:00.335Z] [Download] Starting background asset fetch for The Coffin of Andy and Leyley (Name Search)
+[2026-10-23T12:24:00.336Z] [SteamGrid] Searching for: "The Coffin of Andy and Leyley"
+[2026-10-23T12:24:00.340Z] Cached download data for resume: C:\Users\c2644\AppData\Roaming\ascendara\downloadCache\The Coffin of Andy and Leyley.json
+[2026-10-23T12:24:00.340Z] Spawning executable: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\dist\win-unpacked\resources\AscendaraDownloader.exe
+[2026-10-23T12:24:00.404Z] [SteamGrid] Found GameID 5392773
+[2026-10-23T12:24:00.849Z] [SteamGrid] Downloaded grid.ascendara.jpg
+WARN: [2026-10-23T12:24:01.391Z] [PosterCache] Failed for "Dispatch": Request failed with status code 400
+[2026-10-23T12:24:01.430Z] Discord is not running, skipping RPC connection
+[2026-10-23T12:24:01.430Z] Discord RPC connection attempt 3/3 - Discord not running, retrying in 30s
+[2026-10-23T12:24:01.552Z] [SteamGrid] Downloaded hero.ascendara.png
+[2026-10-23T12:24:01.684Z] [SteamGrid] Downloaded logo.ascendara.png
+[2026-10-23T12:24:03.015Z] Window started loading
+[2026-10-23T12:24:03.075Z] Discord RPC not connected, skipping activity update
+WARN: [2026-10-23T12:24:03.106Z] [SteamGrid] URL fetch failed (header) for "Streamer Life Simulator 2": Request failed with status code 429
+[2026-10-23T12:24:03.382Z] Discord RPC not connected, skipping activity update
+WARN: [2026-10-23T12:24:04.342Z] [Telemetry] upload failed: part.split is not a function
+[2026-10-23T12:24:31.432Z] Maximum Discord RPC connection attempts reached. Stopping retries.
+WARN: [2026-10-23T12:24:58.171Z] [Telemetry] upload failed: part.split is not a function
+WARN: [2026-10-23T12:25:03.497Z] [PosterCache] Failed for "The Handler of Dragons": Request failed with status code 400
+[2026-10-23T12:25:06.086Z] [PosterCache] Cached poster for "Minecraft Dungeons II"
+[2026-10-23T12:25:08.165Z] [PosterCache] Cached poster for "Graveyard Keeper 2"
+[2026-10-23T12:25:09.945Z] [PosterCache] Cached poster for "Fields of Mistria"
+[2026-10-23T12:25:12.230Z] [PosterCache] Cached poster for "Scrap Mechanic"
+[2026-10-23T12:25:14.214Z] [PosterCache] Cached poster for "Little Nightmares III"
+[2026-10-23T12:25:16.256Z] [PosterCache] Cached poster for "Le Mans Ultimate"
+[2026-10-23T12:25:18.356Z] [PosterCache] Cached poster for "Dragon Age The Veilguard"
+[2026-10-23T12:25:20.404Z] [PosterCache] Cached poster for "Finding Frankie"
+[2026-10-23T12:25:22.581Z] [PosterCache] Cached poster for "Until Dawn"
+[2026-10-23T12:25:24.638Z] [PosterCache] Cached poster for "Disney Epic Mickey Rebrushed"
+[2026-10-23T12:25:26.784Z] [PosterCache] Cached poster for "Funko Fusion"
+[2026-10-23T12:25:28.845Z] [PosterCache] Cached poster for "Call of Duty Modern Warfare III  [v10.4"
+[2026-10-23T12:25:30.997Z] [PosterCache] Cached poster for "CarX Street"
+[2026-10-23T12:25:33.101Z] [PosterCache] Cached poster for "Mortal Kombat Komplete Edition"
+[2026-10-23T12:25:35.200Z] [PosterCache] Cached poster for "Factorio"
+[2026-10-23T12:25:37.268Z] [PosterCache] Cached poster for "Moo Lander"
+[2026-10-23T12:25:39.184Z] [PosterCache] Cached poster for "Call of Duty Black Ops 6"
+[2026-10-23T12:25:41.492Z] [PosterCache] Cached poster for "DARK SOULS Prepare To Die Edition"
+[2026-10-23T12:25:43.613Z] [PosterCache] Cached poster for "Content Warning"
+[2026-10-23T12:25:45.689Z] [PosterCache] Cached poster for "Liar's Bar"
+[2026-10-23T12:25:47.824Z] [PosterCache] Cached poster for "Split Fiction"
+[2026-10-23T12:25:49.984Z] [PosterCache] Cached poster for "JoJo's Bizarre Adventure All-Star Battle R"
+WARN: [2026-10-23T12:25:54.081Z] [PosterCache] Failed for "Warhammer 40,000 Space Marine 2": Request failed with status code 400
+[2026-10-23T12:25:56.324Z] [PosterCache] Cached poster for "The Amazing Spider-Man"
+[2026-10-23T12:25:58.363Z] [PosterCache] Cached poster for "METAL GEAR SOLID Δ SNAKE EATER"
+[2026-10-23T12:26:00.424Z] [PosterCache] Cached poster for "The Coffin of Andy and Leyley"
+[2026-10-23T12:26:02.602Z] [PosterCache] Cached poster for "Far Cry 6 Ultimate Edition"
+[2026-10-23T12:26:04.730Z] [PosterCache] Cached poster for "7 Days to Die"
+[2026-10-23T12:26:06.779Z] [PosterCache] Cached poster for "BIT.TRIP RERUNNER"
+[2026-10-23T12:26:08.928Z] [PosterCache] Cached poster for "Batman Arkham Origins"
+[2026-10-23T12:26:11.012Z] [PosterCache] Cached poster for "The Elder Scrolls IV Oblivion Remastered"
+WARN: [2026-10-23T12:26:15.170Z] [PosterCache] Failed for "Blade and Sorcery": Request failed with status code 400
+[2026-10-23T12:26:17.335Z] [PosterCache] Cached poster for "Half Sword"
+[2026-10-23T12:26:19.463Z] [PosterCache] Cached poster for "Danganronpa S Ultimate Summer Camp"
+[2026-10-23T12:26:21.570Z] [PosterCache] Cached poster for "PRAGMATA"
+[2026-10-23T12:26:23.653Z] [PosterCache] Cached poster for "High On Life"
+[2026-10-23T12:26:25.814Z] [PosterCache] Cached poster for "The Witcher Enhanced Edition"
+[2026-10-23T12:26:27.908Z] [PosterCache] Cached poster for "ARMORED CORE VI FIRES OF RUBICON"
+[2026-10-23T12:26:30.008Z] [PosterCache] Cached poster for "Dead Space"
+[2026-10-23T12:26:32.332Z] [PosterCache] Cached poster for "The Planet Crafter"
+[2026-10-23T12:26:34.248Z] [PosterCache] Cached poster for "The Walking Dead"
+WARN: [2026-10-23T12:26:38.318Z] [PosterCache] Failed for "Escape from Yandere": Request failed with status code 400
+[2026-10-23T12:26:40.575Z] [PosterCache] Cached poster for "Blasphemous"
+[2026-10-23T12:26:42.751Z] [PosterCache] Cached poster for "Five Nights at Freddy's Secret of the Mimic"
+[2026-10-23T12:26:44.808Z] [PosterCache] Cached poster for "Manhunt 2"
+WARN: [2026-10-23T12:26:48.889Z] [PosterCache] Failed for "DON'T SCREAM": Request failed with status code 400
+[2026-10-23T12:26:51.106Z] [PosterCache] Cached poster for "Manhunt"
+[2026-10-23T12:26:52.987Z] [PosterCache] Cached poster for "Streamer Life Simulator 2"
+[2026-10-23T12:26:55.299Z] [PosterCache] Cached poster for "NBA 2K23"
+[2026-10-23T12:26:57.434Z] [PosterCache] Cached poster for "Manor Lords"
+WARN: [2026-10-23T12:26:58.176Z] [Telemetry] upload failed: part.split is not a function
+[2026-10-23T12:26:59.487Z] [PosterCache] Cached poster for "Date Everything"
+[2026-10-23T12:27:01.701Z] [PosterCache] Cached poster for "Stellaris Ultimate Bundle"
+[2026-10-23T12:27:03.752Z] [PosterCache] Cached poster for "Victoria 3"
+[2026-10-23T12:27:05.824Z] [PosterCache] Cached poster for "Plants vs. Zombies Replanted"
+[2026-10-23T12:27:07.871Z] [PosterCache] Cached poster for "Quarantine Zone The Last Check"
+[2026-10-23T12:27:09.958Z] [PosterCache] Cached poster for "Football Life Simulator"
+[2026-10-23T12:27:12.114Z] [PosterCache] Cached poster for "Assetto Corsa EVO"
+[2026-10-23T12:27:14.236Z] [PosterCache] Cached poster for "Football Manager 2023"
+[2026-10-23T12:27:16.331Z] [PosterCache] Cached poster for "F1 2013"
+[2026-10-23T12:27:25.076Z] Window started loading
+[2026-10-23T12:27:25.145Z] Discord RPC not connected, skipping activity update
+[2026-10-23T12:27:25.151Z] Discord RPC not connected, skipping activity update
+[2026-10-23T12:27:41.416Z] Window started loading
+[2026-10-23T12:27:41.455Z] Discord RPC not connected, skipping activity update
+[2026-10-23T12:27:42.976Z] Window started loading
+[2026-10-23T12:27:43.035Z] Discord RPC not connected, skipping activity update
+[2026-10-23T12:27:59.163Z] [WATCHER] Memory Usage: RSS=31.88MB, Heap=6.62/8.22MB
+[2026-10-23T12:28:02.227Z] Window started loading
+[2026-10-23T12:28:02.289Z] Discord RPC not connected, skipping activity update
+ERROR: [2026-10-23T12:28:05.618Z] Error launching game: {}
+ERROR: [2026-10-23T12:28:31.009Z] Error launching game: {}
+ERROR: [2026-10-23T12:28:56.193Z] Error launching game: {}
+WARN: [2026-10-23T12:28:58.178Z] [Telemetry] upload failed: part.split is not a function
+ERROR: [2026-10-23T12:29:25.363Z] Error launching game: {}
+[2026-10-23T12:29:54.498Z] Window started loading
+[2026-10-23T12:29:55.083Z] Window DOM ready
+[2026-10-23T12:29:55.085Z] Window finished loading
+[2026-10-23T12:29:55.327Z] Discord RPC not connected, skipping activity update
+[2026-10-23T12:30:20.464Z] Window close event fired
+WARN: [2026-10-23T12:30:58.178Z] [Telemetry] upload failed: part.split is not a function
+[2026-10-23T12:31:57.091Z] Creating new window from showWindow function
+[2026-10-23T12:31:57.110Z] Loading window from: http://localhost:46859
+[2026-10-23T12:31:57.118Z] Maximum Discord RPC connection attempts reached. Stopping retries.
+[2026-10-23T12:31:57.845Z] Window shown event fired
+[2026-10-23T12:31:57.905Z] Window hidden event fired
+[2026-10-23T12:31:57.906Z] Window hidden
+[2026-10-23T12:31:58.038Z] Window DOM ready
+[2026-10-23T12:31:58.039Z] ready-to-show event fired
+[2026-10-23T12:31:58.060Z] Window shown event fired
+[2026-10-23T12:31:58.060Z] Window shown via ready-to-show event
+[2026-10-23T12:31:58.062Z] Window finished loading
+[2026-10-23T12:31:58.068Z] Window started loading
+[2026-10-23T12:31:58.337Z] Discord RPC not connected, skipping activity update
+[2026-10-23T12:32:04.312Z] Window started loading
+[2026-10-23T12:32:04.343Z] Discord RPC not connected, skipping activity update
+[2026-10-23T12:32:21.679Z] Window started loading
+[2026-10-23T12:32:21.683Z] Window started loading
+[2026-10-23T12:32:21.699Z] Getting auth token for download...
+[2026-10-23T12:32:21.718Z] Discord RPC not connected, skipping activity update
+ERROR: [2026-10-23T12:32:22.079Z] Failed to download shared index: {}
+[2026-10-23T12:32:22.617Z] Window started loading
+[2026-10-23T12:32:22.618Z] Discord RPC not connected, skipping activity update
+[2026-10-23T12:32:23.920Z] Window started loading
+[2026-10-23T12:32:23.977Z] Discord RPC not connected, skipping activity update
+ERROR: [2026-10-23T12:32:26.273Z] Error launching game: {}
+WARN: [2026-10-23T12:32:58.185Z] [Telemetry] upload failed: part.split is not a function
+[2026-10-23T12:32:59.178Z] [WATCHER] Memory Usage: RSS=31.91MB, Heap=6.69/8.22MB
+[2026-10-23T12:34:23.988Z] Discord RPC not connected, skipping activity update
+WARN: [2026-10-23T12:34:58.192Z] [Telemetry] upload failed: part.split is not a function
+[2026-10-23T12:36:54.923Z] Window hidden event fired
+[2026-10-23T12:36:54.923Z] Window hidden to tray
+WARN: [2026-10-23T12:36:58.191Z] [Telemetry] upload failed: part.split is not a function
+[2026-10-23T12:36:59.874Z] App is quitting...
+[2026-10-23T12:36:59.874Z] Closing local HTTP server...
+WARN: [2026-10-23T12:36:59.904Z] [Telemetry] upload failed: part.split is not a function
+[2026-10-23T12:36:59.906Z] Window close event fired
+[2026-10-23T12:36:59.906Z] Local server closed
+[2026-10-23T12:36:59.961Z] App will quit - final cleanup...
+[2026-10-23T12:41:05.461Z] Removing stale lock file
+ERROR: [2026-10-23T12:41:05.573Z] (node:16088) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T12:41:06.364Z] Current version 1.0.0 is not broken
+WARN: [2026-10-23T12:41:06.380Z] [Telemetry] upload failed: part.split is not a function
+[2026-10-23T12:41:07.483Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-23T12:41:07.671Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-23T12:41:07.813Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-23T12:41:07.914Z] System tray created successfully
+[2026-10-23T12:41:07.941Z] Achievement watcher started
+[2026-10-23T12:41:08.193Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T12:41:08.263Z] [WATCHER] About to acquire single-instance lock...
+[2026-10-23T12:41:08.272Z] [WATCHER] Single-instance lock acquired. Starting app...
+[2026-10-23T12:41:08.275Z] [WATCHER] Achievement Watchdog starting ...
+[2026-10-23T12:41:08.296Z] [WATCHER] Watchdog status updated: running=true, timestamp=2026-10-23T09:41:08-03:00
+[2026-10-23T12:41:08.302Z] [WATCHER] monitor.getFolders() returned 3 folders
+[2026-10-23T12:41:08.308Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\c2644\AppData\Roaming\GSE Saves" with options: { recursive: true, filter: /([0-9]+)/, file: [ 'achievements.json' ] }
+Watching files in C:\Users\c2644\AppData\Roaming\GSE Saves: ["achievements.json"] with filter: /([0-9]+)/
+[2026-10-23T12:41:08.325Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\Steam\RUNE" with options: { recursive: true, filter: /.*/, file: [ 'achievements.ini' ] }
+Watching files in C:\Users\Public\Documents\Steam\RUNE: ["achievements.ini"] with filter: /.*/
+[2026-10-23T12:41:08.328Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\OnlineFix" with options: {
+  recursive: true,
+  filter: /([0-9]+)[\\/]Stats/i,
+  file: [ 'achievements.ini', 'Achievements.ini' ]
+}
+Watching files in C:\Users\Public\Documents\OnlineFix: ["achievements.ini","Achievements.ini"] with filter: /([0-9]+)[\\/]Stats/i
+[2026-10-23T12:41:08.330Z] [WATCHER] Started 3 file watchers
+[2026-10-23T12:41:08.331Z] [WATCHER] Memory Usage: RSS=34.47MB, Heap=7.60/11.72MB
+WARN: [2026-10-23T12:41:10.385Z] [Telemetry] upload failed: part.split is not a function
+[2026-10-23T12:41:10.970Z] Window DOM ready
+[2026-10-23T12:41:10.974Z] ready-to-show event fired
+[2026-10-23T12:41:11.011Z] Window shown event fired
+[2026-10-23T12:41:11.011Z] Window shown via ready-to-show event
+[2026-10-23T12:41:11.025Z] Window finished loading
+[2026-10-23T12:41:11.031Z] Window started loading
+[2026-10-23T12:41:16.307Z] Getting auth token for download...
+[2026-10-23T12:41:16.308Z] [Build Signature] Loaded: 329e4c7ba2361d5d932d7235ce8033cc
+ERROR: [2026-10-23T12:41:16.462Z] Failed to download shared index: {}
+[2026-10-23T12:41:44.946Z] Window started loading
+[2026-10-23T12:41:57.305Z] Removing stale lock file
+ERROR: [2026-10-23T12:41:57.379Z] (node:28216) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T12:41:57.872Z] Current version 1.0.0 is not broken
+WARN: [2026-10-23T12:41:57.885Z] [Telemetry] upload failed: part.split is not a function
+[2026-10-23T12:41:58.900Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-23T12:41:58.952Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-23T12:41:58.971Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-23T12:41:59.003Z] System tray created successfully
+[2026-10-23T12:41:59.017Z] Achievement watcher started
+[2026-10-23T12:41:59.178Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T12:41:59.245Z] [WATCHER] About to acquire single-instance lock...
+[2026-10-23T12:41:59.252Z] [WATCHER] Single-instance lock acquired. Starting app...
+[2026-10-23T12:41:59.253Z] [WATCHER] Achievement Watchdog starting ...
+[2026-10-23T12:41:59.264Z] [WATCHER] Watchdog status updated: running=true, timestamp=2026-10-23T09:41:59-03:00
+[2026-10-23T12:41:59.268Z] [WATCHER] monitor.getFolders() returned 3 folders
+[2026-10-23T12:41:59.272Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\c2644\AppData\Roaming\GSE Saves" with options: { recursive: true, filter: /([0-9]+)/, file: [ 'achievements.json' ] }
+Watching files in C:\Users\c2644\AppData\Roaming\GSE Saves: ["achievements.json"] with filter: /([0-9]+)/
+[2026-10-23T12:41:59.288Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\Steam\RUNE" with options: { recursive: true, filter: /.*/, file: [ 'achievements.ini' ] }
+[2026-10-23T12:41:59.288Z] [WATCHER] Watching files in C:\Users\Public\Documents\Steam\RUNE: ["achievements.ini"] with filter: /.*/
+[2026-10-23T12:41:59.291Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\OnlineFix" with options: {
+  recursive: true,
+  filter: /([0-9]+)[\\/]Stats/i,
+  file: [ 'achievements.ini', 'Achievements.ini' ]
+}
+Watching files in C:\Users\Public\Documents\OnlineFix: ["achievements.ini","Achievements.ini"] with filter: /([0-9]+)[\\/]Stats/i
+[2026-10-23T12:41:59.293Z] [WATCHER] Started 3 file watchers
+[2026-10-23T12:41:59.294Z] [WATCHER] Memory Usage: RSS=34.49MB, Heap=7.57/11.72MB
+[2026-10-23T12:42:01.358Z] Window DOM ready
+[2026-10-23T12:42:01.359Z] ready-to-show event fired
+[2026-10-23T12:42:01.390Z] Window shown event fired
+[2026-10-23T12:42:01.390Z] Window shown via ready-to-show event
+[2026-10-23T12:42:01.396Z] Window finished loading
+[2026-10-23T12:42:01.411Z] Window started loading
+WARN: [2026-10-23T12:42:01.884Z] [Telemetry] upload failed: part.split is not a function
+[2026-10-23T12:42:06.909Z] Getting auth token for download...
+[2026-10-23T12:42:06.910Z] [Build Signature] Loaded: 329e4c7ba2361d5d932d7235ce8033cc
+ERROR: [2026-10-23T12:42:07.066Z] Failed to download shared index: {}
+[2026-10-23T12:42:09.759Z] Window started loading
+[2026-10-23T12:42:10.485Z] Window started loading
+[2026-10-23T12:42:11.313Z] Window started loading
+[2026-10-23T12:42:13.449Z] Window started loading
+[2026-10-23T12:42:16.124Z] [Games] Packaged handler .exe not found - using Python handler from binaries/
+[2026-10-23T12:42:16.570Z] Game handler output: [DEBUG] Script started.
+[DEBUG] Arguments received: ['E:\\gmx-games\\The Coffin of Andy and Leyley\\The Coffin of Andy and Leyley\\The Coffin of Andy and Leyley.exe', 'false', 'false']
+[DEBUG] Logging to: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\binaries\AscendaraGameHandler\src\gamehandler.log
+[DEBUG] Logging configured.
+2026-10-23 09:42:16,569 INFO === Ascendara Game Handler Started ===
+
+[2026-10-23T12:42:16.570Z] Game handler output: 2026-10-23 09:42:16,569 INFO Arguments received: ['E:\\gmx-games\\The Coffin of Andy and Leyley\\The Coffin of Andy and Leyley\\The Coffin of Andy and Leyley.exe', 'false', 'false']
+2026-10-23 09:42:16,569 INFO Initializing with: game_path=E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.exe, is_custom_game=False, is_shortcut=False, use_ludusavi=False, admin=False, launch_trainer=False, game_launch_cmd=None
+[DEBUG] Initializing with: game_path=E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.exe, is_custom_game=False, is_shortcut=False, use_ludusavi=False, admin=False, launch_trainer=False, game_launch_cmd=None
+2026-10-23 09:42:16,570 INFO [ENTRY] execute(game_path=E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.exe, is_custom_game=False, admin=False, is_shortcut=False, use_ludusavi=False, game_launch_cmd=None, launch_trainer=False)
+
+[2026-10-23T12:42:16.571Z] Game handler output: 2026-10-23 09:42:16,571 INFO Resolved game_dir: E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley, exe_path: E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.exe
+
+[2026-10-23T12:42:16.614Z] Game handler output: 2026-10-23 09:42:16,614 INFO Incremented launch count and set isRunning for E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.ascendara.json
+
+[2026-10-23T12:42:16.670Z] Game handler output: 2026-10-23 09:42:16,670 INFO Updated runningGames in C:\Users\c2644\AppData\Roaming\ascendara\ascendarasettings.json for The Coffin of Andy and Leyley
+
+[2026-10-23T12:42:16.744Z] Game handler output: 2026-10-23 09:42:16,743 INFO Launching executable directly: E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.exe
+
+[2026-10-23T12:42:16.758Z] Game handler output: 2026-10-23 09:42:16,757 INFO Entering game process monitoring loop (180s intervals)
+
+[2026-10-23T12:42:17.157Z] [Games] The Coffin of Andy and Leyley running as PID 30008
+[2026-10-23T12:42:18.863Z] [WATCHER] File event: update on file: C:\Users\c2644\AppData\Roaming\GSE Saves\settings\configs.user.ini
+[2026-10-23T12:42:19.375Z] [WATCHER] File last modified: 1789086703124.8098, current time: 1792759339373, difference: 3672636248.1901855ms
+Skipping event: file modified more than 1s ago.
+[2026-10-23T12:42:24.822Z] Game handler output: 2026-10-23 09:42:24,822 INFO Launched process for The Coffin of Andy and Leyley exited (code=0); checking for related processes still running under E:\gmx-games\The Coffin of Andy and Leyley
+
+[2026-10-23T12:42:25.274Z] Game The Coffin of Andy and Leyley exited with code null
+[2026-10-23T12:42:27.714Z] Window started loading
+[2026-10-23T12:42:43.871Z] Window started loading
+[2026-10-23T12:42:44.459Z] Window DOM ready
+[2026-10-23T12:42:44.466Z] Window finished loading
+[2026-10-23T12:42:47.176Z] [Sessions] The Coffin of Andy and Leyley: 1min recorded
+WARN: [2026-10-23T12:43:57.899Z] [Telemetry] upload failed: part.split is not a function
+[2026-10-23T12:45:32.786Z] Removing stale lock file
+ERROR: [2026-10-23T12:45:32.863Z] (node:13672) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T12:45:33.100Z] Current version 1.0.0 is not broken
+[2026-10-23T12:45:34.223Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-23T12:45:34.287Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-23T12:45:34.310Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-23T12:45:34.401Z] System tray created successfully
+[2026-10-23T12:45:34.415Z] Achievement watcher started
+[2026-10-23T12:45:34.589Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T12:45:34.659Z] [WATCHER] About to acquire single-instance lock...
+[2026-10-23T12:45:34.666Z] [WATCHER] Single-instance lock acquired. Starting app...
+[2026-10-23T12:45:34.667Z] [WATCHER] Achievement Watchdog starting ...
+[2026-10-23T12:45:34.679Z] [WATCHER] Watchdog status updated: running=true, timestamp=2026-10-23T09:45:34-03:00
+[2026-10-23T12:45:34.682Z] [WATCHER] monitor.getFolders() returned 3 folders
+[2026-10-23T12:45:34.687Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\c2644\AppData\Roaming\GSE Saves" with options: { recursive: true, filter: /([0-9]+)/, file: [ 'achievements.json' ] }
+Watching files in C:\Users\c2644\AppData\Roaming\GSE Saves: ["achievements.json"] with filter: /([0-9]+)/
+[2026-10-23T12:45:34.703Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\Steam\RUNE" with options: { recursive: true, filter: /.*/, file: [ 'achievements.ini' ] }
+Watching files in C:\Users\Public\Documents\Steam\RUNE: ["achievements.ini"] with filter: /.*/
+[2026-10-23T12:45:34.707Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\OnlineFix" with options: {
+  recursive: true,
+  filter: /([0-9]+)[\\/]Stats/i,
+  file: [ 'achievements.ini', 'Achievements.ini' ]
+}
+Watching files in C:\Users\Public\Documents\OnlineFix: ["achievements.ini","Achievements.ini"] with filter: /([0-9]+)[\\/]Stats/i
+[2026-10-23T12:45:34.709Z] [WATCHER] Started 3 file watchers
+Memory Usage: RSS=34.18MB, Heap=7.81/11.72MB
+[2026-10-23T12:45:37.123Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T12:45:37.144Z] Window DOM ready
+[2026-10-23T12:45:37.147Z] ready-to-show event fired
+[2026-10-23T12:45:37.207Z] Window shown event fired
+[2026-10-23T12:45:37.207Z] Window shown via ready-to-show event
+[2026-10-23T12:45:37.223Z] Window finished loading
+[2026-10-23T12:45:37.228Z] Window started loading
+[2026-10-23T12:45:43.386Z] Window started loading
+[2026-10-23T12:46:22.105Z] Removing stale lock file
+ERROR: [2026-10-23T12:46:22.178Z] (node:22160) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T12:46:22.671Z] Current version 1.0.0 is not broken
+[2026-10-23T12:46:23.722Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-23T12:46:23.778Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-23T12:46:23.795Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-23T12:46:23.826Z] System tray created successfully
+[2026-10-23T12:46:23.840Z] Achievement watcher started
+[2026-10-23T12:46:24.000Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T12:46:24.066Z] [WATCHER] About to acquire single-instance lock...
+[2026-10-23T12:46:24.073Z] [WATCHER] Single-instance lock acquired. Starting app...
+[2026-10-23T12:46:24.075Z] [WATCHER] Achievement Watchdog starting ...
+[2026-10-23T12:46:24.085Z] [WATCHER] Watchdog status updated: running=true, timestamp=2026-10-23T09:46:24-03:00
+[2026-10-23T12:46:24.089Z] [WATCHER] monitor.getFolders() returned 3 folders
+[2026-10-23T12:46:24.093Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\c2644\AppData\Roaming\GSE Saves" with options: { recursive: true, filter: /([0-9]+)/, file: [ 'achievements.json' ] }
+Watching files in C:\Users\c2644\AppData\Roaming\GSE Saves: ["achievements.json"] with filter: /([0-9]+)/
+[2026-10-23T12:46:24.109Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\Steam\RUNE" with options: { recursive: true, filter: /.*/, file: [ 'achievements.ini' ] }
+Watching files in C:\Users\Public\Documents\Steam\RUNE: ["achievements.ini"] with filter: /.*/
+[2026-10-23T12:46:24.112Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\OnlineFix" with options: {
+  recursive: true,
+  filter: /([0-9]+)[\\/]Stats/i,
+  file: [ 'achievements.ini', 'Achievements.ini' ]
+}
+Watching files in C:\Users\Public\Documents\OnlineFix: ["achievements.ini","Achievements.ini"] with filter: /([0-9]+)[\\/]Stats/i
+[2026-10-23T12:46:24.114Z] [WATCHER] Started 3 file watchers
+[2026-10-23T12:46:24.115Z] [WATCHER] Memory Usage: RSS=34.19MB, Heap=7.68/11.72MB
+[2026-10-23T12:46:26.222Z] Window DOM ready
+[2026-10-23T12:46:26.224Z] ready-to-show event fired
+[2026-10-23T12:46:26.271Z] Window shown event fired
+[2026-10-23T12:46:26.271Z] Window shown via ready-to-show event
+[2026-10-23T12:46:26.284Z] Window finished loading
+[2026-10-23T12:46:26.292Z] Window started loading
+[2026-10-23T12:46:26.428Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T12:46:29.272Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T12:46:32.426Z] Window started loading
+[2026-10-23T12:48:49.671Z] Removing stale lock file
+ERROR: [2026-10-23T12:48:49.749Z] (node:20804) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T12:48:49.978Z] Current version 1.0.0 is not broken
+[2026-10-23T12:48:51.093Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-23T12:48:51.151Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-23T12:48:51.169Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-23T12:48:51.259Z] System tray created successfully
+[2026-10-23T12:48:51.275Z] Achievement watcher started
+[2026-10-23T12:48:51.446Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T12:48:51.515Z] [WATCHER] About to acquire single-instance lock...
+[2026-10-23T12:48:51.523Z] [WATCHER] Single-instance lock acquired. Starting app...
+[2026-10-23T12:48:51.524Z] [WATCHER] Achievement Watchdog starting ...
+[2026-10-23T12:48:51.534Z] [WATCHER] Watchdog status updated: running=true, timestamp=2026-10-23T09:48:51-03:00
+[2026-10-23T12:48:51.541Z] [WATCHER] monitor.getFolders() returned 3 folders
+[2026-10-23T12:48:51.546Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\c2644\AppData\Roaming\GSE Saves" with options: { recursive: true, filter: /([0-9]+)/, file: [ 'achievements.json' ] }
+Watching files in C:\Users\c2644\AppData\Roaming\GSE Saves: ["achievements.json"] with filter: /([0-9]+)/
+[2026-10-23T12:48:51.563Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\Steam\RUNE" with options: { recursive: true, filter: /.*/, file: [ 'achievements.ini' ] }
+[2026-10-23T12:48:51.564Z] [WATCHER] Watching files in C:\Users\Public\Documents\Steam\RUNE: ["achievements.ini"] with filter: /.*/
+[2026-10-23T12:48:51.567Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\OnlineFix" with options: {
+  recursive: true,
+  filter: /([0-9]+)[\\/]Stats/i,
+  file: [ 'achievements.ini', 'Achievements.ini' ]
+}
+Watching files in C:\Users\Public\Documents\OnlineFix: ["achievements.ini","Achievements.ini"] with filter: /([0-9]+)[\\/]Stats/i
+[2026-10-23T12:48:51.569Z] [WATCHER] Started 3 file watchers
+[2026-10-23T12:48:51.570Z] [WATCHER] Memory Usage: RSS=34.33MB, Heap=7.59/11.72MB
+[2026-10-23T12:48:54.025Z] Window DOM ready
+[2026-10-23T12:48:54.026Z] ready-to-show event fired
+[2026-10-23T12:48:54.079Z] Window shown event fired
+[2026-10-23T12:48:54.079Z] Window shown via ready-to-show event
+[2026-10-23T12:48:54.095Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T12:48:54.114Z] Window finished loading
+[2026-10-23T12:48:54.125Z] Window started loading
+[2026-10-23T12:49:00.313Z] Window started loading
+[2026-10-23T12:50:04.654Z] Removing stale lock file
+ERROR: [2026-10-23T12:50:04.730Z] (node:22932) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T12:50:05.198Z] Current version 1.0.0 is not broken
+[2026-10-23T12:50:06.226Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-23T12:50:06.279Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-23T12:50:06.295Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-23T12:50:06.382Z] System tray created successfully
+[2026-10-23T12:50:06.395Z] Achievement watcher started
+[2026-10-23T12:50:06.554Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T12:50:06.620Z] [WATCHER] About to acquire single-instance lock...
+[2026-10-23T12:50:06.627Z] [WATCHER] Single-instance lock acquired. Starting app...
+[2026-10-23T12:50:06.628Z] [WATCHER] Achievement Watchdog starting ...
+[2026-10-23T12:50:06.637Z] [WATCHER] Watchdog status updated: running=true, timestamp=2026-10-23T09:50:06-03:00
+[2026-10-23T12:50:06.640Z] [WATCHER] monitor.getFolders() returned 3 folders
+[2026-10-23T12:50:06.644Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\c2644\AppData\Roaming\GSE Saves" with options: { recursive: true, filter: /([0-9]+)/, file: [ 'achievements.json' ] }
+Watching files in C:\Users\c2644\AppData\Roaming\GSE Saves: ["achievements.json"] with filter: /([0-9]+)/
+[2026-10-23T12:50:06.660Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\Steam\RUNE" with options: { recursive: true, filter: /.*/, file: [ 'achievements.ini' ] }
+Watching files in C:\Users\Public\Documents\Steam\RUNE: ["achievements.ini"] with filter: /.*/
+[2026-10-23T12:50:06.663Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\OnlineFix" with options: {
+  recursive: true,
+  filter: /([0-9]+)[\\/]Stats/i,
+  file: [ 'achievements.ini', 'Achievements.ini' ]
+}
+Watching files in C:\Users\Public\Documents\OnlineFix: ["achievements.ini","Achievements.ini"] with filter: /([0-9]+)[\\/]Stats/i
+[2026-10-23T12:50:06.665Z] [WATCHER] Started 3 file watchers
+[2026-10-23T12:50:06.665Z] [WATCHER] Memory Usage: RSS=34.27MB, Heap=7.61/11.72MB
+[2026-10-23T12:50:08.952Z] Window DOM ready
+[2026-10-23T12:50:08.953Z] ready-to-show event fired
+[2026-10-23T12:50:08.992Z] Window shown event fired
+[2026-10-23T12:50:08.992Z] Window shown via ready-to-show event
+[2026-10-23T12:50:08.999Z] Window finished loading
+[2026-10-23T12:50:09.004Z] Window started loading
+[2026-10-23T12:50:09.163Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T12:50:11.553Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T12:50:15.273Z] Window started loading
+[2026-10-23T12:50:39.315Z] Removing stale lock file
+ERROR: [2026-10-23T12:50:39.388Z] (node:13232) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T12:50:39.867Z] Current version 1.0.0 is not broken
+[2026-10-23T12:50:40.934Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-23T12:50:40.985Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-23T12:50:41.001Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-23T12:50:41.027Z] System tray created successfully
+[2026-10-23T12:50:41.040Z] Achievement watcher started
+[2026-10-23T12:50:41.200Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T12:50:41.264Z] [WATCHER] About to acquire single-instance lock...
+[2026-10-23T12:50:41.271Z] [WATCHER] Single-instance lock acquired. Starting app...
+[2026-10-23T12:50:41.272Z] [WATCHER] Achievement Watchdog starting ...
+[2026-10-23T12:50:41.280Z] [WATCHER] Watchdog status updated: running=true, timestamp=2026-10-23T09:50:41-03:00
+[2026-10-23T12:50:41.284Z] [WATCHER] monitor.getFolders() returned 3 folders
+[2026-10-23T12:50:41.288Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\c2644\AppData\Roaming\GSE Saves" with options: { recursive: true, filter: /([0-9]+)/, file: [ 'achievements.json' ] }
+Watching files in C:\Users\c2644\AppData\Roaming\GSE Saves: ["achievements.json"] with filter: /([0-9]+)/
+[2026-10-23T12:50:41.307Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\Steam\RUNE" with options: { recursive: true, filter: /.*/, file: [ 'achievements.ini' ] }
+Watching files in C:\Users\Public\Documents\Steam\RUNE: ["achievements.ini"] with filter: /.*/
+[2026-10-23T12:50:41.311Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\OnlineFix" with options: {
+  recursive: true,
+  filter: /([0-9]+)[\\/]Stats/i,
+  file: [ 'achievements.ini', 'Achievements.ini' ]
+}
+Watching files in C:\Users\Public\Documents\OnlineFix: ["achievements.ini","Achievements.ini"] with filter: /([0-9]+)[\\/]Stats/i
+[2026-10-23T12:50:41.313Z] [WATCHER] Started 3 file watchers
+Memory Usage: RSS=34.41MB, Heap=7.63/11.72MB
+[2026-10-23T12:50:43.457Z] Window DOM ready
+[2026-10-23T12:50:43.459Z] ready-to-show event fired
+[2026-10-23T12:50:43.488Z] Window shown event fired
+[2026-10-23T12:50:43.488Z] Window shown via ready-to-show event
+[2026-10-23T12:50:43.498Z] Window finished loading
+[2026-10-23T12:50:43.507Z] Window started loading
+[2026-10-23T12:50:43.638Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T12:50:46.529Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T12:50:49.708Z] Window started loading
+[2026-10-23T12:52:46.429Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T12:54:47.373Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T12:56:02.029Z] Removing stale lock file
+ERROR: [2026-10-23T12:56:02.103Z] (node:16740) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T12:56:02.572Z] Current version 1.0.0 is not broken
+[2026-10-23T12:56:03.601Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-23T12:56:03.653Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-23T12:56:03.669Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-23T12:56:03.759Z] System tray created successfully
+[2026-10-23T12:56:03.773Z] Achievement watcher started
+[2026-10-23T12:56:03.937Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T12:56:04.005Z] [WATCHER] About to acquire single-instance lock...
+[2026-10-23T12:56:04.012Z] [WATCHER] Single-instance lock acquired. Starting app...
+[2026-10-23T12:56:04.014Z] [WATCHER] Achievement Watchdog starting ...
+[2026-10-23T12:56:04.023Z] [WATCHER] Watchdog status updated: running=true, timestamp=2026-10-23T09:56:04-03:00
+[2026-10-23T12:56:04.027Z] [WATCHER] monitor.getFolders() returned 3 folders
+[2026-10-23T12:56:04.030Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\c2644\AppData\Roaming\GSE Saves" with options: { recursive: true, filter: /([0-9]+)/, file: [ 'achievements.json' ] }
+Watching files in C:\Users\c2644\AppData\Roaming\GSE Saves: ["achievements.json"] with filter: /([0-9]+)/
+[2026-10-23T12:56:04.047Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\Steam\RUNE" with options: { recursive: true, filter: /.*/, file: [ 'achievements.ini' ] }
+[2026-10-23T12:56:04.047Z] [WATCHER] Watching files in C:\Users\Public\Documents\Steam\RUNE: ["achievements.ini"] with filter: /.*/
+[2026-10-23T12:56:04.050Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\OnlineFix" with options: {
+  recursive: true,
+  filter: /([0-9]+)[\\/]Stats/i,
+  file: [ 'achievements.ini', 'Achievements.ini' ]
+}
+Watching files in C:\Users\Public\Documents\OnlineFix: ["achievements.ini","Achievements.ini"] with filter: /([0-9]+)[\\/]Stats/i
+[2026-10-23T12:56:04.053Z] [WATCHER] Started 3 file watchers
+Memory Usage: RSS=34.32MB, Heap=7.57/11.72MB
+[2026-10-23T12:56:06.277Z] Window DOM ready
+[2026-10-23T12:56:06.279Z] ready-to-show event fired
+[2026-10-23T12:56:06.312Z] Window shown event fired
+[2026-10-23T12:56:06.313Z] Window shown via ready-to-show event
+[2026-10-23T12:56:06.320Z] Window finished loading
+[2026-10-23T12:56:06.328Z] Window started loading
+[2026-10-23T12:56:06.533Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T12:56:09.498Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T12:56:12.473Z] Window started loading
+[2026-10-23T12:57:38.570Z] Removing stale lock file
+ERROR: [2026-10-23T12:57:38.644Z] (node:29144) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T12:57:39.115Z] Current version 1.0.0 is not broken
+[2026-10-23T12:57:40.246Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-23T12:57:40.303Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-23T12:57:40.322Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-23T12:57:40.429Z] System tray created successfully
+[2026-10-23T12:57:40.443Z] Achievement watcher started
+[2026-10-23T12:57:40.621Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T12:57:40.691Z] [WATCHER] About to acquire single-instance lock...
+[2026-10-23T12:57:40.701Z] [WATCHER] Single-instance lock acquired. Starting app...
+[2026-10-23T12:57:40.703Z] [WATCHER] Achievement Watchdog starting ...
+[2026-10-23T12:57:40.713Z] [WATCHER] Watchdog status updated: running=true, timestamp=2026-10-23T09:57:40-03:00
+[2026-10-23T12:57:40.718Z] [WATCHER] monitor.getFolders() returned 3 folders
+[2026-10-23T12:57:40.722Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\c2644\AppData\Roaming\GSE Saves" with options: { recursive: true, filter: /([0-9]+)/, file: [ 'achievements.json' ] }
+[2026-10-23T12:57:40.723Z] [WATCHER] Watching files in C:\Users\c2644\AppData\Roaming\GSE Saves: ["achievements.json"] with filter: /([0-9]+)/
+[2026-10-23T12:57:40.742Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\Steam\RUNE" with options: { recursive: true, filter: /.*/, file: [ 'achievements.ini' ] }
+Watching files in C:\Users\Public\Documents\Steam\RUNE: ["achievements.ini"] with filter: /.*/
+[2026-10-23T12:57:40.747Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\OnlineFix" with options: {
+  recursive: true,
+  filter: /([0-9]+)[\\/]Stats/i,
+  file: [ 'achievements.ini', 'Achievements.ini' ]
+}
+Watching files in C:\Users\Public\Documents\OnlineFix: ["achievements.ini","Achievements.ini"] with filter: /([0-9]+)[\\/]Stats/i
+[2026-10-23T12:57:40.750Z] [WATCHER] Started 3 file watchers
+Memory Usage: RSS=34.38MB, Heap=7.79/11.72MB
+[2026-10-23T12:57:43.168Z] Window DOM ready
+[2026-10-23T12:57:43.172Z] ready-to-show event fired
+[2026-10-23T12:57:43.212Z] Window shown event fired
+[2026-10-23T12:57:43.213Z] Window shown via ready-to-show event
+[2026-10-23T12:57:43.222Z] Window finished loading
+[2026-10-23T12:57:43.229Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T12:57:43.353Z] Window started loading
+[2026-10-23T12:57:49.579Z] Window started loading
+[2026-10-23T12:58:40.409Z] Removing stale lock file
+ERROR: [2026-10-23T12:58:40.483Z] (node:15872) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T12:58:40.979Z] Current version 1.0.0 is not broken
+[2026-10-23T12:58:42.010Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-23T12:58:42.062Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-23T12:58:42.077Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-23T12:58:42.164Z] System tray created successfully
+[2026-10-23T12:58:42.177Z] Achievement watcher started
+[2026-10-23T12:58:42.330Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T12:58:42.396Z] [WATCHER] About to acquire single-instance lock...
+[2026-10-23T12:58:42.403Z] [WATCHER] Single-instance lock acquired. Starting app...
+[2026-10-23T12:58:42.404Z] [WATCHER] Achievement Watchdog starting ...
+[2026-10-23T12:58:42.415Z] [WATCHER] Watchdog status updated: running=true, timestamp=2026-10-23T09:58:42-03:00
+[2026-10-23T12:58:42.420Z] [WATCHER] monitor.getFolders() returned 3 folders
+[2026-10-23T12:58:42.424Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\c2644\AppData\Roaming\GSE Saves" with options: { recursive: true, filter: /([0-9]+)/, file: [ 'achievements.json' ] }
+Watching files in C:\Users\c2644\AppData\Roaming\GSE Saves: ["achievements.json"] with filter: /([0-9]+)/
+[2026-10-23T12:58:42.440Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\Steam\RUNE" with options: { recursive: true, filter: /.*/, file: [ 'achievements.ini' ] }
+Watching files in C:\Users\Public\Documents\Steam\RUNE: ["achievements.ini"] with filter: /.*/
+[2026-10-23T12:58:42.444Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\OnlineFix" with options: {
+  recursive: true,
+  filter: /([0-9]+)[\\/]Stats/i,
+  file: [ 'achievements.ini', 'Achievements.ini' ]
+}
+Watching files in C:\Users\Public\Documents\OnlineFix: ["achievements.ini","Achievements.ini"] with filter: /([0-9]+)[\\/]Stats/i
+[2026-10-23T12:58:42.446Z] [WATCHER] Started 3 file watchers
+Memory Usage: RSS=34.41MB, Heap=7.61/11.72MB
+[2026-10-23T12:58:44.592Z] Window DOM ready
+[2026-10-23T12:58:44.595Z] ready-to-show event fired
+[2026-10-23T12:58:44.638Z] Window shown event fired
+[2026-10-23T12:58:44.638Z] Window shown via ready-to-show event
+[2026-10-23T12:58:44.659Z] Window finished loading
+[2026-10-23T12:58:44.667Z] Window started loading
+[2026-10-23T12:58:44.992Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T12:58:50.878Z] Window started loading
+[2026-10-23T12:59:26.239Z] Removing stale lock file
+ERROR: [2026-10-23T12:59:26.314Z] (node:5804) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T12:59:26.531Z] Current version 1.0.0 is not broken
+[2026-10-23T12:59:27.550Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-23T12:59:27.604Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-23T12:59:27.621Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-23T12:59:27.656Z] System tray created successfully
+[2026-10-23T12:59:27.670Z] Achievement watcher started
+[2026-10-23T12:59:27.830Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T12:59:27.896Z] [WATCHER] About to acquire single-instance lock...
+[2026-10-23T12:59:27.904Z] [WATCHER] Single-instance lock acquired. Starting app...
+[2026-10-23T12:59:27.904Z] [WATCHER] Achievement Watchdog starting ...
+[2026-10-23T12:59:27.915Z] [WATCHER] Watchdog status updated: running=true, timestamp=2026-10-23T09:59:27-03:00
+[2026-10-23T12:59:27.921Z] [WATCHER] monitor.getFolders() returned 3 folders
+[2026-10-23T12:59:27.924Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\c2644\AppData\Roaming\GSE Saves" with options: { recursive: true, filter: /([0-9]+)/, file: [ 'achievements.json' ] }
+Watching files in C:\Users\c2644\AppData\Roaming\GSE Saves: ["achievements.json"] with filter: /([0-9]+)/
+[2026-10-23T12:59:27.940Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\Steam\RUNE" with options: { recursive: true, filter: /.*/, file: [ 'achievements.ini' ] }
+Watching files in C:\Users\Public\Documents\Steam\RUNE: ["achievements.ini"] with filter: /.*/
+[2026-10-23T12:59:27.944Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\OnlineFix" with options: {
+  recursive: true,
+  filter: /([0-9]+)[\\/]Stats/i,
+  file: [ 'achievements.ini', 'Achievements.ini' ]
+}
+Watching files in C:\Users\Public\Documents\OnlineFix: ["achievements.ini","Achievements.ini"] with filter: /([0-9]+)[\\/]Stats/i
+[2026-10-23T12:59:27.946Z] [WATCHER] Started 3 file watchers
+[2026-10-23T12:59:27.947Z] [WATCHER] Memory Usage: RSS=34.24MB, Heap=7.60/11.72MB
+[2026-10-23T12:59:30.072Z] Window DOM ready
+[2026-10-23T12:59:30.074Z] ready-to-show event fired
+[2026-10-23T12:59:30.129Z] Window shown event fired
+[2026-10-23T12:59:30.130Z] Window shown via ready-to-show event
+[2026-10-23T12:59:30.137Z] Window finished loading
+[2026-10-23T12:59:30.143Z] Window started loading
+[2026-10-23T12:59:30.525Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T12:59:33.499Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T12:59:36.405Z] Window started loading
+[2026-10-23T13:01:49.794Z] Removing stale lock file
+ERROR: [2026-10-23T13:01:49.868Z] (node:22112) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T13:01:50.343Z] Current version 1.0.0 is not broken
