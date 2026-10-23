@@ -1,0 +1,64 @@
+{"ts":"2026-10-23T16:06:03.468Z","sid":"6m0ca2","event":"app-start","version":"1.0.0","isDev":false,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T16:06:11.687Z","sid":"6m0ca2","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T16:06:34.124Z","sid":"6m0ca2","event":"click","route":"/","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-23T16:06:38.355Z","sid":"6m0ca2","event":"click","route":"/downloads","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-23T16:06:41.219Z","sid":"6m0ca2","event":"click","route":"/settings","tag":"div","label":"InícioInícioProcurarProcurarBibliotecaBibliotecaDownloadsDownloadsPreferênciasPreferências"}
+{"ts":"2026-10-23T16:06:41.667Z","sid":"6m0ca2","event":"click","route":"/settings","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-23T16:06:47.492Z","sid":"6m0ca2","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T16:06:50.924Z","sid":"6m0ca2","event":"click","route":"/download","tag":"path","label":""}
+{"ts":"2026-10-23T16:06:55.379Z","sid":"6m0ca2","event":"click","route":"/download","tag":"button","label":"Vá para a biblioteca"}
+{"ts":"2026-10-23T16:06:57.323Z","sid":"6m0ca2","event":"click","route":"/","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-23T16:06:59.268Z","sid":"6m0ca2","event":"click","route":"/gamescreen","tag":"button","label":"Jogar"}
+{"ts":"2026-10-23T16:07:09.707Z","sid":"6m0ca2","event":"click","route":"/gamescreen","tag":"button","label":"Mods"}
+{"ts":"2026-10-23T16:07:14.603Z","sid":"6m0ca2","event":"click","route":"/gamescreen","tag":"button","label":"Mods"}
+{"ts":"2026-10-23T16:07:16.299Z","sid":"6m0ca2","event":"click","route":"/gamescreen","tag":"img","label":""}
+{"ts":"2026-10-23T16:07:19.932Z","sid":"6m0ca2","event":"click","route":"/gamescreen","tag":"button","label":"Arquivos arquivados"}
+{"ts":"2026-10-23T16:07:20.579Z","sid":"6m0ca2","event":"click","route":"/gamescreen","tag":"button","label":"Arquivos arquivados"}
+{"ts":"2026-10-23T16:08:52.754Z","sid":"6m0ca2","event":"click","route":"/gamescreen","tag":"div","label":""}
+{"ts":"2026-10-23T16:08:54.956Z","sid":"6m0ca2","event":"click","route":"/gamescreen","tag":"h2","label":"The Dubbing Of Andy And Leyley"}
+{"ts":"2026-10-23T16:08:55.326Z","sid":"6m0ca2","event":"click","route":"/gamescreen","tag":"div","label":""}
+{"ts":"2026-10-23T16:08:57.450Z","sid":"6m0ca2","event":"click","route":"/gamescreen","tag":"button","label":"Fechar"}
+{"ts":"2026-10-23T16:09:03.579Z","sid":"6m0ca2","event":"click","route":"/gamescreen","tag":"button","label":"Parar"}
+{"ts":"2026-10-23T16:09:10.176Z","sid":"6m0ca2","event":"click","route":"/gamescreen","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-23T16:09:10.973Z","sid":"6m0ca2","event":"click","route":"/downloads","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-23T16:09:12.477Z","sid":"6m0ca2","event":"click","route":"/settings","tag":"a","label":"ProcurarProcurar"}
+{"ts":"2026-10-23T16:09:13.540Z","sid":"6m0ca2","event":"click","route":"/search","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-23T16:09:21.251Z","sid":"6m0ca2","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T16:09:23.164Z","sid":"6m0ca2","event":"click","route":"/library","tag":"a","label":"ProcurarProcurar"}
+{"ts":"2026-10-23T16:09:25.228Z","sid":"6m0ca2","event":"click","route":"/search","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-23T16:09:28.043Z","sid":"6m0ca2","event":"click","route":"/settings","tag":"div","label":"Jogos e índiceGeral e aparênciaBig PictureDownloadsBackup e salvamentosCompatibilidadeFerramentasIdiomaSistemaTutoriaisC"}
+{"ts":"2026-10-23T16:09:28.435Z","sid":"6m0ca2","event":"click","route":"/settings","tag":"button","label":"Backup e salvamentos"}
+{"ts":"2026-10-23T16:09:29.076Z","sid":"6m0ca2","event":"click","route":"/settings","tag":"button","label":"Compatibilidade"}
+{"ts":"2026-10-23T16:09:31.620Z","sid":"6m0ca2","event":"click","route":"/settings","tag":"button","label":"Big Picture"}
+{"ts":"2026-10-23T16:09:32.347Z","sid":"6m0ca2","event":"click","route":"/settings","tag":"button","label":"Downloads"}
+{"ts":"2026-10-23T16:09:38.443Z","sid":"6m0ca2","event":"click","route":"/settings","tag":"button","label":"Jogos e índice"}
+{"ts":"2026-10-23T16:09:39.525Z","sid":"6m0ca2","event":"click","route":"/settings","tag":"button","label":"Gerenciar"}
+{"ts":"2026-10-23T16:09:42.364Z","sid":"6m0ca2","event":"click","route":"/localrefresh","tag":"div","label":"Modo de fontes personalizadasExtraia jogos de fontes compatíveis com a Hydra Library em vez do índice oficial do Gmx Lau"}
+{"ts":"2026-10-23T16:09:43.339Z","sid":"6m0ca2","event":"click","route":"/localrefresh","tag":"button","label":""}
+{"ts":"2026-10-23T16:09:45.139Z","sid":"6m0ca2","event":"click","route":"/localrefresh","tag":"button","label":"Navegue pelas fontes"}
+{"ts":"2026-10-23T16:09:47.459Z","sid":"6m0ca2","event":"click","route":"/localrefresh","tag":"button","label":"FitGirlHome archivist to web's top game repacker: the ultimate source for trustworthy games.8.771 jogos3.86(160)torrent "}
+{"ts":"2026-10-23T16:10:25.859Z","sid":"6m0ca2","event":"click","route":"/localrefresh","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-23T16:10:50.099Z","sid":"6m0ca2","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T16:10:55.243Z","sid":"6m0ca2","event":"click","route":"/download","tag":"button","label":"Voltar"}
+{"ts":"2026-10-23T16:10:55.295Z","sid":"6m0ca2","event":"navigate","to":"/","from":"/"}
+{"ts":"2026-10-23T16:11:00.555Z","sid":"6m0ca2","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T16:11:03.243Z","sid":"6m0ca2","event":"click","route":"/download","tag":"button","label":"Voltar"}
+{"ts":"2026-10-23T16:11:03.295Z","sid":"6m0ca2","event":"navigate","to":"/","from":"/"}
+{"ts":"2026-10-23T16:11:07.403Z","sid":"6m0ca2","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T16:11:09.371Z","sid":"6m0ca2","event":"click","route":"/library","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-23T16:11:10.613Z","sid":"6m0ca2","event":"click","route":"/settings","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-23T16:11:12.039Z","sid":"6m0ca2","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T16:11:14.091Z","sid":"6m0ca2","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-23T16:11:15.219Z","sid":"6m0ca2","event":"click","route":"/download","tag":"button","label":"Iniciar download por torrent"}
+{"ts":"2026-10-23T16:11:16.474Z","sid":"6m0ca2","event":"click","route":"/download","tag":"button","label":"E:\\E:/gmx-games183.4 GB livres de 464.7 GB"}
+{"ts":"2026-10-23T16:11:17.675Z","sid":"6m0ca2","event":"click","route":"/download","tag":"button","label":"Continuar"}
+{"ts":"2026-10-23T16:11:17.688Z","sid":"6m0ca2","event":"download-request","game":"Geometry Wars 3 Dimensions","dirIndex":1,"linkHost":"","torrent":true}
+{"ts":"2026-10-23T16:11:17.759Z","sid":"6m0ca2","event":"download-spawn","game":"Geometry Wars 3 Dimensions","exe":"C:\\Users\\c2644\\AppData\\Local\\Programs\\GMX\\resources\\AscendaraTorrentHandler.exe"}
+{"ts":"2026-10-23T16:11:31.454Z","sid":"6m0ca2","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T16:11:37.197Z","sid":"6m0ca2","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T16:11:40.758Z","sid":"6m0ca2","event":"click","route":"/downloads","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-23T16:11:46.565Z","sid":"6m0ca2","event":"click","route":"/settings","tag":"button","label":"Downloads"}
+{"ts":"2026-10-23T16:11:52.012Z","sid":"6m0ca2","event":"click","route":"/settings","tag":"div","label":"Motor de torrent integrado — nada para instalar ou configurar."}
+{"ts":"2026-10-23T16:12:01.229Z","sid":"6m0ca2","event":"click","route":"/settings","tag":"a","label":"Downloads1Downloads"}
+{"ts":"2026-10-23T16:12:02.620Z","sid":"6m0ca2","event":"click","route":"/downloads","tag":"div","label":"0.00 B/s"}
+{"ts":"2026-10-23T16:12:04.314Z","sid":"6m0ca2","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
