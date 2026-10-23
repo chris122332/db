@@ -1,0 +1,12 @@
+{"ts":"2026-10-23T20:38:04.349Z","sid":"adgr0f","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T20:38:17.678Z","sid":"adgr0f","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T20:38:20.897Z","sid":"adgr0f","event":"click","route":"/","tag":"a","label":"Downloads1Downloads"}
+{"ts":"2026-10-23T20:38:23.067Z","sid":"adgr0f","event":"click","route":"/downloads","tag":"a","label":"Downloads1Downloads"}
+{"ts":"2026-10-23T20:38:25.397Z","sid":"adgr0f","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T20:38:26.939Z","sid":"adgr0f","event":"click","route":"/downloads","tag":"div","label":"Pausar download"}
+{"ts":"2026-10-23T20:38:28.242Z","sid":"adgr0f","event":"click","route":"/downloads","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T20:38:38.523Z","sid":"adgr0f","event":"click","route":"/library","tag":"div","label":""}
+{"ts":"2026-10-23T20:38:41.984Z","sid":"adgr0f","event":"click","route":"/library","tag":"a","label":"ProcurarProcurar"}
+{"ts":"2026-10-23T20:38:46.267Z","sid":"adgr0f","event":"click","route":"/search","tag":"div","label":""}
+{"ts":"2026-10-23T20:38:50.964Z","sid":"adgr0f","event":"click","route":"/search","tag":"div","label":""}
+{"ts":"2026-10-23T20:38:51.988Z","sid":"adgr0f","event":"click","route":"/search","tag":"a","label":"InícioInício"}
