@@ -1,0 +1,35 @@
+{"ts":"2026-10-23T19:48:05.740Z","sid":"fepk9h","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T19:48:19.936Z","sid":"i0ufvj","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T19:48:29.985Z","sid":"i0ufvj","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T19:48:32.678Z","sid":"i0ufvj","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-23T19:49:59.717Z","sid":"i0ufvj","event":"click","route":"/settings","tag":"div","label":"Busca de jogosEncontre qualquer jogo da sua biblioteca pelo nome direto na barra de busca, com capas e filtros.Favoritos"}
+{"ts":"2026-10-23T19:50:26.221Z","sid":"i0ufvj","event":"click","route":"/settings","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T19:50:29.341Z","sid":"i0ufvj","event":"click","route":"/library","tag":"div","label":"eFootball™"}
+{"ts":"2026-10-23T19:50:31.852Z","sid":"i0ufvj","event":"click","route":"/gamescreen","tag":"button","label":"Jogar"}
+{"ts":"2026-10-23T19:50:36.629Z","sid":"i0ufvj","event":"click","route":"/gamescreen","tag":"button","label":"Trainers"}
+{"ts":"2026-10-23T19:50:44.908Z","sid":"i0ufvj","event":"click","route":"/gamescreen","tag":"button","label":"Mídia"}
+{"ts":"2026-10-23T19:50:50.182Z","sid":"i0ufvj","event":"click","route":"/gamescreen","tag":"button","label":"Conquistas"}
+{"ts":"2026-10-23T19:50:52.604Z","sid":"i0ufvj","event":"click","route":"/gamescreen","tag":"button","label":""}
+{"ts":"2026-10-23T19:50:55.080Z","sid":"i0ufvj","event":"click","route":"/gamescreen","tag":"div","label":"ConquistasNenhuma conquista encontradaEstatísticasTempo de jogoMenos de um minutoExecutável principaleFootball.exeNão ge"}
+{"ts":"2026-10-23T19:50:55.380Z","sid":"i0ufvj","event":"click","route":"/gamescreen","tag":"button","label":"Trilha sonora"}
+{"ts":"2026-10-23T19:50:59.037Z","sid":"i0ufvj","event":"click","route":"/gamescreen","tag":"button","label":"Voltar"}
+{"ts":"2026-10-23T19:51:03.133Z","sid":"i0ufvj","event":"click","route":"/library","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-23T19:51:06.029Z","sid":"i0ufvj","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T19:51:18.973Z","sid":"i0ufvj","event":"click","route":"/download","tag":"button","label":"Recomendado"}
+{"ts":"2026-10-23T19:51:20.776Z","sid":"i0ufvj","event":"click","route":"/download","tag":"button","label":"Mínimo"}
+{"ts":"2026-10-23T19:51:22.510Z","sid":"i0ufvj","event":"click","route":"/download","tag":"button","label":"Compare o seu PC"}
+{"ts":"2026-10-23T19:51:24.349Z","sid":"i0ufvj","event":"click","route":"/download","tag":"button","label":"Fechar"}
+{"ts":"2026-10-23T19:51:26.396Z","sid":"i0ufvj","event":"click","route":"/download","tag":"img","label":""}
+{"ts":"2026-10-23T19:51:27.517Z","sid":"i0ufvj","event":"click","route":"/download","tag":"button","label":"Voltar"}
+{"ts":"2026-10-23T19:51:27.915Z","sid":"i0ufvj","event":"navigate","to":"/","from":"/"}
+{"ts":"2026-10-23T19:51:33.049Z","sid":"i0ufvj","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T19:51:43.415Z","sid":"i0ufvj","event":"click","route":"/download","tag":"button","label":"Voltar"}
+{"ts":"2026-10-23T19:51:43.766Z","sid":"i0ufvj","event":"navigate","to":"/","from":"/"}
+{"ts":"2026-10-23T19:51:47.359Z","sid":"i0ufvj","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T19:51:55.093Z","sid":"i0ufvj","event":"click","route":"/download","tag":"div","label":""}
+{"ts":"2026-10-23T19:52:06.701Z","sid":"i0ufvj","event":"click","route":"/download","tag":"button","label":"Recomendado"}
+{"ts":"2026-10-23T19:52:07.758Z","sid":"i0ufvj","event":"click","route":"/download","tag":"button","label":"Mínimo"}
+{"ts":"2026-10-23T19:52:10.252Z","sid":"i0ufvj","event":"click","route":"/download","tag":"button","label":"Recomendado"}
+{"ts":"2026-10-23T19:52:20.380Z","sid":"i0ufvj","event":"click","route":"/download","tag":"img","label":""}
+{"ts":"2026-10-23T19:52:20.908Z","sid":"i0ufvj","event":"click","route":"/download","tag":"button","label":"Voltar"}
+{"ts":"2026-10-23T19:52:21.309Z","sid":"i0ufvj","event":"navigate","to":"/","from":"/"}
