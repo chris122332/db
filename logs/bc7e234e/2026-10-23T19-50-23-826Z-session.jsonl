@@ -1,0 +1,5 @@
+{"ts":"2026-10-23T19:48:05.740Z","sid":"fepk9h","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T19:48:19.936Z","sid":"i0ufvj","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T19:48:29.985Z","sid":"i0ufvj","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T19:48:32.678Z","sid":"i0ufvj","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-23T19:49:59.717Z","sid":"i0ufvj","event":"click","route":"/settings","tag":"div","label":"Busca de jogosEncontre qualquer jogo da sua biblioteca pelo nome direto na barra de busca, com capas e filtros.Favoritos"}
