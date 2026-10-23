@@ -1,0 +1,41 @@
+{"ts":"2026-10-23T21:37:24.161Z","sid":"pqv8qd","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T21:37:35.948Z","sid":"pqv8qd","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T21:37:58.047Z","sid":"pqv8qd","event":"click","route":"/","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-10-23T21:38:00.243Z","sid":"pqv8qd","event":"click","route":"/","tag":"a","label":"Downloads1Downloads"}
+{"ts":"2026-10-23T21:38:05.066Z","sid":"pqv8qd","event":"click","route":"/downloads","tag":"h3","label":"CarX Street"}
+{"ts":"2026-10-23T21:38:06.067Z","sid":"pqv8qd","event":"click","route":"/downloads","tag":"div","label":"CarX Street16.8 GBExtraindo arquivos do jogo...12.0%96 / 907 filesExtraindo arquivos do jogo...43.54 MB/sArquivo atual15"}
+{"ts":"2026-10-23T21:38:06.566Z","sid":"pqv8qd","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T21:38:10.757Z","sid":"pqv8qd","event":"click","route":"/downloads","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T21:38:12.965Z","sid":"pqv8qd","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-23T21:38:21.146Z","sid":"pqv8qd","event":"click","route":"/gamescreen","tag":"button","label":"Mídia"}
+{"ts":"2026-10-23T21:38:26.086Z","sid":"pqv8qd","event":"click","route":"/gamescreen","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T21:38:27.622Z","sid":"pqv8qd","event":"click","route":"/gamescreen","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T21:38:30.542Z","sid":"pqv8qd","event":"click","route":"/gamescreen","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-23T21:38:35.556Z","sid":"pqv8qd","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T21:38:36.179Z","sid":"pqv8qd","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T21:38:40.628Z","sid":"pqv8qd","event":"click","route":"/download","tag":"div","label":"1.15.1ONLINETODOS os DLCs16.8 GBLançado em 29/08/2024Desenvolvido por CarX Technologies, LLCPublicado por CarX Technolog"}
+{"ts":"2026-10-23T21:38:42.012Z","sid":"pqv8qd","event":"click","route":"/download","tag":"img","label":""}
+{"ts":"2026-10-23T21:38:42.877Z","sid":"pqv8qd","event":"click","route":"/download","tag":"button","label":"Voltar"}
+{"ts":"2026-10-23T21:38:43.206Z","sid":"pqv8qd","event":"navigate","to":"/","from":"/"}
+{"ts":"2026-10-23T21:38:45.581Z","sid":"pqv8qd","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T21:38:47.452Z","sid":"pqv8qd","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-23T21:38:49.335Z","sid":"pqv8qd","event":"click","route":"/download","tag":"body","label":"((e, i, s, u, m, a, l, h) => {\n  let d = document.documentElement, w = [\"light\", \"dark\"];\n  function p(n) {\n    (Array.i"}
+{"ts":"2026-10-23T21:38:50.241Z","sid":"pqv8qd","event":"click","route":"/download","tag":"svg","label":""}
+{"ts":"2026-10-23T21:38:50.956Z","sid":"pqv8qd","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-23T21:38:51.829Z","sid":"pqv8qd","event":"click","route":"/download","tag":"button","label":"E:\\E:/gmx-games160.1 GB livres de 464.7 GB"}
+{"ts":"2026-10-23T21:38:52.996Z","sid":"pqv8qd","event":"click","route":"/download","tag":"button","label":"Continuar"}
+{"ts":"2026-10-23T21:38:55.548Z","sid":"pqv8qd","event":"click","route":"/download","tag":"button","label":"Comece agora"}
+{"ts":"2026-10-23T21:38:55.662Z","sid":"pqv8qd","event":"download-request","game":"Factorio","dirIndex":1,"linkHost":"gofile.io","torrent":false}
+{"ts":"2026-10-23T21:38:55.797Z","sid":"pqv8qd","event":"download-spawn","game":"Factorio","exe":"python"}
+{"ts":"2026-10-23T21:39:01.109Z","sid":"pqv8qd","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T21:39:02.472Z","sid":"pqv8qd","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T21:39:04.298Z","sid":"pqv8qd","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T21:39:07.461Z","sid":"pqv8qd","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T21:39:08.614Z","sid":"pqv8qd","event":"click","route":"/downloads","tag":"h3","label":"CarX Street"}
+{"ts":"2026-10-23T21:39:13.149Z","sid":"pqv8qd","event":"click","route":"/downloads","tag":"div","label":""}
+{"ts":"2026-10-23T21:39:13.702Z","sid":"pqv8qd","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T21:39:16.156Z","sid":"pqv8qd","event":"click","route":"/downloads","tag":"div","label":"Pausar download"}
+{"ts":"2026-10-23T21:39:18.758Z","sid":"pqv8qd","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T21:39:21.385Z","sid":"pqv8qd","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T21:39:22.269Z","sid":"pqv8qd","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T21:39:25.125Z","sid":"pqv8qd","event":"click","route":"/downloads","tag":"button","label":"Abrir pasta do jogo"}
