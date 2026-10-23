@@ -1,0 +1,1160 @@
+ERROR: [2026-10-23T16:15:07.734Z] (node:22696) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `GMX --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T16:15:08.053Z] Current version 1.0.0 is not broken
+[2026-10-23T16:15:08.053Z] Timestamp file not found. Probing disk instead.
+[2026-10-23T16:15:08.427Z] [StartupCleanup] nenhuma outra instalação GMX/Ascendara - nada a limpar
+[2026-10-23T16:15:08.433Z] Settings file not found, creating with default values
+[2026-10-23T16:15:08.434Z] Settings file created successfully at: C:\Users\c2644\AppData\Roaming\ascendara\ascendarasettings.json
+[2026-10-23T16:15:08.546Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\dist\win-unpacked\resources\app.asar\electron\icon.ico
+[2026-10-23T16:15:08.600Z] Loading window from: http://localhost:46859
+[2026-10-23T16:15:08.671Z] System tray created successfully
+[2026-10-23T16:15:08.694Z] Achievement watcher started
+[2026-10-23T16:15:08.699Z] Local server running at http://localhost:46859
+[2026-10-23T16:15:08.941Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T16:15:09.008Z] [WATCHER] About to acquire single-instance lock...
+[2026-10-23T16:15:09.014Z] [WATCHER] Single-instance lock acquired. Starting app...
+[2026-10-23T16:15:09.015Z] [WATCHER] Achievement Watchdog starting ...
+[2026-10-23T16:15:09.024Z] [WATCHER] Watchdog status updated: running=true, timestamp=2026-10-23T13:15:09-03:00
+[2026-10-23T16:15:09.028Z] [WATCHER] monitor.getFolders() returned 3 folders
+[2026-10-23T16:15:09.033Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\c2644\AppData\Roaming\GSE Saves" with options: { recursive: true, filter: /([0-9]+)/, file: [ 'achievements.json' ] }
+Watching files in C:\Users\c2644\AppData\Roaming\GSE Saves: ["achievements.json"] with filter: /([0-9]+)/
+[2026-10-23T16:15:09.047Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\Steam\RUNE" with options: { recursive: true, filter: /.*/, file: [ 'achievements.ini' ] }
+[2026-10-23T16:15:09.048Z] [WATCHER] Watching files in C:\Users\Public\Documents\Steam\RUNE: ["achievements.ini"] with filter: /.*/
+[2026-10-23T16:15:09.051Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\OnlineFix" with options: {
+  recursive: true,
+  filter: /([0-9]+)[\\/]Stats/i,
+  file: [ 'achievements.ini', 'Achievements.ini' ]
+}
+Watching files in C:\Users\Public\Documents\OnlineFix: ["achievements.ini","Achievements.ini"] with filter: /([0-9]+)[\\/]Stats/i
+[2026-10-23T16:15:09.053Z] [WATCHER] Started 3 file watchers
+[2026-10-23T16:15:09.053Z] [WATCHER] Memory Usage: RSS=34.46MB, Heap=7.61/11.72MB
+[2026-10-23T16:15:09.773Z] Window DOM ready
+[2026-10-23T16:15:09.775Z] ready-to-show event fired
+[2026-10-23T16:15:09.799Z] Window shown event fired
+[2026-10-23T16:15:09.799Z] Window shown via ready-to-show event
+[2026-10-23T16:15:09.801Z] Window finished loading
+[2026-10-23T16:15:09.806Z] Window started loading
+[2026-10-23T16:15:10.600Z] Discord is not running, skipping RPC connection
+[2026-10-23T16:15:10.601Z] Discord RPC connection attempt 1/3 - Discord not running, retrying in 30s
+[2026-10-23T16:15:11.002Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:15:11.470Z] Discord RPC not connected, skipping activity update
+[2026-10-23T16:15:14.649Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:15:17.473Z] Window started loading
+[2026-10-23T16:15:17.505Z] Discord RPC not connected, skipping activity update
+[2026-10-23T16:15:18.015Z] Getting auth token for download...
+[2026-10-23T16:15:18.016Z] [Build Signature] Loaded: 329e4c7ba2361d5d932d7235ce8033cc
+ERROR: [2026-10-23T16:15:18.195Z] Failed to download shared index: {}
+[2026-10-23T16:15:40.894Z] Discord is not running, skipping RPC connection
+[2026-10-23T16:15:40.894Z] Discord RPC connection attempt 2/3 - Discord not running, retrying in 30s
+[2026-10-23T16:16:11.228Z] Discord is not running, skipping RPC connection
+[2026-10-23T16:16:11.228Z] Discord RPC connection attempt 3/3 - Discord not running, retrying in 30s
+[2026-10-23T16:16:37.172Z] Window started loading
+[2026-10-23T16:16:37.175Z] Window started loading
+[2026-10-23T16:16:37.204Z] Getting auth token for download...
+[2026-10-23T16:16:37.218Z] Discord RPC not connected, skipping activity update
+ERROR: [2026-10-23T16:16:37.414Z] Failed to download shared index: {}
+[2026-10-23T16:16:38.216Z] [PosterCache] Cached poster for "Schedule I"
+[2026-10-23T16:16:40.719Z] [PosterCache] Cached poster for "Marvel's Spider-Man 2"
+[2026-10-23T16:16:41.233Z] Maximum Discord RPC connection attempts reached. Stopping retries.
+[2026-10-23T16:16:42.937Z] [PosterCache] Cached poster for "MECCHA CHAMELEON"
+[2026-10-23T16:16:44.914Z] [PosterCache] Cached poster for "Palworld"
+[2026-10-23T16:16:45.739Z] Window started loading
+[2026-10-23T16:16:45.815Z] Discord RPC not connected, skipping activity update
+[2026-10-23T16:16:46.625Z] [PosterCache] Cached poster for "R.E.P.O"
+[2026-10-23T16:16:51.538Z] Blocked popup in external window: https://werefilledwit.org/WEJkSUZnIRd0EB4qLC0eEiw9EQgdEQktLjxyLggcNQBXGHYBZAUrMmVyQjsjPH9VbzU1f1V%2FYDN%2FQj97aWxXfWhrekp%2BYCs2F3R2fjIWJ3toZAEkJGVyQj0vPH9VfXFgcFZwYCo6HXR3bHZUFn9ockIgKDt%2FXG8zZXNVeXVoelJ5fmx0VXl1YXtCKCE9IVl4cWFwU350anNVbyArf1VvIDEuAXQLOTASLCorbzc5LzwnFmQLOSxJe2sLNgEoKwoLNGclNy9KOycqZBYsIGUqED02K2dXCGNqBEF7ADo4HiE0djYLbHQeKhE9fjA1XXl2NHsFbykrMFk6Mj0jCTsvKGwHJit%2BKBc9e2hkASc0ZXJCJSUtI1kkKSIrCCUnfXAifGhoZ1Z5bi8rCi0pLzFBe3Y2NkF7dmlySnljawBBe3YvKwp%2Fcn1xJmx0aDpSfW99cFQoNiguAT4jOikNPWNqBFF6cXZxUmx0aGoPITI1LkF7BX1wVCUvMydBe3Y%2FJwciKXFnVnknKyEBJyI5MAVsdB5zSnloaGdWeSUwMAskI31wInhybGxUZ3Ftd11ndGt0QXt2PS4BKjIqLQpsdB52VGd3aGxSbHRoMQUvJyorQXsAbXFTZ3VuZBcsJSguBT17DysKLSkvMUI6IzsyCCgyLicWdHdobFRndn4xASogLi5ZbHRqDAs9bhlnVwgEKiMKLWNqcEF6BC5nVw1janBcZ3Z2ckp5Y2pwQXsFfXBUbHRqAQw7KTUrESRjanBBegQuZ1cNY2pwVX1ydnJKfnNte0p7dW5nVntgKycHJCk8Jwh0YCw4AHRra2QRJSk7fxQ9axoQQiAgZXJCKjJlc0IqMjt%2FUG8ZABs%2BM3tpdV17cW9wVnh3bXFTbzMsMFV0dmh4VHl8aHNCPDIqcFl9cn43EDt1ZXJCPDIqdll5YC02Fnx7aGQRPTRuf1RvMywwU3R2fjQFJS88f1U%3D
+[2026-10-23T16:16:52.496Z] Intercepted download in external window: https://ts.bzzhr.to/d/hut8hw900l9a?v=khHvwDhetASEvxETzK5jvoo8QaeIgrRnCQCYshTMZCMCsPRhR5vYKtHY4JlplKB9VXtjAAFjE8L2-XyWGEdWmxrqZIVfsbCRC5Mv6kYIVYFg6v2WczsYu3hfsupZtMHgu1_XBuLmmF1Ina7ELjrCDCuBjNashEnC_ZUhW5txONC9_-lk1HrNcEEyMXTWBmUJMJM9y-WvDOFptN4r6R8
+[2026-10-23T16:16:52.497Z] Forwarded intercepted download URL to main window
+[2026-10-23T16:16:55.483Z] [PosterCache] Cached poster for "The Last of Us Part I"
+[2026-10-23T16:16:57.352Z] [PosterCache] Cached poster for "Ghost Of Tsushima DIRECTOR'S CUT"
+[2026-10-23T16:16:58.075Z] Registered download directory: E:\gmx-games (index 1)
+[2026-10-23T16:16:58.109Z] Downloading file: https://ts.bzzhr.to/d/hut8hw900l9a?v=khHvwDhetASEvxETzK5jvoo8QaeIgrRnCQCYshTMZCMCsPRhR5vYKtHY4JlplKB9VXtjAAFjE8L2-XyWGEdWmxrqZIVfsbCRC5Mv6kYIVYFg6v2WczsYu3hfsupZtMHgu1_XBuLmmF1Ina7ELjrCDCuBjNashEnC_ZUhW5txONC9_-lk1HrNcEEyMXTWBmUJMJM9y-WvDOFptN4r6R8, game: Marvel's Spider-Man 2, online: false, dlc: false, isVr: false, updateFlow: false, version: 2.810.0.0, size: 94.6 GB, additionalDirIndex: 1, gameID: AdHZtF, folder: Marvels Spider-Man 2
+ERROR: [2026-10-23T16:16:58.114Z] [download-file] Insufficient disk space. Need ~283.80 GB (94.6 GB + extraction headroom), have 183.44 GB free on E:\gmx-games
+ERROR: [2026-10-23T16:16:58.114Z] Error occurred in handler for 'download-file': {}
+[2026-10-23T16:16:59.453Z] [PosterCache] Cached poster for "Resident Evil 4 Remake"
+[2026-10-23T16:17:01.639Z] [PosterCache] Cached poster for "Ready or Not"
+[2026-10-23T16:17:03.678Z] [PosterCache] Cached poster for "Forza Horizon 6"
+[2026-10-23T16:17:04.647Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:17:05.525Z] [PosterCache] Cached poster for "Hollow Knight Silksong"
+WARN: [2026-10-23T16:17:09.858Z] [PosterCache] Failed for "Dispatch": Request failed with status code 400
+[2026-10-23T16:17:10.515Z] [Telemetry] upload OK (2 arquivo(s))
+WARN: [2026-10-23T16:17:14.057Z] [PosterCache] Failed for "The Handler of Dragons": Request failed with status code 400
+[2026-10-23T16:17:16.230Z] [PosterCache] Cached poster for "Minecraft Dungeons II"
+[2026-10-23T16:17:18.385Z] [PosterCache] Cached poster for "Graveyard Keeper 2"
+[2026-10-23T16:17:20.502Z] [PosterCache] Cached poster for "Fields of Mistria"
+[2026-10-23T16:17:22.592Z] [PosterCache] Cached poster for "Scrap Mechanic"
+[2026-10-23T16:17:24.719Z] [PosterCache] Cached poster for "Little Nightmares III"
+[2026-10-23T16:17:26.618Z] [PosterCache] Cached poster for "Le Mans Ultimate"
+[2026-10-23T16:17:29.008Z] [PosterCache] Cached poster for "Dragon Age The Veilguard"
+[2026-10-23T16:17:31.092Z] [PosterCache] Cached poster for "Finding Frankie"
+[2026-10-23T16:17:33.121Z] [PosterCache] Cached poster for "Until Dawn"
+[2026-10-23T16:17:35.186Z] [PosterCache] Cached poster for "Disney Epic Mickey Rebrushed"
+[2026-10-23T16:17:37.330Z] [PosterCache] Cached poster for "Funko Fusion"
+[2026-10-23T16:17:39.435Z] [PosterCache] Cached poster for "Call of Duty Modern Warfare III  [v10.4"
+[2026-10-23T16:17:41.540Z] [PosterCache] Cached poster for "CarX Street"
+[2026-10-23T16:17:43.698Z] [PosterCache] Cached poster for "Mortal Kombat Komplete Edition"
+[2026-10-23T16:17:45.593Z] [PosterCache] Cached poster for "Factorio"
+[2026-10-23T16:17:47.820Z] [PosterCache] Cached poster for "Moo Lander"
+[2026-10-23T16:17:49.974Z] [PosterCache] Cached poster for "Call of Duty Black Ops 6"
+[2026-10-23T16:17:52.109Z] [PosterCache] Cached poster for "DARK SOULS Prepare To Die Edition"
+[2026-10-23T16:17:54.158Z] [PosterCache] Cached poster for "Content Warning"
+[2026-10-23T16:17:56.266Z] [PosterCache] Cached poster for "Liar's Bar"
+[2026-10-23T16:17:58.427Z] [PosterCache] Cached poster for "Split Fiction"
+[2026-10-23T16:18:00.596Z] [PosterCache] Cached poster for "JoJo's Bizarre Adventure All-Star Battle R"
+WARN: [2026-10-23T16:18:04.653Z] [PosterCache] Failed for "Warhammer 40,000 Space Marine 2": Request failed with status code 400
+[2026-10-23T16:18:06.893Z] [PosterCache] Cached poster for "The Amazing Spider-Man"
+[2026-10-23T16:18:07.039Z] Window started loading
+[2026-10-23T16:18:07.066Z] Discord RPC not connected, skipping activity update
+[2026-10-23T16:18:08.922Z] [PosterCache] Cached poster for "METAL GEAR SOLID Δ SNAKE EATER"
+[2026-10-23T16:18:10.992Z] [PosterCache] Cached poster for "The Coffin of Andy and Leyley"
+[2026-10-23T16:18:13.315Z] [PosterCache] Cached poster for "Far Cry 6 Ultimate Edition"
+[2026-10-23T16:18:15.264Z] [PosterCache] Cached poster for "7 Days to Die"
+[2026-10-23T16:18:17.341Z] [PosterCache] Cached poster for "BIT.TRIP RERUNNER"
+[2026-10-23T16:18:19.660Z] [PosterCache] Cached poster for "Batman Arkham Origins"
+[2026-10-23T16:18:21.566Z] [PosterCache] Cached poster for "The Elder Scrolls IV Oblivion Remastered"
+WARN: [2026-10-23T16:18:25.712Z] [PosterCache] Failed for "Blade and Sorcery": Request failed with status code 400
+[2026-10-23T16:18:28.129Z] [PosterCache] Cached poster for "Half Sword"
+[2026-10-23T16:18:30.070Z] [PosterCache] Cached poster for "Danganronpa S Ultimate Summer Camp"
+[2026-10-23T16:18:32.121Z] [PosterCache] Cached poster for "PRAGMATA"
+[2026-10-23T16:18:34.325Z] [PosterCache] Cached poster for "High On Life"
+[2026-10-23T16:18:36.359Z] [PosterCache] Cached poster for "The Witcher Enhanced Edition"
+[2026-10-23T16:18:38.480Z] [PosterCache] Cached poster for "ARMORED CORE VI FIRES OF RUBICON"
+[2026-10-23T16:18:40.574Z] [PosterCache] Cached poster for "Dead Space"
+[2026-10-23T16:18:42.621Z] [PosterCache] Cached poster for "The Planet Crafter"
+[2026-10-23T16:18:44.754Z] [PosterCache] Cached poster for "The Walking Dead"
+WARN: [2026-10-23T16:18:48.867Z] [PosterCache] Failed for "Escape from Yandere": Request failed with status code 400
+[2026-10-23T16:18:51.105Z] [PosterCache] Cached poster for "Blasphemous"
+[2026-10-23T16:18:53.117Z] [PosterCache] Cached poster for "Five Nights at Freddy's Secret of the Mimic"
+[2026-10-23T16:18:55.273Z] [PosterCache] Cached poster for "Manhunt 2"
+WARN: [2026-10-23T16:18:59.401Z] [PosterCache] Failed for "DON'T SCREAM": Request failed with status code 400
+[2026-10-23T16:19:01.431Z] [PosterCache] Cached poster for "Manhunt"
+[2026-10-23T16:19:03.164Z] Window started loading
+[2026-10-23T16:19:03.183Z] Discord RPC not connected, skipping activity update
+[2026-10-23T16:19:04.018Z] [PosterCache] Cached poster for "Streamer Life Simulator 2"
+[2026-10-23T16:19:05.835Z] [PosterCache] Cached poster for "NBA 2K23"
+[2026-10-23T16:19:07.956Z] [PosterCache] Cached poster for "Manor Lords"
+[2026-10-23T16:19:09.988Z] [PosterCache] Cached poster for "Date Everything"
+[2026-10-23T16:19:10.691Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:19:12.141Z] [PosterCache] Cached poster for "Stellaris Ultimate Bundle"
+[2026-10-23T16:19:14.324Z] [PosterCache] Cached poster for "Victoria 3"
+[2026-10-23T16:19:16.320Z] [PosterCache] Cached poster for "Plants vs. Zombies Replanted"
+[2026-10-23T16:19:18.407Z] [PosterCache] Cached poster for "Quarantine Zone The Last Check"
+[2026-10-23T16:19:20.510Z] [PosterCache] Cached poster for "Football Life Simulator"
+[2026-10-23T16:19:22.751Z] [PosterCache] Cached poster for "Assetto Corsa EVO"
+[2026-10-23T16:19:24.744Z] [PosterCache] Cached poster for "Football Manager 2023"
+[2026-10-23T16:19:26.686Z] [PosterCache] Cached poster for "F1 2013"
+[2026-10-23T16:19:28.809Z] [PosterCache] Cached poster for "God of War Ragnarök Digital Deluxe Edition"
+[2026-10-23T16:19:31.107Z] [PosterCache] Cached poster for "PEAK"
+[2026-10-23T16:19:33.227Z] [PosterCache] Cached poster for "Hogwarts Legacy Deluxe Edition"
+[2026-10-23T16:19:35.324Z] [PosterCache] Cached poster for "Baldur's Gate 3"
+[2026-10-23T16:20:05.711Z] Window started loading
+[2026-10-23T16:20:05.781Z] Discord RPC not connected, skipping activity update
+[2026-10-23T16:20:09.062Z] [WATCHER] Memory Usage: RSS=32.11MB, Heap=6.69/8.47MB
+[2026-10-23T16:20:32.820Z] Window close event fired
+[2026-10-23T16:21:11.119Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:23:39.542Z] Removing stale lock file
+ERROR: [2026-10-23T16:23:39.668Z] (node:7392) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T16:23:40.447Z] Current version 1.0.0 is not broken
+[2026-10-23T16:23:41.893Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-23T16:23:42.124Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-23T16:23:42.287Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-23T16:23:42.479Z] System tray created successfully
+[2026-10-23T16:23:42.502Z] Achievement watcher started
+[2026-10-23T16:23:42.784Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T16:23:42.857Z] [WATCHER] About to acquire single-instance lock...
+[2026-10-23T16:23:42.865Z] [WATCHER] Single-instance lock acquired. Starting app...
+[2026-10-23T16:23:42.866Z] [WATCHER] Achievement Watchdog starting ...
+[2026-10-23T16:23:42.878Z] [WATCHER] Watchdog status updated: running=true, timestamp=2026-10-23T13:23:42-03:00
+[2026-10-23T16:23:42.882Z] [WATCHER] monitor.getFolders() returned 3 folders
+[2026-10-23T16:23:42.886Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\c2644\AppData\Roaming\GSE Saves" with options: { recursive: true, filter: /([0-9]+)/, file: [ 'achievements.json' ] }
+Watching files in C:\Users\c2644\AppData\Roaming\GSE Saves: ["achievements.json"] with filter: /([0-9]+)/
+[2026-10-23T16:23:42.904Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\Steam\RUNE" with options: { recursive: true, filter: /.*/, file: [ 'achievements.ini' ] }
+Watching files in C:\Users\Public\Documents\Steam\RUNE: ["achievements.ini"] with filter: /.*/
+[2026-10-23T16:23:42.907Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\OnlineFix" with options: {
+  recursive: true,
+  filter: /([0-9]+)[\\/]Stats/i,
+  file: [ 'achievements.ini', 'Achievements.ini' ]
+}
+Watching files in C:\Users\Public\Documents\OnlineFix: ["achievements.ini","Achievements.ini"] with filter: /([0-9]+)[\\/]Stats/i
+[2026-10-23T16:23:42.910Z] [WATCHER] Started 3 file watchers
+[2026-10-23T16:23:42.910Z] [WATCHER] Memory Usage: RSS=34.32MB, Heap=7.59/11.72MB
+[2026-10-23T16:23:45.365Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:23:52.348Z] Window DOM ready
+[2026-10-23T16:23:52.352Z] ready-to-show event fired
+[2026-10-23T16:23:52.401Z] Window shown event fired
+[2026-10-23T16:23:52.402Z] Window shown via ready-to-show event
+[2026-10-23T16:23:52.408Z] Window finished loading
+[2026-10-23T16:23:52.415Z] Window started loading
+[2026-10-23T16:23:58.182Z] Getting auth token for download...
+[2026-10-23T16:23:58.183Z] [Build Signature] Loaded: 329e4c7ba2361d5d932d7235ce8033cc
+ERROR: [2026-10-23T16:23:58.335Z] Failed to download shared index: {}
+[2026-10-23T16:25:48.015Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:26:07.431Z] Window started loading
+[2026-10-23T16:27:47.941Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:28:42.919Z] [WATCHER] Memory Usage: RSS=32.12MB, Heap=6.69/8.47MB
+[2026-10-23T16:29:24.515Z] Window close event fired
+[2026-10-23T16:29:47.983Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:31:47.776Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:33:42.929Z] [WATCHER] Memory Usage: RSS=32.13MB, Heap=6.74/8.47MB
+[2026-10-23T16:33:47.988Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:35:47.976Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:37:49.036Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:38:42.937Z] [WATCHER] Memory Usage: RSS=32.12MB, Heap=6.75/8.47MB
+[2026-10-23T16:39:47.999Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:41:48.111Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:43:42.938Z] [WATCHER] Memory Usage: RSS=32.13MB, Heap=6.75/8.47MB
+[2026-10-23T16:43:47.928Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:45:48.229Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:47:49.739Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:48:42.950Z] [WATCHER] Memory Usage: RSS=32.13MB, Heap=6.75/8.47MB
+[2026-10-23T16:49:48.048Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:51:48.047Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:53:42.959Z] [WATCHER] Memory Usage: RSS=27.09MB, Heap=6.75/8.47MB
+[2026-10-23T16:53:48.590Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:54:32.514Z] Received show-window signal from another instance
+[2026-10-23T16:54:32.515Z] No windows found, creating new window
+[2026-10-23T16:54:32.545Z] Loading window from: http://localhost:5173
+[2026-10-23T16:54:35.018Z] Window DOM ready
+[2026-10-23T16:54:35.021Z] ready-to-show event fired
+[2026-10-23T16:54:35.075Z] Window shown event fired
+[2026-10-23T16:54:35.075Z] Window shown via ready-to-show event
+[2026-10-23T16:54:35.087Z] Window finished loading
+[2026-10-23T16:54:35.091Z] Window started loading
+[2026-10-23T16:54:40.629Z] Getting auth token for download...
+ERROR: [2026-10-23T16:54:40.786Z] Failed to download shared index: {}
+[2026-10-23T16:54:57.686Z] Window started loading
+[2026-10-23T16:55:04.797Z] Window started loading
+[2026-10-23T16:55:48.025Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:57:47.756Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:58:42.972Z] [WATCHER] Memory Usage: RSS=21.56MB, Heap=6.76/8.47MB
+[2026-10-23T16:59:48.042Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:01:48.312Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:02:29.463Z] Window started loading
+[2026-10-23T17:03:42.974Z] [WATCHER] Memory Usage: RSS=20.31MB, Heap=6.76/8.47MB
+[2026-10-23T17:03:48.452Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:05:47.982Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:07:49.210Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:08:42.987Z] [WATCHER] Memory Usage: RSS=20.15MB, Heap=6.76/8.47MB
+[2026-10-23T17:09:48.222Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:11:47.998Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:13:42.996Z] [WATCHER] Memory Usage: RSS=20.00MB, Heap=6.76/8.47MB
+[2026-10-23T17:13:47.963Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:15:47.996Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:17:48.242Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:18:43.007Z] [WATCHER] Memory Usage: RSS=19.99MB, Heap=6.77/8.47MB
+[2026-10-23T17:19:48.060Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:21:48.746Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:23:43.013Z] [WATCHER] Memory Usage: RSS=19.99MB, Heap=6.77/8.47MB
+[2026-10-23T17:23:48.006Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:25:48.082Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:27:47.905Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:28:43.027Z] [WATCHER] Memory Usage: RSS=19.99MB, Heap=6.77/8.47MB
+[2026-10-23T17:29:47.932Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:31:48.166Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:33:43.033Z] [WATCHER] Memory Usage: RSS=20.11MB, Heap=7.01/8.72MB
+[2026-10-23T17:33:48.111Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:35:48.242Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:37:48.433Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:38:43.036Z] [WATCHER] Memory Usage: RSS=20.09MB, Heap=7.01/8.72MB
+[2026-10-23T17:39:48.074Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:41:48.052Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:43:43.046Z] [WATCHER] Memory Usage: RSS=20.27MB, Heap=7.01/8.72MB
+[2026-10-23T17:43:48.338Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:45:48.553Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:47:48.187Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:48:43.056Z] [WATCHER] Memory Usage: RSS=20.25MB, Heap=7.01/8.72MB
+[2026-10-23T17:49:48.685Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:50:11.704Z] Window close event fired
+[2026-10-23T17:50:19.985Z] Received show-window signal from another instance
+[2026-10-23T17:50:19.997Z] No windows found, creating new window
+[2026-10-23T17:50:20.049Z] Loading window from: http://localhost:5173
+[2026-10-23T17:50:23.448Z] Window DOM ready
+[2026-10-23T17:50:23.450Z] ready-to-show event fired
+[2026-10-23T17:50:23.499Z] Window shown event fired
+[2026-10-23T17:50:23.500Z] Window shown via ready-to-show event
+[2026-10-23T17:50:23.511Z] Window finished loading
+[2026-10-23T17:50:23.513Z] Window started loading
+[2026-10-23T17:50:29.120Z] Getting auth token for download...
+ERROR: [2026-10-23T17:50:29.261Z] Failed to download shared index: {}
+[2026-10-23T17:50:35.329Z] Window started loading
+WARN: [2026-10-23T17:50:45.374Z] [Retro] launch: Game file not found: Super Bust-A-Move (Europe).bin
+[2026-10-23T17:50:48.639Z] Window started loading
+[2026-10-23T17:50:53.867Z] Window started loading
+[2026-10-23T17:50:58.899Z] Window started loading
+[2026-10-23T17:50:59.248Z] Window started loading
+WARN: [2026-10-23T17:51:13.134Z] [Retro] emulator-install: Downloaded, but no PPSSPPWin64.exe was found inside it
+[2026-10-23T17:51:48.251Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:53:43.058Z] [WATCHER] Memory Usage: RSS=20.22MB, Heap=7.02/8.72MB
+[2026-10-23T17:53:48.139Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:55:48.086Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:57:48.478Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:58:43.063Z] [WATCHER] Memory Usage: RSS=20.21MB, Heap=7.02/8.72MB
+[2026-10-23T17:59:48.237Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T18:01:48.290Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T18:03:43.064Z] [WATCHER] Memory Usage: RSS=19.97MB, Heap=7.02/8.72MB
+[2026-10-23T18:03:48.358Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T18:05:48.559Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T18:07:48.316Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T18:08:43.076Z] [WATCHER] Memory Usage: RSS=19.95MB, Heap=7.02/8.72MB
+[2026-10-23T18:09:48.513Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T18:11:48.338Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T18:13:43.079Z] [WATCHER] Memory Usage: RSS=19.75MB, Heap=7.02/8.72MB
+[2026-10-23T18:13:48.297Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T18:15:48.325Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T18:17:48.140Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T18:18:43.092Z] [WATCHER] Memory Usage: RSS=19.76MB, Heap=7.03/8.72MB
+[2026-10-23T18:19:48.681Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T18:21:48.612Z] [Telemetry] upload OK (2 arquivo(s))
+ERROR: [2026-10-23T18:23:28.717Z] Error occurred in handler for 'request-ascendara-service': {}
+[2026-10-23T18:23:43.097Z] [WATCHER] Memory Usage: RSS=19.69MB, Heap=7.03/8.72MB
+[2026-10-23T18:23:48.867Z] [Telemetry] upload OK (2 arquivo(s))
+ERROR: [2026-10-23T18:23:58.721Z] Error occurred in handler for 'request-ascendara-service': {}
+ERROR: [2026-10-23T18:24:28.717Z] Error occurred in handler for 'request-ascendara-service': {}
+[2026-10-23T18:25:48.462Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T18:27:48.290Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T18:28:43.099Z] [WATCHER] Memory Usage: RSS=19.57MB, Heap=7.03/8.72MB
+[2026-10-23T18:29:48.509Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T18:31:48.357Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T18:33:43.118Z] [WATCHER] Memory Usage: RSS=19.57MB, Heap=7.03/8.72MB
+[2026-10-23T18:33:48.571Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T18:47:33.181Z] Removing stale lock file
+ERROR: [2026-10-23T18:47:33.248Z] (node:17088) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `GMX --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T18:47:33.849Z] Current version 1.0.0 is not broken
+[2026-10-23T18:47:33.851Z] Installed tools (recorded): []
+[2026-10-23T18:47:33.875Z] [StartupCleanup] já executado antes - pulando
+[2026-10-23T18:47:33.992Z] Window icon loaded from: C:\Users\c2644\AppData\Local\Programs\GMX\resources\app.asar\electron\icon.ico
+[2026-10-23T18:47:34.057Z] Loading window from: http://localhost:46859
+[2026-10-23T18:47:34.239Z] System tray created successfully
+[2026-10-23T18:47:34.261Z] Achievement watcher started
+[2026-10-23T18:47:34.269Z] Local server running at http://localhost:46859
+[2026-10-23T18:47:34.522Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T18:47:34.594Z] [WATCHER] About to acquire single-instance lock...
+[2026-10-23T18:47:34.602Z] [WATCHER] Single-instance lock acquired. Starting app...
+[2026-10-23T18:47:34.603Z] [WATCHER] Achievement Watchdog starting ...
+[2026-10-23T18:47:34.614Z] [WATCHER] Watchdog status updated: running=true, timestamp=2026-10-23T15:47:34-03:00
+[2026-10-23T18:47:34.618Z] [WATCHER] monitor.getFolders() returned 3 folders
+[2026-10-23T18:47:34.622Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\c2644\AppData\Roaming\GSE Saves" with options: { recursive: true, filter: /([0-9]+)/, file: [ 'achievements.json' ] }
+Watching files in C:\Users\c2644\AppData\Roaming\GSE Saves: ["achievements.json"] with filter: /([0-9]+)/
+[2026-10-23T18:47:34.641Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\Steam\RUNE" with options: { recursive: true, filter: /.*/, file: [ 'achievements.ini' ] }
+Watching files in C:\Users\Public\Documents\Steam\RUNE: ["achievements.ini"] with filter: /.*/
+[2026-10-23T18:47:34.645Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\OnlineFix" with options: {
+  recursive: true,
+  filter: /([0-9]+)[\\/]Stats/i,
+  file: [ 'achievements.ini', 'Achievements.ini' ]
+}
+Watching files in C:\Users\Public\Documents\OnlineFix: ["achievements.ini","Achievements.ini"] with filter: /([0-9]+)[\\/]Stats/i
+[2026-10-23T18:47:34.647Z] [WATCHER] Started 3 file watchers
+[2026-10-23T18:47:34.648Z] [WATCHER] Memory Usage: RSS=34.17MB, Heap=7.62/11.72MB
+[2026-10-23T18:47:35.457Z] Window DOM ready
+[2026-10-23T18:47:35.458Z] ready-to-show event fired
+[2026-10-23T18:47:35.514Z] Window shown event fired
+[2026-10-23T18:47:35.515Z] Window shown via ready-to-show event
+[2026-10-23T18:47:35.524Z] Window finished loading
+[2026-10-23T18:47:35.534Z] Window started loading
+[2026-10-23T18:47:35.653Z] Discord RPC not connected, skipping activity update
+[2026-10-23T18:47:36.449Z] Discord is not running, skipping RPC connection
+[2026-10-23T18:47:36.449Z] Discord RPC connection attempt 1/3 - Discord not running, retrying in 30s
+[2026-10-23T18:47:36.841Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T18:47:40.312Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T18:47:40.927Z] Getting auth token for download...
+[2026-10-23T18:47:40.928Z] [Build Signature] Loaded: 329e4c7ba2361d5d932d7235ce8033cc
+ERROR: [2026-10-23T18:47:41.085Z] Failed to download shared index: {}
+[2026-10-23T18:48:01.472Z] Window started loading
+[2026-10-23T18:48:01.720Z] Discord RPC not connected, skipping activity update
+[2026-10-23T18:48:06.713Z] Discord is not running, skipping RPC connection
+[2026-10-23T18:48:06.713Z] Discord RPC connection attempt 2/3 - Discord not running, retrying in 30s
+[2026-10-23T18:48:36.953Z] Discord is not running, skipping RPC connection
+[2026-10-23T18:48:36.953Z] Discord RPC connection attempt 3/3 - Discord not running, retrying in 30s
+[2026-10-23T18:49:06.962Z] Maximum Discord RPC connection attempts reached. Stopping retries.
+[2026-10-23T18:49:39.256Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T18:50:01.720Z] Discord RPC not connected, skipping activity update
+[2026-10-23T18:51:39.429Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T18:52:34.656Z] [WATCHER] Memory Usage: RSS=31.63MB, Heap=6.58/8.22MB
+[2026-10-23T18:53:39.740Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T18:53:40.340Z] Window started loading
+[2026-10-23T18:53:40.406Z] Discord RPC not connected, skipping activity update
+[2026-10-23T18:54:55.753Z] Window close event fired
+[2026-10-23T18:55:39.498Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T18:57:34.670Z] [WATCHER] Memory Usage: RSS=31.64MB, Heap=6.86/8.22MB
+[2026-10-23T18:57:39.451Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T18:59:39.495Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:01:39.795Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:02:34.682Z] [WATCHER] Memory Usage: RSS=31.63MB, Heap=6.86/8.22MB
+[2026-10-23T19:03:39.764Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:05:39.789Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:07:34.691Z] [WATCHER] Memory Usage: RSS=31.64MB, Heap=6.86/8.22MB
+[2026-10-23T19:07:39.502Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:09:39.708Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:11:39.795Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:12:34.698Z] [WATCHER] Memory Usage: RSS=31.64MB, Heap=6.86/8.22MB
+[2026-10-23T19:13:39.422Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:15:39.956Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:17:34.699Z] [WATCHER] Memory Usage: RSS=31.64MB, Heap=6.87/8.22MB
+[2026-10-23T19:17:39.295Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:19:39.680Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:21:39.975Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:22:34.705Z] [WATCHER] Memory Usage: RSS=22.57MB, Heap=6.87/8.22MB
+[2026-10-23T19:23:39.670Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:25:39.650Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:27:34.710Z] [WATCHER] Memory Usage: RSS=21.11MB, Heap=6.87/8.22MB
+[2026-10-23T19:27:40.222Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:28:36.411Z] Removing stale lock file
+ERROR: [2026-10-23T19:28:36.489Z] (node:8084) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T19:28:37.219Z] Current version 1.0.0 is not broken
+[2026-10-23T19:28:38.423Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-23T19:28:38.481Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-23T19:28:38.499Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-23T19:28:38.609Z] System tray created successfully
+[2026-10-23T19:28:38.623Z] Achievement watcher started
+[2026-10-23T19:28:38.801Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T19:28:38.869Z] [WATCHER] About to acquire single-instance lock...
+ERROR: [2026-10-23T19:28:38.873Z] [WATCHER ERROR] Failed to acquire single-instance lock: An application is already running
+[2026-10-23T19:28:38.873Z] [WATCHER] Another instance may already be running.
+[2026-10-23T19:28:38.885Z] Achievement watcher exited with code 0 and signal null
+[2026-10-23T19:28:41.274Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:28:42.479Z] Window DOM ready
+[2026-10-23T19:28:42.481Z] ready-to-show event fired
+[2026-10-23T19:28:42.516Z] Window shown event fired
+[2026-10-23T19:28:42.517Z] Window shown via ready-to-show event
+[2026-10-23T19:28:42.527Z] Window finished loading
+[2026-10-23T19:28:42.538Z] Window started loading
+[2026-10-23T19:28:48.004Z] Getting auth token for download...
+[2026-10-23T19:28:48.006Z] [Build Signature] Loaded: 329e4c7ba2361d5d932d7235ce8033cc
+ERROR: [2026-10-23T19:28:48.158Z] Failed to download shared index: {}
+[2026-10-23T19:28:52.005Z] Window started loading
+[2026-10-23T19:29:39.756Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:30:43.753Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:31:39.549Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:32:34.711Z] [WATCHER] Memory Usage: RSS=21.49MB, Heap=6.88/8.22MB
+[2026-10-23T19:32:43.841Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:33:39.456Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:34:43.788Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:35:39.498Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:36:43.870Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:37:34.725Z] [WATCHER] Memory Usage: RSS=21.31MB, Heap=6.89/8.22MB
+[2026-10-23T19:37:39.456Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:38:43.945Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:39:39.501Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:40:43.918Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:41:39.591Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:42:34.730Z] [WATCHER] Memory Usage: RSS=21.21MB, Heap=6.89/8.22MB
+[2026-10-23T19:42:43.674Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:43:39.662Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:44:43.958Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:45:39.506Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:46:44.288Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:47:34.732Z] [WATCHER] Memory Usage: RSS=21.24MB, Heap=6.89/8.22MB
+[2026-10-23T19:47:39.631Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:48:05.393Z] Removing stale lock file
+ERROR: [2026-10-23T19:48:05.469Z] (node:12544) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T19:48:05.732Z] Current version 1.0.0 is not broken
+[2026-10-23T19:48:06.795Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-23T19:48:06.850Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-23T19:48:06.867Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-23T19:48:06.963Z] System tray created successfully
+[2026-10-23T19:48:06.977Z] Achievement watcher started
+[2026-10-23T19:48:07.145Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T19:48:07.212Z] [WATCHER] About to acquire single-instance lock...
+ERROR: [2026-10-23T19:48:07.216Z] [WATCHER ERROR] Failed to acquire single-instance lock: An application is already running
+[2026-10-23T19:48:07.216Z] [WATCHER] Another instance may already be running.
+[2026-10-23T19:48:07.227Z] Achievement watcher exited with code 0 and signal null
+[2026-10-23T19:48:19.344Z] Removing stale lock file
+ERROR: [2026-10-23T19:48:19.425Z] (node:16296) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T19:48:19.930Z] Current version 1.0.0 is not broken
+[2026-10-23T19:48:20.994Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-23T19:48:21.050Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-23T19:48:21.066Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-23T19:48:21.092Z] System tray created successfully
+[2026-10-23T19:48:21.106Z] Achievement watcher started
+[2026-10-23T19:48:21.270Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T19:48:21.339Z] [WATCHER] About to acquire single-instance lock...
+ERROR: [2026-10-23T19:48:21.344Z] [WATCHER ERROR] Failed to acquire single-instance lock: An application is already running
+[2026-10-23T19:48:21.344Z] [WATCHER] Another instance may already be running.
+[2026-10-23T19:48:21.357Z] Achievement watcher exited with code 0 and signal null
+[2026-10-23T19:48:23.700Z] Window DOM ready
+[2026-10-23T19:48:23.702Z] ready-to-show event fired
+[2026-10-23T19:48:23.731Z] Window shown event fired
+[2026-10-23T19:48:23.732Z] Window shown via ready-to-show event
+[2026-10-23T19:48:23.740Z] Window finished loading
+[2026-10-23T19:48:23.748Z] Window started loading
+[2026-10-23T19:48:23.809Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:48:26.677Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:48:29.180Z] Getting auth token for download...
+[2026-10-23T19:48:29.182Z] [Build Signature] Loaded: 329e4c7ba2361d5d932d7235ce8033cc
+ERROR: [2026-10-23T19:48:29.337Z] Failed to download shared index: {}
+[2026-10-23T19:48:32.682Z] Window started loading
+[2026-10-23T19:49:39.511Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:50:26.224Z] Window started loading
+[2026-10-23T19:50:26.411Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:50:29.344Z] Window started loading
+[2026-10-23T19:50:31.949Z] [Games] Packaged handler .exe not found - using Python handler from binaries/
+[2026-10-23T19:50:32.612Z] Game handler output: [DEBUG] Script started.
+[DEBUG] Arguments received: ['E:\\SteamLibrary\\steamapps\\common\\eFootball\\eFootball\\Binaries\\Win64\\eFootball.exe', 'true', 'false']
+[DEBUG] Logging to: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\binaries\AscendaraGameHandler\src\gamehandler.log
+[DEBUG] Logging configured.
+2026-10-23 16:50:32,609 INFO === Ascendara Game Handler Started ===
+2026-10-23 16:50:32,610 INFO Arguments received: ['E:\\SteamLibrary\\steamapps\\common\\eFootball\\eFootball\\Binaries\\Win64\\eFootball.exe', 'true', 'false']
+2026-10-23 16:50:32,610 INFO Initializing with: game_path=E:\SteamLibrary\steamapps\common\eFootball\eFootball\Binaries\Win64\eFootball.exe, is_custom_game=True, is_shortcut=False, use_ludusavi=False, admin=False, launch_trainer=False, game_launch_cmd=None
+[DEBUG] Initializing with: game_path=E:\SteamLibrary\steamapps\common\eFootball\eFootball\Binaries\Win64\eFootball.exe, is_custom_game=True, is_shortcut=False, use_ludusavi=False, admin=False, launch_trainer=False, game_launch_cmd=None
+2026-10-23 16:50:32,610 INFO [ENTRY] execute(game_path=E:\SteamLibrary\steamapps\common\eFootball\eFootball\Binaries\Win64\eFootball.exe, is_custom_game=True, admin=False, is_shortcut=False, use_ludusavi=False, game_launch_cmd=None, launch_trainer=False)
+2026-10-23 16:50:32,611 ERROR Download directory not found in ascendarasettings.json
+2026-10-23 16:50:32,612 INFO [EXIT] execute due to missing download_dir for custom game
+
+[2026-10-23T19:50:32.613Z] Game handler output: [DEBUG] execute() finished.
+
+[2026-10-23T19:50:33.019Z] [Games] No new process for eFootball™ (eFootball.exe)
+[2026-10-23T19:50:59.040Z] Window started loading
+[2026-10-23T19:51:03.036Z] [Sessions] eFootball™: 1min recorded
+[2026-10-23T19:51:03.138Z] Window started loading
+[2026-10-23T19:51:06.342Z] Window started loading
+[2026-10-23T19:51:27.524Z] Window started loading
+[2026-10-23T19:51:27.902Z] Window started loading
+[2026-10-23T19:51:33.352Z] Window started loading
+[2026-10-23T19:51:39.515Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:51:43.419Z] Window started loading
+[2026-10-23T19:51:43.756Z] Window started loading
+[2026-10-23T19:51:47.666Z] Window started loading
+[2026-10-23T19:52:20.912Z] Window started loading
+[2026-10-23T19:52:21.293Z] Window started loading
+[2026-10-23T19:52:26.528Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:52:34.135Z] Window started loading
+[2026-10-23T19:52:34.735Z] [WATCHER] Memory Usage: RSS=21.27MB, Heap=6.91/8.22MB
+[2026-10-23T19:53:06.873Z] Removing stale lock file
+ERROR: [2026-10-23T19:53:06.949Z] (node:11564) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T19:53:07.440Z] Current version 1.0.0 is not broken
+[2026-10-23T19:53:08.515Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-23T19:53:08.568Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-23T19:53:08.587Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-23T19:53:08.705Z] System tray created successfully
+[2026-10-23T19:53:08.719Z] Achievement watcher started
+[2026-10-23T19:53:08.901Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T19:53:08.974Z] [WATCHER] About to acquire single-instance lock...
+ERROR: [2026-10-23T19:53:08.979Z] [WATCHER ERROR] Failed to acquire single-instance lock: An application is already running
+[2026-10-23T19:53:08.979Z] [WATCHER] Another instance may already be running.
+[2026-10-23T19:53:08.993Z] Achievement watcher exited with code 0 and signal null
+[2026-10-23T19:53:11.233Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:53:11.455Z] Window DOM ready
+[2026-10-23T19:53:11.461Z] ready-to-show event fired
+[2026-10-23T19:53:11.516Z] Window shown event fired
+[2026-10-23T19:53:11.516Z] Window shown via ready-to-show event
+[2026-10-23T19:53:11.538Z] Window finished loading
+[2026-10-23T19:53:11.557Z] Window started loading
+[2026-10-23T19:53:14.060Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:53:17.048Z] Getting auth token for download...
+[2026-10-23T19:53:17.050Z] [Build Signature] Loaded: 329e4c7ba2361d5d932d7235ce8033cc
+ERROR: [2026-10-23T19:53:17.202Z] Failed to download shared index: {}
+[2026-10-23T19:53:21.570Z] Window started loading
+[2026-10-23T19:53:25.112Z] Window started loading
+[2026-10-23T19:53:28.458Z] [Games] Packaged handler .exe not found - using Python handler from binaries/
+[2026-10-23T19:53:28.927Z] Game handler output: [DEBUG] Script started.
+[DEBUG] Arguments received: ['E:\\gmx-games\\The Coffin of Andy and Leyley\\The Coffin of Andy and Leyley\\The Coffin of Andy and Leyley.exe', 'false', 'false']
+[DEBUG] Logging to: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\binaries\AscendaraGameHandler\src\gamehandler.log
+[DEBUG] Logging configured.
+2026-10-23 16:53:28,926 INFO === Ascendara Game Handler Started ===
+2026-10-23 16:53:28,926 INFO Arguments received: ['E:\\gmx-games\\The Coffin of Andy and Leyley\\The Coffin of Andy and Leyley\\The Coffin of Andy and Leyley.exe', 'false', 'false']
+
+[2026-10-23T19:53:28.928Z] Game handler output: 2026-10-23 16:53:28,927 INFO Initializing with: game_path=E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.exe, is_custom_game=False, is_shortcut=False, use_ludusavi=False, admin=False, launch_trainer=False, game_launch_cmd=None
+[DEBUG] Initializing with: game_path=E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.exe, is_custom_game=False, is_shortcut=False, use_ludusavi=False, admin=False, launch_trainer=False, game_launch_cmd=None
+2026-10-23 16:53:28,927 INFO [ENTRY] execute(game_path=E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.exe, is_custom_game=False, admin=False, is_shortcut=False, use_ludusavi=False, game_launch_cmd=None, launch_trainer=False)
+
+[2026-10-23T19:53:28.929Z] Game handler output: 2026-10-23 16:53:28,928 INFO Resolved game_dir: E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley, exe_path: E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.exe
+
+[2026-10-23T19:53:28.967Z] Game handler output: 2026-10-23 16:53:28,966 INFO Incremented launch count and set isRunning for E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.ascendara.json
+
+[2026-10-23T19:53:29.111Z] Game handler output: 2026-10-23 16:53:29,109 INFO Updated runningGames in C:\Users\c2644\AppData\Roaming\ascendara\ascendarasettings.json for The Coffin of Andy and Leyley
+
+[2026-10-23T19:53:29.189Z] Game handler output: 2026-10-23 16:53:29,186 INFO Launching executable directly: E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.exe
+
+[2026-10-23T19:53:29.533Z] [Games] The Coffin of Andy and Leyley running as PID 22468
+[2026-10-23T19:53:29.544Z] Game handler output: 2026-10-23 16:53:29,223 INFO Entering game process monitoring loop (180s intervals)
+
+[2026-10-23T19:53:39.589Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:53:41.946Z] [WATCHER] File event: update on file: C:\Users\c2644\AppData\Roaming\GSE Saves\settings\configs.user.ini
+File event: update on file: C:\Users\c2644\AppData\Roaming\GSE Saves\2378900\playtime.txt
+[2026-10-23T19:53:41.947Z] [WATCHER] File event: update on file: C:\Users\c2644\AppData\Roaming\GSE Saves\2378900
+[2026-10-23T19:53:42.454Z] [WATCHER] File last modified: 1789086703124.8098, current time: 1792785222450, difference: 3698519325.1901855ms
+Skipping event: file modified more than 1s ago.
+[2026-10-23T19:53:42.454Z] [WATCHER] File last modified: 1792771718062.408, current time: 1792785222453, difference: 13504390.592041016ms
+Skipping event: file modified more than 1s ago.
+File last modified: 1792771718062.408, current time: 1792785222453, difference: 13504390.592041016ms
+[2026-10-23T19:53:42.454Z] [WATCHER] Skipping event: file modified more than 1s ago.
+[2026-10-23T19:53:56.680Z] Window started loading
+[2026-10-23T19:54:03.763Z] Window started loading
+[2026-10-23T19:54:20.126Z] Creating shortcut for game: {"game":"The Coffin of Andy and Leyley","online":false,"dlc":false,"isVr":false,"version":"22651024","size":"640 MB","gameID":"AUgwFC","executable":"E:\\gmx-games\\The Coffin of Andy and Leyley\\The Coffin of Andy and Leyley\\The Coffin of Andy and Leyley.exe","isRunning":true,"launchCount":2,"playTime":130,"_sourceDir":"E:\\gmx-games","isCustom":false,"_isDownloading":false}
+[2026-10-23T19:54:44.576Z] Window started loading
+[2026-10-23T19:54:49.056Z] Window started loading
+[2026-10-23T19:54:54.101Z] [WATCHER] File event: update on file: C:\Users\c2644\AppData\Roaming\GSE Saves\2378900\playtime.txt
+[2026-10-23T19:54:54.599Z] Window started loading
+[2026-10-23T19:54:54.614Z] [WATCHER] File last modified: 1792785293893.5122, current time: 1792785294612, difference: 718.48779296875ms
+[2026-10-23T19:54:54.615Z] [WATCHER] Checking if file is in watch list: playtime.txt
+File playtime.txt not in options.file, skipping.
+[2026-10-23T19:54:56.747Z] Window started loading
+[2026-10-23T19:55:13.423Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:55:27.272Z] Removing stale lock file
+ERROR: [2026-10-23T19:55:27.354Z] (node:22972) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T19:55:27.810Z] Current version 1.0.0 is not broken
+[2026-10-23T19:55:28.848Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-23T19:55:28.911Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-23T19:55:28.928Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-23T19:55:29.044Z] System tray created successfully
+[2026-10-23T19:55:29.057Z] Achievement watcher started
+[2026-10-23T19:55:29.226Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T19:55:29.293Z] [WATCHER] About to acquire single-instance lock...
+ERROR: [2026-10-23T19:55:29.297Z] [WATCHER ERROR] Failed to acquire single-instance lock: An application is already running
+[2026-10-23T19:55:29.297Z] [WATCHER] Another instance may already be running.
+[2026-10-23T19:55:29.310Z] Achievement watcher exited with code 0 and signal null
+[2026-10-23T19:55:31.795Z] Window DOM ready
+[2026-10-23T19:55:31.797Z] ready-to-show event fired
+[2026-10-23T19:55:31.833Z] Window shown event fired
+[2026-10-23T19:55:31.834Z] Window shown via ready-to-show event
+[2026-10-23T19:55:31.847Z] Window finished loading
+[2026-10-23T19:55:31.975Z] Window started loading
+[2026-10-23T19:55:32.184Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:55:37.495Z] Getting auth token for download...
+[2026-10-23T19:55:37.496Z] [Build Signature] Loaded: 329e4c7ba2361d5d932d7235ce8033cc
+ERROR: [2026-10-23T19:55:37.641Z] Failed to download shared index: {}
+[2026-10-23T19:55:39.664Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:55:50.269Z] Window started loading
+[2026-10-23T19:56:07.370Z] Window started loading
+[2026-10-23T19:56:09.084Z] Window started loading
+[2026-10-23T19:56:11.196Z] Window started loading
+[2026-10-23T19:57:34.740Z] [WATCHER] Memory Usage: RSS=22.53MB, Heap=7.47/8.73MB
+[2026-10-23T19:57:34.979Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:57:39.916Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:59:34.794Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T19:59:39.832Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:01:34.799Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:01:40.108Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:02:34.750Z] [WATCHER] Memory Usage: RSS=22.31MB, Heap=7.47/8.73MB
+[2026-10-23T20:03:34.998Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:03:39.539Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:04:55.738Z] Removing stale lock file
+ERROR: [2026-10-23T20:04:55.822Z] (node:17316) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T20:04:56.319Z] Current version 1.0.0 is not broken
+[2026-10-23T20:04:56.356Z] [Screenshots] F12 global registrado
+[2026-10-23T20:04:57.377Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-23T20:04:57.433Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-23T20:04:57.451Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-23T20:04:57.564Z] System tray created successfully
+[2026-10-23T20:04:57.578Z] Achievement watcher started
+[2026-10-23T20:04:57.765Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T20:04:57.837Z] [WATCHER] About to acquire single-instance lock...
+ERROR: [2026-10-23T20:04:57.841Z] [WATCHER ERROR] Failed to acquire single-instance lock: An application is already running
+[2026-10-23T20:04:57.842Z] [WATCHER] Another instance may already be running.
+[2026-10-23T20:04:57.853Z] Achievement watcher exited with code 0 and signal null
+[2026-10-23T20:05:00.315Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:05:00.389Z] Window DOM ready
+[2026-10-23T20:05:00.391Z] ready-to-show event fired
+[2026-10-23T20:05:00.548Z] Window shown event fired
+[2026-10-23T20:05:00.549Z] Window shown via ready-to-show event
+[2026-10-23T20:05:00.565Z] Window finished loading
+[2026-10-23T20:05:00.572Z] Window started loading
+[2026-10-23T20:05:03.270Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:05:05.970Z] Getting auth token for download...
+[2026-10-23T20:05:05.971Z] [Build Signature] Loaded: 329e4c7ba2361d5d932d7235ce8033cc
+ERROR: [2026-10-23T20:05:06.139Z] Failed to download shared index: {}
+[2026-10-23T20:05:10.073Z] Window started loading
+[2026-10-23T20:05:12.544Z] Window started loading
+[2026-10-23T20:05:26.310Z] [Games] Packaged handler .exe not found - using Python handler from binaries/
+[2026-10-23T20:05:26.773Z] Game handler output: [DEBUG] Script started.
+[DEBUG] Arguments received: ['E:\\gmx-games\\The Coffin of Andy and Leyley\\The Coffin of Andy and Leyley\\The Coffin of Andy and Leyley.exe', 'false', 'false']
+[DEBUG] Logging to: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\binaries\AscendaraGameHandler\src\gamehandler.log
+[DEBUG] Logging configured.
+2026-10-23 17:05:26,772 INFO === Ascendara Game Handler Started ===
+
+[2026-10-23T20:05:26.773Z] Game handler output: 2026-10-23 17:05:26,772 INFO Arguments received: ['E:\\gmx-games\\The Coffin of Andy and Leyley\\The Coffin of Andy and Leyley\\The Coffin of Andy and Leyley.exe', 'false', 'false']
+2026-10-23 17:05:26,773 INFO Initializing with: game_path=E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.exe, is_custom_game=False, is_shortcut=False, use_ludusavi=False, admin=False, launch_trainer=False, game_launch_cmd=None
+[DEBUG] Initializing with: game_path=E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.exe, is_custom_game=False, is_shortcut=False, use_ludusavi=False, admin=False, launch_trainer=False, game_launch_cmd=None
+2026-10-23 17:05:26,773 INFO [ENTRY] execute(game_path=E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.exe, is_custom_game=False, admin=False, is_shortcut=False, use_ludusavi=False, game_launch_cmd=None, launch_trainer=False)
+
+[2026-10-23T20:05:26.774Z] Game handler output: 2026-10-23 17:05:26,774 INFO Resolved game_dir: E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley, exe_path: E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.exe
+
+[2026-10-23T20:05:26.801Z] Game handler output: 2026-10-23 17:05:26,799 INFO Incremented launch count and set isRunning for E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.ascendara.json
+
+[2026-10-23T20:05:26.866Z] Game handler output: 2026-10-23 17:05:26,865 INFO Updated runningGames in C:\Users\c2644\AppData\Roaming\ascendara\ascendarasettings.json for The Coffin of Andy and Leyley
+
+[2026-10-23T20:05:26.950Z] Game handler output: 2026-10-23 17:05:26,948 INFO Launching executable directly: E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.exe
+
+[2026-10-23T20:05:26.963Z] Game handler output: 2026-10-23 17:05:26,961 INFO Entering game process monitoring loop (180s intervals)
+
+[2026-10-23T20:05:27.350Z] [Games] The Coffin of Andy and Leyley running as PID 21052
+[2026-10-23T20:05:40.363Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:05:53.257Z] [Games] Stop The Coffin of Andy and Leyley: 1/1 processos encerrados
+[2026-10-23T20:05:53.260Z] [Sessions] The Coffin of Andy and Leyley: 0min recorded
+[2026-10-23T20:05:53.262Z] Game The Coffin of Andy and Leyley exited with code null
+[2026-10-23T20:07:02.834Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:07:34.762Z] [WATCHER] Memory Usage: RSS=22.28MB, Heap=7.48/8.73MB
+[2026-10-23T20:07:39.867Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:08:17.975Z] Removing stale lock file
+ERROR: [2026-10-23T20:08:18.055Z] (node:7292) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T20:08:18.311Z] Current version 1.0.0 is not broken
+[2026-10-23T20:08:18.349Z] [Screenshots] F12 global registrado
+[2026-10-23T20:08:19.642Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-23T20:08:19.714Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-23T20:08:19.736Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-23T20:08:19.845Z] System tray created successfully
+[2026-10-23T20:08:19.868Z] Achievement watcher started
+[2026-10-23T20:08:20.136Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T20:08:20.228Z] [WATCHER] About to acquire single-instance lock...
+ERROR: [2026-10-23T20:08:20.234Z] [WATCHER ERROR] Failed to acquire single-instance lock: An application is already running
+[2026-10-23T20:08:20.234Z] [WATCHER] Another instance may already be running.
+[2026-10-23T20:08:20.258Z] Achievement watcher exited with code 0 and signal null
+[2026-10-23T20:08:22.863Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:08:22.961Z] Window DOM ready
+[2026-10-23T20:08:22.963Z] ready-to-show event fired
+[2026-10-23T20:08:23.011Z] Window shown event fired
+[2026-10-23T20:08:23.012Z] Window shown via ready-to-show event
+[2026-10-23T20:08:23.021Z] Window finished loading
+[2026-10-23T20:08:23.028Z] Window started loading
+[2026-10-23T20:08:28.528Z] Getting auth token for download...
+[2026-10-23T20:08:28.529Z] [Build Signature] Loaded: 329e4c7ba2361d5d932d7235ce8033cc
+ERROR: [2026-10-23T20:08:28.686Z] Failed to download shared index: {}
+[2026-10-23T20:08:32.740Z] Window started loading
+[2026-10-23T20:08:34.363Z] Window started loading
+[2026-10-23T20:08:36.165Z] Window started loading
+[2026-10-23T20:09:40.131Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:10:25.944Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:11:39.814Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:12:25.977Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:12:34.768Z] [WATCHER] Memory Usage: RSS=22.30MB, Heap=7.49/8.73MB
+[2026-10-23T20:13:39.924Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:14:25.397Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:15:40.154Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:16:25.413Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:17:34.781Z] [WATCHER] Memory Usage: RSS=22.30MB, Heap=7.50/8.73MB
+[2026-10-23T20:17:39.982Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:18:25.572Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:19:40.238Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:20:25.308Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:20:52.119Z] Removing stale lock file
+ERROR: [2026-10-23T20:20:52.238Z] (node:21556) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T20:20:52.512Z] Current version 1.0.0 is not broken
+[2026-10-23T20:20:52.555Z] [Screenshots] F12 global registrado
+[2026-10-23T20:20:53.845Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-23T20:20:53.910Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-23T20:20:53.928Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-23T20:20:54.043Z] System tray created successfully
+[2026-10-23T20:20:54.063Z] Achievement watcher started
+[2026-10-23T20:20:54.342Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T20:20:54.439Z] [WATCHER] About to acquire single-instance lock...
+ERROR: [2026-10-23T20:20:54.443Z] [WATCHER ERROR] Failed to acquire single-instance lock: An application is already running
+[2026-10-23T20:20:54.444Z] [WATCHER] Another instance may already be running.
+[2026-10-23T20:20:54.458Z] Achievement watcher exited with code 0 and signal null
+[2026-10-23T20:20:56.863Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:20:57.066Z] Window DOM ready
+[2026-10-23T20:20:57.068Z] ready-to-show event fired
+[2026-10-23T20:20:57.141Z] Window shown event fired
+[2026-10-23T20:20:57.142Z] Window shown via ready-to-show event
+[2026-10-23T20:20:57.152Z] Window finished loading
+[2026-10-23T20:20:57.158Z] Window started loading
+[2026-10-23T20:21:02.663Z] Getting auth token for download...
+[2026-10-23T20:21:02.665Z] [Build Signature] Loaded: 329e4c7ba2361d5d932d7235ce8033cc
+ERROR: [2026-10-23T20:21:02.799Z] Failed to download shared index: {}
+[2026-10-23T20:21:06.371Z] Window started loading
+[2026-10-23T20:21:06.939Z] Window started loading
+[2026-10-23T20:21:14.194Z] Window started loading
+[2026-10-23T20:21:19.021Z] Window started loading
+[2026-10-23T20:21:27.477Z] Window started loading
+[2026-10-23T20:21:29.712Z] Window started loading
+[2026-10-23T20:21:31.106Z] Window started loading
+[2026-10-23T20:21:33.825Z] Window started loading
+[2026-10-23T20:21:36.395Z] [Games] Packaged handler .exe not found - using Python handler from binaries/
+[2026-10-23T20:21:37.238Z] Game handler output: [DEBUG] Script started.
+[DEBUG] Arguments received: ['E:\\gmx-games\\The Coffin of Andy and Leyley\\The Coffin of Andy and Leyley\\The Coffin of Andy and Leyley.exe', 'false', 'false']
+[DEBUG] Logging to: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\binaries\AscendaraGameHandler\src\gamehandler.log
+[DEBUG] Logging configured.
+2026-10-23 17:21:37,235 INFO === Ascendara Game Handler Started ===
+2026-10-23 17:21:37,237 INFO Arguments received: ['E:\\gmx-games\\The Coffin of Andy and Leyley\\The Coffin of Andy and Leyley\\The Coffin of Andy and Leyley.exe', 'false', 'false']
+
+[2026-10-23T20:21:37.239Z] Game handler output: 2026-10-23 17:21:37,238 INFO Initializing with: game_path=E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.exe, is_custom_game=False, is_shortcut=False, use_ludusavi=False, admin=False, launch_trainer=False, game_launch_cmd=None
+[DEBUG] Initializing with: game_path=E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.exe, is_custom_game=False, is_shortcut=False, use_ludusavi=False, admin=False, launch_trainer=False, game_launch_cmd=None
+2026-10-23 17:21:37,238 INFO [ENTRY] execute(game_path=E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.exe, is_custom_game=False, admin=False, is_shortcut=False, use_ludusavi=False, game_launch_cmd=None, launch_trainer=False)
+
+[2026-10-23T20:21:37.240Z] Game handler output: 2026-10-23 17:21:37,240 INFO Resolved game_dir: E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley, exe_path: E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.exe
+
+[2026-10-23T20:21:37.286Z] Game handler output: 2026-10-23 17:21:37,286 INFO Incremented launch count and set isRunning for E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.ascendara.json
+
+[2026-10-23T20:21:37.830Z] [Games] The Coffin of Andy and Leyley running as PID 23424
+[2026-10-23T20:21:37.834Z] Game handler output: 2026-10-23 17:21:37,441 INFO Updated runningGames in C:\Users\c2644\AppData\Roaming\ascendara\ascendarasettings.json for The Coffin of Andy and Leyley
+2026-10-23 17:21:37,561 INFO Launching executable directly: E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.exe
+2026-10-23 17:21:37,693 INFO Entering game process monitoring loop (180s intervals)
+
+[2026-10-23T20:21:40.236Z] [Telemetry] upload OK (2 arquivo(s))
+WARN: [2026-10-23T20:21:43.781Z] [SteamGrid] URL fetch failed (header) for "Responding": Request failed with status code 502
+[2026-10-23T20:22:34.796Z] [WATCHER] Memory Usage: RSS=22.32MB, Heap=7.51/8.73MB
+[2026-10-23T20:22:56.630Z] [WATCHER] File event: update on file: C:\Users\c2644\AppData\Roaming\GSE Saves\2378900\playtime.txt
+[2026-10-23T20:22:57.131Z] [WATCHER] File last modified: 1792786976392.4485, current time: 1792786977129, difference: 736.551513671875ms
+Checking if file is in watch list: playtime.txt
+File playtime.txt not in options.file, skipping.
+[2026-10-23T20:22:59.903Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:23:02.416Z] Game handler output: 2026-10-23 17:23:02,415 INFO Launched process for The Coffin of Andy and Leyley exited (code=0); checking for related processes still running under E:\gmx-games\The Coffin of Andy and Leyley
+
+[2026-10-23T20:23:03.649Z] Game handler output: 2026-10-23 17:23:03,648 INFO Game process ended
+2026-10-23 17:23:03,648 INFO [ENTRY] update_play_time(file_path=E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.ascendara.json, is_custom_game=False, add=85)
+
+[2026-10-23T20:23:03.650Z] Game handler output: 2026-10-23 17:23:03,649 INFO Updated play time for game The Coffin of Andy and Leyley: 215 seconds
+
+[2026-10-23T20:23:03.687Z] Game handler output: 2026-10-23 17:23:03,686 INFO [EXIT] update_play_time() - Success (+85 seconds)
+
+[2026-10-23T20:23:03.688Z] Game handler output: 2026-10-23 17:23:03,687 INFO Final playtime update: added 85 leftover second(s) for The Coffin of Andy and Leyley
+2026-10-23 17:23:03,687 INFO Related game process(es) under E:\gmx-games\The Coffin of Andy and Leyley have exited; treating game as closed
+2026-10-23 17:23:03,687 INFO Game process exited with return code: 0
+
+[2026-10-23T20:23:03.689Z] Game handler output: 2026-10-23 17:23:03,688 INFO Removed The Coffin of Andy and Leyley from runningGames in C:\Users\c2644\AppData\Roaming\ascendara\ascendarasettings.json
+
+[2026-10-23T20:23:03.714Z] Game handler output: 2026-10-23 17:23:03,710 INFO Set isRunning=False for game The Coffin of Andy and Leyley
+
+[2026-10-23T20:23:03.747Z] Game handler output: 2026-10-23 17:23:03,734 INFO [EXIT] execute for game: The Coffin of Andy and Leyley
+[DEBUG] execute() finished.
+
+[2026-10-23T20:23:03.771Z] Game The Coffin of Andy and Leyley exited with code 0
+ERROR: [2026-10-23T20:23:04.145Z] Error occurred in handler for 'is-game-running': {}
+[2026-10-23T20:23:07.860Z] [Sessions] The Coffin of Andy and Leyley: 2min recorded
+ERROR: [2026-10-23T20:23:08.963Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:23:13.955Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:23:18.956Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:23:23.954Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:23:28.956Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:23:33.965Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:23:38.959Z] Error occurred in handler for 'is-game-running': {}
+[2026-10-23T20:23:39.972Z] [Telemetry] upload OK (2 arquivo(s))
+ERROR: [2026-10-23T20:23:43.960Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:23:48.962Z] Error occurred in handler for 'is-game-running': {}
+[2026-10-23T20:24:00.644Z] Window started loading
+[2026-10-23T20:24:12.222Z] Window started loading
+[2026-10-23T20:24:16.532Z] Window started loading
+[2026-10-23T20:24:59.555Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:25:40.798Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:26:59.653Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:27:34.803Z] [WATCHER] Memory Usage: RSS=22.36MB, Heap=7.52/8.73MB
+[2026-10-23T20:27:40.057Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:28:36.607Z] Removing stale lock file
+ERROR: [2026-10-23T20:28:36.684Z] (node:25540) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T20:28:37.239Z] Current version 1.0.0 is not broken
+[2026-10-23T20:28:37.277Z] [Screenshots] F12 global registrado
+[2026-10-23T20:28:38.676Z] [Scheduler] agendador de downloads iniciado (tick 60s)
+[2026-10-23T20:28:38.695Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-23T20:28:38.770Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-23T20:28:38.796Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-23T20:28:38.950Z] System tray created successfully
+[2026-10-23T20:28:38.968Z] Achievement watcher started
+[2026-10-23T20:28:39.229Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T20:28:39.319Z] [WATCHER] About to acquire single-instance lock...
+ERROR: [2026-10-23T20:28:39.327Z] [WATCHER ERROR] Failed to acquire single-instance lock: An application is already running
+[2026-10-23T20:28:39.329Z] [WATCHER] Another instance may already be running.
+[2026-10-23T20:28:39.346Z] Achievement watcher exited with code 0 and signal null
+[2026-10-23T20:28:42.323Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:28:42.819Z] Window DOM ready
+[2026-10-23T20:28:42.823Z] ready-to-show event fired
+[2026-10-23T20:28:42.891Z] Window shown event fired
+[2026-10-23T20:28:42.892Z] Window shown via ready-to-show event
+[2026-10-23T20:28:42.901Z] Window finished loading
+[2026-10-23T20:28:42.910Z] Window started loading
+[2026-10-23T20:28:48.587Z] Getting auth token for download...
+[2026-10-23T20:28:48.589Z] [Build Signature] Loaded: 329e4c7ba2361d5d932d7235ce8033cc
+ERROR: [2026-10-23T20:28:48.734Z] Failed to download shared index: {}
+[2026-10-23T20:29:20.054Z] Window started loading
+[2026-10-23T20:29:21.760Z] Window started loading
+[2026-10-23T20:29:22.174Z] Window started loading
+[2026-10-23T20:29:24.054Z] Window started loading
+[2026-10-23T20:29:25.626Z] Window started loading
+[2026-10-23T20:29:29.857Z] Window started loading
+[2026-10-23T20:29:33.339Z] Window started loading
+[2026-10-23T20:29:39.929Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:29:40.577Z] Blocked popup in external window: https://werefilledwit.org/TjByWFBxUwFlBglAExY8Jl4lHx0MUkAaMyxXICsJCFwCGRc5FhM6JHMAVCo1Kg1DfiMjDUNudiUNVC5tfx5BbH59CFxvdj1EAWVgaEAANm1%2BFhc1MnMAVCw5Kg1DbGd2AkBhdjxIC2VhegRCB2l%2BAFQxPi0NSn4lcwNDa2J5CEtraXoEQWBpfRYTPzUtDUNvaXwHSm9jdgBUPiNzAVQ%2BOSJVTxsxPGhfCyQ8VRcsfR1EFzk9HHkidjMhXVwqMTwWAD02c1gGLCA9FUEZdXx2V2oWLEoIMCJgRB19YghSSi5ieF8VbTl4AR5%2BPz1CTyskK1EfKjk%2BHhE3PWhaASxtfhYXNiJzAFQ0MztRTzU%2FNFkeNDFrAjRtfn4VQGh4OVkcPD85Q1dqYCBEV2pgfwBcaHV9cldqYDlZHG5kawMwfWJ%2BSERseWsCQjkgPlwXLzUsWxssdXx2R2tnYANEfWJ%2BGBkwJCNcV2oTawJCNDklVVdqYClVETM%2FZxVAaDMmQh01NWsCNGlkeh5Cdmd7BUt2Yn0GV2pgK1wXOyQ8Xxx9YggEQnZhfh5EfWJ%2BQxM%2BMTxZV2oWewNFdmN4FgE9Mz5cEyxtGVkcPD85Q1QrNS1AHjkkOFUAZWF%2BHkJ2YGhDFzs2OFxPfWJ8fh0seA8VQRkSPFEcPHV8AldrEjgVQRx1fAJKdmBgAFxodXwCV2oTawJCfWJ8cxoqPyNZBzV1fAJXaxI4FUEcdXwCQ2xkYABcb2V7CVxqY3gVQGp2PVURNT8qVR5ldjpKFmV9fRYHND8tDQIsfQxiVDE2cwBUOyRzBFQ7JC0NQH4POVsbIW1%2FB0tqZ3YHQWBgewZKfiU6QkNlYGhFBipicwJGfiU6QkFlYGhFBipkcwBULSQ8BU9odjtEAG5tfhYHLCJ5DUJ%2BJi9cGzxtfw%3D%3D
+[2026-10-23T20:29:41.468Z] Intercepted download in external window: https://ts.bzzhr.to/d/b8v26og5i61l?v=i4-qVnzh4xL-ESUpo0cjYlFEag8TvoLSpYvxXKKy18Olp3rWim1Acmd7df6bf-mQMSuAmBNGzT5Ed60f5gZywPTXv513v3ZnoNM2B9fkISYf_1uVPS6PKdlvRMPrkpRwaueo6NN5WXN4ViHgGgLrtttECUsr-fKvw0dd_LT-fX5l65Yg7e-52OjaOXs
+[2026-10-23T20:29:41.468Z] Forwarded intercepted download URL to main window
+[2026-10-23T20:29:46.781Z] Downloading file: https://ts.bzzhr.to/d/b8v26og5i61l?v=i4-qVnzh4xL-ESUpo0cjYlFEag8TvoLSpYvxXKKy18Olp3rWim1Acmd7df6bf-mQMSuAmBNGzT5Ed60f5gZywPTXv513v3ZnoNM2B9fkISYf_1uVPS6PKdlvRMPrkpRwaueo6NN5WXN4ViHgGgLrtttECUsr-fKvw0dd_LT-fX5l65Yg7e-52OjaOXs, game: CarX Street, online: true, dlc: true, isVr: false, updateFlow: false, version: 1.15.1, size: 16.8 GB, additionalDirIndex: 1, gameID: AaDrJY, folder: CarX Street
+[2026-10-23T20:29:46.786Z] No local header image found, trying SteamGridDB fallback for: CarX Street
+WARN: [2026-10-23T20:29:46.787Z] SteamGridDB fallback failed for CarX Street: steamgrid.fetchGameHeader is not a function
+[2026-10-23T20:29:46.788Z] [Download] Starting background asset fetch for CarX Street (Name Search)
+[2026-10-23T20:29:46.789Z] [SteamGrid] Searching for: "CarX Street"
+[2026-10-23T20:29:46.801Z] Cached download data for resume: C:\Users\c2644\AppData\Roaming\Electron\downloadCache\CarX Street.json
+[2026-10-23T20:29:46.802Z] Spawning executable: python
+[2026-10-23T20:29:46.867Z] [SteamGrid] Found GameID 5247124
+[2026-10-23T20:29:47.370Z] [SteamGrid] Downloaded grid.ascendara.png
+[2026-10-23T20:29:48.142Z] [SteamGrid] Downloaded hero.ascendara.png
+[2026-10-23T20:29:48.601Z] [SteamGrid] Downloaded logo.ascendara.png
+[2026-10-23T20:29:49.528Z] Window started loading
+[2026-10-23T20:29:53.751Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:29:54.205Z] Stopping download for game: [object Object], deleteContents: CarX Street, isKill: false
+ERROR: [2026-10-23T20:29:54.205Z] Error stopping download: {}
+[2026-10-23T20:30:06.853Z] Window started loading
+[2026-10-23T20:30:13.866Z] Window started loading
+[2026-10-23T20:30:18.310Z] Stopping download for game: [object Object], deleteContents: CarX Street, isKill: false
+ERROR: [2026-10-23T20:30:18.310Z] Error stopping download: {}
+[2026-10-23T20:30:26.131Z] Stopping download for game: [object Object], deleteContents: CarX Street, isKill: false
+ERROR: [2026-10-23T20:30:26.131Z] Error stopping download: {}
+[2026-10-23T20:30:28.524Z] Stopping download for game: [object Object], deleteContents: CarX Street, isKill: false
+ERROR: [2026-10-23T20:30:28.525Z] Error stopping download: {}
+[2026-10-23T20:30:31.959Z] Stopping download for game: [object Object], deleteContents: CarX Street, isKill: true
+ERROR: [2026-10-23T20:30:31.959Z] Error stopping download: {}
+[2026-10-23T20:30:37.311Z] Stopping download for game: [object Object], deleteContents: CarX Street, isKill: true
+ERROR: [2026-10-23T20:30:37.313Z] Error stopping download: {}
+[2026-10-23T20:30:39.294Z] Window started loading
+[2026-10-23T20:30:41.311Z] Window started loading
+[2026-10-23T20:30:42.803Z] Window started loading
+[2026-10-23T20:30:45.750Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:30:47.159Z] Window started loading
+[2026-10-23T20:30:49.045Z] Window started loading
+[2026-10-23T20:30:51.916Z] [Games] Packaged handler .exe not found - using Python handler from binaries/
+[2026-10-23T20:30:52.593Z] Game handler output: [DEBUG] Script started.
+[DEBUG] Arguments received: ['E:\\gmx-games\\The Coffin of Andy and Leyley\\The Coffin of Andy and Leyley\\The Coffin of Andy and Leyley.exe', 'false', 'false']
+[DEBUG] Logging to: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\binaries\AscendaraGameHandler\src\gamehandler.log
+[DEBUG] Logging configured.
+2026-10-23 17:30:52,592 INFO === Ascendara Game Handler Started ===
+2026-10-23 17:30:52,592 INFO Arguments received: ['E:\\gmx-games\\The Coffin of Andy and Leyley\\The Coffin of Andy and Leyley\\The Coffin of Andy and Leyley.exe', 'false', 'false']
+
+[2026-10-23T20:30:52.594Z] Game handler output: 2026-10-23 17:30:52,593 INFO Initializing with: game_path=E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.exe, is_custom_game=False, is_shortcut=False, use_ludusavi=False, admin=False, launch_trainer=False, game_launch_cmd=None
+[DEBUG] Initializing with: game_path=E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.exe, is_custom_game=False, is_shortcut=False, use_ludusavi=False, admin=False, launch_trainer=False, game_launch_cmd=None
+2026-10-23 17:30:52,593 INFO [ENTRY] execute(game_path=E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.exe, is_custom_game=False, admin=False, is_shortcut=False, use_ludusavi=False, game_launch_cmd=None, launch_trainer=False)
+
+[2026-10-23T20:30:52.594Z] Game handler output: 2026-10-23 17:30:52,594 INFO Resolved game_dir: E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley, exe_path: E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.exe
+
+[2026-10-23T20:30:52.684Z] Game handler output: 2026-10-23 17:30:52,683 INFO Incremented launch count and set isRunning for E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.ascendara.json
+
+[2026-10-23T20:30:52.733Z] Game handler output: 2026-10-23 17:30:52,733 INFO Updated runningGames in C:\Users\c2644\AppData\Roaming\ascendara\ascendarasettings.json for The Coffin of Andy and Leyley
+
+[2026-10-23T20:30:52.823Z] Game handler output: 2026-10-23 17:30:52,823 INFO Launching executable directly: E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.exe
+
+[2026-10-23T20:30:52.836Z] Game handler output: 2026-10-23 17:30:52,836 INFO Entering game process monitoring loop (180s intervals)
+
+[2026-10-23T20:30:53.314Z] [Games] The Coffin of Andy and Leyley running as PID 20272
+[2026-10-23T20:31:21.098Z] Game handler output: 2026-10-23 17:31:21,097 INFO Launched process for The Coffin of Andy and Leyley exited (code=0); checking for related processes still running under E:\gmx-games\The Coffin of Andy and Leyley
+
+[2026-10-23T20:31:22.518Z] Game handler output: 2026-10-23 17:31:22,517 INFO Game process ended
+2026-10-23 17:31:22,517 INFO [ENTRY] update_play_time(file_path=E:\gmx-games\The Coffin of Andy and Leyley\The Coffin of Andy and Leyley.ascendara.json, is_custom_game=False, add=29)
+
+[2026-10-23T20:31:22.519Z] Game handler output: 2026-10-23 17:31:22,518 INFO Updated play time for game The Coffin of Andy and Leyley: 244 seconds
+
+[2026-10-23T20:31:22.559Z] Game handler output: 2026-10-23 17:31:22,558 INFO [EXIT] update_play_time() - Success (+29 seconds)
+2026-10-23 17:31:22,558 INFO Final playtime update: added 29 leftover second(s) for The Coffin of Andy and Leyley
+
+[2026-10-23T20:31:22.559Z] Game handler output: 2026-10-23 17:31:22,558 INFO Related game process(es) under E:\gmx-games\The Coffin of Andy and Leyley have exited; treating game as closed
+2026-10-23 17:31:22,558 INFO Game process exited with return code: 0
+
+[2026-10-23T20:31:22.560Z] Game handler output: 2026-10-23 17:31:22,559 INFO Removed The Coffin of Andy and Leyley from runningGames in C:\Users\c2644\AppData\Roaming\ascendara\ascendarasettings.json
+
+[2026-10-23T20:31:22.582Z] Game handler output: 2026-10-23 17:31:22,581 INFO Set isRunning=False for game The Coffin of Andy and Leyley
+
+[2026-10-23T20:31:22.624Z] Game handler output: 2026-10-23 17:31:22,623 INFO [EXIT] execute for game: The Coffin of Andy and Leyley
+
+[2026-10-23T20:31:22.625Z] Game handler output: [DEBUG] execute() finished.
+
+[2026-10-23T20:31:22.654Z] Game The Coffin of Andy and Leyley exited with code 0
+ERROR: [2026-10-23T20:31:23.058Z] Error occurred in handler for 'is-game-running': {}
+[2026-10-23T20:31:23.336Z] [Sessions] The Coffin of Andy and Leyley: 1min recorded
+ERROR: [2026-10-23T20:31:27.839Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:31:32.834Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:31:37.837Z] Error occurred in handler for 'is-game-running': {}
+[2026-10-23T20:31:39.741Z] [Telemetry] upload OK (2 arquivo(s))
+ERROR: [2026-10-23T20:31:42.845Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:31:47.840Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:31:52.833Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:31:57.843Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:32:02.842Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:32:07.836Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:32:12.847Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:32:17.832Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:32:22.833Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:32:27.836Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:32:32.838Z] Error occurred in handler for 'is-game-running': {}
+[2026-10-23T20:32:34.807Z] [WATCHER] Memory Usage: RSS=21.28MB, Heap=7.53/8.73MB
+ERROR: [2026-10-23T20:32:37.835Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:32:42.838Z] Error occurred in handler for 'is-game-running': {}
+[2026-10-23T20:32:45.654Z] [Telemetry] upload OK (2 arquivo(s))
+ERROR: [2026-10-23T20:32:47.840Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:32:52.841Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:32:57.839Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:33:02.839Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:33:07.835Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:33:12.834Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:33:17.832Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:33:22.845Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:33:27.835Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:33:32.842Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:33:37.841Z] Error occurred in handler for 'is-game-running': {}
+[2026-10-23T20:33:40.053Z] [Telemetry] upload OK (2 arquivo(s))
+ERROR: [2026-10-23T20:33:42.832Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:33:47.843Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:33:52.843Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:33:57.840Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:34:02.841Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:34:07.834Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:34:12.837Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:34:17.839Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:34:22.830Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:34:27.832Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:34:32.848Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:34:37.835Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:34:42.836Z] Error occurred in handler for 'is-game-running': {}
+[2026-10-23T20:34:45.383Z] [Telemetry] upload OK (2 arquivo(s))
+ERROR: [2026-10-23T20:34:47.833Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:34:52.833Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:34:57.839Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:35:02.839Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:35:07.832Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:35:12.834Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:35:17.838Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:35:22.837Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:35:27.836Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:35:32.835Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:35:37.842Z] Error occurred in handler for 'is-game-running': {}
+[2026-10-23T20:35:40.395Z] [Telemetry] upload OK (2 arquivo(s))
+ERROR: [2026-10-23T20:35:42.840Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:35:47.844Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:35:52.838Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:35:57.841Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:36:02.837Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:36:07.832Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:36:12.834Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:36:17.839Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:36:22.833Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:36:27.837Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:36:32.841Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:36:37.835Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:36:42.833Z] Error occurred in handler for 'is-game-running': {}
+[2026-10-23T20:36:45.193Z] [Telemetry] upload OK (2 arquivo(s))
+ERROR: [2026-10-23T20:36:47.831Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:36:52.843Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:36:57.835Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:37:02.831Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:37:07.831Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:37:12.835Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:37:17.836Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:37:22.836Z] Error occurred in handler for 'is-game-running': {}
+ERROR: [2026-10-23T20:37:27.843Z] Error occurred in handler for 'is-game-running': {}
+[2026-10-23T20:37:34.815Z] [WATCHER] Memory Usage: RSS=21.26MB, Heap=7.54/8.73MB
+[2026-10-23T20:37:40.151Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:38:03.656Z] Removing stale lock file
+ERROR: [2026-10-23T20:38:03.776Z] (node:25144) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T20:38:04.333Z] Current version 1.0.0 is not broken
+[2026-10-23T20:38:04.395Z] [Screenshots] F12 global registrado
+[2026-10-23T20:38:06.234Z] [Scheduler] agendador de downloads iniciado (tick 60s)
+[2026-10-23T20:38:06.257Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-23T20:38:06.347Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-23T20:38:06.387Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-23T20:38:06.581Z] System tray created successfully
+[2026-10-23T20:38:06.609Z] Achievement watcher started
+[2026-10-23T20:38:06.966Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T20:38:07.065Z] [WATCHER] About to acquire single-instance lock...
+ERROR: [2026-10-23T20:38:07.071Z] [WATCHER ERROR] Failed to acquire single-instance lock: An application is already running
+[2026-10-23T20:38:07.072Z] [WATCHER] Another instance may already be running.
+[2026-10-23T20:38:07.099Z] Achievement watcher exited with code 0 and signal null
+[2026-10-23T20:38:09.247Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:38:11.219Z] Window DOM ready
+[2026-10-23T20:38:11.221Z] ready-to-show event fired
+[2026-10-23T20:38:11.266Z] Window shown event fired
+[2026-10-23T20:38:11.267Z] Window shown via ready-to-show event
+[2026-10-23T20:38:11.282Z] Window finished loading
+[2026-10-23T20:38:11.289Z] Window started loading
+[2026-10-23T20:38:16.842Z] Getting auth token for download...
+[2026-10-23T20:38:16.845Z] [Build Signature] Loaded: 329e4c7ba2361d5d932d7235ce8033cc
+ERROR: [2026-10-23T20:38:17.005Z] Failed to download shared index: {}
+[2026-10-23T20:38:20.901Z] Window started loading
+[2026-10-23T20:38:23.070Z] Window started loading
+[2026-10-23T20:38:26.942Z] Stopping download for game: [object Object], deleteContents: CarX Street, isKill: false
+ERROR: [2026-10-23T20:38:26.943Z] Error stopping download: {}
+[2026-10-23T20:38:28.246Z] Window started loading
+[2026-10-23T20:38:41.988Z] Window started loading
+[2026-10-23T20:38:51.994Z] Window started loading
+[2026-10-23T20:39:39.822Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:40:11.830Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:41:40.025Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:42:12.110Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:42:34.815Z] [WATCHER] Memory Usage: RSS=21.30MB, Heap=7.55/8.73MB
+[2026-10-23T20:43:40.231Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:44:12.075Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:45:04.146Z] Removing stale lock file
+ERROR: [2026-10-23T20:45:04.230Z] (node:16572) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T20:45:04.511Z] Current version 1.0.0 is not broken
+[2026-10-23T20:45:04.550Z] [Screenshots] F12 global registrado
+[2026-10-23T20:45:05.760Z] [Scheduler] agendador de downloads iniciado (tick 60s)
+[2026-10-23T20:45:05.773Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-23T20:45:05.841Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-23T20:45:05.867Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-23T20:45:05.998Z] System tray created successfully
+[2026-10-23T20:45:06.018Z] Achievement watcher started
+[2026-10-23T20:45:06.285Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T20:45:06.379Z] [WATCHER] About to acquire single-instance lock...
+ERROR: [2026-10-23T20:45:06.384Z] [WATCHER ERROR] Failed to acquire single-instance lock: An application is already running
+[2026-10-23T20:45:06.384Z] [WATCHER] Another instance may already be running.
+[2026-10-23T20:45:06.412Z] Achievement watcher exited with code 0 and signal null
+[2026-10-23T20:45:08.806Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:45:08.961Z] Window DOM ready
+[2026-10-23T20:45:08.963Z] ready-to-show event fired
+[2026-10-23T20:45:09.013Z] Window shown event fired
+[2026-10-23T20:45:09.013Z] Window shown via ready-to-show event
+[2026-10-23T20:45:09.020Z] Window finished loading
+[2026-10-23T20:45:09.026Z] Window started loading
+[2026-10-23T20:45:14.489Z] Getting auth token for download...
+[2026-10-23T20:45:14.490Z] [Build Signature] Loaded: 329e4c7ba2361d5d932d7235ce8033cc
+ERROR: [2026-10-23T20:45:14.635Z] Failed to download shared index: {}
+[2026-10-23T20:45:40.043Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:47:11.568Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:47:32.653Z] Window started loading
+[2026-10-23T20:47:34.819Z] [WATCHER] Memory Usage: RSS=21.34MB, Heap=7.56/8.73MB
+[2026-10-23T20:47:38.891Z] Stopping download for game: [object Object], deleteContents: CarX Street, isKill: false
+ERROR: [2026-10-23T20:47:38.891Z] Error stopping download: {}
+[2026-10-23T20:47:40.078Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:47:42.735Z] Stopping download for game: [object Object], deleteContents: CarX Street, isKill: true
+ERROR: [2026-10-23T20:47:42.736Z] Error stopping download: {}
+[2026-10-23T20:47:44.591Z] Window started loading
+[2026-10-23T20:47:52.510Z] Window started loading
+[2026-10-23T20:48:01.997Z] Window started loading
+[2026-10-23T20:49:11.322Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:49:40.326Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:50:49.486Z] Removing stale lock file
+ERROR: [2026-10-23T20:50:49.568Z] (node:20684) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T20:50:50.045Z] Current version 1.0.0 is not broken
+[2026-10-23T20:50:50.080Z] [Screenshots] F12 global registrado
+[2026-10-23T20:50:51.137Z] [Scheduler] agendador de downloads iniciado (tick 60s)
+[2026-10-23T20:50:51.150Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-23T20:50:51.212Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-23T20:50:51.230Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-23T20:50:51.356Z] System tray created successfully
+[2026-10-23T20:50:51.371Z] Achievement watcher started
+[2026-10-23T20:50:51.555Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T20:50:51.627Z] [WATCHER] About to acquire single-instance lock...
+ERROR: [2026-10-23T20:50:51.634Z] [WATCHER ERROR] Failed to acquire single-instance lock: An application is already running
+[2026-10-23T20:50:51.634Z] [WATCHER] Another instance may already be running.
+[2026-10-23T20:50:51.656Z] Achievement watcher exited with code 0 and signal null
+[2026-10-23T20:50:54.033Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:50:54.154Z] Window DOM ready
+[2026-10-23T20:50:54.156Z] ready-to-show event fired
+[2026-10-23T20:50:54.187Z] Window shown event fired
+[2026-10-23T20:50:54.187Z] Window shown via ready-to-show event
+[2026-10-23T20:50:54.195Z] Window finished loading
+[2026-10-23T20:50:54.200Z] Window started loading
+[2026-10-23T20:50:56.868Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:50:59.690Z] Getting auth token for download...
+[2026-10-23T20:50:59.692Z] [Build Signature] Loaded: 329e4c7ba2361d5d932d7235ce8033cc
+ERROR: [2026-10-23T20:50:59.829Z] Failed to download shared index: {}
+[2026-10-23T20:51:05.120Z] Window started loading
+[2026-10-23T20:51:11.261Z] Stopping download for game: [object Object], deleteContents: CarX Street, isKill: true
+ERROR: [2026-10-23T20:51:11.261Z] Error stopping download: {}
+[2026-10-23T20:51:15.010Z] Window started loading
+[2026-10-23T20:51:18.525Z] Window started loading
+[2026-10-23T20:51:31.087Z] Window started loading
+[2026-10-23T20:51:40.162Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:52:34.833Z] [WATCHER] Memory Usage: RSS=21.34MB, Heap=7.57/8.73MB
+[2026-10-23T20:52:50.753Z] Window started loading
+[2026-10-23T20:52:56.727Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:53:40.480Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:54:56.649Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:55:40.536Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:56:56.557Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T20:57:34.865Z] [WATCHER] Memory Usage: RSS=21.23MB, Heap=7.57/8.73MB
