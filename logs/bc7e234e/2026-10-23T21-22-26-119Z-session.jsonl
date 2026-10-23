@@ -1,0 +1,15 @@
+{"ts":"2026-10-23T21:20:21.993Z","sid":"tc383t","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T21:20:32.539Z","sid":"tc383t","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T21:20:36.188Z","sid":"tc383t","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T21:20:42.005Z","sid":"tc383t","event":"click","route":"/library","tag":"div","label":""}
+{"ts":"2026-10-23T21:20:44.147Z","sid":"tc383t","event":"click","route":"/library","tag":"a","label":"Downloads1Downloads"}
+{"ts":"2026-10-23T21:20:48.261Z","sid":"tc383t","event":"click","route":"/downloads","tag":"div","label":"CarX Street16.8 GBBaixando"}
+{"ts":"2026-10-23T21:20:49.012Z","sid":"tc383t","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T21:20:51.853Z","sid":"tc383t","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T21:20:52.211Z","sid":"tc383t","event":"click","route":"/downloads","tag":"div","label":"16.8 GBBaixando"}
+{"ts":"2026-10-23T21:20:52.397Z","sid":"tc383t","event":"click","route":"/downloads","tag":"div","label":"16.8 GBBaixando"}
+{"ts":"2026-10-23T21:20:52.603Z","sid":"tc383t","event":"click","route":"/downloads","tag":"div","label":"16.8 GBBaixando"}
+{"ts":"2026-10-23T21:20:53.956Z","sid":"tc383t","event":"click","route":"/downloads","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T21:20:55.347Z","sid":"tc383t","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-23T21:21:02.293Z","sid":"tc383t","event":"click","route":"/gamescreen","tag":"button","label":"Jogar"}
+{"ts":"2026-10-23T21:21:31.197Z","sid":"tc383t","event":"click","route":"/gamescreen","tag":"button","label":"Mídia"}
