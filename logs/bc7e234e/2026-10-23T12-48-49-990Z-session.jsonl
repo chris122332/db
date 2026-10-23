@@ -1,0 +1,3 @@
+{"ts":"2026-10-23T12:46:22.679Z","sid":"vvg82n","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T12:46:32.482Z","sid":"vvg82n","event":"page-ready","route":"/welcome"}
+{"ts":"2026-10-23T12:46:46.647Z","sid":"vvg82n","event":"click","route":"/welcome","tag":"button","label":"Português"}
