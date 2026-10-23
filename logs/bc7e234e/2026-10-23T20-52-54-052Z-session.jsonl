@@ -1,0 +1,16 @@
+{"ts":"2026-10-23T20:50:50.054Z","sid":"i93lm3","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T20:51:00.489Z","sid":"i93lm3","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T20:51:05.117Z","sid":"i93lm3","event":"click","route":"/","tag":"a","label":"Downloads1Downloads"}
+{"ts":"2026-10-23T20:51:08.660Z","sid":"i93lm3","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T20:51:10.196Z","sid":"i93lm3","event":"click","route":"/downloads","tag":"div","label":"Cancelar download"}
+{"ts":"2026-10-23T20:51:11.257Z","sid":"i93lm3","event":"click","route":"/downloads","tag":"button","label":"Cancelar download"}
+{"ts":"2026-10-23T20:51:15.007Z","sid":"i93lm3","event":"click","route":"/downloads","tag":"a","label":"ProcurarProcurar"}
+{"ts":"2026-10-23T20:51:18.522Z","sid":"i93lm3","event":"click","route":"/search","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-23T20:51:29.211Z","sid":"i93lm3","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T20:51:31.083Z","sid":"i93lm3","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-23T20:51:34.666Z","sid":"i93lm3","event":"click","route":"/settings","tag":"button","label":"Jogos e índice"}
+{"ts":"2026-10-23T20:51:37.433Z","sid":"i93lm3","event":"click","route":"/settings","tag":"button","label":"Sistema"}
+{"ts":"2026-10-23T20:52:44.787Z","sid":"i93lm3","event":"click","route":"/settings","tag":"button","label":"Créditos"}
+{"ts":"2026-10-23T20:52:46.129Z","sid":"i93lm3","event":"click","route":"/settings","tag":"button","label":"Funcionalidades"}
+{"ts":"2026-10-23T20:52:50.749Z","sid":"i93lm3","event":"click","route":"/settings","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T20:52:52.970Z","sid":"i93lm3","event":"click","route":"/library","tag":"div","label":"CarX Street"}
