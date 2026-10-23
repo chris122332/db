@@ -1,0 +1,15 @@
+{"ts":"2026-10-23T20:20:52.524Z","sid":"wg9xuh","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T20:21:03.490Z","sid":"wg9xuh","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T20:21:06.367Z","sid":"wg9xuh","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T20:21:06.934Z","sid":"wg9xuh","event":"click","route":"/library","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T20:21:12.240Z","sid":"wg9xuh","event":"click","route":"/library","tag":"div","label":""}
+{"ts":"2026-10-23T20:21:14.187Z","sid":"wg9xuh","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-23T20:21:19.017Z","sid":"wg9xuh","event":"click","route":"/gamescreen","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-23T20:21:25.731Z","sid":"wg9xuh","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T20:21:27.215Z","sid":"wg9xuh","event":"click","route":"/","tag":"div","label":"InícioInícioProcurarProcurarBibliotecaBibliotecaDownloadsDownloadsBaixador do WorkshopBaixador do WorkshopPreferênciasPr"}
+{"ts":"2026-10-23T20:21:27.473Z","sid":"wg9xuh","event":"click","route":"/","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-23T20:21:29.707Z","sid":"wg9xuh","event":"click","route":"/downloads","tag":"a","label":"ProcurarProcurar"}
+{"ts":"2026-10-23T20:21:31.099Z","sid":"wg9xuh","event":"click","route":"/search","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T20:21:33.819Z","sid":"wg9xuh","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-23T20:21:36.170Z","sid":"wg9xuh","event":"click","route":"/gamescreen","tag":"button","label":"Jogar"}
+{"ts":"2026-10-23T20:22:10.154Z","sid":"wg9xuh","event":"click","route":"/gamescreen","tag":"button","label":"Mídia"}
