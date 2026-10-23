@@ -1,0 +1,27 @@
+{"ts":"2026-10-23T16:23:40.457Z","sid":"z549m2","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T16:23:58.994Z","sid":"z549m2","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T16:26:05.273Z","sid":"z549m2","event":"click","route":"/","tag":"button","label":"Não mostre novamente"}
+{"ts":"2026-10-23T16:26:07.427Z","sid":"z549m2","event":"click","route":"/","tag":"svg","label":""}
+{"ts":"2026-10-23T16:26:32.836Z","sid":"z549m2","event":"click","route":"/stats","tag":"div","label":""}
+{"ts":"2026-10-23T16:28:20.592Z","sid":"z549m2","event":"click","route":"/stats","tag":"button","label":"30 dias"}
+{"ts":"2026-10-23T16:28:22.288Z","sid":"z549m2","event":"click","route":"/stats","tag":"button","label":"90 dias"}
+{"ts":"2026-10-23T16:28:28.998Z","sid":"z549m2","event":"click","route":"/stats","tag":"div","label":"EstatísticasO tempo que você passou jogando, dia a dia.7 dias30 dias90 diasTempo de jogo1minem 1 dia(s) com jogoStreak1 "}
+{"ts":"2026-10-23T16:54:41.442Z","sid":"z549m2","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T16:54:57.683Z","sid":"z549m2","event":"click","route":"/","tag":"svg","label":""}
+{"ts":"2026-10-23T16:55:04.790Z","sid":"z549m2","event":"click","route":"/stats","tag":"button","label":"Voltar"}
+{"ts":"2026-10-23T16:55:05.105Z","sid":"z549m2","event":"navigate","to":"/","from":"/"}
+{"ts":"2026-10-23T17:02:29.455Z","sid":"z549m2","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-23T17:02:33.658Z","sid":"z549m2","event":"click","route":"/settings","tag":"button","label":"Primeiros passosJogando emuladores e portáteisConfigure um console (de PS1 até Switch), aponte suas ROMs e jogue tudo pe"}
+{"ts":"2026-10-23T17:50:29.933Z","sid":"z549m2","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T17:50:35.324Z","sid":"z549m2","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T17:50:39.741Z","sid":"z549m2","event":"click","route":"/library","tag":"button","label":"Emuladores e portáteis"}
+{"ts":"2026-10-23T17:50:42.412Z","sid":"z549m2","event":"click","route":"/library","tag":"button","label":"PlayStation 2PCSX211 jogo encontradoPronto para jogarGerenciar"}
+{"ts":"2026-10-23T17:50:44.588Z","sid":"z549m2","event":"click","route":"/library","tag":"button","label":"Jogar"}
+{"ts":"2026-10-23T17:50:47.315Z","sid":"z549m2","event":"click","route":"/library","tag":"div","label":"Super Bust-A-Move2000Jogar"}
+{"ts":"2026-10-23T17:50:48.636Z","sid":"z549m2","event":"click","route":"/library","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-23T17:50:53.864Z","sid":"z549m2","event":"click","route":"/","tag":"span","label":"Estatísticas"}
+{"ts":"2026-10-23T17:50:58.895Z","sid":"z549m2","event":"click","route":"/stats","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-23T17:50:59.245Z","sid":"z549m2","event":"click","route":"/downloads","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T17:51:02.062Z","sid":"z549m2","event":"click","route":"/library","tag":"button","label":"Emuladores e portáteis"}
+{"ts":"2026-10-23T17:51:05.517Z","sid":"z549m2","event":"click","route":"/library","tag":"button","label":"PlayStation PortátilPPSSPP00 jogo encontradoConfiguração necessáriaConfigurar"}
+{"ts":"2026-10-23T17:51:07.661Z","sid":"z549m2","event":"click","route":"/library","tag":"button","label":"Me ajude a instalar"}
