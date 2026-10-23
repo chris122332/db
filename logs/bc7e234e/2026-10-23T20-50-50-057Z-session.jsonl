@@ -1,0 +1,18 @@
+{"ts":"2026-10-23T20:45:04.521Z","sid":"vv7c5z","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T20:45:15.278Z","sid":"vv7c5z","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T20:47:32.650Z","sid":"vv7c5z","event":"click","route":"/","tag":"a","label":"Downloads1Downloads"}
+{"ts":"2026-10-23T20:47:35.654Z","sid":"vv7c5z","event":"click","route":"/downloads","tag":"div","label":"CarX Street16.8 GBBaixando46.1%ETA: 20m 30s7.44 MB/s"}
+{"ts":"2026-10-23T20:47:36.171Z","sid":"vv7c5z","event":"click","route":"/downloads","tag":"div","label":"CarX Street16.8 GBBaixando46.1%ETA: 20m 30s7.44 MB/s"}
+{"ts":"2026-10-23T20:47:36.650Z","sid":"vv7c5z","event":"click","route":"/downloads","tag":"div","label":"CarX Street16.8 GBBaixando46.2%ETA: 20m 31s7.44 MB/s"}
+{"ts":"2026-10-23T20:47:37.092Z","sid":"vv7c5z","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T20:47:38.887Z","sid":"vv7c5z","event":"click","route":"/downloads","tag":"div","label":"Pausar download"}
+{"ts":"2026-10-23T20:47:40.427Z","sid":"vv7c5z","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T20:47:41.308Z","sid":"vv7c5z","event":"click","route":"/downloads","tag":"div","label":"Cancelar download"}
+{"ts":"2026-10-23T20:47:42.732Z","sid":"vv7c5z","event":"click","route":"/downloads","tag":"button","label":"Cancelar download"}
+{"ts":"2026-10-23T20:47:44.588Z","sid":"vv7c5z","event":"click","route":"/downloads","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-23T20:47:52.506Z","sid":"vv7c5z","event":"click","route":"/settings","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T20:47:56.890Z","sid":"vv7c5z","event":"click","route":"/library","tag":"p","label":"Você ainda não jogou este jogo"}
+{"ts":"2026-10-23T20:47:58.337Z","sid":"vv7c5z","event":"click","route":"/library","tag":"div","label":""}
+{"ts":"2026-10-23T20:47:59.851Z","sid":"vv7c5z","event":"click","route":"/library","tag":"button","label":""}
+{"ts":"2026-10-23T20:48:01.993Z","sid":"vv7c5z","event":"click","route":"/library","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-23T20:48:08.850Z","sid":"vv7c5z","event":"click","route":"/","tag":"button","label":"Reportar problemaRelatar bugs ou problemas"}
