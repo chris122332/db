@@ -1,0 +1,49 @@
+{"ts":"2026-10-23T20:28:37.249Z","sid":"mwcw5p","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T20:28:49.400Z","sid":"mwcw5p","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T20:29:19.065Z","sid":"mwcw5p","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T20:29:19.747Z","sid":"mwcw5p","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T20:29:21.755Z","sid":"mwcw5p","event":"click","route":"/download","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T20:29:24.049Z","sid":"mwcw5p","event":"click","route":"/","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-23T20:29:25.623Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T20:29:29.855Z","sid":"mwcw5p","event":"click","route":"/library","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-23T20:29:32.979Z","sid":"mwcw5p","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T20:29:34.895Z","sid":"mwcw5p","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-23T20:29:36.298Z","sid":"mwcw5p","event":"click","route":"/download","tag":"div","label":"Fonte de downloadSeamless (BuzzHeavier)Dica: Na janela pop-up, clique duas vezes no botão de download para iniciar o dow"}
+{"ts":"2026-10-23T20:29:37.019Z","sid":"mwcw5p","event":"click","route":"/download","tag":"body","label":"((e, i, s, u, m, a, l, h) => {\n  let d = document.documentElement, w = [\"light\", \"dark\"];\n  function p(n) {\n    (Array.i"}
+{"ts":"2026-10-23T20:29:37.192Z","sid":"mwcw5p","event":"click","route":"/download","tag":"div","label":""}
+{"ts":"2026-10-23T20:29:37.913Z","sid":"mwcw5p","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-23T20:29:45.407Z","sid":"mwcw5p","event":"click","route":"/download","tag":"button","label":"E:\\E:/gmx-games183.4 GB livres de 464.7 GB"}
+{"ts":"2026-10-23T20:29:46.656Z","sid":"mwcw5p","event":"click","route":"/download","tag":"button","label":"Continuar"}
+{"ts":"2026-10-23T20:29:46.782Z","sid":"mwcw5p","event":"download-request","game":"CarX Street","dirIndex":1,"linkHost":"ts.bzzhr.to","torrent":false}
+{"ts":"2026-10-23T20:29:46.846Z","sid":"mwcw5p","event":"download-spawn","game":"CarX Street","exe":"python"}
+{"ts":"2026-10-23T20:29:52.965Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T20:29:54.202Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"div","label":"Pausar download"}
+{"ts":"2026-10-23T20:29:56.069Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"div","label":"0.5%ETA: 1h 51m"}
+{"ts":"2026-10-23T20:30:00.872Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"div","label":""}
+{"ts":"2026-10-23T20:30:03.659Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"div","label":"Menu"}
+{"ts":"2026-10-23T20:30:05.060Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"div","label":""}
+{"ts":"2026-10-23T20:30:06.849Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-23T20:30:13.862Z","sid":"mwcw5p","event":"click","route":"/settings","tag":"a","label":"Downloads1Downloads"}
+{"ts":"2026-10-23T20:30:16.892Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T20:30:18.308Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"div","label":"Pausar download"}
+{"ts":"2026-10-23T20:30:24.500Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T20:30:26.129Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"div","label":"Pausar download"}
+{"ts":"2026-10-23T20:30:27.374Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"div","label":"CarX Street16.8 GBBaixando2.5%ETA: 29m 45s10.85 MB/s"}
+{"ts":"2026-10-23T20:30:27.703Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T20:30:28.522Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"div","label":"Pausar download"}
+{"ts":"2026-10-23T20:30:29.556Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T20:30:30.306Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"div","label":"Cancelar download"}
+{"ts":"2026-10-23T20:30:31.954Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"button","label":"Cancelar download"}
+{"ts":"2026-10-23T20:30:35.170Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T20:30:36.202Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"div","label":"Cancelar download"}
+{"ts":"2026-10-23T20:30:37.308Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"button","label":"Cancelar download"}
+{"ts":"2026-10-23T20:30:39.291Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"a","label":"Downloads1Downloads"}
+{"ts":"2026-10-23T20:30:40.056Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"main","label":"Ativos1 download em andamentoVelocidade total atual10.86 MB/sVelocidade máxima10.88 MB/sAtivos110.88 MB/sVelocidades de "}
+{"ts":"2026-10-23T20:30:40.482Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"div","label":"InícioInícioProcurarProcurarBibliotecaBibliotecaDownloads1DownloadsBaixador do WorkshopBaixador do WorkshopPreferênciasP"}
+{"ts":"2026-10-23T20:30:40.903Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"div","label":"InícioInícioProcurarProcurarBibliotecaBibliotecaDownloads1DownloadsBaixador do WorkshopBaixador do WorkshopPreferênciasP"}
+{"ts":"2026-10-23T20:30:41.307Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T20:30:42.800Z","sid":"mwcw5p","event":"click","route":"/library","tag":"a","label":"Downloads1Downloads"}
+{"ts":"2026-10-23T20:30:47.154Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T20:30:49.042Z","sid":"mwcw5p","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-23T20:30:51.721Z","sid":"mwcw5p","event":"click","route":"/gamescreen","tag":"button","label":"Jogar"}
+{"ts":"2026-10-23T20:31:04.602Z","sid":"mwcw5p","event":"click","route":"/gamescreen","tag":"button","label":"Agora nãoB"}
