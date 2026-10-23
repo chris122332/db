@@ -1,0 +1,3 @@
+ERROR: [2026-10-23T14:24:32.033Z] (node:24560) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `GMX --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T14:24:32.472Z] Current version 1.0.0 is not broken
