@@ -1,0 +1,177 @@
+[2026-10-23T14:20:26.287Z] Removing stale lock file
+ERROR: [2026-10-23T14:20:26.352Z] (node:11548) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `GMX --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T14:20:27.020Z] Current version 1.0.0 is not broken
+[2026-10-23T14:20:27.021Z] Timestamp file not found. Probing disk instead.
+[2026-10-23T14:20:27.365Z] [StartupCleanup] nenhuma outra instalação GMX/Ascendara - nada a limpar
+[2026-10-23T14:20:27.370Z] Settings file not found, creating with default values
+[2026-10-23T14:20:27.371Z] Settings file created successfully at: C:\Users\c2644\AppData\Roaming\ascendara\ascendarasettings.json
+[2026-10-23T14:20:27.478Z] Window icon loaded from: C:\Users\c2644\AppData\Local\Programs\GMX\resources\app.asar\electron\icon.ico
+[2026-10-23T14:20:27.591Z] Loading window from: http://localhost:46859
+[2026-10-23T14:20:27.710Z] System tray created successfully
+[2026-10-23T14:20:27.737Z] Achievement watcher started
+[2026-10-23T14:20:27.743Z] Local server running at http://localhost:46859
+[2026-10-23T14:20:27.969Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T14:20:28.040Z] [WATCHER] About to acquire single-instance lock...
+[2026-10-23T14:20:28.047Z] [WATCHER] Single-instance lock acquired. Starting app...
+[2026-10-23T14:20:28.048Z] [WATCHER] Achievement Watchdog starting ...
+[2026-10-23T14:20:28.056Z] [WATCHER] Watchdog status updated: running=true, timestamp=2026-10-23T11:20:28-03:00
+[2026-10-23T14:20:28.060Z] [WATCHER] monitor.getFolders() returned 3 folders
+[2026-10-23T14:20:28.065Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\c2644\AppData\Roaming\GSE Saves" with options: { recursive: true, filter: /([0-9]+)/, file: [ 'achievements.json' ] }
+[2026-10-23T14:20:28.065Z] [WATCHER] Watching files in C:\Users\c2644\AppData\Roaming\GSE Saves: ["achievements.json"] with filter: /([0-9]+)/
+[2026-10-23T14:20:28.082Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\Steam\RUNE" with options: { recursive: true, filter: /.*/, file: [ 'achievements.ini' ] }
+[2026-10-23T14:20:28.082Z] [WATCHER] Watching files in C:\Users\Public\Documents\Steam\RUNE: ["achievements.ini"] with filter: /.*/
+[2026-10-23T14:20:28.085Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\OnlineFix" with options: {
+  recursive: true,
+  filter: /([0-9]+)[\\/]Stats/i,
+  file: [ 'achievements.ini', 'Achievements.ini' ]
+}
+Watching files in C:\Users\Public\Documents\OnlineFix: ["achievements.ini","Achievements.ini"] with filter: /([0-9]+)[\\/]Stats/i
+[2026-10-23T14:20:28.087Z] [WATCHER] Started 3 file watchers
+[2026-10-23T14:20:28.088Z] [WATCHER] Memory Usage: RSS=34.39MB, Heap=7.77/11.72MB
+[2026-10-23T14:20:28.766Z] Window DOM ready
+[2026-10-23T14:20:28.769Z] ready-to-show event fired
+[2026-10-23T14:20:28.820Z] Window shown event fired
+[2026-10-23T14:20:28.820Z] Window shown via ready-to-show event
+[2026-10-23T14:20:28.828Z] Window finished loading
+[2026-10-23T14:20:28.844Z] Window started loading
+[2026-10-23T14:20:29.572Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T14:20:29.652Z] Discord is not running, skipping RPC connection
+[2026-10-23T14:20:29.652Z] Discord RPC connection attempt 1/3 - Discord not running, retrying in 30s
+[2026-10-23T14:20:30.298Z] Discord RPC not connected, skipping activity update
+[2026-10-23T14:20:33.486Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T14:20:36.255Z] Window started loading
+[2026-10-23T14:20:36.286Z] Discord RPC not connected, skipping activity update
+[2026-10-23T14:20:36.762Z] Getting auth token for download...
+[2026-10-23T14:20:36.762Z] [Build Signature] Loaded: 329e4c7ba2361d5d932d7235ce8033cc
+ERROR: [2026-10-23T14:20:36.915Z] Failed to download shared index: {}
+[2026-10-23T14:20:59.459Z] Window started loading
+[2026-10-23T14:20:59.462Z] Window started loading
+[2026-10-23T14:20:59.481Z] Getting auth token for download...
+[2026-10-23T14:20:59.493Z] Discord RPC not connected, skipping activity update
+ERROR: [2026-10-23T14:20:59.880Z] Failed to download shared index: {}
+[2026-10-23T14:20:59.966Z] Discord is not running, skipping RPC connection
+[2026-10-23T14:20:59.966Z] Discord RPC connection attempt 2/3 - Discord not running, retrying in 30s
+[2026-10-23T14:21:00.248Z] [PosterCache] Cached poster for "Schedule I"
+[2026-10-23T14:21:02.336Z] Window started loading
+[2026-10-23T14:21:02.374Z] [PosterCache] Cached poster for "Marvel's Spider-Man 2"
+[2026-10-23T14:21:02.391Z] Discord RPC not connected, skipping activity update
+[2026-10-23T14:21:04.486Z] [PosterCache] Cached poster for "MECCHA CHAMELEON"
+[2026-10-23T14:21:06.448Z] Window started loading
+[2026-10-23T14:21:06.493Z] Discord RPC not connected, skipping activity update
+[2026-10-23T14:21:06.995Z] [PosterCache] Cached poster for "Palworld"
+[2026-10-23T14:21:08.732Z] [PosterCache] Cached poster for "R.E.P.O"
+[2026-10-23T14:21:10.863Z] [PosterCache] Cached poster for "The Last of Us Part I"
+[2026-10-23T14:21:12.930Z] [PosterCache] Cached poster for "Ghost Of Tsushima DIRECTOR'S CUT"
+[2026-10-23T14:21:13.080Z] Window started loading
+[2026-10-23T14:21:13.119Z] Discord RPC not connected, skipping activity update
+[2026-10-23T14:21:15.007Z] [PosterCache] Cached poster for "Resident Evil 4 Remake"
+[2026-10-23T14:21:15.671Z] Window started loading
+[2026-10-23T14:21:15.701Z] Discord RPC not connected, skipping activity update
+[2026-10-23T14:21:17.577Z] Window started loading
+[2026-10-23T14:21:17.611Z] Discord RPC not connected, skipping activity update
+[2026-10-23T14:21:17.669Z] [PosterCache] Cached poster for "Ready or Not"
+[2026-10-23T14:21:19.546Z] [PosterCache] Cached poster for "Forza Horizon 6"
+[2026-10-23T14:21:19.593Z] Window started loading
+[2026-10-23T14:21:19.649Z] Discord RPC not connected, skipping activity update
+[2026-10-23T14:21:21.632Z] [PosterCache] Cached poster for "Hollow Knight Silksong"
+[2026-10-23T14:21:21.658Z] Window started loading
+[2026-10-23T14:21:21.705Z] Discord RPC not connected, skipping activity update
+WARN: [2026-10-23T14:21:25.644Z] [PosterCache] Failed for "Dispatch": Request failed with status code 400
+[2026-10-23T14:21:26.114Z] Window started loading
+[2026-10-23T14:21:26.168Z] Discord RPC not connected, skipping activity update
+WARN: [2026-10-23T14:21:29.880Z] [PosterCache] Failed for "The Handler of Dragons": Request failed with status code 400
+[2026-10-23T14:21:30.265Z] Discord is not running, skipping RPC connection
+[2026-10-23T14:21:30.265Z] Discord RPC connection attempt 3/3 - Discord not running, retrying in 30s
+[2026-10-23T14:21:32.064Z] [PosterCache] Cached poster for "Minecraft Dungeons II"
+[2026-10-23T14:21:34.290Z] [PosterCache] Cached poster for "Graveyard Keeper 2"
+[2026-10-23T14:21:36.275Z] [PosterCache] Cached poster for "Fields of Mistria"
+[2026-10-23T14:21:38.390Z] [PosterCache] Cached poster for "Scrap Mechanic"
+[2026-10-23T14:21:40.528Z] [PosterCache] Cached poster for "Little Nightmares III"
+[2026-10-23T14:21:42.611Z] [PosterCache] Cached poster for "Le Mans Ultimate"
+[2026-10-23T14:21:44.864Z] [PosterCache] Cached poster for "Dragon Age The Veilguard"
+[2026-10-23T14:21:46.852Z] [PosterCache] Cached poster for "Finding Frankie"
+[2026-10-23T14:21:48.773Z] [PosterCache] Cached poster for "Until Dawn"
+[2026-10-23T14:21:51.065Z] [PosterCache] Cached poster for "Disney Epic Mickey Rebrushed"
+[2026-10-23T14:21:53.146Z] [PosterCache] Cached poster for "Funko Fusion"
+[2026-10-23T14:21:55.088Z] [PosterCache] Cached poster for "Call of Duty Modern Warfare III  [v10.4"
+[2026-10-23T14:21:57.398Z] [PosterCache] Cached poster for "CarX Street"
+[2026-10-23T14:21:59.555Z] [PosterCache] Cached poster for "Mortal Kombat Komplete Edition"
+[2026-10-23T14:22:00.266Z] Maximum Discord RPC connection attempts reached. Stopping retries.
+[2026-10-23T14:22:01.400Z] [PosterCache] Cached poster for "Factorio"
+[2026-10-23T14:22:01.630Z] Blocked popup in external window: https://werefilledwit.org/bG9wenlTDANHHTkDOxkTCCEVIkwoLjVLXF4pFUo0Iz5DPE8%2BGDFcGA4bTUpfHgoUR0hKHB1HSFpJG0dfGlJBVEpYQUNCV1tJAw4KUV9WCgsCUkBcHAENTUpfGAYUR0hYWEhIS1VJAgIAUV5ETkkzVkBKXwUBE0dBShpNS09YVkVDTl9cQ0tKXFdFTF8NCBUZRF1YSUhOWlpDS0BKCQNHSEoJGRYcUSIfCA0NA10xFgENEQ5UJypdKQ0JDh0oMDxBExUUQh0RCF8eChZHERgbAAlcXy5VSD9JXTYYAxYHAlQNA0pCPEAHAwEMAB0BQBNKCUkfCQtRHAQfGAEdGQpXDwAdXBMfG01KXwkBAkdJSgMTDxhRAh8AEAADEV9LKlpeSlxeX1gNEAILHw0KSV1AFA1JXUBLSUJfVUk7SV1ADRACWURfSi5KQkoBWltZX0tcDgAKFQkYFRgSBRtVSD9ZXEdUSlpKQkpRBwcEFxVJXTNfS1wDGREcSV1AHRwPBB9TXF5fEQkaCQEUGwsNSkI8SEJfXkpcXl8TEgsDAhVfSypeRE5XXEFHT0xVQUJJT0ldQB8VCQwECBYCSkI8TVxBQUpXWkpCSgoNCREIEEldNk9KW0FDTF8fChMKFQ0bTS0QAgsfDQpKHBUZCQAOBAwcHlJBSldcQUBcCgkMFgwVUUpCSDcDG1g7XF8uMggYAgtVSEtJXDIMXF8rVUhLVEFAVElCX1VIS0ldM19LXEpCSDoEHR8XEBkCVUhLSVwyDFxfK1VIS11bRFRJQlhFT0BCXUNMXF5dVgkcDwIfHhwAUlYOAwhSXUlfGQMfGUQcG104K0oGFkdJSgwER0hKDAQZRFhJLzUUGltNS05VXUdMTF9dQUxLVEkFDgtdUkBKQ1xfSkpIShoECEtRXUlcDBgdQ0dJShoECE1RX1YPDR5aTUpfGRsCTERcSQUOC1tSQFwPDQMZHkRd
+[2026-10-23T14:22:03.297Z] Intercepted download in external window: https://ts.bzzhr.to/d/9klqvyqn0i3e?v=3OfF8RYnuk4ahWyLGhDMIUicePs4tFcPxlkAYH00HZQZeDTh3A8PP089nTm5hFfqAMRjq9XhX0bGg9FqmEQDHhRnMYu0Dia_ZQwiJ1EsuceaK_lLetmln5iucqw2YLZn7Ws0WepXr6QUQxRIpfnYp6cOr-a-os2OzGT3QDyEfFn6XtbN2erVYXS96dTHlzByXPKW2uab
+[2026-10-23T14:22:03.298Z] Forwarded intercepted download URL to main window
+[2026-10-23T14:22:03.700Z] [PosterCache] Cached poster for "Moo Lander"
+[2026-10-23T14:22:05.618Z] Registered download directory: E:\gmx-games (index 1)
+[2026-10-23T14:22:05.642Z] Downloading file: https://ts.bzzhr.to/d/9klqvyqn0i3e?v=3OfF8RYnuk4ahWyLGhDMIUicePs4tFcPxlkAYH00HZQZeDTh3A8PP089nTm5hFfqAMRjq9XhX0bGg9FqmEQDHhRnMYu0Dia_ZQwiJ1EsuceaK_lLetmln5iucqw2YLZn7Ws0WepXr6QUQxRIpfnYp6cOr-a-os2OzGT3QDyEfFn6XtbN2erVYXS96dTHlzByXPKW2uab, game: Mortal Kombat Komplete Edition, online: true, dlc: true, isVr: false, updateFlow: false, version: 344915, size: 8.8 GB, additionalDirIndex: 1, gameID: AUPaqZ, folder: Mortal Kombat Komplete Edition
+[2026-10-23T14:22:05.647Z] No local header image found, trying SteamGridDB fallback for: Mortal Kombat Komplete Edition
+WARN: [2026-10-23T14:22:05.647Z] SteamGridDB fallback failed for Mortal Kombat Komplete Edition: steamgrid.fetchGameHeader is not a function
+[2026-10-23T14:22:05.647Z] [Download] Starting background asset fetch for Mortal Kombat Komplete Edition (Name Search)
+[2026-10-23T14:22:05.648Z] [SteamGrid] Searching for: "Mortal Kombat Komplete Edition"
+[2026-10-23T14:22:05.652Z] Cached download data for resume: C:\Users\c2644\AppData\Roaming\ascendara\downloadCache\Mortal Kombat Komplete Edition.json
+[2026-10-23T14:22:05.652Z] Spawning executable: C:\Users\c2644\AppData\Local\Programs\GMX\resources\AscendaraDownloader.exe
+[2026-10-23T14:22:05.681Z] [SteamGrid] Found GameID 2668
+[2026-10-23T14:22:05.766Z] [PosterCache] Cached poster for "Call of Duty Black Ops 6"
+[2026-10-23T14:22:06.183Z] [SteamGrid] Downloaded grid.ascendara.png
+[2026-10-23T14:22:06.762Z] [SteamGrid] Downloaded hero.ascendara.jpg
+[2026-10-23T14:22:07.492Z] [SteamGrid] Downloaded logo.ascendara.png
+[2026-10-23T14:22:07.939Z] [PosterCache] Cached poster for "DARK SOULS Prepare To Die Edition"
+[2026-10-23T14:22:08.343Z] Window started loading
+[2026-10-23T14:22:08.409Z] Discord RPC not connected, skipping activity update
+[2026-10-23T14:22:08.721Z] Discord RPC not connected, skipping activity update
+[2026-10-23T14:22:09.787Z] [PosterCache] Cached poster for "Content Warning"
+[2026-10-23T14:22:12.119Z] [PosterCache] Cached poster for "Liar's Bar"
+[2026-10-23T14:22:12.379Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T14:22:14.249Z] [PosterCache] Cached poster for "Split Fiction"
+[2026-10-23T14:22:16.378Z] [PosterCache] Cached poster for "JoJo's Bizarre Adventure All-Star Battle R"
+WARN: [2026-10-23T14:22:20.417Z] [PosterCache] Failed for "Warhammer 40,000 Space Marine 2": Request failed with status code 400
+[2026-10-23T14:22:22.726Z] [PosterCache] Cached poster for "The Amazing Spider-Man"
+[2026-10-23T14:22:24.536Z] [PosterCache] Cached poster for "METAL GEAR SOLID Δ SNAKE EATER"
+[2026-10-23T14:22:26.788Z] [PosterCache] Cached poster for "The Coffin of Andy and Leyley"
+[2026-10-23T14:22:27.016Z] Stopping download for game: Mortal Kombat Komplete Edition, deleteContents: false, isKill: false
+[2026-10-23T14:22:27.017Z] Found game directory at: E:\gmx-games\Mortal Kombat Komplete Edition
+[2026-10-23T14:22:27.018Z] Marked download as stopped in JSON: E:\gmx-games\Mortal Kombat Komplete Edition\Mortal Kombat Komplete Edition.ascendara.json
+[2026-10-23T14:22:28.240Z] Found 0 AscendaraDownloader.exe processes for Mortal Kombat Komplete Edition
+[2026-10-23T14:22:28.966Z] [PosterCache] Cached poster for "Far Cry 6 Ultimate Edition"
+[2026-10-23T14:22:29.364Z] Found 0 AscendaraGofileHelper.exe processes for Mortal Kombat Komplete Edition
+[2026-10-23T14:22:29.506Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T14:22:30.441Z] Found 0 AscendaraTorrentHandler.exe processes for Mortal Kombat Komplete Edition
+[2026-10-23T14:22:30.441Z] Total processes killed: 0
+[2026-10-23T14:22:31.218Z] [PosterCache] Cached poster for "7 Days to Die"
+[2026-10-23T14:22:32.245Z] All processes terminated after 1000ms
+[2026-10-23T14:22:32.246Z] Confirmed stopped state in JSON: E:\gmx-games\Mortal Kombat Komplete Edition\Mortal Kombat Komplete Edition.ascendara.json
+[2026-10-23T14:22:32.246Z] Successfully stopped download for: Mortal Kombat Komplete Edition
+[2026-10-23T14:22:33.180Z] [PosterCache] Cached poster for "BIT.TRIP RERUNNER"
+[2026-10-23T14:22:35.300Z] [PosterCache] Cached poster for "Batman Arkham Origins"
+[2026-10-23T14:22:37.443Z] [PosterCache] Cached poster for "The Elder Scrolls IV Oblivion Remastered"
+WARN: [2026-10-23T14:22:41.515Z] [PosterCache] Failed for "Blade and Sorcery": Request failed with status code 400
+[2026-10-23T14:22:43.548Z] [PosterCache] Cached poster for "Half Sword"
+[2026-10-23T14:22:45.823Z] [PosterCache] Cached poster for "Danganronpa S Ultimate Summer Camp"
+[2026-10-23T14:22:47.972Z] [PosterCache] Cached poster for "PRAGMATA"
+[2026-10-23T14:22:50.079Z] [PosterCache] Cached poster for "High On Life"
+[2026-10-23T14:22:52.193Z] [PosterCache] Cached poster for "The Witcher Enhanced Edition"
+[2026-10-23T14:22:54.297Z] [PosterCache] Cached poster for "ARMORED CORE VI FIRES OF RUBICON"
+[2026-10-23T14:22:56.368Z] [PosterCache] Cached poster for "Dead Space"
+[2026-10-23T14:22:58.470Z] [PosterCache] Cached poster for "The Planet Crafter"
+[2026-10-23T14:23:00.603Z] [PosterCache] Cached poster for "The Walking Dead"
+WARN: [2026-10-23T14:23:04.694Z] [PosterCache] Failed for "Escape from Yandere": Request failed with status code 400
+[2026-10-23T14:23:06.977Z] [PosterCache] Cached poster for "Blasphemous"
+[2026-10-23T14:23:08.952Z] [PosterCache] Cached poster for "Five Nights at Freddy's Secret of the Mimic"
+[2026-10-23T14:23:11.135Z] [PosterCache] Cached poster for "Manhunt 2"
+WARN: [2026-10-23T14:23:15.213Z] [PosterCache] Failed for "DON'T SCREAM": Request failed with status code 400
+[2026-10-23T14:23:17.494Z] [PosterCache] Cached poster for "Manhunt"
+[2026-10-23T14:23:19.586Z] [PosterCache] Cached poster for "Streamer Life Simulator 2"
+[2026-10-23T14:23:21.716Z] [PosterCache] Cached poster for "NBA 2K23"
+[2026-10-23T14:23:23.831Z] [PosterCache] Cached poster for "Manor Lords"
+[2026-10-23T14:23:25.903Z] [PosterCache] Cached poster for "Date Everything"
+[2026-10-23T14:23:28.030Z] [PosterCache] Cached poster for "Stellaris Ultimate Bundle"
+[2026-10-23T14:23:30.150Z] [PosterCache] Cached poster for "Victoria 3"
+[2026-10-23T14:23:32.280Z] [PosterCache] Cached poster for "Plants vs. Zombies Replanted"
+[2026-10-23T14:23:34.313Z] [PosterCache] Cached poster for "Quarantine Zone The Last Check"
+[2026-10-23T14:23:36.398Z] [PosterCache] Cached poster for "Football Life Simulator"
+[2026-10-23T14:23:38.568Z] [PosterCache] Cached poster for "Assetto Corsa EVO"
+[2026-10-23T14:23:40.650Z] [PosterCache] Cached poster for "Football Manager 2023"
+[2026-10-23T14:23:42.753Z] [PosterCache] Cached poster for "F1 2013"
+[2026-10-23T14:24:29.629Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T14:25:28.097Z] [WATCHER] Memory Usage: RSS=31.67MB, Heap=6.59/8.22MB
