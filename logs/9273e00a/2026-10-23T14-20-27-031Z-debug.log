@@ -1,0 +1,4 @@
+[2026-10-23T14:20:26.287Z] Removing stale lock file
+ERROR: [2026-10-23T14:20:26.352Z] (node:11548) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `GMX --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T14:20:27.020Z] Current version 1.0.0 is not broken
