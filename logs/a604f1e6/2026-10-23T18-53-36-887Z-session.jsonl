@@ -1,0 +1,4 @@
+{"ts":"2026-10-23T18:47:33.859Z","sid":"4pmfl4","event":"app-start","version":"1.0.0","isDev":false,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T18:47:41.717Z","sid":"4pmfl4","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T18:48:01.464Z","sid":"4pmfl4","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T18:48:04.067Z","sid":"4pmfl4","event":"click","route":"/stats","tag":"div","label":"Sem sessões registradas aindaTodo jogo aberto pelo launcher passa a contar aqui. Jogue algo hoje e volte para ver os grá"}
