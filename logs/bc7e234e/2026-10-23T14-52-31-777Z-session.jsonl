@@ -1,0 +1,10 @@
+{"ts":"2026-10-23T14:44:27.321Z","sid":"znzjk8","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T14:44:43.937Z","sid":"znzjk8","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T14:44:45.848Z","sid":"znzjk8","event":"click","route":"/","tag":"button","label":"Não mostre novamente"}
+{"ts":"2026-10-23T14:44:46.798Z","sid":"znzjk8","event":"click","route":"/","tag":"div","label":"ActionAdventureIndie"}
+{"ts":"2026-10-23T14:44:49.555Z","sid":"znzjk8","event":"click","route":"/download","tag":"button","label":"Voltar"}
+{"ts":"2026-10-23T14:44:49.879Z","sid":"znzjk8","event":"navigate","to":"/","from":"/"}
+{"ts":"2026-10-23T14:44:54.181Z","sid":"znzjk8","event":"click","route":"/","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-23T14:45:00.773Z","sid":"znzjk8","event":"click","route":"/downloads","tag":"button","label":"Ver detalhes"}
+{"ts":"2026-10-23T14:45:03.237Z","sid":"znzjk8","event":"click","route":"/gamescreen","tag":"div","label":"VoltarMortal Kombat Komplete EditionGerenciadoNunca jogado"}
+{"ts":"2026-10-23T14:45:04.709Z","sid":"znzjk8","event":"click","route":"/gamescreen","tag":"button","label":"Voltar"}
