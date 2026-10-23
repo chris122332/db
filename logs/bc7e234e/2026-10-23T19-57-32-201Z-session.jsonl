@@ -1,0 +1,11 @@
+{"ts":"2026-10-23T19:55:27.818Z","sid":"k377fo","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T19:55:38.292Z","sid":"k377fo","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T19:55:49.174Z","sid":"k377fo","event":"click","route":"/","tag":"div","label":"Pesquisar jogos...Pressione para começar a buscarBibliotecaEstatísticasAjuda"}
+{"ts":"2026-10-23T19:55:50.263Z","sid":"k377fo","event":"click","route":"/","tag":"span","label":"Estatísticas"}
+{"ts":"2026-10-23T19:55:59.463Z","sid":"k377fo","event":"click","route":"/stats","tag":"div","label":"eFootball™1min"}
+{"ts":"2026-10-23T19:56:04.127Z","sid":"k377fo","event":"click","route":"/stats","tag":"button","label":"90 dias"}
+{"ts":"2026-10-23T19:56:06.647Z","sid":"k377fo","event":"click","route":"/stats","tag":"div","label":"VoltarEstatísticasO tempo que você passou jogando, dia a dia.7 dias30 dias90 diasTempo de jogo3minem 1 dia(s) com jogoSt"}
+{"ts":"2026-10-23T19:56:07.367Z","sid":"k377fo","event":"click","route":"/stats","tag":"button","label":"Voltar"}
+{"ts":"2026-10-23T19:56:07.679Z","sid":"k377fo","event":"navigate","to":"/","from":"/"}
+{"ts":"2026-10-23T19:56:09.079Z","sid":"k377fo","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T19:56:11.191Z","sid":"k377fo","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
