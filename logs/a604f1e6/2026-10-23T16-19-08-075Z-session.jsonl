@@ -1,0 +1,29 @@
+{"ts":"2026-10-23T16:15:08.059Z","sid":"rkuz70","event":"app-start","version":"1.0.0","isDev":false,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T16:15:08.428Z","sid":"rkuz70","event":"startup-cleanup-none"}
+{"ts":"2026-10-23T16:15:17.515Z","sid":"rkuz70","event":"page-ready","route":"/welcome"}
+{"ts":"2026-10-23T16:16:10.279Z","sid":"rkuz70","event":"click","route":"/welcome","tag":"button","label":"Next"}
+{"ts":"2026-10-23T16:16:13.676Z","sid":"rkuz70","event":"click","route":"/welcome","tag":"button","label":"Back"}
+{"ts":"2026-10-23T16:16:15.284Z","sid":"rkuz70","event":"click","route":"/welcome","tag":"button","label":"Español"}
+{"ts":"2026-10-23T16:16:16.478Z","sid":"rkuz70","event":"click","route":"/welcome","tag":"button","label":"Próximo"}
+{"ts":"2026-10-23T16:16:18.141Z","sid":"rkuz70","event":"click","route":"/welcome","tag":"button","label":"Atrás"}
+{"ts":"2026-10-23T16:16:21.188Z","sid":"rkuz70","event":"click","route":"/welcome","tag":"button","label":"Português"}
+{"ts":"2026-10-23T16:16:22.370Z","sid":"rkuz70","event":"click","route":"/welcome","tag":"button","label":"Próximo"}
+{"ts":"2026-10-23T16:16:24.123Z","sid":"rkuz70","event":"click","route":"/welcome","tag":"div","label":"Eu li e concordo com a Gmx Launcher Termos de Serviço"}
+{"ts":"2026-10-23T16:16:25.846Z","sid":"rkuz70","event":"click","route":"/welcome","tag":"button","label":"Li e concordo"}
+{"ts":"2026-10-23T16:16:26.685Z","sid":"rkuz70","event":"click","route":"/welcome","tag":"label","label":"Eu li e concordo com a Gmx Launcher"}
+{"ts":"2026-10-23T16:16:27.173Z","sid":"rkuz70","event":"click","route":"/welcome","tag":"div","label":"Eu li e concordo com a Gmx Launcher Política de Privacidade"}
+{"ts":"2026-10-23T16:16:27.661Z","sid":"rkuz70","event":"click","route":"/welcome","tag":"div","label":"Bem-vindo ao Gmx LauncherVocê está quase pronto para começar a usar o Gmx Launcher. Passaremos juntos pelo processo de i"}
+{"ts":"2026-10-23T16:16:28.067Z","sid":"rkuz70","event":"click","route":"/welcome","tag":"button","label":"Começar"}
+{"ts":"2026-10-23T16:16:30.779Z","sid":"rkuz70","event":"click","route":"/welcome","tag":"button","label":"Próximo"}
+{"ts":"2026-10-23T16:16:32.643Z","sid":"rkuz70","event":"click","route":"/welcome","tag":"button","label":"Continuar"}
+{"ts":"2026-10-23T16:16:34.531Z","sid":"rkuz70","event":"click","route":"/welcome","tag":"button","label":"Pular"}
+{"ts":"2026-10-23T16:16:36.354Z","sid":"rkuz70","event":"click","route":"/welcome","tag":"button","label":"Ignore os downloads e o tour"}
+{"ts":"2026-10-23T16:16:37.237Z","sid":"rkuz70","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T16:16:45.432Z","sid":"rkuz70","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T16:16:47.366Z","sid":"rkuz70","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-23T16:16:48.823Z","sid":"rkuz70","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-23T16:16:56.548Z","sid":"rkuz70","event":"click","route":"/download","tag":"button","label":"E:\\E:/gmx-games183.4 GB livres de 464.7 GB"}
+{"ts":"2026-10-23T16:16:58.068Z","sid":"rkuz70","event":"click","route":"/download","tag":"button","label":"Continuar"}
+{"ts":"2026-10-23T16:16:58.109Z","sid":"rkuz70","event":"download-request","game":"Marvels Spider-Man 2","dirIndex":1,"linkHost":"ts.bzzhr.to","torrent":false}
+{"ts":"2026-10-23T16:18:03.981Z","sid":"rkuz70","event":"click","route":"/download","tag":"div","label":""}
+{"ts":"2026-10-23T16:18:07.036Z","sid":"rkuz70","event":"click","route":"/download","tag":"button","label":"Entrar no Big PictureA"}
