@@ -1,0 +1,12 @@
+{"ts":"2026-10-23T16:23:40.457Z","sid":"z549m2","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T16:23:58.994Z","sid":"z549m2","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T16:26:05.273Z","sid":"z549m2","event":"click","route":"/","tag":"button","label":"Não mostre novamente"}
+{"ts":"2026-10-23T16:26:07.427Z","sid":"z549m2","event":"click","route":"/","tag":"svg","label":""}
+{"ts":"2026-10-23T16:26:32.836Z","sid":"z549m2","event":"click","route":"/stats","tag":"div","label":""}
+{"ts":"2026-10-23T16:28:20.592Z","sid":"z549m2","event":"click","route":"/stats","tag":"button","label":"30 dias"}
+{"ts":"2026-10-23T16:28:22.288Z","sid":"z549m2","event":"click","route":"/stats","tag":"button","label":"90 dias"}
+{"ts":"2026-10-23T16:28:28.998Z","sid":"z549m2","event":"click","route":"/stats","tag":"div","label":"EstatísticasO tempo que você passou jogando, dia a dia.7 dias30 dias90 diasTempo de jogo1minem 1 dia(s) com jogoStreak1 "}
+{"ts":"2026-10-23T16:54:41.442Z","sid":"z549m2","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T16:54:57.683Z","sid":"z549m2","event":"click","route":"/","tag":"svg","label":""}
+{"ts":"2026-10-23T16:55:04.790Z","sid":"z549m2","event":"click","route":"/stats","tag":"button","label":"Voltar"}
+{"ts":"2026-10-23T16:55:05.105Z","sid":"z549m2","event":"navigate","to":"/","from":"/"}
