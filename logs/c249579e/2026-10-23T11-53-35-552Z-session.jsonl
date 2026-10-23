@@ -1,0 +1,27 @@
+{"ts":"2026-10-23T11:48:16.596Z","sid":"nsh1uz","event":"app-start","version":"1.0.0","isDev":false,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T11:48:16.952Z","sid":"nsh1uz","event":"startup-cleanup-none"}
+{"ts":"2026-10-23T11:48:25.757Z","sid":"nsh1uz","event":"page-ready","route":"/welcome"}
+{"ts":"2026-10-23T11:48:33.747Z","sid":"nsh1uz","event":"click","route":"/welcome","tag":"button","label":"🇵🇹Português"}
+{"ts":"2026-10-23T11:48:34.682Z","sid":"nsh1uz","event":"click","route":"/welcome","tag":"button","label":"Próximo"}
+{"ts":"2026-10-23T11:48:36.027Z","sid":"nsh1uz","event":"click","route":"/welcome","tag":"label","label":"Eu li e concordo com a Gmx Launcher"}
+{"ts":"2026-10-23T11:48:37.227Z","sid":"nsh1uz","event":"click","route":"/welcome","tag":"button","label":"Li e concordo"}
+{"ts":"2026-10-23T11:48:37.922Z","sid":"nsh1uz","event":"click","route":"/welcome","tag":"div","label":"Eu li e concordo com a Gmx Launcher Termos de Serviço"}
+{"ts":"2026-10-23T11:48:38.274Z","sid":"nsh1uz","event":"click","route":"/welcome","tag":"div","label":"Eu li e concordo com a Gmx Launcher Política de Privacidade"}
+{"ts":"2026-10-23T11:48:38.858Z","sid":"nsh1uz","event":"click","route":"/welcome","tag":"button","label":"Começar"}
+{"ts":"2026-10-23T11:48:40.818Z","sid":"nsh1uz","event":"click","route":"/welcome","tag":"button","label":"Próximo"}
+{"ts":"2026-10-23T11:48:43.299Z","sid":"nsh1uz","event":"click","route":"/welcome","tag":"button","label":"Temas escuros"}
+{"ts":"2026-10-23T11:48:43.755Z","sid":"nsh1uz","event":"click","route":"/welcome","tag":"button","label":"Cyberpunk"}
+{"ts":"2026-10-23T11:48:44.795Z","sid":"nsh1uz","event":"click","route":"/welcome","tag":"button","label":"Continuar"}
+{"ts":"2026-10-23T11:48:46.586Z","sid":"nsh1uz","event":"click","route":"/welcome","tag":"button","label":"Pular"}
+{"ts":"2026-10-23T11:48:47.899Z","sid":"nsh1uz","event":"click","route":"/welcome","tag":"button","label":"Eu tenho isso, leve-me para o tour"}
+{"ts":"2026-10-23T11:48:48.772Z","sid":"nsh1uz","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T11:48:50.427Z","sid":"nsh1uz","event":"click","route":"/","tag":"button","label":"Pular o tour"}
+{"ts":"2026-10-23T11:48:58.123Z","sid":"nsh1uz","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T11:49:01.314Z","sid":"nsh1uz","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-23T11:49:02.482Z","sid":"nsh1uz","event":"click","route":"/download","tag":"div","label":"Fonte de downloadSeamless (BuzzHeavier)Dica: Na janela pop-up, clique duas vezes no botão de download para iniciar o dow"}
+{"ts":"2026-10-23T11:49:02.794Z","sid":"nsh1uz","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-23T11:49:06.794Z","sid":"nsh1uz","event":"click","route":"/download","tag":"div","label":"Escolha onde instalarEscolha o disco ou a pasta onde este jogo vai ficar. A pasta do jogo e criada dentro dela.C:\\C:/gmx"}
+{"ts":"2026-10-23T11:49:07.099Z","sid":"nsh1uz","event":"click","route":"/download","tag":"button","label":"E:\\E:/gmx-games188.1 GB livres de 464.7 GB"}
+{"ts":"2026-10-23T11:49:08.068Z","sid":"nsh1uz","event":"click","route":"/download","tag":"button","label":"Continuar"}
+{"ts":"2026-10-23T11:49:08.109Z","sid":"nsh1uz","event":"download-request","game":"The Coffin of Andy and Leyley","dirIndex":1,"linkHost":"ts.bzzhr.to","torrent":false}
+{"ts":"2026-10-23T11:49:08.141Z","sid":"nsh1uz","event":"download-spawn","game":"The Coffin of Andy and Leyley","exe":"C:\\Users\\c2644\\Downloads\\github.com\\ascendara-main\\ascendara-main\\dist\\win-unpacked\\resources\\AscendaraDownloader.exe"}
