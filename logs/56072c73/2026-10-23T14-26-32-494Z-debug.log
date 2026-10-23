@@ -1,0 +1,119 @@
+ERROR: [2026-10-23T14:24:32.033Z] (node:24560) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `GMX --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T14:24:32.472Z] Current version 1.0.0 is not broken
+[2026-10-23T14:24:32.472Z] Timestamp file not found. Probing disk instead.
+[2026-10-23T14:24:32.789Z] [StartupCleanup] nenhuma outra instalação GMX/Ascendara - nada a limpar
+[2026-10-23T14:24:32.794Z] Settings file not found, creating with default values
+[2026-10-23T14:24:32.795Z] Settings file created successfully at: C:\Users\Testes\AppData\Roaming\ascendara\ascendarasettings.json
+[2026-10-23T14:24:32.898Z] Window icon loaded from: C:\Users\Testes\AppData\Local\Programs\GMX\resources\app.asar\electron\icon.ico
+[2026-10-23T14:24:33.012Z] Loading window from: http://localhost:46859
+[2026-10-23T14:24:33.095Z] System tray created successfully
+[2026-10-23T14:24:33.123Z] Achievement watcher started
+ERROR: [2026-10-23T14:24:33.127Z] Local server error: listen EADDRINUSE: address already in use 127.0.0.1:46859
+[2026-10-23T14:24:33.333Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T14:24:33.400Z] [WATCHER] About to acquire single-instance lock...
+ERROR: [2026-10-23T14:24:33.410Z] [WATCHER ERROR] Uncaught exception: Error: EPERM: operation not permitted, unlink '\\.\pipe\Achievement Watchdog-sock'
+    at Object.unlinkSync (node:fs:1780:3)
+    at Socket.<anonymous> (C:\snapshot\AscendaraAchievementWatcher\node_modules\single-instance\index.js:39:12)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -4048,
+  syscall: 'unlink',
+  code: 'EPERM',
+  path: '\\\\.\\pipe\\Achievement Watchdog-sock'
+}
+[2026-10-23T14:24:33.419Z] [WATCHER] Watchdog status updated: running=false, timestamp=2026-10-23T11:24:33-03:00
+[2026-10-23T14:24:33.439Z] Achievement watcher exited with code 1 and signal null
+[2026-10-23T14:24:34.154Z] Window DOM ready
+[2026-10-23T14:24:34.155Z] ready-to-show event fired
+[2026-10-23T14:24:34.189Z] Window shown event fired
+[2026-10-23T14:24:34.190Z] Window shown via ready-to-show event
+[2026-10-23T14:24:34.203Z] Window finished loading
+[2026-10-23T14:24:34.211Z] Window started loading
+[2026-10-23T14:24:34.993Z] Discord is not running, skipping RPC connection
+[2026-10-23T14:24:34.994Z] Discord RPC connection attempt 1/3 - Discord not running, retrying in 30s
+[2026-10-23T14:24:35.069Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T14:24:35.740Z] Discord RPC not connected, skipping activity update
+[2026-10-23T14:24:39.139Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T14:24:41.740Z] Window started loading
+[2026-10-23T14:24:41.768Z] Discord RPC not connected, skipping activity update
+[2026-10-23T14:24:42.229Z] Getting auth token for download...
+[2026-10-23T14:24:42.230Z] [Build Signature] Loaded: 329e4c7ba2361d5d932d7235ce8033cc
+ERROR: [2026-10-23T14:24:42.420Z] Failed to download shared index: {}
+[2026-10-23T14:25:04.596Z] Window started loading
+[2026-10-23T14:25:04.599Z] Window started loading
+[2026-10-23T14:25:04.617Z] Getting auth token for download...
+[2026-10-23T14:25:04.628Z] Discord RPC not connected, skipping activity update
+ERROR: [2026-10-23T14:25:05.034Z] Failed to download shared index: {}
+[2026-10-23T14:25:05.234Z] Discord is not running, skipping RPC connection
+[2026-10-23T14:25:05.235Z] Discord RPC connection attempt 2/3 - Discord not running, retrying in 30s
+[2026-10-23T14:25:05.547Z] [PosterCache] Cached poster for "Schedule I"
+[2026-10-23T14:25:07.681Z] Window started loading
+[2026-10-23T14:25:07.731Z] Discord RPC not connected, skipping activity update
+[2026-10-23T14:25:07.790Z] [PosterCache] Cached poster for "Marvel's Spider-Man 2"
+[2026-10-23T14:25:07.887Z] Window started loading
+[2026-10-23T14:25:08.568Z] Window started loading
+[2026-10-23T14:25:08.594Z] Discord RPC not connected, skipping activity update
+[2026-10-23T14:25:08.703Z] Window started loading
+[2026-10-23T14:25:09.603Z] Window started loading
+[2026-10-23T14:25:09.639Z] Discord RPC not connected, skipping activity update
+[2026-10-23T14:25:09.747Z] Window started loading
+[2026-10-23T14:25:09.794Z] Discord RPC not connected, skipping activity update
+[2026-10-23T14:25:09.989Z] [PosterCache] Cached poster for "MECCHA CHAMELEON"
+[2026-10-23T14:25:10.538Z] Window started loading
+[2026-10-23T14:25:10.567Z] Discord RPC not connected, skipping activity update
+[2026-10-23T14:25:10.570Z] Discord RPC not connected, skipping activity update
+[2026-10-23T14:25:10.673Z] Window started loading
+[2026-10-23T14:25:11.624Z] Window started loading
+[2026-10-23T14:25:11.724Z] [PosterCache] Cached poster for "Palworld"
+[2026-10-23T14:25:13.959Z] Window started loading
+[2026-10-23T14:25:13.990Z] Discord RPC not connected, skipping activity update
+[2026-10-23T14:25:14.112Z] [PosterCache] Cached poster for "R.E.P.O"
+[2026-10-23T14:25:16.297Z] [PosterCache] Cached poster for "The Last of Us Part I"
+[2026-10-23T14:25:17.863Z] Window started loading
+[2026-10-23T14:25:17.895Z] Discord RPC not connected, skipping activity update
+[2026-10-23T14:25:18.463Z] [PosterCache] Cached poster for "Ghost Of Tsushima DIRECTOR'S CUT"
+[2026-10-23T14:25:19.255Z] Window started loading
+[2026-10-23T14:25:19.285Z] Discord RPC not connected, skipping activity update
+[2026-10-23T14:25:20.431Z] [PosterCache] Cached poster for "Resident Evil 4 Remake"
+[2026-10-23T14:25:22.217Z] [PosterCache] Cached poster for "Ready or Not"
+[2026-10-23T14:25:24.346Z] [PosterCache] Cached poster for "Forza Horizon 6"
+[2026-10-23T14:25:26.427Z] [PosterCache] Cached poster for "Hollow Knight Silksong"
+WARN: [2026-10-23T14:25:30.864Z] [PosterCache] Failed for "Dispatch": Request failed with status code 400
+[2026-10-23T14:25:31.088Z] Window started loading
+[2026-10-23T14:25:31.125Z] Discord RPC not connected, skipping activity update
+WARN: [2026-10-23T14:25:35.012Z] [PosterCache] Failed for "The Handler of Dragons": Request failed with status code 400
+[2026-10-23T14:25:35.429Z] Blocked popup in external window: https://werefilledwit.org/YUtETzheKDdyWVM%2FLQJvDREcI3kgEyh2bDQKKC1vN3IWDQkGbSUtTFx7Yj1dBXZ1aUsMdnV5Hgp2YjkFUGV3exZSc2p4HhI%2FN3IIRzs2IQVRbSEiWlx7YjtRBXZ1ew9ZeXZ2HhMzPXIJVX90EAFRe2ImVgJ2dGlNXHNwfQBXfnR5AFB7cXkLRyojKltcenN2ClZ9cXoLU20iPAVQbSImVAR2ECddTwgrKV4IJWogXk8KKitBTyoqKxYtLj0jXRhmFztdACYWBmhPKCsiFhMqNmlKBC15J0wVOzdqCyBudgkdUw0mNUIJOWo7V0R5AidZFD91eEANIS13QUckNz0FEj8hLlUTIjRhWw4mYiVLFXZ0aV0POXl%2FHg0oMS4FDCQ%2BJlQNKmF9flRldGoKUWMzJlYFJDM8HVN7KjsdU3t1fxZRbncNHVN7MyZWV39hfHpEeXQ3DlViYX0IADs0I10WLiYkURVudgkNUnxqfA5EeXRnUwk%2FKSMdUwhhfQgNIi8qHVN7IypbCiRtagpRKjcsXQ8vJT1ZRHkCfhZRZXRqClEoLD1XDC5hfX5Qf3BhCE98cXoBT3l3eR1TeyEjXQI%2FNiBWRHkCewhPenRhDkR5dDxZByo2Jh1TDXF8D094cmlLBCg0I1kVdhMmVgUkMzweEi4nP1QAPzIqSlx6dGEIT3tiPF0CLTIjBUR5dgFXFWMFagsgCTYuVgVudn0dUgkyagslbnZ9AE97an8WUW52fR1TCGF9CER5dgxQEyQpJk0MbnZ9HVIJMmoLJW52fQlVf2p%2FFlZ%2BcXYWU3hyagpTbTcqWwwkICpUXG0wNVxcZndpTQ0kJ3JIFWYGHR4ILXl%2FHgI%2FeX4eAj8ncgxHFDIkYTV2dXgBU3xyeg1SfnB9Dkc%2BMD0JXHt0dQhRcXR%2BHhQ%2FNn0FUH1iOkwTeHl%2FHhQ%2FNnsFUW0xO0pUdnRpTRU5cnIIRz4wPQ9ce2I5WQ0iIHIJ
+[2026-10-23T14:25:35.494Z] Discord is not running, skipping RPC connection
+[2026-10-23T14:25:35.494Z] Discord RPC connection attempt 3/3 - Discord not running, retrying in 30s
+[2026-10-23T14:25:35.998Z] Intercepted download in external window: https://ts.bzzhr.to/d/haut17xlji8y?v=mwJ30bU-Og-3bFaMHKYiiz3xW-AAOmolxtBaM0SBJ_XORdqM2uM8Smm6tnmrJFaOncvnq5-cwBCXkCBjlHWmV-cRsexRgavt5bEdUuIKSB8RvP_uijsHhBJpeV-E5y-JaV61Tt_m42AzotZGKq5-lrNUOdd7VyKN3WP2KGQCahTxDvWXrmYsL0W3FxabQZ1xwGXtSBOg7F1OYDB9X00JLNg6dU0gOeI8LQI_tWYt6Es
+[2026-10-23T14:25:35.998Z] Forwarded intercepted download URL to main window
+[2026-10-23T14:25:36.953Z] [PosterCache] Cached poster for "Minecraft Dungeons II"
+[2026-10-23T14:25:37.978Z] Registered download directory: E:\gmx-games (index 1)
+WARN: [2026-10-23T14:25:38.994Z] [PosterCache] Rate limited, will retry "Graveyard Keeper 2"
+WARN: [2026-10-23T14:25:39.018Z] [SteamGrid] URL fetch failed (grid) for "DON'T SCREAM": Request failed with status code 429
+[2026-10-23T14:25:42.191Z] Downloading file: https://ts.bzzhr.to/d/haut17xlji8y?v=mwJ30bU-Og-3bFaMHKYiiz3xW-AAOmolxtBaM0SBJ_XORdqM2uM8Smm6tnmrJFaOncvnq5-cwBCXkCBjlHWmV-cRsexRgavt5bEdUuIKSB8RvP_uijsHhBJpeV-E5y-JaV61Tt_m42AzotZGKq5-lrNUOdd7VyKN3WP2KGQCahTxDvWXrmYsL0W3FxabQZ1xwGXtSBOg7F1OYDB9X00JLNg6dU0gOeI8LQI_tWYt6Es, game: The Coffin of Andy and Leyley, online: false, dlc: false, isVr: false, updateFlow: false, version: 22651024, size: 640 MB, additionalDirIndex: 1, gameID: AUgwFC, folder: The Coffin of Andy and Leyley
+[2026-10-23T14:25:42.196Z] No local header image found, trying SteamGridDB fallback for: The Coffin of Andy and Leyley
+WARN: [2026-10-23T14:25:42.196Z] SteamGridDB fallback failed for The Coffin of Andy and Leyley: steamgrid.fetchGameHeader is not a function
+[2026-10-23T14:25:42.196Z] [Download] Starting background asset fetch for The Coffin of Andy and Leyley (Name Search)
+[2026-10-23T14:25:42.202Z] Cached download data for resume: C:\Users\Testes\AppData\Roaming\ascendara\downloadCache\The Coffin of Andy and Leyley.json
+[2026-10-23T14:25:42.202Z] Spawning executable: C:\Users\Testes\AppData\Local\Programs\GMX\resources\AscendaraDownloader.exe
+[2026-10-23T14:25:44.890Z] Window started loading
+[2026-10-23T14:25:44.948Z] Discord RPC not connected, skipping activity update
+[2026-10-23T14:25:44.953Z] Discord RPC not connected, skipping activity update
+[2026-10-23T14:25:48.994Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T14:25:52.559Z] Stopping download for game: Mortal Kombat Komplete Edition, deleteContents: true, isKill: true
+[2026-10-23T14:25:52.560Z] Found game directory at: E:\gmx-games\Mortal Kombat Komplete Edition
+[2026-10-23T14:25:52.562Z] Marked download as stopped in JSON: E:\gmx-games\Mortal Kombat Komplete Edition\Mortal Kombat Komplete Edition.ascendara.json
+[2026-10-23T14:25:53.745Z] Found 0 AscendaraDownloader.exe processes for Mortal Kombat Komplete Edition
+[2026-10-23T14:25:54.886Z] Found 0 AscendaraGofileHelper.exe processes for Mortal Kombat Komplete Edition
+[2026-10-23T14:25:56.053Z] Found 0 AscendaraTorrentHandler.exe processes for Mortal Kombat Komplete Edition
+[2026-10-23T14:25:56.053Z] Total processes killed: 0
+[2026-10-23T14:25:57.799Z] All processes terminated after 1000ms
+[2026-10-23T14:25:57.800Z] Confirmed stopped state in JSON: E:\gmx-games\Mortal Kombat Komplete Edition\Mortal Kombat Komplete Edition.ascendara.json
+[2026-10-23T14:25:57.800Z] Deleting game directory: E:\gmx-games\Mortal Kombat Komplete Edition
+[2026-10-23T14:25:57.825Z] Successfully deleted game directory
+[2026-10-23T14:25:57.825Z] Successfully stopped download for: Mortal Kombat Komplete Edition
+[2026-10-23T14:26:05.509Z] Maximum Discord RPC connection attempts reached. Stopping retries.
