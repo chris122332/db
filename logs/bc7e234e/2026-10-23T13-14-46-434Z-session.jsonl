@@ -1,0 +1,31 @@
+{"ts":"2026-10-23T13:06:42.352Z","sid":"0qskk0","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T13:06:52.435Z","sid":"0qskk0","event":"page-ready","route":"/welcome"}
+{"ts":"2026-10-23T13:06:54.545Z","sid":"0qskk0","event":"click","route":"/welcome","tag":"button","label":"Entrar na tela cheia"}
+{"ts":"2026-10-23T13:07:29.569Z","sid":"0qskk0","event":"click","route":"/welcome","tag":"button","label":"Próximo"}
+{"ts":"2026-10-23T13:07:30.888Z","sid":"0qskk0","event":"click","route":"/welcome","tag":"label","label":"Eu li e concordo com a Gmx Launcher"}
+{"ts":"2026-10-23T13:07:32.120Z","sid":"0qskk0","event":"click","route":"/welcome","tag":"div","label":"Termos de Uso do GMX LauncherÚltima atualização: 16 de outubro de 2026TermosPrivacidadeRole para baixo para ler o docume"}
+{"ts":"2026-10-23T13:07:32.440Z","sid":"0qskk0","event":"click","route":"/welcome","tag":"button","label":"Li e concordo"}
+{"ts":"2026-10-23T13:07:33.776Z","sid":"0qskk0","event":"click","route":"/welcome","tag":"div","label":"Eu li e concordo com a Gmx Launcher Termos de Serviço"}
+{"ts":"2026-10-23T13:07:34.281Z","sid":"0qskk0","event":"click","route":"/welcome","tag":"label","label":"Eu li e concordo com a Gmx Launcher"}
+{"ts":"2026-10-23T13:07:34.712Z","sid":"0qskk0","event":"click","route":"/welcome","tag":"button","label":"Começar"}
+{"ts":"2026-10-23T13:07:36.334Z","sid":"0qskk0","event":"click","route":"/welcome","tag":"button","label":"Próximo"}
+{"ts":"2026-10-23T13:07:37.752Z","sid":"0qskk0","event":"click","route":"/welcome","tag":"button","label":"Temas escuros"}
+{"ts":"2026-10-23T13:07:38.528Z","sid":"0qskk0","event":"click","route":"/welcome","tag":"button","label":"Forest"}
+{"ts":"2026-10-23T13:07:39.976Z","sid":"0qskk0","event":"click","route":"/welcome","tag":"button","label":"Voltar"}
+{"ts":"2026-10-23T13:07:40.392Z","sid":"0qskk0","event":"click","route":"/welcome","tag":"button","label":"Voltar"}
+{"ts":"2026-10-23T13:07:40.864Z","sid":"0qskk0","event":"click","route":"/welcome","tag":"button","label":"Voltar"}
+{"ts":"2026-10-23T13:07:57.664Z","sid":"0qskk0","event":"click","route":"/welcome","tag":"span","label":"What's your preferred language?"}
+{"ts":"2026-10-23T13:14:21.744Z","sid":"0qskk0","event":"click","route":"/welcome","tag":"button","label":"Próximo"}
+{"ts":"2026-10-23T13:14:23.640Z","sid":"0qskk0","event":"click","route":"/welcome","tag":"button","label":"Começar"}
+{"ts":"2026-10-23T13:14:25.176Z","sid":"0qskk0","event":"click","route":"/welcome","tag":"button","label":"Próximo"}
+{"ts":"2026-10-23T13:14:27.960Z","sid":"0qskk0","event":"click","route":"/welcome","tag":"div","label":"Escolha o seu temaPersonalize sua experiência com um tema que combine com seu estiloTemas clarosTemas escurosDark BlueMi"}
+{"ts":"2026-10-23T13:14:28.880Z","sid":"0qskk0","event":"click","route":"/welcome","tag":"button","label":"Continuar"}
+{"ts":"2026-10-23T13:14:30.593Z","sid":"0qskk0","event":"click","route":"/welcome","tag":"button","label":"Pular"}
+{"ts":"2026-10-23T13:14:32.000Z","sid":"0qskk0","event":"click","route":"/welcome","tag":"div","label":"Dependências de jogosSe você estiver jogando em um PC novo ou instalou recentemente o Windows, Gmx Launcher pode ajudá-l"}
+{"ts":"2026-10-23T13:14:32.752Z","sid":"0qskk0","event":"click","route":"/welcome","tag":"div","label":"Instalar dependênciasEu tenho isso, leve-me para o tourIgnore os downloads e o tour"}
+{"ts":"2026-10-23T13:14:33.176Z","sid":"0qskk0","event":"click","route":"/welcome","tag":"button","label":"Eu tenho isso, leve-me para o tour"}
+{"ts":"2026-10-23T13:14:34.077Z","sid":"0qskk0","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T13:14:37.076Z","sid":"0qskk0","event":"click","route":"/","tag":"button","label":"Próximo"}
+{"ts":"2026-10-23T13:14:39.224Z","sid":"0qskk0","event":"click","route":"/","tag":"button","label":"Próximo"}
+{"ts":"2026-10-23T13:14:41.104Z","sid":"0qskk0","event":"click","route":"/","tag":"button","label":"Próximo"}
+{"ts":"2026-10-23T13:14:42.960Z","sid":"0qskk0","event":"click","route":"/search","tag":"button","label":"Próximo"}
