@@ -1,0 +1,38 @@
+ERROR: [2026-10-23T14:24:32.033Z] (node:24560) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `GMX --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T14:24:32.472Z] Current version 1.0.0 is not broken
+[2026-10-23T14:24:32.472Z] Timestamp file not found. Probing disk instead.
+[2026-10-23T14:24:32.789Z] [StartupCleanup] nenhuma outra instalação GMX/Ascendara - nada a limpar
+[2026-10-23T14:24:32.794Z] Settings file not found, creating with default values
+[2026-10-23T14:24:32.795Z] Settings file created successfully at: C:\Users\Testes\AppData\Roaming\ascendara\ascendarasettings.json
+[2026-10-23T14:24:32.898Z] Window icon loaded from: C:\Users\Testes\AppData\Local\Programs\GMX\resources\app.asar\electron\icon.ico
+[2026-10-23T14:24:33.012Z] Loading window from: http://localhost:46859
+[2026-10-23T14:24:33.095Z] System tray created successfully
+[2026-10-23T14:24:33.123Z] Achievement watcher started
+ERROR: [2026-10-23T14:24:33.127Z] Local server error: listen EADDRINUSE: address already in use 127.0.0.1:46859
+[2026-10-23T14:24:33.333Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T14:24:33.400Z] [WATCHER] About to acquire single-instance lock...
+ERROR: [2026-10-23T14:24:33.410Z] [WATCHER ERROR] Uncaught exception: Error: EPERM: operation not permitted, unlink '\\.\pipe\Achievement Watchdog-sock'
+    at Object.unlinkSync (node:fs:1780:3)
+    at Socket.<anonymous> (C:\snapshot\AscendaraAchievementWatcher\node_modules\single-instance\index.js:39:12)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -4048,
+  syscall: 'unlink',
+  code: 'EPERM',
+  path: '\\\\.\\pipe\\Achievement Watchdog-sock'
+}
+[2026-10-23T14:24:33.419Z] [WATCHER] Watchdog status updated: running=false, timestamp=2026-10-23T11:24:33-03:00
+[2026-10-23T14:24:33.439Z] Achievement watcher exited with code 1 and signal null
+[2026-10-23T14:24:34.154Z] Window DOM ready
+[2026-10-23T14:24:34.155Z] ready-to-show event fired
+[2026-10-23T14:24:34.189Z] Window shown event fired
+[2026-10-23T14:24:34.190Z] Window shown via ready-to-show event
+[2026-10-23T14:24:34.203Z] Window finished loading
+[2026-10-23T14:24:34.211Z] Window started loading
+[2026-10-23T14:24:34.993Z] Discord is not running, skipping RPC connection
+[2026-10-23T14:24:34.994Z] Discord RPC connection attempt 1/3 - Discord not running, retrying in 30s
+[2026-10-23T14:24:35.069Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T14:24:35.740Z] Discord RPC not connected, skipping activity update
