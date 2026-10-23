@@ -1,0 +1,157 @@
+ERROR: [2026-10-23T13:36:19.384Z] (node:19524) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `GMX --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T13:36:19.993Z] Current version 1.0.0 is not broken
+[2026-10-23T13:36:19.993Z] Timestamp file not found. Probing disk instead.
+[2026-10-23T13:36:20.352Z] [StartupCleanup] nenhuma outra instalação GMX/Ascendara - nada a limpar
+[2026-10-23T13:36:20.357Z] Settings file not found, creating with default values
+[2026-10-23T13:36:20.358Z] Settings file created successfully at: C:\Users\c2644\AppData\Roaming\ascendara\ascendarasettings.json
+[2026-10-23T13:36:20.469Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\dist\win-unpacked\resources\app.asar\electron\icon.ico
+[2026-10-23T13:36:20.527Z] Loading window from: http://localhost:46859
+[2026-10-23T13:36:20.612Z] System tray created successfully
+[2026-10-23T13:36:20.634Z] Achievement watcher started
+[2026-10-23T13:36:20.644Z] Local server running at http://localhost:46859
+[2026-10-23T13:36:20.807Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T13:36:20.878Z] [WATCHER] About to acquire single-instance lock...
+[2026-10-23T13:36:20.881Z] [WATCHER] Single-instance lock acquired. Starting app...
+[2026-10-23T13:36:20.882Z] [WATCHER] Achievement Watchdog starting ...
+[2026-10-23T13:36:20.890Z] [WATCHER] Watchdog status updated: running=true, timestamp=2026-10-23T10:36:20-03:00
+[2026-10-23T13:36:20.895Z] [WATCHER] monitor.getFolders() returned 3 folders
+[2026-10-23T13:36:20.898Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\c2644\AppData\Roaming\GSE Saves" with options: { recursive: true, filter: /([0-9]+)/, file: [ 'achievements.json' ] }
+[2026-10-23T13:36:20.898Z] [WATCHER] Watching files in C:\Users\c2644\AppData\Roaming\GSE Saves: ["achievements.json"] with filter: /([0-9]+)/
+[2026-10-23T13:36:20.915Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\Steam\RUNE" with options: { recursive: true, filter: /.*/, file: [ 'achievements.ini' ] }
+Watching files in C:\Users\Public\Documents\Steam\RUNE: ["achievements.ini"] with filter: /.*/
+[2026-10-23T13:36:20.919Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\OnlineFix" with options: {
+  recursive: true,
+  filter: /([0-9]+)[\\/]Stats/i,
+  file: [ 'achievements.ini', 'Achievements.ini' ]
+}
+Watching files in C:\Users\Public\Documents\OnlineFix: ["achievements.ini","Achievements.ini"] with filter: /([0-9]+)[\\/]Stats/i
+[2026-10-23T13:36:20.921Z] [WATCHER] Started 3 file watchers
+[2026-10-23T13:36:20.922Z] [WATCHER] Memory Usage: RSS=34.37MB, Heap=7.64/11.72MB
+[2026-10-23T13:36:21.602Z] Window DOM ready
+[2026-10-23T13:36:21.603Z] ready-to-show event fired
+[2026-10-23T13:36:21.655Z] Window shown event fired
+[2026-10-23T13:36:21.655Z] Window shown via ready-to-show event
+[2026-10-23T13:36:21.669Z] Window finished loading
+[2026-10-23T13:36:21.710Z] Window started loading
+[2026-10-23T13:36:22.563Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T13:36:22.564Z] Discord is not running, skipping RPC connection
+[2026-10-23T13:36:22.564Z] Discord RPC connection attempt 1/3 - Discord not running, retrying in 30s
+[2026-10-23T13:36:23.091Z] Discord RPC not connected, skipping activity update
+[2026-10-23T13:36:26.474Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T13:36:29.057Z] Window started loading
+[2026-10-23T13:36:29.086Z] Discord RPC not connected, skipping activity update
+[2026-10-23T13:36:29.541Z] Getting auth token for download...
+[2026-10-23T13:36:29.542Z] [Build Signature] Loaded: 329e4c7ba2361d5d932d7235ce8033cc
+ERROR: [2026-10-23T13:36:29.671Z] Failed to download shared index: {}
+[2026-10-23T13:36:52.835Z] Discord is not running, skipping RPC connection
+[2026-10-23T13:36:52.835Z] Discord RPC connection attempt 2/3 - Discord not running, retrying in 30s
+[2026-10-23T13:36:58.820Z] Window started loading
+[2026-10-23T13:36:58.824Z] Window started loading
+[2026-10-23T13:36:58.842Z] Getting auth token for download...
+[2026-10-23T13:36:58.853Z] Discord RPC not connected, skipping activity update
+ERROR: [2026-10-23T13:36:59.022Z] Failed to download shared index: {}
+[2026-10-23T13:36:59.776Z] [PosterCache] Cached poster for "Schedule I"
+[2026-10-23T13:37:01.714Z] [PosterCache] Cached poster for "Marvel's Spider-Man 2"
+[2026-10-23T13:37:02.518Z] Window started loading
+[2026-10-23T13:37:02.560Z] Discord RPC not connected, skipping activity update
+[2026-10-23T13:37:04.184Z] [PosterCache] Cached poster for "MECCHA CHAMELEON"
+[2026-10-23T13:37:04.548Z] Window started loading
+[2026-10-23T13:37:04.582Z] Discord RPC not connected, skipping activity update
+[2026-10-23T13:37:06.343Z] [PosterCache] Cached poster for "Palworld"
+[2026-10-23T13:37:08.750Z] [PosterCache] Cached poster for "R.E.P.O"
+[2026-10-23T13:37:10.677Z] [PosterCache] Cached poster for "The Last of Us Part I"
+[2026-10-23T13:37:10.782Z] Window started loading
+[2026-10-23T13:37:10.817Z] Discord RPC not connected, skipping activity update
+[2026-10-23T13:37:12.353Z] [PosterCache] Cached poster for "Ghost Of Tsushima DIRECTOR'S CUT"
+[2026-10-23T13:37:14.764Z] [PosterCache] Cached poster for "Resident Evil 4 Remake"
+[2026-10-23T13:37:16.815Z] [PosterCache] Cached poster for "Ready or Not"
+[2026-10-23T13:37:18.665Z] [PosterCache] Cached poster for "Forza Horizon 6"
+[2026-10-23T13:37:18.935Z] Registered download directory: E:\gmx-games (index 1)
+[2026-10-23T13:37:18.945Z] Downloading file: https://gofile.io/d/IdeIS4, game: The Amazing Spider-Man, online: false, dlc: false, isVr: false, updateFlow: false, version: 9726, size: 8.1 GB, additionalDirIndex: 1, gameID: AfzPwt, folder: The Amazing Spider-Man
+[2026-10-23T13:37:18.950Z] No local header image found, trying SteamGridDB fallback for: The Amazing Spider-Man
+WARN: [2026-10-23T13:37:18.950Z] SteamGridDB fallback failed for The Amazing Spider-Man: steamgrid.fetchGameHeader is not a function
+[2026-10-23T13:37:18.951Z] [Download] Starting background asset fetch for The Amazing Spider-Man (Name Search)
+[2026-10-23T13:37:18.952Z] [SteamGrid] Searching for: "The Amazing Spider-Man"
+[2026-10-23T13:37:18.956Z] Cached download data for resume: C:\Users\c2644\AppData\Roaming\ascendara\downloadCache\The Amazing Spider-Man.json
+[2026-10-23T13:37:18.956Z] Spawning executable: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\dist\win-unpacked\resources\AscendaraDownloader.exe
+[2026-10-23T13:37:19.110Z] [SteamGrid] Found GameID 2070
+[2026-10-23T13:37:19.628Z] [SteamGrid] Downloaded grid.ascendara.png
+[2026-10-23T13:37:20.732Z] [SteamGrid] Downloaded hero.ascendara.png
+[2026-10-23T13:37:20.945Z] [PosterCache] Cached poster for "Hollow Knight Silksong"
+[2026-10-23T13:37:21.198Z] [SteamGrid] Downloaded logo.ascendara.png
+[2026-10-23T13:37:21.633Z] Window started loading
+[2026-10-23T13:37:21.698Z] Discord RPC not connected, skipping activity update
+[2026-10-23T13:37:22.008Z] Discord RPC not connected, skipping activity update
+[2026-10-23T13:37:23.137Z] Discord is not running, skipping RPC connection
+[2026-10-23T13:37:23.138Z] Discord RPC connection attempt 3/3 - Discord not running, retrying in 30s
+WARN: [2026-10-23T13:37:25.182Z] [PosterCache] Failed for "Dispatch": Request failed with status code 400
+[2026-10-23T13:37:25.976Z] [Telemetry] upload OK (2 arquivo(s))
+WARN: [2026-10-23T13:37:29.518Z] [PosterCache] Failed for "The Handler of Dragons": Request failed with status code 400
+[2026-10-23T13:37:31.700Z] [PosterCache] Cached poster for "Minecraft Dungeons II"
+[2026-10-23T13:37:33.786Z] [PosterCache] Cached poster for "Graveyard Keeper 2"
+[2026-10-23T13:37:35.759Z] [PosterCache] Cached poster for "Fields of Mistria"
+[2026-10-23T13:37:37.890Z] [PosterCache] Cached poster for "Scrap Mechanic"
+[2026-10-23T13:37:40.001Z] [PosterCache] Cached poster for "Little Nightmares III"
+[2026-10-23T13:37:42.104Z] [PosterCache] Cached poster for "Le Mans Ultimate"
+[2026-10-23T13:37:44.352Z] [PosterCache] Cached poster for "Dragon Age The Veilguard"
+[2026-10-23T13:37:46.746Z] [PosterCache] Cached poster for "Finding Frankie"
+[2026-10-23T13:37:48.469Z] [PosterCache] Cached poster for "Until Dawn"
+WARN: [2026-10-23T13:37:50.140Z] [PosterCache] Rate limited, will retry "Disney Epic Mickey Rebrushed"
+[2026-10-23T13:37:53.138Z] Maximum Discord RPC connection attempts reached. Stopping retries.
+[2026-10-23T13:38:12.757Z] Stopping download for game: The Amazing Spider-Man, deleteContents: true, isKill: true
+[2026-10-23T13:38:12.758Z] Found game directory at: E:\gmx-games\The Amazing Spider-Man
+[2026-10-23T13:38:12.759Z] Marked download as stopped in JSON: E:\gmx-games\The Amazing Spider-Man\The Amazing Spider-Man.ascendara.json
+[2026-10-23T13:38:13.906Z] Found 2 AscendaraDownloader.exe processes for The Amazing Spider-Man
+[2026-10-23T13:38:14.193Z] Killed process AscendaraDownloader.exe with PID 23284
+[2026-10-23T13:38:14.465Z] Killed process AscendaraDownloader.exe with PID 9508
+[2026-10-23T13:38:15.560Z] Found 0 AscendaraGofileHelper.exe processes for The Amazing Spider-Man
+[2026-10-23T13:38:16.675Z] Found 0 AscendaraTorrentHandler.exe processes for The Amazing Spider-Man
+[2026-10-23T13:38:16.675Z] Total processes killed: 2
+[2026-10-23T13:38:18.507Z] All processes terminated after 1000ms
+[2026-10-23T13:38:18.508Z] Confirmed stopped state in JSON: E:\gmx-games\The Amazing Spider-Man\The Amazing Spider-Man.ascendara.json
+[2026-10-23T13:38:18.508Z] Deleting game directory: E:\gmx-games\The Amazing Spider-Man
+[2026-10-23T13:38:18.657Z] Successfully deleted game directory
+[2026-10-23T13:38:18.657Z] Successfully stopped download for: The Amazing Spider-Man
+[2026-10-23T13:38:22.421Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T13:38:32.588Z] Window started loading
+[2026-10-23T13:38:32.630Z] Discord RPC not connected, skipping activity update
+[2026-10-23T13:38:32.644Z] Discord RPC not connected, skipping activity update
+[2026-10-23T13:38:46.493Z] Window started loading
+[2026-10-23T13:38:46.504Z] Discord RPC not connected, skipping activity update
+[2026-10-23T13:38:52.244Z] [PosterCache] Cached poster for "Funko Fusion"
+[2026-10-23T13:38:54.585Z] [PosterCache] Cached poster for "Call of Duty Modern Warfare III  [v10.4"
+[2026-10-23T13:38:56.917Z] [PosterCache] Cached poster for "CarX Street"
+[2026-10-23T13:39:00.281Z] [PosterCache] Cached poster for "Mortal Kombat Komplete Edition"
+[2026-10-23T13:39:02.546Z] [PosterCache] Cached poster for "Factorio"
+[2026-10-23T13:39:03.276Z] [PosterCache] Cached poster for "Moo Lander"
+[2026-10-23T13:39:05.372Z] [PosterCache] Cached poster for "Call of Duty Black Ops 6"
+[2026-10-23T13:39:08.865Z] [PosterCache] Cached poster for "DARK SOULS Prepare To Die Edition"
+[2026-10-23T13:39:09.800Z] [PosterCache] Cached poster for "Content Warning"
+[2026-10-23T13:39:12.309Z] [PosterCache] Cached poster for "Liar's Bar"
+[2026-10-23T13:39:15.480Z] [PosterCache] Cached poster for "Split Fiction"
+[2026-10-23T13:39:18.297Z] [PosterCache] Cached poster for "JoJo's Bizarre Adventure All-Star Battle R"
+WARN: [2026-10-23T13:39:20.759Z] [PosterCache] Failed for "Warhammer 40,000 Space Marine 2": Request failed with status code 400
+[2026-10-23T13:39:25.491Z] [PosterCache] Cached poster for "The Amazing Spider-Man"
+[2026-10-23T13:39:26.768Z] [PosterCache] Cached poster for "METAL GEAR SOLID Δ SNAKE EATER"
+[2026-10-23T13:39:28.379Z] [PosterCache] Cached poster for "The Coffin of Andy and Leyley"
+[2026-10-23T13:39:31.542Z] [PosterCache] Cached poster for "Far Cry 6 Ultimate Edition"
+[2026-10-23T13:39:33.637Z] [PosterCache] Cached poster for "7 Days to Die"
+[2026-10-23T13:39:35.443Z] [PosterCache] Cached poster for "BIT.TRIP RERUNNER"
+[2026-10-23T13:39:38.520Z] [PosterCache] Cached poster for "Batman Arkham Origins"
+[2026-10-23T13:39:40.389Z] [PosterCache] Cached poster for "The Elder Scrolls IV Oblivion Remastered"
+WARN: [2026-10-23T13:39:43.084Z] [PosterCache] Failed for "Blade and Sorcery": Request failed with status code 400
+[2026-10-23T13:39:46.669Z] [PosterCache] Cached poster for "Half Sword"
+[2026-10-23T13:39:49.424Z] [PosterCache] Cached poster for "Danganronpa S Ultimate Summer Camp"
+[2026-10-23T13:39:51.354Z] [PosterCache] Cached poster for "PRAGMATA"
+[2026-10-23T13:39:53.635Z] [PosterCache] Cached poster for "High On Life"
+[2026-10-23T13:39:55.918Z] [PosterCache] Cached poster for "The Witcher Enhanced Edition"
+[2026-10-23T13:39:58.374Z] [PosterCache] Cached poster for "ARMORED CORE VI FIRES OF RUBICON"
+[2026-10-23T13:40:00.873Z] [PosterCache] Cached poster for "Dead Space"
+[2026-10-23T13:40:01.669Z] [PosterCache] Cached poster for "The Planet Crafter"
+[2026-10-23T13:40:04.002Z] [PosterCache] Cached poster for "The Walking Dead"
+WARN: [2026-10-23T13:40:07.578Z] [PosterCache] Failed for "Escape from Yandere": Request failed with status code 400
+[2026-10-23T13:40:09.797Z] [PosterCache] Cached poster for "Blasphemous"
+[2026-10-23T13:40:11.850Z] [PosterCache] Cached poster for "Five Nights at Freddy's Secret of the Mimic"
+[2026-10-23T13:40:13.982Z] [PosterCache] Cached poster for "Manhunt 2"
+WARN: [2026-10-23T13:40:18.079Z] [PosterCache] Failed for "DON'T SCREAM": Request failed with status code 400
