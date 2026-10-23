@@ -1,0 +1,288 @@
+ERROR: [2026-10-23T16:15:07.734Z] (node:22696) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `GMX --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T16:15:08.053Z] Current version 1.0.0 is not broken
+[2026-10-23T16:15:08.053Z] Timestamp file not found. Probing disk instead.
+[2026-10-23T16:15:08.427Z] [StartupCleanup] nenhuma outra instalação GMX/Ascendara - nada a limpar
+[2026-10-23T16:15:08.433Z] Settings file not found, creating with default values
+[2026-10-23T16:15:08.434Z] Settings file created successfully at: C:\Users\c2644\AppData\Roaming\ascendara\ascendarasettings.json
+[2026-10-23T16:15:08.546Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\dist\win-unpacked\resources\app.asar\electron\icon.ico
+[2026-10-23T16:15:08.600Z] Loading window from: http://localhost:46859
+[2026-10-23T16:15:08.671Z] System tray created successfully
+[2026-10-23T16:15:08.694Z] Achievement watcher started
+[2026-10-23T16:15:08.699Z] Local server running at http://localhost:46859
+[2026-10-23T16:15:08.941Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T16:15:09.008Z] [WATCHER] About to acquire single-instance lock...
+[2026-10-23T16:15:09.014Z] [WATCHER] Single-instance lock acquired. Starting app...
+[2026-10-23T16:15:09.015Z] [WATCHER] Achievement Watchdog starting ...
+[2026-10-23T16:15:09.024Z] [WATCHER] Watchdog status updated: running=true, timestamp=2026-10-23T13:15:09-03:00
+[2026-10-23T16:15:09.028Z] [WATCHER] monitor.getFolders() returned 3 folders
+[2026-10-23T16:15:09.033Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\c2644\AppData\Roaming\GSE Saves" with options: { recursive: true, filter: /([0-9]+)/, file: [ 'achievements.json' ] }
+Watching files in C:\Users\c2644\AppData\Roaming\GSE Saves: ["achievements.json"] with filter: /([0-9]+)/
+[2026-10-23T16:15:09.047Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\Steam\RUNE" with options: { recursive: true, filter: /.*/, file: [ 'achievements.ini' ] }
+[2026-10-23T16:15:09.048Z] [WATCHER] Watching files in C:\Users\Public\Documents\Steam\RUNE: ["achievements.ini"] with filter: /.*/
+[2026-10-23T16:15:09.051Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\OnlineFix" with options: {
+  recursive: true,
+  filter: /([0-9]+)[\\/]Stats/i,
+  file: [ 'achievements.ini', 'Achievements.ini' ]
+}
+Watching files in C:\Users\Public\Documents\OnlineFix: ["achievements.ini","Achievements.ini"] with filter: /([0-9]+)[\\/]Stats/i
+[2026-10-23T16:15:09.053Z] [WATCHER] Started 3 file watchers
+[2026-10-23T16:15:09.053Z] [WATCHER] Memory Usage: RSS=34.46MB, Heap=7.61/11.72MB
+[2026-10-23T16:15:09.773Z] Window DOM ready
+[2026-10-23T16:15:09.775Z] ready-to-show event fired
+[2026-10-23T16:15:09.799Z] Window shown event fired
+[2026-10-23T16:15:09.799Z] Window shown via ready-to-show event
+[2026-10-23T16:15:09.801Z] Window finished loading
+[2026-10-23T16:15:09.806Z] Window started loading
+[2026-10-23T16:15:10.600Z] Discord is not running, skipping RPC connection
+[2026-10-23T16:15:10.601Z] Discord RPC connection attempt 1/3 - Discord not running, retrying in 30s
+[2026-10-23T16:15:11.002Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:15:11.470Z] Discord RPC not connected, skipping activity update
+[2026-10-23T16:15:14.649Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:15:17.473Z] Window started loading
+[2026-10-23T16:15:17.505Z] Discord RPC not connected, skipping activity update
+[2026-10-23T16:15:18.015Z] Getting auth token for download...
+[2026-10-23T16:15:18.016Z] [Build Signature] Loaded: 329e4c7ba2361d5d932d7235ce8033cc
+ERROR: [2026-10-23T16:15:18.195Z] Failed to download shared index: {}
+[2026-10-23T16:15:40.894Z] Discord is not running, skipping RPC connection
+[2026-10-23T16:15:40.894Z] Discord RPC connection attempt 2/3 - Discord not running, retrying in 30s
+[2026-10-23T16:16:11.228Z] Discord is not running, skipping RPC connection
+[2026-10-23T16:16:11.228Z] Discord RPC connection attempt 3/3 - Discord not running, retrying in 30s
+[2026-10-23T16:16:37.172Z] Window started loading
+[2026-10-23T16:16:37.175Z] Window started loading
+[2026-10-23T16:16:37.204Z] Getting auth token for download...
+[2026-10-23T16:16:37.218Z] Discord RPC not connected, skipping activity update
+ERROR: [2026-10-23T16:16:37.414Z] Failed to download shared index: {}
+[2026-10-23T16:16:38.216Z] [PosterCache] Cached poster for "Schedule I"
+[2026-10-23T16:16:40.719Z] [PosterCache] Cached poster for "Marvel's Spider-Man 2"
+[2026-10-23T16:16:41.233Z] Maximum Discord RPC connection attempts reached. Stopping retries.
+[2026-10-23T16:16:42.937Z] [PosterCache] Cached poster for "MECCHA CHAMELEON"
+[2026-10-23T16:16:44.914Z] [PosterCache] Cached poster for "Palworld"
+[2026-10-23T16:16:45.739Z] Window started loading
+[2026-10-23T16:16:45.815Z] Discord RPC not connected, skipping activity update
+[2026-10-23T16:16:46.625Z] [PosterCache] Cached poster for "R.E.P.O"
+[2026-10-23T16:16:51.538Z] Blocked popup in external window: https://werefilledwit.org/WEJkSUZnIRd0EB4qLC0eEiw9EQgdEQktLjxyLggcNQBXGHYBZAUrMmVyQjsjPH9VbzU1f1V%2FYDN%2FQj97aWxXfWhrekp%2BYCs2F3R2fjIWJ3toZAEkJGVyQj0vPH9VfXFgcFZwYCo6HXR3bHZUFn9ockIgKDt%2FXG8zZXNVeXVoelJ5fmx0VXl1YXtCKCE9IVl4cWFwU350anNVbyArf1VvIDEuAXQLOTASLCorbzc5LzwnFmQLOSxJe2sLNgEoKwoLNGclNy9KOycqZBYsIGUqED02K2dXCGNqBEF7ADo4HiE0djYLbHQeKhE9fjA1XXl2NHsFbykrMFk6Mj0jCTsvKGwHJit%2BKBc9e2hkASc0ZXJCJSUtI1kkKSIrCCUnfXAifGhoZ1Z5bi8rCi0pLzFBe3Y2NkF7dmlySnljawBBe3YvKwp%2Fcn1xJmx0aDpSfW99cFQoNiguAT4jOikNPWNqBFF6cXZxUmx0aGoPITI1LkF7BX1wVCUvMydBe3Y%2FJwciKXFnVnknKyEBJyI5MAVsdB5zSnloaGdWeSUwMAskI31wInhybGxUZ3Ftd11ndGt0QXt2PS4BKjIqLQpsdB52VGd3aGxSbHRoMQUvJyorQXsAbXFTZ3VuZBcsJSguBT17DysKLSkvMUI6IzsyCCgyLicWdHdobFRndn4xASogLi5ZbHRqDAs9bhlnVwgEKiMKLWNqcEF6BC5nVw1janBcZ3Z2ckp5Y2pwQXsFfXBUbHRqAQw7KTUrESRjanBBegQuZ1cNY2pwVX1ydnJKfnNte0p7dW5nVntgKycHJCk8Jwh0YCw4AHRra2QRJSk7fxQ9axoQQiAgZXJCKjJlc0IqMjt%2FUG8ZABs%2BM3tpdV17cW9wVnh3bXFTbzMsMFV0dmh4VHl8aHNCPDIqcFl9cn43EDt1ZXJCPDIqdll5YC02Fnx7aGQRPTRuf1RvMywwU3R2fjQFJS88f1U%3D
+[2026-10-23T16:16:52.496Z] Intercepted download in external window: https://ts.bzzhr.to/d/hut8hw900l9a?v=khHvwDhetASEvxETzK5jvoo8QaeIgrRnCQCYshTMZCMCsPRhR5vYKtHY4JlplKB9VXtjAAFjE8L2-XyWGEdWmxrqZIVfsbCRC5Mv6kYIVYFg6v2WczsYu3hfsupZtMHgu1_XBuLmmF1Ina7ELjrCDCuBjNashEnC_ZUhW5txONC9_-lk1HrNcEEyMXTWBmUJMJM9y-WvDOFptN4r6R8
+[2026-10-23T16:16:52.497Z] Forwarded intercepted download URL to main window
+[2026-10-23T16:16:55.483Z] [PosterCache] Cached poster for "The Last of Us Part I"
+[2026-10-23T16:16:57.352Z] [PosterCache] Cached poster for "Ghost Of Tsushima DIRECTOR'S CUT"
+[2026-10-23T16:16:58.075Z] Registered download directory: E:\gmx-games (index 1)
+[2026-10-23T16:16:58.109Z] Downloading file: https://ts.bzzhr.to/d/hut8hw900l9a?v=khHvwDhetASEvxETzK5jvoo8QaeIgrRnCQCYshTMZCMCsPRhR5vYKtHY4JlplKB9VXtjAAFjE8L2-XyWGEdWmxrqZIVfsbCRC5Mv6kYIVYFg6v2WczsYu3hfsupZtMHgu1_XBuLmmF1Ina7ELjrCDCuBjNashEnC_ZUhW5txONC9_-lk1HrNcEEyMXTWBmUJMJM9y-WvDOFptN4r6R8, game: Marvel's Spider-Man 2, online: false, dlc: false, isVr: false, updateFlow: false, version: 2.810.0.0, size: 94.6 GB, additionalDirIndex: 1, gameID: AdHZtF, folder: Marvels Spider-Man 2
+ERROR: [2026-10-23T16:16:58.114Z] [download-file] Insufficient disk space. Need ~283.80 GB (94.6 GB + extraction headroom), have 183.44 GB free on E:\gmx-games
+ERROR: [2026-10-23T16:16:58.114Z] Error occurred in handler for 'download-file': {}
+[2026-10-23T16:16:59.453Z] [PosterCache] Cached poster for "Resident Evil 4 Remake"
+[2026-10-23T16:17:01.639Z] [PosterCache] Cached poster for "Ready or Not"
+[2026-10-23T16:17:03.678Z] [PosterCache] Cached poster for "Forza Horizon 6"
+[2026-10-23T16:17:04.647Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:17:05.525Z] [PosterCache] Cached poster for "Hollow Knight Silksong"
+WARN: [2026-10-23T16:17:09.858Z] [PosterCache] Failed for "Dispatch": Request failed with status code 400
+[2026-10-23T16:17:10.515Z] [Telemetry] upload OK (2 arquivo(s))
+WARN: [2026-10-23T16:17:14.057Z] [PosterCache] Failed for "The Handler of Dragons": Request failed with status code 400
+[2026-10-23T16:17:16.230Z] [PosterCache] Cached poster for "Minecraft Dungeons II"
+[2026-10-23T16:17:18.385Z] [PosterCache] Cached poster for "Graveyard Keeper 2"
+[2026-10-23T16:17:20.502Z] [PosterCache] Cached poster for "Fields of Mistria"
+[2026-10-23T16:17:22.592Z] [PosterCache] Cached poster for "Scrap Mechanic"
+[2026-10-23T16:17:24.719Z] [PosterCache] Cached poster for "Little Nightmares III"
+[2026-10-23T16:17:26.618Z] [PosterCache] Cached poster for "Le Mans Ultimate"
+[2026-10-23T16:17:29.008Z] [PosterCache] Cached poster for "Dragon Age The Veilguard"
+[2026-10-23T16:17:31.092Z] [PosterCache] Cached poster for "Finding Frankie"
+[2026-10-23T16:17:33.121Z] [PosterCache] Cached poster for "Until Dawn"
+[2026-10-23T16:17:35.186Z] [PosterCache] Cached poster for "Disney Epic Mickey Rebrushed"
+[2026-10-23T16:17:37.330Z] [PosterCache] Cached poster for "Funko Fusion"
+[2026-10-23T16:17:39.435Z] [PosterCache] Cached poster for "Call of Duty Modern Warfare III  [v10.4"
+[2026-10-23T16:17:41.540Z] [PosterCache] Cached poster for "CarX Street"
+[2026-10-23T16:17:43.698Z] [PosterCache] Cached poster for "Mortal Kombat Komplete Edition"
+[2026-10-23T16:17:45.593Z] [PosterCache] Cached poster for "Factorio"
+[2026-10-23T16:17:47.820Z] [PosterCache] Cached poster for "Moo Lander"
+[2026-10-23T16:17:49.974Z] [PosterCache] Cached poster for "Call of Duty Black Ops 6"
+[2026-10-23T16:17:52.109Z] [PosterCache] Cached poster for "DARK SOULS Prepare To Die Edition"
+[2026-10-23T16:17:54.158Z] [PosterCache] Cached poster for "Content Warning"
+[2026-10-23T16:17:56.266Z] [PosterCache] Cached poster for "Liar's Bar"
+[2026-10-23T16:17:58.427Z] [PosterCache] Cached poster for "Split Fiction"
+[2026-10-23T16:18:00.596Z] [PosterCache] Cached poster for "JoJo's Bizarre Adventure All-Star Battle R"
+WARN: [2026-10-23T16:18:04.653Z] [PosterCache] Failed for "Warhammer 40,000 Space Marine 2": Request failed with status code 400
+[2026-10-23T16:18:06.893Z] [PosterCache] Cached poster for "The Amazing Spider-Man"
+[2026-10-23T16:18:07.039Z] Window started loading
+[2026-10-23T16:18:07.066Z] Discord RPC not connected, skipping activity update
+[2026-10-23T16:18:08.922Z] [PosterCache] Cached poster for "METAL GEAR SOLID Δ SNAKE EATER"
+[2026-10-23T16:18:10.992Z] [PosterCache] Cached poster for "The Coffin of Andy and Leyley"
+[2026-10-23T16:18:13.315Z] [PosterCache] Cached poster for "Far Cry 6 Ultimate Edition"
+[2026-10-23T16:18:15.264Z] [PosterCache] Cached poster for "7 Days to Die"
+[2026-10-23T16:18:17.341Z] [PosterCache] Cached poster for "BIT.TRIP RERUNNER"
+[2026-10-23T16:18:19.660Z] [PosterCache] Cached poster for "Batman Arkham Origins"
+[2026-10-23T16:18:21.566Z] [PosterCache] Cached poster for "The Elder Scrolls IV Oblivion Remastered"
+WARN: [2026-10-23T16:18:25.712Z] [PosterCache] Failed for "Blade and Sorcery": Request failed with status code 400
+[2026-10-23T16:18:28.129Z] [PosterCache] Cached poster for "Half Sword"
+[2026-10-23T16:18:30.070Z] [PosterCache] Cached poster for "Danganronpa S Ultimate Summer Camp"
+[2026-10-23T16:18:32.121Z] [PosterCache] Cached poster for "PRAGMATA"
+[2026-10-23T16:18:34.325Z] [PosterCache] Cached poster for "High On Life"
+[2026-10-23T16:18:36.359Z] [PosterCache] Cached poster for "The Witcher Enhanced Edition"
+[2026-10-23T16:18:38.480Z] [PosterCache] Cached poster for "ARMORED CORE VI FIRES OF RUBICON"
+[2026-10-23T16:18:40.574Z] [PosterCache] Cached poster for "Dead Space"
+[2026-10-23T16:18:42.621Z] [PosterCache] Cached poster for "The Planet Crafter"
+[2026-10-23T16:18:44.754Z] [PosterCache] Cached poster for "The Walking Dead"
+WARN: [2026-10-23T16:18:48.867Z] [PosterCache] Failed for "Escape from Yandere": Request failed with status code 400
+[2026-10-23T16:18:51.105Z] [PosterCache] Cached poster for "Blasphemous"
+[2026-10-23T16:18:53.117Z] [PosterCache] Cached poster for "Five Nights at Freddy's Secret of the Mimic"
+[2026-10-23T16:18:55.273Z] [PosterCache] Cached poster for "Manhunt 2"
+WARN: [2026-10-23T16:18:59.401Z] [PosterCache] Failed for "DON'T SCREAM": Request failed with status code 400
+[2026-10-23T16:19:01.431Z] [PosterCache] Cached poster for "Manhunt"
+[2026-10-23T16:19:03.164Z] Window started loading
+[2026-10-23T16:19:03.183Z] Discord RPC not connected, skipping activity update
+[2026-10-23T16:19:04.018Z] [PosterCache] Cached poster for "Streamer Life Simulator 2"
+[2026-10-23T16:19:05.835Z] [PosterCache] Cached poster for "NBA 2K23"
+[2026-10-23T16:19:07.956Z] [PosterCache] Cached poster for "Manor Lords"
+[2026-10-23T16:19:09.988Z] [PosterCache] Cached poster for "Date Everything"
+[2026-10-23T16:19:10.691Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:19:12.141Z] [PosterCache] Cached poster for "Stellaris Ultimate Bundle"
+[2026-10-23T16:19:14.324Z] [PosterCache] Cached poster for "Victoria 3"
+[2026-10-23T16:19:16.320Z] [PosterCache] Cached poster for "Plants vs. Zombies Replanted"
+[2026-10-23T16:19:18.407Z] [PosterCache] Cached poster for "Quarantine Zone The Last Check"
+[2026-10-23T16:19:20.510Z] [PosterCache] Cached poster for "Football Life Simulator"
+[2026-10-23T16:19:22.751Z] [PosterCache] Cached poster for "Assetto Corsa EVO"
+[2026-10-23T16:19:24.744Z] [PosterCache] Cached poster for "Football Manager 2023"
+[2026-10-23T16:19:26.686Z] [PosterCache] Cached poster for "F1 2013"
+[2026-10-23T16:19:28.809Z] [PosterCache] Cached poster for "God of War Ragnarök Digital Deluxe Edition"
+[2026-10-23T16:19:31.107Z] [PosterCache] Cached poster for "PEAK"
+[2026-10-23T16:19:33.227Z] [PosterCache] Cached poster for "Hogwarts Legacy Deluxe Edition"
+[2026-10-23T16:19:35.324Z] [PosterCache] Cached poster for "Baldur's Gate 3"
+[2026-10-23T16:20:05.711Z] Window started loading
+[2026-10-23T16:20:05.781Z] Discord RPC not connected, skipping activity update
+[2026-10-23T16:20:09.062Z] [WATCHER] Memory Usage: RSS=32.11MB, Heap=6.69/8.47MB
+[2026-10-23T16:20:32.820Z] Window close event fired
+[2026-10-23T16:21:11.119Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:23:39.542Z] Removing stale lock file
+ERROR: [2026-10-23T16:23:39.668Z] (node:7392) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-23T16:23:40.447Z] Current version 1.0.0 is not broken
+[2026-10-23T16:23:41.893Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-23T16:23:42.124Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-23T16:23:42.287Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-23T16:23:42.479Z] System tray created successfully
+[2026-10-23T16:23:42.502Z] Achievement watcher started
+[2026-10-23T16:23:42.784Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-23T16:23:42.857Z] [WATCHER] About to acquire single-instance lock...
+[2026-10-23T16:23:42.865Z] [WATCHER] Single-instance lock acquired. Starting app...
+[2026-10-23T16:23:42.866Z] [WATCHER] Achievement Watchdog starting ...
+[2026-10-23T16:23:42.878Z] [WATCHER] Watchdog status updated: running=true, timestamp=2026-10-23T13:23:42-03:00
+[2026-10-23T16:23:42.882Z] [WATCHER] monitor.getFolders() returned 3 folders
+[2026-10-23T16:23:42.886Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\c2644\AppData\Roaming\GSE Saves" with options: { recursive: true, filter: /([0-9]+)/, file: [ 'achievements.json' ] }
+Watching files in C:\Users\c2644\AppData\Roaming\GSE Saves: ["achievements.json"] with filter: /([0-9]+)/
+[2026-10-23T16:23:42.904Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\Steam\RUNE" with options: { recursive: true, filter: /.*/, file: [ 'achievements.ini' ] }
+Watching files in C:\Users\Public\Documents\Steam\RUNE: ["achievements.ini"] with filter: /.*/
+[2026-10-23T16:23:42.907Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\OnlineFix" with options: {
+  recursive: true,
+  filter: /([0-9]+)[\\/]Stats/i,
+  file: [ 'achievements.ini', 'Achievements.ini' ]
+}
+Watching files in C:\Users\Public\Documents\OnlineFix: ["achievements.ini","Achievements.ini"] with filter: /([0-9]+)[\\/]Stats/i
+[2026-10-23T16:23:42.910Z] [WATCHER] Started 3 file watchers
+[2026-10-23T16:23:42.910Z] [WATCHER] Memory Usage: RSS=34.32MB, Heap=7.59/11.72MB
+[2026-10-23T16:23:45.365Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:23:52.348Z] Window DOM ready
+[2026-10-23T16:23:52.352Z] ready-to-show event fired
+[2026-10-23T16:23:52.401Z] Window shown event fired
+[2026-10-23T16:23:52.402Z] Window shown via ready-to-show event
+[2026-10-23T16:23:52.408Z] Window finished loading
+[2026-10-23T16:23:52.415Z] Window started loading
+[2026-10-23T16:23:58.182Z] Getting auth token for download...
+[2026-10-23T16:23:58.183Z] [Build Signature] Loaded: 329e4c7ba2361d5d932d7235ce8033cc
+ERROR: [2026-10-23T16:23:58.335Z] Failed to download shared index: {}
+[2026-10-23T16:25:48.015Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:26:07.431Z] Window started loading
+[2026-10-23T16:27:47.941Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:28:42.919Z] [WATCHER] Memory Usage: RSS=32.12MB, Heap=6.69/8.47MB
+[2026-10-23T16:29:24.515Z] Window close event fired
+[2026-10-23T16:29:47.983Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:31:47.776Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:33:42.929Z] [WATCHER] Memory Usage: RSS=32.13MB, Heap=6.74/8.47MB
+[2026-10-23T16:33:47.988Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:35:47.976Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:37:49.036Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:38:42.937Z] [WATCHER] Memory Usage: RSS=32.12MB, Heap=6.75/8.47MB
+[2026-10-23T16:39:47.999Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:41:48.111Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:43:42.938Z] [WATCHER] Memory Usage: RSS=32.13MB, Heap=6.75/8.47MB
+[2026-10-23T16:43:47.928Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:45:48.229Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:47:49.739Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:48:42.950Z] [WATCHER] Memory Usage: RSS=32.13MB, Heap=6.75/8.47MB
+[2026-10-23T16:49:48.048Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:51:48.047Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:53:42.959Z] [WATCHER] Memory Usage: RSS=27.09MB, Heap=6.75/8.47MB
+[2026-10-23T16:53:48.590Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:54:32.514Z] Received show-window signal from another instance
+[2026-10-23T16:54:32.515Z] No windows found, creating new window
+[2026-10-23T16:54:32.545Z] Loading window from: http://localhost:5173
+[2026-10-23T16:54:35.018Z] Window DOM ready
+[2026-10-23T16:54:35.021Z] ready-to-show event fired
+[2026-10-23T16:54:35.075Z] Window shown event fired
+[2026-10-23T16:54:35.075Z] Window shown via ready-to-show event
+[2026-10-23T16:54:35.087Z] Window finished loading
+[2026-10-23T16:54:35.091Z] Window started loading
+[2026-10-23T16:54:40.629Z] Getting auth token for download...
+ERROR: [2026-10-23T16:54:40.786Z] Failed to download shared index: {}
+[2026-10-23T16:54:57.686Z] Window started loading
+[2026-10-23T16:55:04.797Z] Window started loading
+[2026-10-23T16:55:48.025Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:57:47.756Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T16:58:42.972Z] [WATCHER] Memory Usage: RSS=21.56MB, Heap=6.76/8.47MB
+[2026-10-23T16:59:48.042Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:01:48.312Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:02:29.463Z] Window started loading
+[2026-10-23T17:03:42.974Z] [WATCHER] Memory Usage: RSS=20.31MB, Heap=6.76/8.47MB
+[2026-10-23T17:03:48.452Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:05:47.982Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:07:49.210Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:08:42.987Z] [WATCHER] Memory Usage: RSS=20.15MB, Heap=6.76/8.47MB
+[2026-10-23T17:09:48.222Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:11:47.998Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:13:42.996Z] [WATCHER] Memory Usage: RSS=20.00MB, Heap=6.76/8.47MB
+[2026-10-23T17:13:47.963Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:15:47.996Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:17:48.242Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:18:43.007Z] [WATCHER] Memory Usage: RSS=19.99MB, Heap=6.77/8.47MB
+[2026-10-23T17:19:48.060Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:21:48.746Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:23:43.013Z] [WATCHER] Memory Usage: RSS=19.99MB, Heap=6.77/8.47MB
+[2026-10-23T17:23:48.006Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:25:48.082Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:27:47.905Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:28:43.027Z] [WATCHER] Memory Usage: RSS=19.99MB, Heap=6.77/8.47MB
+[2026-10-23T17:29:47.932Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:31:48.166Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:33:43.033Z] [WATCHER] Memory Usage: RSS=20.11MB, Heap=7.01/8.72MB
+[2026-10-23T17:33:48.111Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:35:48.242Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:37:48.433Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:38:43.036Z] [WATCHER] Memory Usage: RSS=20.09MB, Heap=7.01/8.72MB
+[2026-10-23T17:39:48.074Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:41:48.052Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:43:43.046Z] [WATCHER] Memory Usage: RSS=20.27MB, Heap=7.01/8.72MB
+[2026-10-23T17:43:48.338Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:45:48.553Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:47:48.187Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:48:43.056Z] [WATCHER] Memory Usage: RSS=20.25MB, Heap=7.01/8.72MB
+[2026-10-23T17:49:48.685Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:50:11.704Z] Window close event fired
+[2026-10-23T17:50:19.985Z] Received show-window signal from another instance
+[2026-10-23T17:50:19.997Z] No windows found, creating new window
+[2026-10-23T17:50:20.049Z] Loading window from: http://localhost:5173
+[2026-10-23T17:50:23.448Z] Window DOM ready
+[2026-10-23T17:50:23.450Z] ready-to-show event fired
+[2026-10-23T17:50:23.499Z] Window shown event fired
+[2026-10-23T17:50:23.500Z] Window shown via ready-to-show event
+[2026-10-23T17:50:23.511Z] Window finished loading
+[2026-10-23T17:50:23.513Z] Window started loading
+[2026-10-23T17:50:29.120Z] Getting auth token for download...
+ERROR: [2026-10-23T17:50:29.261Z] Failed to download shared index: {}
+[2026-10-23T17:50:35.329Z] Window started loading
+WARN: [2026-10-23T17:50:45.374Z] [Retro] launch: Game file not found: Super Bust-A-Move (Europe).bin
+[2026-10-23T17:50:48.639Z] Window started loading
+[2026-10-23T17:50:53.867Z] Window started loading
+[2026-10-23T17:50:58.899Z] Window started loading
+[2026-10-23T17:50:59.248Z] Window started loading
+WARN: [2026-10-23T17:51:13.134Z] [Retro] emulator-install: Downloaded, but no PPSSPPWin64.exe was found inside it
+[2026-10-23T17:51:48.251Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-23T17:53:43.058Z] [WATCHER] Memory Usage: RSS=20.22MB, Heap=7.02/8.72MB
+[2026-10-23T17:53:48.139Z] [Telemetry] upload OK (2 arquivo(s))
