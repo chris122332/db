@@ -1,0 +1,31 @@
+{"ts":"2026-10-23T21:48:35.540Z","sid":"4sn057","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T21:48:45.332Z","sid":"4sn057","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T21:48:53.294Z","sid":"4sn057","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T21:48:58.637Z","sid":"4sn057","event":"click","route":"/library","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-23T21:49:03.709Z","sid":"4sn057","event":"click","route":"/settings","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-23T21:49:05.270Z","sid":"4sn057","event":"click","route":"/downloads","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T21:49:08.437Z","sid":"4sn057","event":"click","route":"/library","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-23T21:49:13.517Z","sid":"4sn057","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T21:49:16.141Z","sid":"4sn057","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-23T21:49:17.541Z","sid":"4sn057","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-23T21:49:22.837Z","sid":"4sn057","event":"click","route":"/download","tag":"button","label":"E:\\E:/gmx-games184.3 GB livres de 464.7 GB"}
+{"ts":"2026-10-23T21:49:23.773Z","sid":"4sn057","event":"click","route":"/download","tag":"button","label":"Continuar"}
+{"ts":"2026-10-23T21:49:23.870Z","sid":"4sn057","event":"download-request","game":"The Coffin of Andy and Leyley","dirIndex":1,"linkHost":"ts.bzzhr.to","torrent":false}
+{"ts":"2026-10-23T21:49:23.907Z","sid":"4sn057","event":"download-spawn","game":"The Coffin of Andy and Leyley","exe":"python"}
+{"ts":"2026-10-23T21:49:34.735Z","sid":"4sn057","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T21:49:36.064Z","sid":"4sn057","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T21:49:37.317Z","sid":"4sn057","event":"click","route":"/downloads","tag":"div","label":""}
+{"ts":"2026-10-23T21:55:05.967Z","sid":"4sn057","event":"click","route":"/downloads","tag":"button","label":"Ver detalhes"}
+{"ts":"2026-10-23T21:55:49.454Z","sid":"4sn057","event":"click","route":"/gamescreen","tag":"button","label":"Mídia"}
+{"ts":"2026-10-23T21:55:52.153Z","sid":"4sn057","event":"click","route":"/gamescreen","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T21:55:52.975Z","sid":"4sn057","event":"click","route":"/gamescreen","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T21:55:53.447Z","sid":"4sn057","event":"click","route":"/gamescreen","tag":"button","label":"Defina o executável do jogo"}
+{"ts":"2026-10-23T21:55:55.374Z","sid":"4sn057","event":"click","route":"/gamescreen","tag":"button","label":"Salvar"}
+{"ts":"2026-10-23T21:55:57.238Z","sid":"4sn057","event":"click","route":"/gamescreen","tag":"button","label":"Jogar"}
+{"ts":"2026-10-23T21:56:20.503Z","sid":"4sn057","event":"click","route":"/gamescreen","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T21:56:21.382Z","sid":"4sn057","event":"click","route":"/gamescreen","tag":"div","label":"Editar jogo"}
+{"ts":"2026-10-23T21:56:24.023Z","sid":"4sn057","event":"click","route":"/gamescreen","tag":"input","label":"Buscar capa…"}
+{"ts":"2026-10-23T21:56:24.399Z","sid":"4sn057","event":"click","route":"/gamescreen","tag":"div","label":"CapaArquivosAções"}
+{"ts":"2026-10-23T21:56:26.071Z","sid":"4sn057","event":"click","route":"/gamescreen","tag":"div","label":""}
+{"ts":"2026-10-23T21:56:48.063Z","sid":"4sn057","event":"click","route":"/gamescreen","tag":"button","label":"Verificar integridade"}
+{"ts":"2026-10-23T21:56:53.024Z","sid":"4sn057","event":"click","route":"/gamescreen","tag":"button","label":"OK"}
