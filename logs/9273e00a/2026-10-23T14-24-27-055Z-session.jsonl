@@ -1,0 +1,38 @@
+{"ts":"2026-10-23T14:20:27.026Z","sid":"j3qsh4","event":"app-start","version":"1.0.0","isDev":false,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T14:20:27.365Z","sid":"j3qsh4","event":"startup-cleanup-none"}
+{"ts":"2026-10-23T14:20:36.295Z","sid":"j3qsh4","event":"page-ready","route":"/welcome"}
+{"ts":"2026-10-23T14:20:44.742Z","sid":"j3qsh4","event":"click","route":"/welcome","tag":"button","label":"Português"}
+{"ts":"2026-10-23T14:20:46.021Z","sid":"j3qsh4","event":"click","route":"/welcome","tag":"button","label":"Próximo"}
+{"ts":"2026-10-23T14:20:47.597Z","sid":"j3qsh4","event":"click","route":"/welcome","tag":"label","label":"Eu li e concordo com a Gmx Launcher"}
+{"ts":"2026-10-23T14:20:48.646Z","sid":"j3qsh4","event":"click","route":"/welcome","tag":"button","label":"Li e concordo"}
+{"ts":"2026-10-23T14:20:49.558Z","sid":"j3qsh4","event":"click","route":"/welcome","tag":"label","label":"Eu li e concordo com a Gmx Launcher"}
+{"ts":"2026-10-23T14:20:50.181Z","sid":"j3qsh4","event":"click","route":"/welcome","tag":"div","label":"Eu li e concordo com a Gmx Launcher Política de Privacidade"}
+{"ts":"2026-10-23T14:20:50.669Z","sid":"j3qsh4","event":"click","route":"/welcome","tag":"div","label":"Bem-vindo ao Gmx LauncherVocê está quase pronto para começar a usar o Gmx Launcher. Passaremos juntos pelo processo de i"}
+{"ts":"2026-10-23T14:20:51.149Z","sid":"j3qsh4","event":"click","route":"/welcome","tag":"button","label":"Começar"}
+{"ts":"2026-10-23T14:20:52.861Z","sid":"j3qsh4","event":"click","route":"/welcome","tag":"button","label":"Próximo"}
+{"ts":"2026-10-23T14:20:54.573Z","sid":"j3qsh4","event":"click","route":"/welcome","tag":"button","label":"Continuar"}
+{"ts":"2026-10-23T14:20:56.718Z","sid":"j3qsh4","event":"click","route":"/welcome","tag":"button","label":"Pular"}
+{"ts":"2026-10-23T14:20:58.301Z","sid":"j3qsh4","event":"click","route":"/welcome","tag":"div","label":"Dependências de jogosSe você estiver jogando em um PC novo ou instalou recentemente o Windows, Gmx Launcher pode ajudá-l"}
+{"ts":"2026-10-23T14:20:58.645Z","sid":"j3qsh4","event":"click","route":"/welcome","tag":"button","label":"Ignore os downloads e o tour"}
+{"ts":"2026-10-23T14:20:59.503Z","sid":"j3qsh4","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T14:21:02.333Z","sid":"j3qsh4","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T14:21:06.445Z","sid":"j3qsh4","event":"click","route":"/library","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-23T14:21:13.077Z","sid":"j3qsh4","event":"click","route":"/","tag":"div","label":"Estatísticas"}
+{"ts":"2026-10-23T14:21:15.669Z","sid":"j3qsh4","event":"click","route":"/stats","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-23T14:21:17.573Z","sid":"j3qsh4","event":"click","route":"/settings","tag":"a","label":"ProcurarProcurar"}
+{"ts":"2026-10-23T14:21:19.590Z","sid":"j3qsh4","event":"click","route":"/search","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T14:21:21.655Z","sid":"j3qsh4","event":"click","route":"/library","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-23T14:21:25.797Z","sid":"j3qsh4","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T14:21:29.358Z","sid":"j3qsh4","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-23T14:21:56.117Z","sid":"j3qsh4","event":"click","route":"/download","tag":"body","label":"((e,t,a,o,r,s,l,d)=>{let p=document.documentElement,g=[\"light\",\"dark\"];function f(w){(Array.isArray(e)?e:[e]).forEach(S="}
+{"ts":"2026-10-23T14:21:57.301Z","sid":"j3qsh4","event":"click","route":"/download","tag":"div","label":"MegaDB"}
+{"ts":"2026-10-23T14:21:57.918Z","sid":"j3qsh4","event":"click","route":"/download","tag":"body","label":"((e,t,a,o,r,s,l,d)=>{let p=document.documentElement,g=[\"light\",\"dark\"];function f(w){(Array.isArray(e)?e:[e]).forEach(S="}
+{"ts":"2026-10-23T14:21:58.714Z","sid":"j3qsh4","event":"click","route":"/download","tag":"div","label":"Seamless (BuzzHeavier)"}
+{"ts":"2026-10-23T14:21:59.717Z","sid":"j3qsh4","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-23T14:22:04.349Z","sid":"j3qsh4","event":"click","route":"/download","tag":"button","label":"E:\\E:/gmx-games183.4 GB livres de 464.7 GB"}
+{"ts":"2026-10-23T14:22:05.613Z","sid":"j3qsh4","event":"click","route":"/download","tag":"button","label":"Continuar"}
+{"ts":"2026-10-23T14:22:05.643Z","sid":"j3qsh4","event":"download-request","game":"Mortal Kombat Komplete Edition","dirIndex":1,"linkHost":"ts.bzzhr.to","torrent":false}
+{"ts":"2026-10-23T14:22:05.677Z","sid":"j3qsh4","event":"download-spawn","game":"Mortal Kombat Komplete Edition","exe":"C:\\Users\\c2644\\AppData\\Local\\Programs\\GMX\\resources\\AscendaraDownloader.exe"}
+{"ts":"2026-10-23T14:22:10.325Z","sid":"j3qsh4","event":"click","route":"/downloads","tag":"button","label":"Eu entendo"}
+{"ts":"2026-10-23T14:22:20.045Z","sid":"j3qsh4","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T14:22:27.013Z","sid":"j3qsh4","event":"click","route":"/downloads","tag":"div","label":"Pausar download"}
