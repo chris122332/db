@@ -1,0 +1,45 @@
+{"ts":"2026-10-23T13:36:19.999Z","sid":"3zym3l","event":"app-start","version":"1.0.0","isDev":false,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T13:36:20.353Z","sid":"3zym3l","event":"startup-cleanup-none"}
+{"ts":"2026-10-23T13:36:29.093Z","sid":"3zym3l","event":"page-ready","route":"/welcome"}
+{"ts":"2026-10-23T13:36:37.795Z","sid":"3zym3l","event":"click","route":"/welcome","tag":"button","label":"Português"}
+{"ts":"2026-10-23T13:36:46.257Z","sid":"3zym3l","event":"click","route":"/welcome","tag":"button","label":"Próximo"}
+{"ts":"2026-10-23T13:36:47.714Z","sid":"3zym3l","event":"click","route":"/welcome","tag":"div","label":"Eu li e concordo com a Gmx Launcher Política de Privacidade"}
+{"ts":"2026-10-23T13:36:48.818Z","sid":"3zym3l","event":"click","route":"/welcome","tag":"div","label":"Política de Privacidade do GMX LauncherÚltima atualização: 16 de outubro de 2026TermosPrivacidadeRole para baixo para le"}
+{"ts":"2026-10-23T13:36:49.154Z","sid":"3zym3l","event":"click","route":"/welcome","tag":"button","label":"Li e concordo"}
+{"ts":"2026-10-23T13:36:49.922Z","sid":"3zym3l","event":"click","route":"/welcome","tag":"label","label":"Eu li e concordo com a Gmx Launcher"}
+{"ts":"2026-10-23T13:36:50.276Z","sid":"3zym3l","event":"click","route":"/welcome","tag":"label","label":"Eu li e concordo com a Gmx Launcher"}
+{"ts":"2026-10-23T13:36:50.674Z","sid":"3zym3l","event":"click","route":"/welcome","tag":"button","label":"Começar"}
+{"ts":"2026-10-23T13:36:52.210Z","sid":"3zym3l","event":"click","route":"/welcome","tag":"button","label":"Próximo"}
+{"ts":"2026-10-23T13:36:54.450Z","sid":"3zym3l","event":"click","route":"/welcome","tag":"button","label":"Continuar"}
+{"ts":"2026-10-23T13:36:55.842Z","sid":"3zym3l","event":"click","route":"/welcome","tag":"button","label":"Pular"}
+{"ts":"2026-10-23T13:36:57.539Z","sid":"3zym3l","event":"click","route":"/welcome","tag":"div","label":"Instalar dependênciasEu tenho isso, leve-me para o tourIgnore os downloads e o tour"}
+{"ts":"2026-10-23T13:36:58.011Z","sid":"3zym3l","event":"click","route":"/welcome","tag":"button","label":"Ignore os downloads e o tour"}
+{"ts":"2026-10-23T13:36:58.864Z","sid":"3zym3l","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T13:37:02.515Z","sid":"3zym3l","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-23T13:37:04.545Z","sid":"3zym3l","event":"click","route":"/settings","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-23T13:37:10.466Z","sid":"3zym3l","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T13:37:12.881Z","sid":"3zym3l","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-23T13:37:13.971Z","sid":"3zym3l","event":"click","route":"/download","tag":"div","label":"Fonte de downloadSeamless (BuzzHeavier)Dica: Na janela pop-up, clique duas vezes no botão de download para iniciar o dow"}
+{"ts":"2026-10-23T13:37:14.546Z","sid":"3zym3l","event":"click","route":"/download","tag":"body","label":"((e,t,a,o,r,s,l,d)=>{let p=document.documentElement,g=[\"light\",\"dark\"];function f(w){(Array.isArray(e)?e:[e]).forEach(S="}
+{"ts":"2026-10-23T13:37:15.034Z","sid":"3zym3l","event":"click","route":"/download","tag":"div","label":""}
+{"ts":"2026-10-23T13:37:15.457Z","sid":"3zym3l","event":"click","route":"/download","tag":"body","label":"((e,t,a,o,r,s,l,d)=>{let p=document.documentElement,g=[\"light\",\"dark\"];function f(w){(Array.isArray(e)?e:[e]).forEach(S="}
+{"ts":"2026-10-23T13:37:16.070Z","sid":"3zym3l","event":"click","route":"/download","tag":"div","label":"Seamless (GoFile)"}
+{"ts":"2026-10-23T13:37:16.823Z","sid":"3zym3l","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-23T13:37:17.841Z","sid":"3zym3l","event":"click","route":"/download","tag":"button","label":"E:\\E:/gmx-games183.4 GB livres de 464.7 GB"}
+{"ts":"2026-10-23T13:37:18.930Z","sid":"3zym3l","event":"click","route":"/download","tag":"button","label":"Continuar"}
+{"ts":"2026-10-23T13:37:18.945Z","sid":"3zym3l","event":"download-request","game":"The Amazing Spider-Man","dirIndex":1,"linkHost":"gofile.io","torrent":false}
+{"ts":"2026-10-23T13:37:18.980Z","sid":"3zym3l","event":"download-spawn","game":"The Amazing Spider-Man","exe":"C:\\Users\\c2644\\Downloads\\github.com\\ascendara-main\\ascendara-main\\dist\\win-unpacked\\resources\\AscendaraDownloader.exe"}
+{"ts":"2026-10-23T13:37:24.290Z","sid":"3zym3l","event":"click","route":"/downloads","tag":"button","label":"Eu entendo"}
+{"ts":"2026-10-23T13:37:35.587Z","sid":"3zym3l","event":"click","route":"/downloads","tag":"div","label":"The Amazing Spider-Man8.1 GBBaixando"}
+{"ts":"2026-10-23T13:37:35.978Z","sid":"3zym3l","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T13:37:37.483Z","sid":"3zym3l","event":"click","route":"/downloads","tag":"div","label":"Abrir pasta"}
+{"ts":"2026-10-23T13:37:43.202Z","sid":"3zym3l","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T13:37:44.426Z","sid":"3zym3l","event":"click","route":"/downloads","tag":"div","label":"Abrir pasta"}
+{"ts":"2026-10-23T13:37:46.234Z","sid":"3zym3l","event":"click","route":"/downloads","tag":"div","label":"9.52 MB/s"}
+{"ts":"2026-10-23T13:37:47.282Z","sid":"3zym3l","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T13:38:08.921Z","sid":"3zym3l","event":"click","route":"/downloads","tag":"div","label":"The Amazing Spider-Man8.1 GBBaixando5.5%ETA: 16m 35s10.05 MB/s"}
+{"ts":"2026-10-23T13:38:09.250Z","sid":"3zym3l","event":"click","route":"/downloads","tag":"h3","label":"The Amazing Spider-Man"}
+{"ts":"2026-10-23T13:38:09.626Z","sid":"3zym3l","event":"click","route":"/downloads","tag":"div","label":"The Amazing Spider-Man8.1 GBBaixando"}
+{"ts":"2026-10-23T13:38:09.971Z","sid":"3zym3l","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T13:38:10.777Z","sid":"3zym3l","event":"click","route":"/downloads","tag":"div","label":"Cancelar download"}
+{"ts":"2026-10-23T13:38:12.754Z","sid":"3zym3l","event":"click","route":"/downloads","tag":"button","label":"Cancelar download"}
