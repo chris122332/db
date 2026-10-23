@@ -1,0 +1,9 @@
+{"ts":"2026-10-23T20:04:56.330Z","sid":"m1992a","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T20:05:06.772Z","sid":"m1992a","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T20:05:10.070Z","sid":"m1992a","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T20:05:12.541Z","sid":"m1992a","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-23T20:05:21.165Z","sid":"m1992a","event":"click","route":"/gamescreen","tag":"button","label":"Mídia"}
+{"ts":"2026-10-23T20:05:26.087Z","sid":"m1992a","event":"click","route":"/gamescreen","tag":"button","label":"Jogar"}
+{"ts":"2026-10-23T20:05:49.758Z","sid":"m1992a","event":"click","route":"/gamescreen","tag":"button","label":"Visão geral"}
+{"ts":"2026-10-23T20:05:52.849Z","sid":"m1992a","event":"click","route":"/gamescreen","tag":"button","label":"Parar"}
+{"ts":"2026-10-23T20:05:55.846Z","sid":"m1992a","event":"click","route":"/gamescreen","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
