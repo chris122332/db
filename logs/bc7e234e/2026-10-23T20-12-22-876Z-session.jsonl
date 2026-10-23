@@ -1,0 +1,5 @@
+{"ts":"2026-10-23T20:08:18.321Z","sid":"7g0h6x","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T20:08:29.321Z","sid":"7g0h6x","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T20:08:32.734Z","sid":"7g0h6x","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T20:08:34.359Z","sid":"7g0h6x","event":"click","route":"/library","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T20:08:36.160Z","sid":"7g0h6x","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
