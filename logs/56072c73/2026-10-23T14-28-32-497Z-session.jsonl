@@ -1,0 +1,47 @@
+{"ts":"2026-10-23T14:24:32.478Z","sid":"tzpzas","event":"app-start","version":"1.0.0","isDev":false,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T14:24:32.790Z","sid":"tzpzas","event":"startup-cleanup-none"}
+{"ts":"2026-10-23T14:24:41.775Z","sid":"tzpzas","event":"page-ready","route":"/welcome"}
+{"ts":"2026-10-23T14:24:47.806Z","sid":"tzpzas","event":"click","route":"/welcome","tag":"button","label":"Português"}
+{"ts":"2026-10-23T14:24:50.157Z","sid":"tzpzas","event":"click","route":"/welcome","tag":"button","label":"Próximo"}
+{"ts":"2026-10-23T14:24:51.660Z","sid":"tzpzas","event":"click","route":"/welcome","tag":"div","label":"Eu li e concordo com a Gmx Launcher Termos de Serviço"}
+{"ts":"2026-10-23T14:24:53.348Z","sid":"tzpzas","event":"click","route":"/welcome","tag":"button","label":"Li e concordo"}
+{"ts":"2026-10-23T14:24:54.324Z","sid":"tzpzas","event":"click","route":"/welcome","tag":"div","label":"Eu li e concordo com a Gmx Launcher Termos de Serviço"}
+{"ts":"2026-10-23T14:24:54.708Z","sid":"tzpzas","event":"click","route":"/welcome","tag":"div","label":"Eu li e concordo com a Gmx Launcher Política de Privacidade"}
+{"ts":"2026-10-23T14:24:55.276Z","sid":"tzpzas","event":"click","route":"/welcome","tag":"button","label":"Começar"}
+{"ts":"2026-10-23T14:24:56.933Z","sid":"tzpzas","event":"click","route":"/welcome","tag":"button","label":"Próximo"}
+{"ts":"2026-10-23T14:24:58.741Z","sid":"tzpzas","event":"click","route":"/welcome","tag":"button","label":"GMX Purple"}
+{"ts":"2026-10-23T14:24:59.876Z","sid":"tzpzas","event":"click","route":"/welcome","tag":"button","label":"Rose"}
+{"ts":"2026-10-23T14:25:00.261Z","sid":"tzpzas","event":"click","route":"/welcome","tag":"button","label":"GMX Purple"}
+{"ts":"2026-10-23T14:25:00.644Z","sid":"tzpzas","event":"click","route":"/welcome","tag":"button","label":"Rose"}
+{"ts":"2026-10-23T14:25:01.092Z","sid":"tzpzas","event":"click","route":"/welcome","tag":"div","label":"Escolha o seu temaPersonalize sua experiência com um tema que combine com seu estiloTemas clarosTemas escurosArctic SkyO"}
+{"ts":"2026-10-23T14:25:01.460Z","sid":"tzpzas","event":"click","route":"/welcome","tag":"button","label":"Continuar"}
+{"ts":"2026-10-23T14:25:02.749Z","sid":"tzpzas","event":"click","route":"/welcome","tag":"button","label":"Pular"}
+{"ts":"2026-10-23T14:25:03.789Z","sid":"tzpzas","event":"click","route":"/welcome","tag":"button","label":"Eu tenho isso, leve-me para o tour"}
+{"ts":"2026-10-23T14:25:04.639Z","sid":"tzpzas","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T14:25:06.117Z","sid":"tzpzas","event":"click","route":"/","tag":"button","label":"Próximo"}
+{"ts":"2026-10-23T14:25:06.884Z","sid":"tzpzas","event":"click","route":"/","tag":"button","label":"Próximo"}
+{"ts":"2026-10-23T14:25:07.460Z","sid":"tzpzas","event":"click","route":"/","tag":"button","label":"Próximo"}
+{"ts":"2026-10-23T14:25:08.349Z","sid":"tzpzas","event":"click","route":"/search","tag":"button","label":"Próximo"}
+{"ts":"2026-10-23T14:25:09.388Z","sid":"tzpzas","event":"click","route":"/library","tag":"button","label":"Próximo"}
+{"ts":"2026-10-23T14:25:10.316Z","sid":"tzpzas","event":"click","route":"/downloads","tag":"button","label":"Próximo"}
+{"ts":"2026-10-23T14:25:11.404Z","sid":"tzpzas","event":"click","route":"/settings","tag":"button","label":"Próximo"}
+{"ts":"2026-10-23T14:25:12.316Z","sid":"tzpzas","event":"click","route":"/settings","tag":"button","label":"Próximo"}
+{"ts":"2026-10-23T14:25:13.844Z","sid":"tzpzas","event":"click","route":"/settings","tag":"button","label":"Concluir"}
+{"ts":"2026-10-23T14:25:17.860Z","sid":"tzpzas","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T14:25:19.252Z","sid":"tzpzas","event":"click","route":"/library","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-23T14:25:30.784Z","sid":"tzpzas","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T14:25:32.781Z","sid":"tzpzas","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-23T14:25:33.989Z","sid":"tzpzas","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-23T14:25:37.021Z","sid":"tzpzas","event":"click","route":"/download","tag":"button","label":"E:\\E:/gmx-games183.4 GB livres de 464.7 GB"}
+{"ts":"2026-10-23T14:25:37.973Z","sid":"tzpzas","event":"click","route":"/download","tag":"button","label":"Continuar"}
+{"ts":"2026-10-23T14:25:40.581Z","sid":"tzpzas","event":"click","route":"/download","tag":"button","label":"Excluir Pasta ExistenteRemova permanentemente a pasta existente antes de baixar."}
+{"ts":"2026-10-23T14:25:42.149Z","sid":"tzpzas","event":"click","route":"/download","tag":"button","label":"Não, obrigado"}
+{"ts":"2026-10-23T14:25:42.191Z","sid":"tzpzas","event":"download-request","game":"The Coffin of Andy and Leyley","dirIndex":1,"linkHost":"ts.bzzhr.to","torrent":false}
+{"ts":"2026-10-23T14:25:42.224Z","sid":"tzpzas","event":"download-spawn","game":"The Coffin of Andy and Leyley","exe":"C:\\Users\\Testes\\AppData\\Local\\Programs\\GMX\\resources\\AscendaraDownloader.exe"}
+{"ts":"2026-10-23T14:25:46.398Z","sid":"tzpzas","event":"click","route":"/downloads","tag":"button","label":"Eu entendo"}
+{"ts":"2026-10-23T14:25:49.677Z","sid":"tzpzas","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-23T14:25:50.941Z","sid":"tzpzas","event":"click","route":"/downloads","tag":"div","label":"Cancelar download"}
+{"ts":"2026-10-23T14:25:52.557Z","sid":"tzpzas","event":"click","route":"/downloads","tag":"button","label":"Cancelar download"}
+{"ts":"2026-10-23T14:26:11.301Z","sid":"tzpzas","event":"click","route":"/downloads","tag":"main","label":"Ativos1 download em andamentoVelocidade total atual2.05 MB/sVelocidade máxima2.05 MB/sAtivos12.05 MB/sVelocidades de dow"}
+{"ts":"2026-10-23T14:26:49.102Z","sid":"tzpzas","event":"click","route":"/downloads","tag":"button","label":"Minimizar"}
+{"ts":"2026-10-23T14:27:02.253Z","sid":"tzpzas","event":"click","route":"/downloads","tag":"button","label":"Minimizar"}
