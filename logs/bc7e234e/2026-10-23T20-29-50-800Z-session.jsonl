@@ -1,0 +1,18 @@
+{"ts":"2026-10-23T20:28:37.249Z","sid":"mwcw5p","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T20:28:49.400Z","sid":"mwcw5p","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T20:29:19.065Z","sid":"mwcw5p","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T20:29:19.747Z","sid":"mwcw5p","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T20:29:21.755Z","sid":"mwcw5p","event":"click","route":"/download","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T20:29:24.049Z","sid":"mwcw5p","event":"click","route":"/","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-23T20:29:25.623Z","sid":"mwcw5p","event":"click","route":"/downloads","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T20:29:29.855Z","sid":"mwcw5p","event":"click","route":"/library","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-23T20:29:32.979Z","sid":"mwcw5p","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-23T20:29:34.895Z","sid":"mwcw5p","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-23T20:29:36.298Z","sid":"mwcw5p","event":"click","route":"/download","tag":"div","label":"Fonte de downloadSeamless (BuzzHeavier)Dica: Na janela pop-up, clique duas vezes no botão de download para iniciar o dow"}
+{"ts":"2026-10-23T20:29:37.019Z","sid":"mwcw5p","event":"click","route":"/download","tag":"body","label":"((e, i, s, u, m, a, l, h) => {\n  let d = document.documentElement, w = [\"light\", \"dark\"];\n  function p(n) {\n    (Array.i"}
+{"ts":"2026-10-23T20:29:37.192Z","sid":"mwcw5p","event":"click","route":"/download","tag":"div","label":""}
+{"ts":"2026-10-23T20:29:37.913Z","sid":"mwcw5p","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-23T20:29:45.407Z","sid":"mwcw5p","event":"click","route":"/download","tag":"button","label":"E:\\E:/gmx-games183.4 GB livres de 464.7 GB"}
+{"ts":"2026-10-23T20:29:46.656Z","sid":"mwcw5p","event":"click","route":"/download","tag":"button","label":"Continuar"}
+{"ts":"2026-10-23T20:29:46.782Z","sid":"mwcw5p","event":"download-request","game":"CarX Street","dirIndex":1,"linkHost":"ts.bzzhr.to","torrent":false}
+{"ts":"2026-10-23T20:29:46.846Z","sid":"mwcw5p","event":"download-spawn","game":"CarX Street","exe":"python"}
