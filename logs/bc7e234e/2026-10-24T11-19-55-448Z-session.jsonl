@@ -1,0 +1,11 @@
+{"ts":"2026-10-24T11:17:51.595Z","sid":"jgctmw","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T11:18:05.212Z","sid":"jgctmw","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T11:18:17.637Z","sid":"jgctmw","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-24T11:18:19.093Z","sid":"jgctmw","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-24T11:18:22.701Z","sid":"jgctmw","event":"click","route":"/gamescreen","tag":"button","label":"Mídia"}
+{"ts":"2026-10-24T11:18:25.892Z","sid":"jgctmw","event":"click","route":"/gamescreen","tag":"div","label":"Tempo de jogo1 horaJogar"}
+{"ts":"2026-10-24T11:18:26.596Z","sid":"jgctmw","event":"click","route":"/gamescreen","tag":"button","label":"Jogar"}
+{"ts":"2026-10-24T11:18:38.772Z","sid":"jgctmw","event":"click","route":"/gamescreen","tag":"div","label":"Visão geralTrilha sonoraConquistasMídiaModsVisão geralCapturas de telaSuas capturas (F12)Ver todas as capturasAbrir past"}
+{"ts":"2026-10-24T11:18:40.247Z","sid":"jgctmw","event":"click","route":"/gamescreen","tag":"button","label":"Clique para carregar"}
+{"ts":"2026-10-24T11:18:45.286Z","sid":"jgctmw","event":"click","route":"/gamescreen","tag":"img","label":""}
+{"ts":"2026-10-24T11:18:47.502Z","sid":"jgctmw","event":"click","route":"/gamescreen","tag":"button","label":"Abrir pasta de capturas"}
