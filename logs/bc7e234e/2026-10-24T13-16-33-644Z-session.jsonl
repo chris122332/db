@@ -1,0 +1,12 @@
+{"ts":"2026-10-24T13:14:52.618Z","sid":"gug22u","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T13:15:02.786Z","sid":"gug22u","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T13:15:05.248Z","sid":"gug22u","event":"click","route":"/","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-24T13:15:06.028Z","sid":"gug22u","event":"click","route":"/community","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-24T13:15:40.135Z","sid":"gug22u","event":"click","route":"/community","tag":"button","label":"Grids4.778"}
+{"ts":"2026-10-24T13:15:53.065Z","sid":"gug22u","event":"click","route":"/community","tag":"button","label":"Logos4.801"}
+{"ts":"2026-10-24T13:15:58.387Z","sid":"gug22u","event":"click","route":"/community","tag":"div","label":""}
+{"ts":"2026-10-24T13:16:00.534Z","sid":"gug22u","event":"click","route":"/community","tag":"div","label":""}
+{"ts":"2026-10-24T13:16:00.919Z","sid":"gug22u","event":"click","route":"/community","tag":"button","label":"BOOK OF HOURS2718×311SteamGridDB"}
+{"ts":"2026-10-24T13:16:04.065Z","sid":"gug22u","event":"click","route":"/community","tag":"div","label":"Visualizador de Imagem"}
+{"ts":"2026-10-24T13:16:08.336Z","sid":"gug22u","event":"click","route":"/community","tag":"button","label":"Heroes4.784"}
+{"ts":"2026-10-24T13:16:09.933Z","sid":"gug22u","event":"click","route":"/community","tag":"button","label":"Heroes4.774"}
