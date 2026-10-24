@@ -1,0 +1,3 @@
+{"ts":"2026-10-24T11:14:46.232Z","sid":"9kxp1n","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T11:14:59.996Z","sid":"9kxp1n","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T11:15:12.267Z","sid":"9kxp1n","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
