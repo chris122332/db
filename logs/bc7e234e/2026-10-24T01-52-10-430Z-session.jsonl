@@ -1,0 +1,21 @@
+{"ts":"2026-10-24T01:50:10.748Z","sid":"dyvo78","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T01:50:24.514Z","sid":"dyvo78","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T01:50:27.773Z","sid":"dyvo78","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-24T01:50:29.392Z","sid":"dyvo78","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-24T01:50:39.208Z","sid":"dyvo78","event":"click","route":"/gamescreen","tag":"div","label":"Visão geralTrilha sonoraConquistasMídiaMods"}
+{"ts":"2026-10-24T01:50:39.752Z","sid":"dyvo78","event":"click","route":"/gamescreen","tag":"button","label":"Mídia"}
+{"ts":"2026-10-24T01:50:42.226Z","sid":"dyvo78","event":"click","route":"/gamescreen","tag":"div","label":""}
+{"ts":"2026-10-24T01:50:47.874Z","sid":"dyvo78","event":"click","route":"/gamescreen","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-24T01:50:49.073Z","sid":"dyvo78","event":"click","route":"/gamescreen","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-24T01:50:53.026Z","sid":"dyvo78","event":"click","route":"/gamescreen","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-24T01:51:23.713Z","sid":"dyvo78","event":"click","route":"/settings","tag":"button","label":"Entrar no Big Picture"}
+{"ts":"2026-10-24T01:51:25.291Z","sid":"dyvo78","event":"click","route":"/bigpicture","tag":"div","label":"Gmx LauncherGmx LauncherBIG PICTURECarregando34%"}
+{"ts":"2026-10-24T01:51:27.555Z","sid":"dyvo78","event":"click","route":"/bigpicture","tag":"img","label":""}
+{"ts":"2026-10-24T01:51:29.650Z","sid":"dyvo78","event":"click","route":"/bigpicture","tag":"img","label":""}
+{"ts":"2026-10-24T01:51:30.297Z","sid":"dyvo78","event":"click","route":"/bigpicture","tag":"img","label":""}
+{"ts":"2026-10-24T01:51:34.312Z","sid":"dyvo78","event":"click","route":"/bigpicture","tag":"button","label":"Capturas de tela"}
+{"ts":"2026-10-24T01:51:39.170Z","sid":"dyvo78","event":"click","route":"/bigpicture","tag":"div","label":"Requisitos de sistemaMínimoRecomendadoSistema Operativo *: Windows 7/8/8.1/10 (32bit/64bit)Processador: Intel Core 2 Duo"}
+{"ts":"2026-10-24T01:51:41.104Z","sid":"dyvo78","event":"click","route":"/bigpicture","tag":"div","label":"Sistema Operativo *: Windows 7/8/8.1/10 (32bit/64bit)Processador: Intel Core 2 Duo or betterMemória: 2 GB de RAMPlaca gr"}
+{"ts":"2026-10-24T01:51:50.213Z","sid":"dyvo78","event":"click","route":"/bigpicture","tag":"div","label":"Visão geralCapturas de tela"}
+{"ts":"2026-10-24T01:51:51.768Z","sid":"dyvo78","event":"click","route":"/bigpicture","tag":"button","label":""}
+{"ts":"2026-10-24T01:51:53.272Z","sid":"dyvo78","event":"click","route":"/bigpicture","tag":"button","label":""}
