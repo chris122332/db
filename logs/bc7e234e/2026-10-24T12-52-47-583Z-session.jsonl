@@ -1,0 +1,11 @@
+{"ts":"2026-10-24T12:50:48.501Z","sid":"q4yk5n","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T12:50:58.358Z","sid":"q4yk5n","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T12:51:15.187Z","sid":"q4yk5n","event":"click","route":"/","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-24T12:51:32.007Z","sid":"q4yk5n","event":"click","route":"/community","tag":"img","label":""}
+{"ts":"2026-10-24T12:51:33.347Z","sid":"q4yk5n","event":"click","route":"/community","tag":"div","label":"Visualizador de Imagem"}
+{"ts":"2026-10-24T12:51:36.918Z","sid":"q4yk5n","event":"click","route":"/community","tag":"img","label":""}
+{"ts":"2026-10-24T12:51:40.484Z","sid":"q4yk5n","event":"click","route":"/community","tag":"div","label":"Visualizador de Imagem"}
+{"ts":"2026-10-24T12:51:42.340Z","sid":"q4yk5n","event":"click","route":"/community","tag":"select","label":"TodosWallpapersImagens de GridLogosCapturas de tela"}
+{"ts":"2026-10-24T12:51:43.602Z","sid":"q4yk5n","event":"click","route":"/community","tag":"select","label":"TodosWallpapersImagens de GridLogosCapturas de tela"}
+{"ts":"2026-10-24T12:51:45.859Z","sid":"q4yk5n","event":"click","route":"/community","tag":"img","label":""}
+{"ts":"2026-10-24T12:51:46.907Z","sid":"q4yk5n","event":"click","route":"/community","tag":"div","label":"Visualizador de Imagem"}
