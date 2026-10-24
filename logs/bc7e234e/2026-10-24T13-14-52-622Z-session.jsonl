@@ -1,0 +1,18 @@
+{"ts":"2026-10-24T13:09:50.007Z","sid":"qpa8cl","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T13:10:00.362Z","sid":"qpa8cl","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T13:10:12.983Z","sid":"qpa8cl","event":"click","route":"/","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-10-24T13:10:13.768Z","sid":"qpa8cl","event":"click","route":"/","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-24T13:10:48.199Z","sid":"qpa8cl","event":"click","route":"/community","tag":"button","label":"Grids"}
+{"ts":"2026-10-24T13:10:59.286Z","sid":"qpa8cl","event":"click","route":"/community","tag":"button","label":"Heroes"}
+{"ts":"2026-10-24T13:11:09.918Z","sid":"qpa8cl","event":"click","route":"/community","tag":"button","label":"Logos"}
+{"ts":"2026-10-24T13:11:20.543Z","sid":"qpa8cl","event":"click","route":"/community","tag":"button","label":"Active DBG Brave's Rage"}
+{"ts":"2026-10-24T13:11:25.238Z","sid":"qpa8cl","event":"click","route":"/community","tag":"div","label":"Visualizador de Imagem"}
+{"ts":"2026-10-24T13:11:29.974Z","sid":"qpa8cl","event":"click","route":"/community","tag":"button","label":"Heroes"}
+{"ts":"2026-10-24T13:11:31.710Z","sid":"qpa8cl","event":"click","route":"/community","tag":"button","label":"Look Outside1920×620SteamGridDB"}
+{"ts":"2026-10-24T13:11:36.367Z","sid":"qpa8cl","event":"click","route":"/community","tag":"img","label":""}
+{"ts":"2026-10-24T13:11:37.310Z","sid":"qpa8cl","event":"click","route":"/community","tag":"div","label":"Visualizador de Imagem"}
+{"ts":"2026-10-24T13:11:41.440Z","sid":"qpa8cl","event":"click","route":"/community","tag":"button","label":"198"}
+{"ts":"2026-10-24T13:11:45.926Z","sid":"qpa8cl","event":"click","route":"/community","tag":"button","label":"2"}
+{"ts":"2026-10-24T13:11:59.440Z","sid":"qpa8cl","event":"click","route":"/community","tag":"button","label":"Início"}
+{"ts":"2026-10-24T13:12:22.176Z","sid":"qpa8cl","event":"click","route":"/community","tag":"div","label":"Hub da Comunidade4816 games"}
+{"ts":"2026-10-24T13:12:22.550Z","sid":"qpa8cl","event":"click","route":"/community","tag":"input","label":"Buscar por nome do jogo..."}
