@@ -1,0 +1,12 @@
+{"ts":"2026-10-24T01:54:37.864Z","sid":"fbnrev","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T01:54:51.562Z","sid":"fbnrev","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T01:54:53.307Z","sid":"fbnrev","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-24T01:54:54.721Z","sid":"fbnrev","event":"click","route":"/library","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-24T01:54:56.112Z","sid":"fbnrev","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-24T01:54:59.401Z","sid":"fbnrev","event":"click","route":"/gamescreen","tag":"button","label":"Mídia"}
+{"ts":"2026-10-24T01:55:03.960Z","sid":"fbnrev","event":"click","route":"/gamescreen","tag":"button","label":"Ver todas as capturas"}
+{"ts":"2026-10-24T01:55:06.208Z","sid":"fbnrev","event":"click","route":"/screenshots","tag":"button","label":"Voltar"}
+{"ts":"2026-10-24T01:55:06.896Z","sid":"fbnrev","event":"navigate","to":"/gamescreen","from":"/"}
+{"ts":"2026-10-24T01:55:10.544Z","sid":"fbnrev","event":"click","route":"/gamescreen","tag":"button","label":"Mídia"}
+{"ts":"2026-10-24T01:55:15.977Z","sid":"fbnrev","event":"click","route":"/gamescreen","tag":"button","label":"Jogar"}
+{"ts":"2026-10-24T01:55:28.169Z","sid":"fbnrev","event":"click","route":"/gamescreen","tag":"button","label":"Abrir pasta de capturas"}
