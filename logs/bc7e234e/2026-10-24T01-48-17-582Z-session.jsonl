@@ -1,0 +1,66 @@
+{"ts":"2026-10-24T01:30:13.414Z","sid":"e827r3","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T01:30:27.709Z","sid":"e827r3","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T01:30:34.239Z","sid":"e827r3","event":"click","route":"/","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-10-24T01:30:38.406Z","sid":"e827r3","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-24T01:30:44.165Z","sid":"e827r3","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-24T01:30:51.423Z","sid":"e827r3","event":"click","route":"/gamescreen","tag":"button","label":"Jogar"}
+{"ts":"2026-10-24T01:32:11.075Z","sid":"e827r3","event":"click","route":"/gamescreen","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-24T01:32:11.864Z","sid":"e827r3","event":"click","route":"/gamescreen","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-24T01:32:14.072Z","sid":"e827r3","event":"click","route":"/gamescreen","tag":"button","label":"Mídia"}
+{"ts":"2026-10-24T01:32:33.135Z","sid":"e827r3","event":"click","route":"/gamescreen","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-24T01:32:36.263Z","sid":"e827r3","event":"click","route":"/downloads","tag":"div","label":""}
+{"ts":"2026-10-24T01:32:37.631Z","sid":"e827r3","event":"click","route":"/downloads","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-24T01:32:41.787Z","sid":"e827r3","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-24T01:32:43.936Z","sid":"e827r3","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-24T01:32:46.041Z","sid":"e827r3","event":"click","route":"/download","tag":"body","label":"((e, i, s, u, m, a, l, h) => {\n  let d = document.documentElement, w = [\"light\", \"dark\"];\n  function p(n) {\n    (Array.i"}
+{"ts":"2026-10-24T01:32:47.049Z","sid":"e827r3","event":"click","route":"/download","tag":"div","label":"MegaDB"}
+{"ts":"2026-10-24T01:32:47.799Z","sid":"e827r3","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-24T01:32:57.984Z","sid":"e827r3","event":"click","route":"/download","tag":"div","label":""}
+{"ts":"2026-10-24T01:32:58.992Z","sid":"e827r3","event":"click","route":"/download","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-24T01:33:04.552Z","sid":"e827r3","event":"click","route":"/","tag":"div","label":"features.guide.new"}
+{"ts":"2026-10-24T01:33:10.647Z","sid":"e827r3","event":"click","route":"/","tag":"button","label":"Downloads"}
+{"ts":"2026-10-24T01:33:14.911Z","sid":"e827r3","event":"click","route":"/","tag":"button","label":"Jogos e índice"}
+{"ts":"2026-10-24T01:33:18.639Z","sid":"e827r3","event":"click","route":"/","tag":"button","label":"Big Picture"}
+{"ts":"2026-10-24T01:33:26.151Z","sid":"e827r3","event":"click","route":"/","tag":"button","label":"Downloads"}
+{"ts":"2026-10-24T01:33:31.415Z","sid":"e827r3","event":"click","route":"/","tag":"button","label":"Ferramentas"}
+{"ts":"2026-10-24T01:33:33.663Z","sid":"e827r3","event":"click","route":"/","tag":"button","label":"Jogos e índice"}
+{"ts":"2026-10-24T01:33:34.576Z","sid":"e827r3","event":"click","route":"/","tag":"button","label":"Geral e aparência"}
+{"ts":"2026-10-24T01:33:38.559Z","sid":"e827r3","event":"click","route":"/","tag":"div","label":"Jogos e índiceGeral e aparênciaBig PictureDownloadsBackup e salvamentosCompatibilidadeFerramentasIdiomaSistemaTutoriaisF"}
+{"ts":"2026-10-24T01:33:39.727Z","sid":"e827r3","event":"click","route":"/","tag":"button","label":"Tutoriais"}
+{"ts":"2026-10-24T01:33:40.598Z","sid":"e827r3","event":"click","route":"/","tag":"button","label":"Sistema"}
+{"ts":"2026-10-24T01:33:48.359Z","sid":"e827r3","event":"click","route":"/","tag":"button","label":"Idioma"}
+{"ts":"2026-10-24T01:33:50.223Z","sid":"e827r3","event":"click","route":"/","tag":"button","label":"Compatibilidade"}
+{"ts":"2026-10-24T01:33:52.519Z","sid":"e827r3","event":"click","route":"/","tag":"button","label":"Backup e salvamentos"}
+{"ts":"2026-10-24T01:33:54.247Z","sid":"e827r3","event":"click","route":"/","tag":"button","label":"Downloads"}
+{"ts":"2026-10-24T01:34:02.895Z","sid":"e827r3","event":"click","route":"/","tag":"button","label":""}
+{"ts":"2026-10-24T01:34:08.808Z","sid":"e827r3","event":"click","route":"/","tag":"input","label":""}
+{"ts":"2026-10-24T01:34:09.895Z","sid":"e827r3","event":"click","route":"/","tag":"p","label":"Janela virada da meia-noite (ex.: 22:00 as 06:00) funciona. Extracao em curso termina antes de pausar. Downloads iniciad"}
+{"ts":"2026-10-24T01:34:11.711Z","sid":"e827r3","event":"click","route":"/","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-24T01:34:14.895Z","sid":"e827r3","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-24T01:34:18.735Z","sid":"e827r3","event":"click","route":"/settings","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-24T01:44:09.255Z","sid":"e827r3","event":"click","route":"/downloads","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-24T01:44:31.312Z","sid":"e827r3","event":"click","route":"/settings","tag":"button","label":"Geral e aparência"}
+{"ts":"2026-10-24T01:44:35.792Z","sid":"e827r3","event":"click","route":"/settings","tag":"button","label":"Downloads"}
+{"ts":"2026-10-24T01:44:42.088Z","sid":"e827r3","event":"click","route":"/settings","tag":"button","label":""}
+{"ts":"2026-10-24T01:44:47.208Z","sid":"e827r3","event":"click","route":"/settings","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-24T01:44:48.977Z","sid":"e827r3","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and LeyleyPlaying"}
+{"ts":"2026-10-24T01:45:14.063Z","sid":"e827r3","event":"click","route":"/gamescreen","tag":"a","label":"CapturasCapturas"}
+{"ts":"2026-10-24T01:45:29.081Z","sid":"e827r3","event":"click","route":"/screenshots","tag":"div","label":"VoltarCapturas{n} capturas de tela salvas por jogo.Pressione F12 durante o jogo para salvar uma captura.Nenhuma captura "}
+{"ts":"2026-10-24T01:45:29.256Z","sid":"e827r3","event":"click","route":"/screenshots","tag":"div","label":"VoltarCapturas{n} capturas de tela salvas por jogo.Pressione F12 durante o jogo para salvar uma captura.Nenhuma captura "}
+{"ts":"2026-10-24T01:45:29.449Z","sid":"e827r3","event":"click","route":"/screenshots","tag":"div","label":"VoltarCapturas{n} capturas de tela salvas por jogo.Pressione F12 durante o jogo para salvar uma captura.Nenhuma captura "}
+{"ts":"2026-10-24T01:46:11.048Z","sid":"e827r3","event":"click","route":"/screenshots","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-24T01:46:12.321Z","sid":"e827r3","event":"click","route":"/downloads","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-24T01:46:13.656Z","sid":"e827r3","event":"click","route":"/library","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-24T01:46:18.609Z","sid":"e827r3","event":"click","route":"/settings","tag":"button","label":"Funcionalidades"}
+{"ts":"2026-10-24T01:47:01.649Z","sid":"e827r3","event":"click","route":"/settings","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-24T01:47:02.825Z","sid":"e827r3","event":"click","route":"/downloads","tag":"a","label":"CapturasCapturas"}
+{"ts":"2026-10-24T01:47:04.600Z","sid":"e827r3","event":"click","route":"/screenshots","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-24T01:47:05.473Z","sid":"e827r3","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and LeyleyPlaying"}
+{"ts":"2026-10-24T01:47:07.289Z","sid":"e827r3","event":"click","route":"/gamescreen","tag":"button","label":"Parar"}
+{"ts":"2026-10-24T01:47:09.304Z","sid":"e827r3","event":"click","route":"/gamescreen","tag":"button","label":"Jogar"}
+{"ts":"2026-10-24T01:47:19.907Z","sid":"e827r3","event":"click","route":"/gamescreen","tag":"a","label":"CapturasCapturas"}
+{"ts":"2026-10-24T01:47:21.097Z","sid":"e827r3","event":"click","route":"/screenshots","tag":"div","label":"VoltarCapturas{n} capturas de tela salvas por jogo.Pressione F12 durante o jogo para salvar uma captura.Nenhuma captura "}
+{"ts":"2026-10-24T01:47:21.339Z","sid":"e827r3","event":"click","route":"/screenshots","tag":"div","label":"Nenhuma captura aindaJogue um título e pressione F12 para começar a coleção."}
+{"ts":"2026-10-24T01:47:21.577Z","sid":"e827r3","event":"click","route":"/screenshots","tag":"div","label":"Nenhuma captura aindaJogue um título e pressione F12 para começar a coleção."}
+{"ts":"2026-10-24T01:47:21.809Z","sid":"e827r3","event":"click","route":"/screenshots","tag":"div","label":"Nenhuma captura aindaJogue um título e pressione F12 para começar a coleção."}
+{"ts":"2026-10-24T01:47:24.162Z","sid":"e827r3","event":"click","route":"/screenshots","tag":"a","label":"InícioInício"}
