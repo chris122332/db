@@ -1,0 +1,6 @@
+{"ts":"2026-10-24T12:47:27.654Z","sid":"6sxtar","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T12:47:37.387Z","sid":"6sxtar","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T12:47:39.569Z","sid":"6sxtar","event":"click","route":"/","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-24T12:47:43.340Z","sid":"6sxtar","event":"click","route":"/community","tag":"img","label":""}
+{"ts":"2026-10-24T12:47:46.916Z","sid":"6sxtar","event":"click","route":"/community","tag":"div","label":"Visualizador de Imagem"}
+{"ts":"2026-10-24T12:47:50.987Z","sid":"6sxtar","event":"click","route":"/community","tag":"img","label":""}
