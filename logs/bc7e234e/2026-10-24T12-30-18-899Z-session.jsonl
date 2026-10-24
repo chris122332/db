@@ -1,0 +1,10 @@
+{"ts":"2026-10-24T12:27:41.514Z","sid":"sn3a76","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T12:27:55.180Z","sid":"sn3a76","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T12:28:01.478Z","sid":"sn3a76","event":"click","route":"/","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-24T12:28:16.122Z","sid":"sn3a76","event":"click","route":"/community","tag":"input","label":"Search by game name..."}
+{"ts":"2026-10-24T12:28:17.282Z","sid":"sn3a76","event":"click","route":"/community","tag":"select","label":"AllWallpapersGrid ImagesLogosScreenshots"}
+{"ts":"2026-10-24T12:28:19.418Z","sid":"sn3a76","event":"click","route":"/community","tag":"select","label":"AllWallpapersGrid ImagesLogosScreenshots"}
+{"ts":"2026-10-24T12:28:20.043Z","sid":"sn3a76","event":"click","route":"/community","tag":"select","label":"AllWallpapersGrid ImagesLogosScreenshots"}
+{"ts":"2026-10-24T12:28:20.411Z","sid":"sn3a76","event":"click","route":"/community","tag":"select","label":"AllWallpapersGrid ImagesLogosScreenshots"}
+{"ts":"2026-10-24T12:28:21.202Z","sid":"sn3a76","event":"click","route":"/community","tag":"div","label":"No assets foundTry changing your search or filter"}
+{"ts":"2026-10-24T12:30:14.892Z","sid":"sn3a76","event":"crash","message":"EPIPE: broken pipe, write","stack":"Error: EPIPE: broken pipe, write\n    at Socket._write (node:internal/net:75:18)\n    at writeOrBuffer (node:internal/streams/writable:570:12)\n    at _write (node:internal/streams/writable:499:10)\n    at Writable.write (node:internal/streams/writable:508:10)\n    at console.value (node:internal/console/constructor:313:16)\n    at console.log (node:internal/console/constructor:416:26)\n    at console.log (C:\\Users\\c2644\\Downloads\\github.com\\ascendara-main\\ascendara-main\\electron\\modules\\logger.js:45:21)\n    at BrowserWindow.<anonymous> (C:\\Users\\c2644\\Downloads\\github.com\\ascendara-main\\ascendara-main\\electron\\modules\\window.js:268:13)\n    at BrowserWindow.emit (node:events:521:24)"}
