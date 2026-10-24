@@ -1,0 +1,21 @@
+{"ts":"2026-10-24T11:05:35.687Z","sid":"f7etcm","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T11:05:49.727Z","sid":"f7etcm","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T11:10:35.078Z","sid":"f7etcm","event":"click","route":"/","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-24T11:10:37.036Z","sid":"f7etcm","event":"click","route":"/downloads","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-24T11:10:38.293Z","sid":"f7etcm","event":"click","route":"/library","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-24T11:10:41.468Z","sid":"f7etcm","event":"click","route":"/settings","tag":"button","label":"Big Picture"}
+{"ts":"2026-10-24T11:10:42.612Z","sid":"f7etcm","event":"click","route":"/settings","tag":"button","label":"Downloads"}
+{"ts":"2026-10-24T11:10:43.764Z","sid":"f7etcm","event":"click","route":"/settings","tag":"button","label":"Backup e salvamentos"}
+{"ts":"2026-10-24T11:10:44.516Z","sid":"f7etcm","event":"click","route":"/settings","tag":"button","label":"Compatibilidade"}
+{"ts":"2026-10-24T11:10:45.063Z","sid":"f7etcm","event":"click","route":"/settings","tag":"div","label":"Jogos e índiceGeral e aparênciaBig PictureDownloadsBackup e salvamentosCompatibilidadeFerramentasIdiomaSistemaTutoriaisF"}
+{"ts":"2026-10-24T11:10:45.637Z","sid":"f7etcm","event":"click","route":"/settings","tag":"button","label":"Ferramentas"}
+{"ts":"2026-10-24T11:10:46.149Z","sid":"f7etcm","event":"click","route":"/settings","tag":"button","label":"Idioma"}
+{"ts":"2026-10-24T11:10:47.172Z","sid":"f7etcm","event":"click","route":"/settings","tag":"button","label":"Sistema"}
+{"ts":"2026-10-24T11:10:47.692Z","sid":"f7etcm","event":"click","route":"/settings","tag":"button","label":"Sistema"}
+{"ts":"2026-10-24T11:10:48.140Z","sid":"f7etcm","event":"click","route":"/settings","tag":"button","label":"Tutoriais"}
+{"ts":"2026-10-24T11:10:48.668Z","sid":"f7etcm","event":"click","route":"/settings","tag":"div","label":"Jogos e índiceGeral e aparênciaBig PictureDownloadsBackup e salvamentosCompatibilidadeFerramentasIdiomaSistemaTutoriaisF"}
+{"ts":"2026-10-24T11:10:49.180Z","sid":"f7etcm","event":"click","route":"/settings","tag":"button","label":"Funcionalidades"}
+{"ts":"2026-10-24T11:10:49.732Z","sid":"f7etcm","event":"click","route":"/settings","tag":"button","label":"Funcionalidades"}
+{"ts":"2026-10-24T11:10:53.740Z","sid":"f7etcm","event":"click","route":"/settings","tag":"button","label":"Créditos"}
+{"ts":"2026-10-24T11:10:55.333Z","sid":"f7etcm","event":"click","route":"/settings","tag":"div","label":"Configurações do Gmx LauncherJogos e índiceGeral e aparênciaBig PictureDownloadsBackup e salvamentosCompatibilidadeFerra"}
+{"ts":"2026-10-24T11:10:56.022Z","sid":"f7etcm","event":"click","route":"/settings","tag":"button","label":"Jogos e índice"}
