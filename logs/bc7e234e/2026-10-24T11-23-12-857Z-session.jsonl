@@ -1,0 +1,13 @@
+{"ts":"2026-10-24T11:21:08.712Z","sid":"axs605","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T11:21:22.779Z","sid":"axs605","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T11:21:46.669Z","sid":"axs605","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-24T11:21:54.877Z","sid":"axs605","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-24T11:22:00.341Z","sid":"axs605","event":"click","route":"/gamescreen","tag":"div","label":"Visão geralTrilha sonoraConquistasMídiaModsVisão geralSobre este jogoSTORYCannibalism and codependency!Caught in an extr"}
+{"ts":"2026-10-24T11:22:00.726Z","sid":"axs605","event":"click","route":"/gamescreen","tag":"button","label":"Mídia"}
+{"ts":"2026-10-24T11:22:07.364Z","sid":"axs605","event":"click","route":"/gamescreen","tag":"div","label":"Voltar22651024640 MBGerenciado1 horaLançado em Oct 13, 2023Desenvolvido por Kit9 StudioPublicado por Kit9 StudioGêneros:"}
+{"ts":"2026-10-24T11:22:38.149Z","sid":"axs605","event":"click","route":"/gamescreen","tag":"button","label":"Clique para carregar"}
+{"ts":"2026-10-24T11:22:42.741Z","sid":"axs605","event":"click","route":"/gamescreen","tag":"button","label":"Ver todas as capturas"}
+{"ts":"2026-10-24T11:22:56.446Z","sid":"axs605","event":"click","route":"/screenshots","tag":"p","label":"{n} capturas de tela salvas por jogo."}
+{"ts":"2026-10-24T11:22:56.708Z","sid":"axs605","event":"click","route":"/screenshots","tag":"p","label":"{n} capturas de tela salvas por jogo."}
+{"ts":"2026-10-24T11:22:56.936Z","sid":"axs605","event":"click","route":"/screenshots","tag":"p","label":"{n} capturas de tela salvas por jogo."}
+{"ts":"2026-10-24T11:23:07.021Z","sid":"axs605","event":"click","route":"/screenshots","tag":"a","label":"Baixador do WorkshopBaixador do Workshop"}
