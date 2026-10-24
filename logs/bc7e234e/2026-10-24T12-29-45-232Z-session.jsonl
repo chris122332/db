@@ -1,0 +1,9 @@
+{"ts":"2026-10-24T12:27:41.514Z","sid":"sn3a76","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T12:27:55.180Z","sid":"sn3a76","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T12:28:01.478Z","sid":"sn3a76","event":"click","route":"/","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-24T12:28:16.122Z","sid":"sn3a76","event":"click","route":"/community","tag":"input","label":"Search by game name..."}
+{"ts":"2026-10-24T12:28:17.282Z","sid":"sn3a76","event":"click","route":"/community","tag":"select","label":"AllWallpapersGrid ImagesLogosScreenshots"}
+{"ts":"2026-10-24T12:28:19.418Z","sid":"sn3a76","event":"click","route":"/community","tag":"select","label":"AllWallpapersGrid ImagesLogosScreenshots"}
+{"ts":"2026-10-24T12:28:20.043Z","sid":"sn3a76","event":"click","route":"/community","tag":"select","label":"AllWallpapersGrid ImagesLogosScreenshots"}
+{"ts":"2026-10-24T12:28:20.411Z","sid":"sn3a76","event":"click","route":"/community","tag":"select","label":"AllWallpapersGrid ImagesLogosScreenshots"}
+{"ts":"2026-10-24T12:28:21.202Z","sid":"sn3a76","event":"click","route":"/community","tag":"div","label":"No assets foundTry changing your search or filter"}
