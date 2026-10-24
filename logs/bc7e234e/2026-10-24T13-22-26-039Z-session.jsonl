@@ -1,0 +1,36 @@
+{"ts":"2026-10-24T13:16:33.641Z","sid":"fvrnqz","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T13:16:43.726Z","sid":"fvrnqz","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T13:16:44.612Z","sid":"fvrnqz","event":"click","route":"/","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-10-24T13:16:45.699Z","sid":"fvrnqz","event":"click","route":"/","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-24T13:16:46.663Z","sid":"fvrnqz","event":"click","route":"/community","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-24T13:16:51.993Z","sid":"fvrnqz","event":"click","route":"/community","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-24T13:16:52.779Z","sid":"fvrnqz","event":"click","route":"/community","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-24T13:16:53.038Z","sid":"fvrnqz","event":"click","route":"/community","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-24T13:16:58.951Z","sid":"fvrnqz","event":"click","route":"/community","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-24T13:17:00.458Z","sid":"fvrnqz","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-24T13:17:02.457Z","sid":"fvrnqz","event":"click","route":"/gamescreen","tag":"button","label":"Mídia"}
+{"ts":"2026-10-24T13:17:58.952Z","sid":"fvrnqz","event":"click","route":"/gamescreen","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-24T13:18:13.358Z","sid":"fvrnqz","event":"click","route":"/community","tag":"button","label":"Grids4.792"}
+{"ts":"2026-10-24T13:18:19.311Z","sid":"fvrnqz","event":"click","route":"/community","tag":"button","label":"Heroes4.797"}
+{"ts":"2026-10-24T13:18:22.373Z","sid":"fvrnqz","event":"click","route":"/community","tag":"button","label":"Logos4.807"}
+{"ts":"2026-10-24T13:20:46.430Z","sid":"fvrnqz","event":"click","route":"/community","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-24T13:20:49.391Z","sid":"fvrnqz","event":"click","route":"/community","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-24T13:20:50.846Z","sid":"fvrnqz","event":"click","route":"/community","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-24T13:20:51.057Z","sid":"fvrnqz","event":"click","route":"/community","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-24T13:20:54.335Z","sid":"fvrnqz","event":"click","route":"/community","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-24T13:20:55.726Z","sid":"fvrnqz","event":"click","route":"/downloads","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-24T13:20:56.302Z","sid":"fvrnqz","event":"click","route":"/downloads","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-24T13:20:56.495Z","sid":"fvrnqz","event":"click","route":"/downloads","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-24T13:21:25.598Z","sid":"fvrnqz","event":"click","route":"/downloads","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-24T13:21:37.680Z","sid":"fvrnqz","event":"click","route":"/community","tag":"span","label":"4816 jogos"}
+{"ts":"2026-10-24T13:21:37.879Z","sid":"fvrnqz","event":"click","route":"/community","tag":"span","label":"4816 jogos"}
+{"ts":"2026-10-24T13:21:38.086Z","sid":"fvrnqz","event":"click","route":"/community","tag":"span","label":"4816 jogos"}
+{"ts":"2026-10-24T13:21:38.264Z","sid":"fvrnqz","event":"click","route":"/community","tag":"span","label":"4816 jogos"}
+{"ts":"2026-10-24T13:21:44.270Z","sid":"fvrnqz","event":"click","route":"/community","tag":"button","label":"Ver todos"}
+{"ts":"2026-10-24T13:21:55.000Z","sid":"fvrnqz","event":"click","route":"/community","tag":"button","label":"Início"}
+{"ts":"2026-10-24T13:21:57.188Z","sid":"fvrnqz","event":"click","route":"/community","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-24T13:21:59.470Z","sid":"fvrnqz","event":"click","route":"/","tag":"a","label":"ProcurarProcurar"}
+{"ts":"2026-10-24T13:22:03.775Z","sid":"fvrnqz","event":"click","route":"/search","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-24T13:22:07.550Z","sid":"fvrnqz","event":"click","route":"/library","tag":"button","label":""}
+{"ts":"2026-10-24T13:22:08.014Z","sid":"fvrnqz","event":"click","route":"/library","tag":"button","label":""}
+{"ts":"2026-10-24T13:22:08.382Z","sid":"fvrnqz","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
