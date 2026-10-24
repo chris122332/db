@@ -1,0 +1,8 @@
+{"ts":"2026-10-24T12:56:41.380Z","sid":"dyy5gz","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T12:56:51.588Z","sid":"dyy5gz","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T12:56:51.627Z","sid":"dyy5gz","event":"click","route":"/","tag":"div","label":"Controlador detectadoO Gmx Launcher detectou um controle conectado ao seu dispositivo. Quer entrar no Big Picture para t"}
+{"ts":"2026-10-24T12:56:52.431Z","sid":"dyy5gz","event":"click","route":"/","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-10-24T12:56:54.766Z","sid":"dyy5gz","event":"click","route":"/","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-24T12:58:39.296Z","sid":"dyy5gz","event":"click","route":"/community","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-24T12:58:41.822Z","sid":"dyy5gz","event":"click","route":"/","tag":"a","label":"ProcurarProcurar"}
+{"ts":"2026-10-24T12:58:43.717Z","sid":"dyy5gz","event":"click","route":"/search","tag":"a","label":"BibliotecaBiblioteca"}
