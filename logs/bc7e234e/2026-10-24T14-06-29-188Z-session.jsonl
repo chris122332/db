@@ -1,0 +1,20 @@
+{"ts":"2026-10-24T13:54:25.166Z","sid":"73qcxx","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T13:54:39.502Z","sid":"73qcxx","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T13:59:26.892Z","sid":"73qcxx","event":"click","route":"/","tag":"a","label":"التفضيلاتالتفضيلات"}
+{"ts":"2026-10-24T13:59:31.418Z","sid":"73qcxx","event":"click","route":"/settings","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-24T13:59:34.322Z","sid":"73qcxx","event":"click","route":"/community","tag":"div","label":"بيتGrids4.805Heroes4.810Logos4.815Workshop Downloader"}
+{"ts":"2026-10-24T13:59:34.692Z","sid":"73qcxx","event":"click","route":"/community","tag":"button","label":"Workshop Downloader"}
+{"ts":"2026-10-24T13:59:38.019Z","sid":"73qcxx","event":"click","route":"/community","tag":"button","label":"Logos4.815"}
+{"ts":"2026-10-24T13:59:38.987Z","sid":"73qcxx","event":"click","route":"/community","tag":"button","label":"Workshop Downloader"}
+{"ts":"2026-10-24T14:00:43.444Z","sid":"73qcxx","event":"click","route":"/community","tag":"a","label":"التفضيلاتالتفضيلات"}
+{"ts":"2026-10-24T14:00:45.643Z","sid":"73qcxx","event":"click","route":"/settings","tag":"button","label":"Idioma"}
+{"ts":"2026-10-24T14:00:46.747Z","sid":"73qcxx","event":"click","route":"/settings","tag":"div","label":"اختر لغتك المفضلة لواجهة المستخدم🇸🇦العربيةانظر القائمة الكاملة للغاتملاحظة: لن يؤدي هذا إلى تغيير أسماء الألعاب أو الع"}
+{"ts":"2026-10-24T14:00:47.084Z","sid":"73qcxx","event":"click","route":"/settings","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-24T14:00:50.377Z","sid":"73qcxx","event":"click","route":"/settings","tag":"span","label":"Português"}
+{"ts":"2026-10-24T14:00:52.553Z","sid":"73qcxx","event":"click","route":"/settings","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-24T14:00:54.566Z","sid":"73qcxx","event":"click","route":"/community","tag":"div","label":"Início — Uma amostra de cada categoria. Use \"Ver todos\" para explorar tudo."}
+{"ts":"2026-10-24T14:00:54.890Z","sid":"73qcxx","event":"click","route":"/community","tag":"button","label":"Baixador do Workshop"}
+{"ts":"2026-10-24T14:00:56.928Z","sid":"73qcxx","event":"click","route":"/community","tag":"div","label":"Bem-vindo ao baixador da Oficina do Gmx LauncherAqui você pode baixar itens do Steam Workshop sem precisar ter uma conta"}
+{"ts":"2026-10-24T14:00:57.291Z","sid":"73qcxx","event":"click","route":"/community","tag":"button","label":"Começar"}
+{"ts":"2026-10-24T14:01:07.305Z","sid":"73qcxx","event":"click","route":"/community","tag":"button","label":"Instalar agora"}
+{"ts":"2026-10-24T14:01:55.284Z","sid":"73qcxx","event":"click","route":"/community","tag":"div","label":"Baixar itens da OficinaCole os links dos itens do workshop aqui para baixá-los. Gmx Launcher irá adicioná-los a um diret"}
