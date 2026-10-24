@@ -1,0 +1,24 @@
+{"ts":"2026-10-24T11:11:07.036Z","sid":"b86bdn","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T11:11:21.156Z","sid":"b86bdn","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T11:11:35.190Z","sid":"b86bdn","event":"click","route":"/","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-24T11:11:36.933Z","sid":"b86bdn","event":"click","route":"/","tag":"div","label":"Just now"}
+{"ts":"2026-10-24T11:11:37.410Z","sid":"b86bdn","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-24T11:11:40.292Z","sid":"b86bdn","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-24T11:11:55.165Z","sid":"b86bdn","event":"click","route":"/gamescreen","tag":"button","label":"Jogar"}
+{"ts":"2026-10-24T11:12:06.316Z","sid":"b86bdn","event":"click","route":"/gamescreen","tag":"button","label":"OK"}
+{"ts":"2026-10-24T11:12:07.820Z","sid":"b86bdn","event":"click","route":"/gamescreen","tag":"button","label":"Jogar"}
+{"ts":"2026-10-24T11:12:16.293Z","sid":"b86bdn","event":"click","route":"/gamescreen","tag":"button","label":"OK"}
+{"ts":"2026-10-24T11:12:21.006Z","sid":"b86bdn","event":"click","route":"/gamescreen","tag":"button","label":"Mídia"}
+{"ts":"2026-10-24T11:12:31.372Z","sid":"b86bdn","event":"click","route":"/gamescreen","tag":"button","label":"Ver todas as capturas"}
+{"ts":"2026-10-24T11:12:34.573Z","sid":"b86bdn","event":"click","route":"/screenshots","tag":"button","label":"Voltar"}
+{"ts":"2026-10-24T11:12:36.105Z","sid":"b86bdn","event":"navigate","to":"/gamescreen","from":"/"}
+{"ts":"2026-10-24T11:12:40.516Z","sid":"b86bdn","event":"click","route":"/gamescreen","tag":"div","label":"ConquistasNenhuma conquista encontradaEstatísticasVersão22651024Tamanho640 MBTempo de jogo1 horaExecutável principalThe "}
+{"ts":"2026-10-24T11:12:41.221Z","sid":"b86bdn","event":"click","route":"/gamescreen","tag":"button","label":"Mídia"}
+{"ts":"2026-10-24T11:12:43.068Z","sid":"b86bdn","event":"click","route":"/gamescreen","tag":"button","label":"Abrir pasta de capturas"}
+{"ts":"2026-10-24T11:13:54.972Z","sid":"b86bdn","event":"click","route":"/gamescreen","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-24T11:13:58.836Z","sid":"b86bdn","event":"click","route":"/settings","tag":"button","label":"Geral e aparência"}
+{"ts":"2026-10-24T11:14:01.373Z","sid":"b86bdn","event":"click","route":"/settings","tag":"button","label":"Idioma"}
+{"ts":"2026-10-24T11:14:02.252Z","sid":"b86bdn","event":"click","route":"/settings","tag":"button","label":"Sistema"}
+{"ts":"2026-10-24T11:14:09.597Z","sid":"b86bdn","event":"click","route":"/settings","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-24T11:14:20.532Z","sid":"b86bdn","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-24T11:14:23.668Z","sid":"b86bdn","event":"click","route":"/settings","tag":"button","label":"Funcionalidades"}
