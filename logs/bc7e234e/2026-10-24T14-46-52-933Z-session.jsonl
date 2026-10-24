@@ -1,0 +1,39 @@
+{"ts":"2026-10-24T14:40:48.669Z","sid":"mr8pwr","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T14:41:03.648Z","sid":"mr8pwr","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T14:41:07.462Z","sid":"mr8pwr","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-24T14:41:09.636Z","sid":"mr8pwr","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-24T14:41:14.548Z","sid":"mr8pwr","event":"click","route":"/gamescreen","tag":"button","label":"Voltar"}
+{"ts":"2026-10-24T14:41:17.044Z","sid":"mr8pwr","event":"click","route":"/library","tag":"button","label":"Importar Jogos"}
+{"ts":"2026-10-24T14:41:19.020Z","sid":"mr8pwr","event":"click","route":"/library","tag":"span","label":""}
+{"ts":"2026-10-24T14:41:19.022Z","sid":"mr8pwr","event":"click","route":"/library","tag":"input","label":""}
+{"ts":"2026-10-24T14:41:19.615Z","sid":"mr8pwr","event":"click","route":"/library","tag":"span","label":""}
+{"ts":"2026-10-24T14:41:19.619Z","sid":"mr8pwr","event":"click","route":"/library","tag":"input","label":""}
+{"ts":"2026-10-24T14:41:20.100Z","sid":"mr8pwr","event":"click","route":"/library","tag":"span","label":""}
+{"ts":"2026-10-24T14:41:20.102Z","sid":"mr8pwr","event":"click","route":"/library","tag":"input","label":""}
+{"ts":"2026-10-24T14:41:20.549Z","sid":"mr8pwr","event":"click","route":"/library","tag":"span","label":""}
+{"ts":"2026-10-24T14:41:20.551Z","sid":"mr8pwr","event":"click","route":"/library","tag":"input","label":""}
+{"ts":"2026-10-24T14:41:21.724Z","sid":"mr8pwr","event":"click","route":"/library","tag":"button","label":"Digitalizar e importar"}
+{"ts":"2026-10-24T14:41:37.012Z","sid":"mr8pwr","event":"click","route":"/library","tag":"button","label":"Fechar"}
+{"ts":"2026-10-24T14:41:39.276Z","sid":"mr8pwr","event":"click","route":"/library","tag":"p","label":"eFootball™"}
+{"ts":"2026-10-24T14:41:42.188Z","sid":"mr8pwr","event":"click","route":"/gamescreen","tag":"button","label":"Voltar"}
+{"ts":"2026-10-24T14:41:45.252Z","sid":"mr8pwr","event":"click","route":"/library","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-24T14:41:48.030Z","sid":"mr8pwr","event":"click","route":"/community","tag":"input","label":"Buscar por nome do jogo..."}
+{"ts":"2026-10-24T14:41:58.877Z","sid":"mr8pwr","event":"click","route":"/community","tag":"main","label":"Início — Uma amostra de cada categoria. Use \"Ver todos\" para explorar tudo.2 resultados para \"EFOO\"HeroesVer todoseFootb"}
+{"ts":"2026-10-24T14:41:59.285Z","sid":"mr8pwr","event":"click","route":"/community","tag":"button","label":"Ver todos"}
+{"ts":"2026-10-24T14:42:02.845Z","sid":"mr8pwr","event":"click","route":"/community","tag":"input","label":"Buscar por nome do jogo..."}
+{"ts":"2026-10-24T14:42:18.640Z","sid":"mr8pwr","event":"click","route":"/community","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-24T14:42:20.149Z","sid":"mr8pwr","event":"click","route":"/library","tag":"div","label":"eFootball™"}
+{"ts":"2026-10-24T14:42:22.421Z","sid":"mr8pwr","event":"click","route":"/gamescreen","tag":"button","label":"Jogar"}
+{"ts":"2026-10-24T14:45:34.756Z","sid":"mr8pwr","event":"click","route":"/gamescreen","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-24T14:46:01.595Z","sid":"mr8pwr","event":"click","route":"/downloads","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-24T14:46:14.436Z","sid":"mr8pwr","event":"click","route":"/settings","tag":"div","label":""}
+{"ts":"2026-10-24T14:46:22.605Z","sid":"mr8pwr","event":"click","route":"/settings","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-24T14:46:24.894Z","sid":"mr8pwr","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-24T14:46:26.749Z","sid":"mr8pwr","event":"click","route":"/settings","tag":"button","label":"Funcionalidades"}
+{"ts":"2026-10-24T14:46:33.341Z","sid":"mr8pwr","event":"click","route":"/settings","tag":"button","label":"Abrir Coleções InteligentesColeções InteligentesContinue Jogando, Nunca Jogados, Personalizados, Online, VR e DLC"}
+{"ts":"2026-10-24T14:46:37.512Z","sid":"mr8pwr","event":"click","route":"/settings","tag":"button","label":"eFootball™Personalizado24/10/2026"}
+{"ts":"2026-10-24T14:46:39.909Z","sid":"mr8pwr","event":"click","route":"/gamescreen","tag":"button","label":"Voltar"}
+{"ts":"2026-10-24T14:46:41.191Z","sid":"mr8pwr","event":"click","route":"/library","tag":"div","label":"Minha Biblioteca4 Total de jogosLibraryTodos os jogos4Favoritos2Jogar mais tarde2HistóricoEmuladores e portáteisGerencia"}
+{"ts":"2026-10-24T14:46:41.839Z","sid":"mr8pwr","event":"click","route":"/library","tag":"div","label":"eFootball™PlayingeFootball™Você ainda não jogou este jogoEuro Truck Simulator 2Euro Truck Simulator 2Você ainda não jogo"}
+{"ts":"2026-10-24T14:46:43.462Z","sid":"mr8pwr","event":"click","route":"/library","tag":"div","label":"eFootball™PlayingeFootball™Você ainda não jogou este jogoEuro Truck Simulator 2Euro Truck Simulator 2Você ainda não jogo"}
+{"ts":"2026-10-24T14:46:51.493Z","sid":"mr8pwr","event":"click","route":"/library","tag":"button","label":"Abrir Coleções InteligentesColeções InteligentesContinue Jogando, Nunca Jogados, Personalizados, Online, VR e DLC"}
