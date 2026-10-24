@@ -1,0 +1,9 @@
+{"ts":"2026-10-24T09:43:06.668Z","sid":"gzrkvn","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T09:43:21.719Z","sid":"gzrkvn","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T09:43:25.797Z","sid":"gzrkvn","event":"click","route":"/","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-10-24T09:43:27.485Z","sid":"gzrkvn","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-24T09:43:29.533Z","sid":"gzrkvn","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-24T09:43:32.102Z","sid":"gzrkvn","event":"click","route":"/gamescreen","tag":"button","label":"Mídia"}
+{"ts":"2026-10-24T09:43:39.725Z","sid":"gzrkvn","event":"click","route":"/gamescreen","tag":"button","label":"Jogar"}
+{"ts":"2026-10-24T09:43:54.182Z","sid":"gzrkvn","event":"click","route":"/gamescreen","tag":"button","label":"Ver todas as capturas"}
+{"ts":"2026-10-24T09:43:56.534Z","sid":"gzrkvn","event":"click","route":"/screenshots","tag":"p","label":"Pressione F12 durante o jogo para salvar uma captura."}
