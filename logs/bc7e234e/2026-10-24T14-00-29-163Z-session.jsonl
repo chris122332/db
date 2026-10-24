@@ -1,0 +1,8 @@
+{"ts":"2026-10-24T13:54:25.166Z","sid":"73qcxx","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T13:54:39.502Z","sid":"73qcxx","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T13:59:26.892Z","sid":"73qcxx","event":"click","route":"/","tag":"a","label":"التفضيلاتالتفضيلات"}
+{"ts":"2026-10-24T13:59:31.418Z","sid":"73qcxx","event":"click","route":"/settings","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-24T13:59:34.322Z","sid":"73qcxx","event":"click","route":"/community","tag":"div","label":"بيتGrids4.805Heroes4.810Logos4.815Workshop Downloader"}
+{"ts":"2026-10-24T13:59:34.692Z","sid":"73qcxx","event":"click","route":"/community","tag":"button","label":"Workshop Downloader"}
+{"ts":"2026-10-24T13:59:38.019Z","sid":"73qcxx","event":"click","route":"/community","tag":"button","label":"Logos4.815"}
+{"ts":"2026-10-24T13:59:38.987Z","sid":"73qcxx","event":"click","route":"/community","tag":"button","label":"Workshop Downloader"}
