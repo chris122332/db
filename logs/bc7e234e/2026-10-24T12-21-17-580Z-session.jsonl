@@ -1,0 +1,11 @@
+{"ts":"2026-10-24T12:17:11.981Z","sid":"72ftas","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T12:17:23.052Z","sid":"72ftas","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T12:17:25.915Z","sid":"72ftas","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-24T12:17:27.625Z","sid":"72ftas","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-24T12:17:30.393Z","sid":"72ftas","event":"click","route":"/gamescreen","tag":"button","label":"Comunidade"}
+{"ts":"2026-10-24T12:17:35.099Z","sid":"72ftas","event":"click","route":"/gamescreen","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-24T12:17:36.922Z","sid":"72ftas","event":"click","route":"/gamescreen","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-24T12:17:41.186Z","sid":"72ftas","event":"click","route":"/gamescreen","tag":"button","label":"Próximo"}
+{"ts":"2026-10-24T12:17:42.929Z","sid":"72ftas","event":"click","route":"/gamescreen","tag":"button","label":"Próximo"}
+{"ts":"2026-10-24T12:17:44.089Z","sid":"72ftas","event":"click","route":"/gamescreen","tag":"button","label":"Próximo"}
+{"ts":"2026-10-24T12:17:47.322Z","sid":"72ftas","event":"click","route":"/gamescreen","tag":"div","label":"ComunidadegameScreen.communityAvailableMais popularesAlternativeEndingMod(v1)por Cryptical200Adds an alternative ending "}
