@@ -1,0 +1,6 @@
+{"ts":"2026-10-24T13:25:45.051Z","sid":"v36erv","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T13:25:55.354Z","sid":"v36erv","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T13:25:59.030Z","sid":"v36erv","event":"click","route":"/","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-24T13:26:01.778Z","sid":"v36erv","event":"click","route":"/community","tag":"button","label":"common.workshop"}
+{"ts":"2026-10-24T13:26:11.929Z","sid":"v36erv","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T13:26:16.550Z","sid":"v36erv","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
