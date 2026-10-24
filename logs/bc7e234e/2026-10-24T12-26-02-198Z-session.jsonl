@@ -1,0 +1,4 @@
+{"ts":"2026-10-24T12:23:31.448Z","sid":"ehnb76","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T12:25:31.761Z","sid":"m066zo","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T12:25:45.483Z","sid":"m066zo","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T12:25:48.498Z","sid":"m066zo","event":"click","route":"/","tag":"a","label":"CommunityCommunity"}
