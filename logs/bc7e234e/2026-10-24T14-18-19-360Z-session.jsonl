@@ -1,0 +1,9 @@
+{"ts":"2026-10-24T14:16:15.272Z","sid":"r3ix7j","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T14:16:29.684Z","sid":"r3ix7j","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T14:16:45.724Z","sid":"r3ix7j","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-24T14:16:47.908Z","sid":"r3ix7j","event":"click","route":"/settings","tag":"div","label":"Escolha seu idioma preferido para a IU🇵🇹PortuguêsVeja a lista completa de idiomasNOTA: Isso não alterará nomes de jogo"}
+{"ts":"2026-10-24T14:16:48.315Z","sid":"r3ix7j","event":"click","route":"/settings","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-24T14:16:50.976Z","sid":"r3ix7j","event":"click","route":"/settings","tag":"div","label":"🇷🇺Русский"}
+{"ts":"2026-10-24T14:16:55.814Z","sid":"r3ix7j","event":"click","route":"/settings","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-24T14:16:58.114Z","sid":"r3ix7j","event":"click","route":"/settings","tag":"span","label":"العربية"}
+{"ts":"2026-10-24T14:17:00.386Z","sid":"r3ix7j","event":"click","route":"/settings","tag":"a","label":"ComunidadeComunidade"}
