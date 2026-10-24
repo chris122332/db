@@ -1,0 +1,7 @@
+{"ts":"2026-10-24T10:57:20.722Z","sid":"bc4bhp","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T10:57:38.114Z","sid":"bc4bhp","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T10:57:46.401Z","sid":"bc4bhp","event":"click","route":"/","tag":"div","label":"1h ago"}
+{"ts":"2026-10-24T10:57:54.584Z","sid":"bc4bhp","event":"click","route":"/","tag":"div","label":"1h ago"}
+{"ts":"2026-10-24T10:58:01.168Z","sid":"bc4bhp","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-24T10:58:03.947Z","sid":"bc4bhp","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-24T10:58:07.067Z","sid":"bc4bhp","event":"click","route":"/gamescreen","tag":"button","label":"Jogar"}
