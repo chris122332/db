@@ -1,0 +1,5 @@
+{"ts":"2026-10-24T11:43:15.626Z","sid":"duqvne","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T11:43:29.450Z","sid":"duqvne","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T11:44:29.435Z","sid":"duqvne","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T11:44:54.551Z","sid":"duqvne","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-24T11:44:55.870Z","sid":"duqvne","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
