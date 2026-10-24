@@ -1,0 +1,11 @@
+{"ts":"2026-10-24T13:36:30.810Z","sid":"qlo7eu","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T13:36:45.451Z","sid":"qlo7eu","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T13:37:07.004Z","sid":"qlo7eu","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-24T13:37:07.703Z","sid":"qlo7eu","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-24T13:37:08.322Z","sid":"qlo7eu","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-24T13:37:08.735Z","sid":"qlo7eu","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-24T13:37:10.095Z","sid":"qlo7eu","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-24T13:37:12.722Z","sid":"qlo7eu","event":"click","route":"/settings","tag":"button","label":"Idioma"}
+{"ts":"2026-10-24T13:37:13.846Z","sid":"qlo7eu","event":"click","route":"/settings","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-24T13:37:15.981Z","sid":"qlo7eu","event":"click","route":"/settings","tag":"div","label":"🇸🇦العربية"}
+{"ts":"2026-10-24T13:37:29.872Z","sid":"qlo7eu","event":"click","route":"/settings","tag":"button","label":"Tutoriais"}
