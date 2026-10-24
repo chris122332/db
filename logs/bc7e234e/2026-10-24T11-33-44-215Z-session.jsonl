@@ -1,0 +1,16 @@
+{"ts":"2026-10-24T11:29:40.141Z","sid":"ce6yz5","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T11:29:54.161Z","sid":"ce6yz5","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T11:29:59.613Z","sid":"ce6yz5","event":"click","route":"/","tag":"vite-error-overlay","label":""}
+{"ts":"2026-10-24T11:30:01.053Z","sid":"ce6yz5","event":"click","route":"/","tag":"a","label":"Baixador do WorkshopBaixador do Workshop"}
+{"ts":"2026-10-24T11:30:06.102Z","sid":"ce6yz5","event":"click","route":"/workshopdownloader","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-24T11:30:11.653Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"Jogos e índice"}
+{"ts":"2026-10-24T11:30:12.541Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"Geral e aparência"}
+{"ts":"2026-10-24T11:30:22.518Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":""}
+{"ts":"2026-10-24T11:30:34.605Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"Backup e salvamentos"}
+{"ts":"2026-10-24T11:30:35.069Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"Compatibilidade"}
+{"ts":"2026-10-24T11:30:35.645Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"div","label":"Jogos e índiceGeral e aparênciaBig PictureDownloadsBackup e salvamentosCompatibilidadeFerramentasIdiomaSistemaTutoriaisF"}
+{"ts":"2026-10-24T11:30:36.629Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"Ferramentas"}
+{"ts":"2026-10-24T11:30:40.542Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"div","label":"O Workshop Downloader permite baixar itens do Steam Workshop sem a necessidade de ter uma conta.Mostrar na barra de nave"}
+{"ts":"2026-10-24T11:30:41.213Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"div","label":"Mostrar na barra de navegação"}
+{"ts":"2026-10-24T11:33:35.622Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"Rever a configuração inicialRefazer o assistente na próxima abertura"}
+{"ts":"2026-10-24T11:33:42.413Z","sid":"ce6yz5","event":"page-ready","route":"/settings"}
