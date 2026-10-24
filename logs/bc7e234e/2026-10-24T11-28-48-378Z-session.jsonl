@@ -1,0 +1,7 @@
+{"ts":"2026-10-24T11:24:23.090Z","sid":"vc9qty","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T11:24:36.785Z","sid":"vc9qty","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T11:24:39.707Z","sid":"vc9qty","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-24T11:24:41.703Z","sid":"vc9qty","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-24T11:24:45.527Z","sid":"vc9qty","event":"click","route":"/gamescreen","tag":"button","label":"Mídia"}
+{"ts":"2026-10-24T11:24:48.119Z","sid":"vc9qty","event":"click","route":"/gamescreen","tag":"button","label":"Ver todas as capturas"}
+{"ts":"2026-10-24T11:24:52.453Z","sid":"vc9qty","event":"click","route":"/screenshots","tag":"div","label":"VoltarCapturas{n} capturas de tela salvas por jogo.Pressione F12 durante o jogo para salvar uma captura.The Coffin of An"}
