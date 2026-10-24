@@ -1,0 +1,21 @@
+{"ts":"2026-10-24T13:22:26.035Z","sid":"wgkh5b","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T13:22:36.249Z","sid":"wgkh5b","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T13:22:53.665Z","sid":"wgkh5b","event":"click","route":"/","tag":"div","label":"Controlador detectadoO Gmx Launcher detectou um controle conectado ao seu dispositivo. Quer entrar no Big Picture para t"}
+{"ts":"2026-10-24T13:22:54.199Z","sid":"wgkh5b","event":"click","route":"/","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-10-24T13:22:55.367Z","sid":"wgkh5b","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-24T13:22:58.575Z","sid":"wgkh5b","event":"click","route":"/settings","tag":"button","label":"Idioma"}
+{"ts":"2026-10-24T13:22:59.432Z","sid":"wgkh5b","event":"click","route":"/settings","tag":"button","label":"Backup e salvamentos"}
+{"ts":"2026-10-24T13:23:01.152Z","sid":"wgkh5b","event":"click","route":"/settings","tag":"button","label":"Big Picture"}
+{"ts":"2026-10-24T13:23:02.264Z","sid":"wgkh5b","event":"click","route":"/settings","tag":"button","label":"Downloads"}
+{"ts":"2026-10-24T13:23:03.391Z","sid":"wgkh5b","event":"click","route":"/settings","tag":"button","label":"Jogos e índice"}
+{"ts":"2026-10-24T13:23:04.183Z","sid":"wgkh5b","event":"click","route":"/settings","tag":"button","label":"Geral e aparência"}
+{"ts":"2026-10-24T13:23:11.223Z","sid":"wgkh5b","event":"click","route":"/settings","tag":"button","label":"Big Picture"}
+{"ts":"2026-10-24T13:23:11.679Z","sid":"wgkh5b","event":"click","route":"/settings","tag":"button","label":"Big Picture"}
+{"ts":"2026-10-24T13:23:12.151Z","sid":"wgkh5b","event":"click","route":"/settings","tag":"button","label":"Downloads"}
+{"ts":"2026-10-24T13:23:20.471Z","sid":"wgkh5b","event":"click","route":"/settings","tag":"button","label":""}
+{"ts":"2026-10-24T13:23:22.295Z","sid":"wgkh5b","event":"click","route":"/settings","tag":"button","label":""}
+{"ts":"2026-10-24T13:23:29.031Z","sid":"wgkh5b","event":"click","route":"/settings","tag":"button","label":"Backup e salvamentos"}
+{"ts":"2026-10-24T13:23:30.562Z","sid":"wgkh5b","event":"click","route":"/settings","tag":"button","label":"Compatibilidade"}
+{"ts":"2026-10-24T13:23:31.319Z","sid":"wgkh5b","event":"click","route":"/settings","tag":"button","label":"Ferramentas"}
+{"ts":"2026-10-24T13:23:57.000Z","sid":"wgkh5b","event":"click","route":"/settings","tag":"div","label":"InícioInícioProcurarProcurarBibliotecaBibliotecaDownloadsDownloadsComunidadeComunidadePreferênciasPreferências"}
+{"ts":"2026-10-24T13:23:57.328Z","sid":"wgkh5b","event":"click","route":"/settings","tag":"a","label":"ComunidadeComunidade"}
