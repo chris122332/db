@@ -1,0 +1,12 @@
+{"ts":"2026-10-23T22:01:39.896Z","sid":"fhfjpf","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-23T22:01:49.834Z","sid":"fhfjpf","event":"page-ready","route":"/"}
+{"ts":"2026-10-23T22:02:08.406Z","sid":"fhfjpf","event":"click","route":"/","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-10-23T22:02:10.543Z","sid":"fhfjpf","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-23T22:02:15.669Z","sid":"fhfjpf","event":"click","route":"/library","tag":"div","label":""}
+{"ts":"2026-10-23T22:02:23.847Z","sid":"fhfjpf","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-23T22:02:43.791Z","sid":"fhfjpf","event":"click","route":"/gamescreen","tag":"img","label":""}
+{"ts":"2026-10-23T22:03:16.374Z","sid":"fhfjpf","event":"click","route":"/gamescreen","tag":"div","label":"Voltar22651024640 MBGerenciadoMenos de um minutoLançado em Oct 13, 2023Desenvolvido por Kit9 StudioPublicado por Kit9 St"}
+{"ts":"2026-10-23T22:03:16.950Z","sid":"fhfjpf","event":"click","route":"/gamescreen","tag":"button","label":"Voltar"}
+{"ts":"2026-10-23T22:03:19.238Z","sid":"fhfjpf","event":"click","route":"/library","tag":"a","label":"Baixador do WorkshopBaixador do Workshop"}
+{"ts":"2026-10-23T22:03:20.623Z","sid":"fhfjpf","event":"click","route":"/workshopdownloader","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-24T00:55:47.159Z","sid":"fhfjpf","event":"telemetry-upload-failed","file":"2026-10-24T00-55-44-577Z-debug.log","msg":"HTTP 500"}
