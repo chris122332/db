@@ -1,0 +1,6 @@
+{"ts":"2026-10-24T01:49:20.117Z","sid":"fl7038","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T01:49:33.975Z","sid":"fl7038","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T01:49:52.017Z","sid":"fl7038","event":"click","route":"/","tag":"a","label":"CapturasCapturas"}
+{"ts":"2026-10-24T01:49:53.436Z","sid":"fl7038","event":"click","route":"/screenshots","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-24T01:49:58.156Z","sid":"fl7038","event":"click","route":"/downloads","tag":"div","label":""}
+{"ts":"2026-10-24T01:50:01.956Z","sid":"fl7038","event":"click","route":"/downloads","tag":"a","label":"BibliotecaBiblioteca"}
