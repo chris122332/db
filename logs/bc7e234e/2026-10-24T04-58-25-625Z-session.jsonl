@@ -1,0 +1,7 @@
+{"ts":"2026-10-24T02:02:20.910Z","sid":"vnudwd","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T02:02:34.621Z","sid":"vnudwd","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T02:02:40.012Z","sid":"vnudwd","event":"click","route":"/","tag":"div","label":"Controlador detectadoO Gmx Launcher detectou um controle conectado ao seu dispositivo. Quer entrar no Big Picture para t"}
+{"ts":"2026-10-24T02:02:40.401Z","sid":"vnudwd","event":"click","route":"/","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-10-24T02:02:53.234Z","sid":"vnudwd","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-24T02:02:54.817Z","sid":"vnudwd","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-24T02:02:58.681Z","sid":"vnudwd","event":"click","route":"/gamescreen","tag":"button","label":"Mídia"}
