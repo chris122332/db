@@ -1,0 +1,3 @@
+{"ts":"2026-10-24T13:04:05.227Z","sid":"dyautx","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T13:04:15.662Z","sid":"dyautx","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T13:04:17.975Z","sid":"dyautx","event":"click","route":"/","tag":"a","label":"ComunidadeComunidade"}
