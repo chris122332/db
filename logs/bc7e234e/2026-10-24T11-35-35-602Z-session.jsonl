@@ -1,0 +1,50 @@
+{"ts":"2026-10-24T11:29:40.141Z","sid":"ce6yz5","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T11:29:54.161Z","sid":"ce6yz5","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T11:29:59.613Z","sid":"ce6yz5","event":"click","route":"/","tag":"vite-error-overlay","label":""}
+{"ts":"2026-10-24T11:30:01.053Z","sid":"ce6yz5","event":"click","route":"/","tag":"a","label":"Baixador do WorkshopBaixador do Workshop"}
+{"ts":"2026-10-24T11:30:06.102Z","sid":"ce6yz5","event":"click","route":"/workshopdownloader","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-24T11:30:11.653Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"Jogos e índice"}
+{"ts":"2026-10-24T11:30:12.541Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"Geral e aparência"}
+{"ts":"2026-10-24T11:30:22.518Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":""}
+{"ts":"2026-10-24T11:30:34.605Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"Backup e salvamentos"}
+{"ts":"2026-10-24T11:30:35.069Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"Compatibilidade"}
+{"ts":"2026-10-24T11:30:35.645Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"div","label":"Jogos e índiceGeral e aparênciaBig PictureDownloadsBackup e salvamentosCompatibilidadeFerramentasIdiomaSistemaTutoriaisF"}
+{"ts":"2026-10-24T11:30:36.629Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"Ferramentas"}
+{"ts":"2026-10-24T11:30:40.542Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"div","label":"O Workshop Downloader permite baixar itens do Steam Workshop sem a necessidade de ter uma conta.Mostrar na barra de nave"}
+{"ts":"2026-10-24T11:30:41.213Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"div","label":"Mostrar na barra de navegação"}
+{"ts":"2026-10-24T11:33:35.622Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"Rever a configuração inicialRefazer o assistente na próxima abertura"}
+{"ts":"2026-10-24T11:33:42.413Z","sid":"ce6yz5","event":"page-ready","route":"/settings"}
+{"ts":"2026-10-24T11:33:52.325Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"vite-error-overlay","label":""}
+{"ts":"2026-10-24T11:34:09.167Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"日本語"}
+{"ts":"2026-10-24T11:34:14.173Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"次"}
+{"ts":"2026-10-24T11:34:17.150Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"div","label":"Gmx Launcher の意見を読み、同意します 利用規約"}
+{"ts":"2026-10-24T11:34:18.341Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"I have read and agree"}
+{"ts":"2026-10-24T11:34:19.470Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"label","label":"Gmx Launcher の意見を読み、同意します"}
+{"ts":"2026-10-24T11:34:19.998Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"div","label":"Gmx Launcher の意見を読み、同意します プライバシーポリシー"}
+{"ts":"2026-10-24T11:34:20.815Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"始めましょう"}
+{"ts":"2026-10-24T11:34:23.647Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"公式アセンダラ指数デフォルトGmx Launcher コミュニティによってキュレーションおよび共有されています。自動的にダウンロードされるため、オフラインでもすぐにゲームを閲覧できます。"}
+{"ts":"2026-10-24T11:34:26.374Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"次"}
+{"ts":"2026-10-24T11:34:28.446Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"Arctic Sky"}
+{"ts":"2026-10-24T11:34:30.046Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"戻る"}
+{"ts":"2026-10-24T11:34:30.285Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"戻る"}
+{"ts":"2026-10-24T11:34:30.461Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"戻る"}
+{"ts":"2026-10-24T11:34:30.622Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"div","label":"日本語What's your preferred language?EnglishالعربيةবাংলাEspañolहिन्दी日本語PortuguêsРусский简体中文ItalianoDeutschFrançais次後から「設定」"}
+{"ts":"2026-10-24T11:34:30.798Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"div","label":"日本語What's your preferred language?EnglishالعربيةবাংলাEspañolहिन्दी日本語PortuguêsРусский简体中文ItalianoDeutschFrançais次後から「設定」"}
+{"ts":"2026-10-24T11:34:31.086Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"div","label":"日本語What's your preferred language?EnglishالعربيةবাংলাEspañolहिन्दी日本語PortuguêsРусский简体中文ItalianoDeutschFrançais次後から「設定」"}
+{"ts":"2026-10-24T11:34:59.630Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"Português"}
+{"ts":"2026-10-24T11:35:09.286Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"Italiano"}
+{"ts":"2026-10-24T11:35:11.318Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"Español"}
+{"ts":"2026-10-24T11:35:11.949Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"Português"}
+{"ts":"2026-10-24T11:35:12.801Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"Próximo"}
+{"ts":"2026-10-24T11:35:15.245Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"div","label":"Bem-vindo ao Gmx LauncherVocê está quase pronto para começar a usar o Gmx Launcher. Passaremos juntos pelo processo de i"}
+{"ts":"2026-10-24T11:35:15.568Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"Começar"}
+{"ts":"2026-10-24T11:35:17.654Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"Próximo"}
+{"ts":"2026-10-24T11:35:19.278Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"div","label":"Escolha o seu temaPersonalize sua experiência com um tema que combine com seu estiloTemas clarosTemas escurosArctic SkyO"}
+{"ts":"2026-10-24T11:35:19.645Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"div","label":"Temas clarosTemas escuros"}
+{"ts":"2026-10-24T11:35:20.182Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"Temas escuros"}
+{"ts":"2026-10-24T11:35:20.973Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"Dark Blue"}
+{"ts":"2026-10-24T11:35:21.999Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"Continuar"}
+{"ts":"2026-10-24T11:35:22.701Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"div","label":"Importe sua biblioteca de jogosJá tem jogos instalados pela Steam, Epic, GOG, Ubisoft Connect ou Battle.net? Importe-os "}
+{"ts":"2026-10-24T11:35:22.917Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"div","label":"Importe sua biblioteca de jogosJá tem jogos instalados pela Steam, Epic, GOG, Ubisoft Connect ou Battle.net? Importe-os "}
+{"ts":"2026-10-24T11:35:23.509Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"Pular"}
+{"ts":"2026-10-24T11:35:25.557Z","sid":"ce6yz5","event":"click","route":"/settings","tag":"button","label":"Ignore os downloads e o tour"}
