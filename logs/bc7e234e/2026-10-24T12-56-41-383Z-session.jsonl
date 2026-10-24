@@ -1,0 +1,12 @@
+{"ts":"2026-10-24T12:55:09.386Z","sid":"72oxfy","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T12:55:20.123Z","sid":"72oxfy","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T12:55:20.952Z","sid":"72oxfy","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-10-24T12:55:28.046Z","sid":"72oxfy","event":"click","route":"/","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-24T12:55:54.304Z","sid":"72oxfy","event":"click","route":"/community","tag":"img","label":""}
+{"ts":"2026-10-24T12:55:59.661Z","sid":"72oxfy","event":"click","route":"/community","tag":"img","label":""}
+{"ts":"2026-10-24T12:56:02.325Z","sid":"72oxfy","event":"click","route":"/community","tag":"div","label":""}
+{"ts":"2026-10-24T12:56:03.261Z","sid":"72oxfy","event":"click","route":"/community","tag":"div","label":"Visualizador de Imagem"}
+{"ts":"2026-10-24T12:56:06.326Z","sid":"72oxfy","event":"click","route":"/community","tag":"img","label":""}
+{"ts":"2026-10-24T12:56:16.061Z","sid":"72oxfy","event":"click","route":"/community","tag":"div","label":"Achilles SurvivorCaptura 1 • screenshot"}
+{"ts":"2026-10-24T12:56:17.677Z","sid":"72oxfy","event":"click","route":"/community","tag":"button","label":"common.download"}
+{"ts":"2026-10-24T12:56:25.461Z","sid":"72oxfy","event":"click","route":"/community","tag":"div","label":"Visualizador de Imagem"}
