@@ -1,0 +1,7 @@
+{"ts":"2026-10-27T23:35:01.564Z","sid":"a4ag8b","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-27T23:35:16.191Z","sid":"a4ag8b","event":"page-ready","route":"/"}
+{"ts":"2026-10-27T23:36:10.055Z","sid":"a4ag8b","event":"click","route":"/","tag":"button","label":"Não mostre novamente"}
+{"ts":"2026-10-27T23:36:12.403Z","sid":"a4ag8b","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-27T23:36:13.687Z","sid":"a4ag8b","event":"click","route":"/settings","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-27T23:36:49.238Z","sid":"a4ag8b","event":"click","route":"/community","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-27T23:36:50.462Z","sid":"a4ag8b","event":"click","route":"/settings","tag":"a","label":"InícioInício"}
