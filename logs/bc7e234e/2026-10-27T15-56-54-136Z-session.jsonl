@@ -1,0 +1,15 @@
+{"ts":"2026-10-27T15:52:49.159Z","sid":"vlynb6","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-27T15:53:04.944Z","sid":"vlynb6","event":"page-ready","route":"/"}
+{"ts":"2026-10-27T15:53:14.058Z","sid":"vlynb6","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-27T15:53:16.906Z","sid":"vlynb6","event":"click","route":"/library","tag":"a","label":"PreferenzePreferenze"}
+{"ts":"2026-10-27T15:53:21.944Z","sid":"vlynb6","event":"click","route":"/settings","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-27T15:53:23.597Z","sid":"vlynb6","event":"click","route":"/settings","tag":"div","label":"🇫🇷Français"}
+{"ts":"2026-10-27T15:53:25.202Z","sid":"vlynb6","event":"click","route":"/settings","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-27T15:53:26.894Z","sid":"vlynb6","event":"click","route":"/settings","tag":"div","label":"🇨🇳中文"}
+{"ts":"2026-10-27T15:53:29.332Z","sid":"vlynb6","event":"click","route":"/settings","tag":"a","label":"社区社区"}
+{"ts":"2026-10-27T15:54:50.579Z","sid":"vlynb6","event":"click","route":"/community","tag":"a","label":"家家"}
+{"ts":"2026-10-27T15:54:53.131Z","sid":"vlynb6","event":"click","route":"/","tag":"a","label":"图书馆图书馆"}
+{"ts":"2026-10-27T15:54:56.539Z","sid":"vlynb6","event":"click","route":"/library","tag":"div","label":"eFootball™"}
+{"ts":"2026-10-27T15:55:00.138Z","sid":"vlynb6","event":"click","route":"/gamescreen","tag":"button","label":"玩"}
+{"ts":"2026-10-27T15:55:45.323Z","sid":"vlynb6","event":"click","route":"/gamescreen","tag":"button","label":"停止"}
+{"ts":"2026-10-27T15:55:46.699Z","sid":"vlynb6","event":"click","route":"/gamescreen","tag":"button","label":"玩"}
