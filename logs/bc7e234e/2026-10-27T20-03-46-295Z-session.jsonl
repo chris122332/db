@@ -1,0 +1,41 @@
+{"ts":"2026-10-27T19:53:42.295Z","sid":"nwup2j","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-27T19:53:55.292Z","sid":"nwup2j","event":"page-ready","route":"/welcome"}
+{"ts":"2026-10-27T19:55:55.958Z","sid":"nwup2j","event":"click","route":"/welcome","tag":"button","label":"Próximo"}
+{"ts":"2026-10-27T19:55:57.629Z","sid":"nwup2j","event":"click","route":"/welcome","tag":"label","label":"Eu li e concordo com a Gmx Launcher"}
+{"ts":"2026-10-27T19:55:58.744Z","sid":"nwup2j","event":"click","route":"/welcome","tag":"button","label":"Li e concordo"}
+{"ts":"2026-10-27T19:55:59.413Z","sid":"nwup2j","event":"click","route":"/welcome","tag":"div","label":"Eu li e concordo com a Gmx Launcher Termos de Serviço"}
+{"ts":"2026-10-27T19:55:59.901Z","sid":"nwup2j","event":"click","route":"/welcome","tag":"label","label":"Eu li e concordo com a Gmx Launcher"}
+{"ts":"2026-10-27T19:56:00.477Z","sid":"nwup2j","event":"click","route":"/welcome","tag":"button","label":"Começar"}
+{"ts":"2026-10-27T19:56:02.022Z","sid":"nwup2j","event":"click","route":"/welcome","tag":"button","label":"Fontes externasSelecionadaEscolha outro catálogo mantido por outra pessoa. Você pode trocar depois nas Configurações.Fon"}
+{"ts":"2026-10-27T19:56:03.983Z","sid":"nwup2j","event":"click","route":"/welcome","tag":"button","label":"FitGirlHome archivist to web's top game repacker: the ultimate source for trustworthy games.8.771 jogos3.85(163)torrent "}
+{"ts":"2026-10-27T19:56:06.117Z","sid":"nwup2j","event":"click","route":"/welcome","tag":"button","label":"Próximo"}
+{"ts":"2026-10-27T19:56:08.013Z","sid":"nwup2j","event":"click","route":"/welcome","tag":"button","label":"Continuar"}
+{"ts":"2026-10-27T19:56:09.533Z","sid":"nwup2j","event":"click","route":"/welcome","tag":"button","label":"Pular"}
+{"ts":"2026-10-27T19:56:11.093Z","sid":"nwup2j","event":"click","route":"/welcome","tag":"button","label":"Ignore os downloads e o tour"}
+{"ts":"2026-10-27T19:56:11.990Z","sid":"nwup2j","event":"page-ready","route":"/"}
+{"ts":"2026-10-27T19:56:36.934Z","sid":"nwup2j","event":"click","route":"/","tag":"button","label":"Abrir o índice de jogos"}
+{"ts":"2026-10-27T19:56:39.237Z","sid":"nwup2j","event":"click","route":"/localrefresh","tag":"button","label":"Sincronizar agora"}
+{"ts":"2026-10-27T19:56:42.406Z","sid":"nwup2j","event":"click","route":"/localrefresh","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-27T19:56:59.542Z","sid":"nwup2j","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-27T19:57:10.950Z","sid":"nwup2j","event":"click","route":"/settings","tag":"button","label":"Jogos e índice"}
+{"ts":"2026-10-27T19:57:12.590Z","sid":"nwup2j","event":"click","route":"/settings","tag":"button","label":"Gerenciar"}
+{"ts":"2026-10-27T19:57:13.862Z","sid":"nwup2j","event":"click","route":"/localrefresh","tag":"button","label":"Navegue pelas fontes"}
+{"ts":"2026-10-27T19:57:15.485Z","sid":"nwup2j","event":"click","route":"/localrefresh","tag":"button","label":"Tente novamente"}
+{"ts":"2026-10-27T19:57:16.303Z","sid":"nwup2j","event":"click","route":"/localrefresh","tag":"button","label":"Tente novamente"}
+{"ts":"2026-10-27T19:57:17.030Z","sid":"nwup2j","event":"click","route":"/localrefresh","tag":"button","label":"Tente novamente"}
+{"ts":"2026-10-27T19:57:17.629Z","sid":"nwup2j","event":"click","route":"/localrefresh","tag":"button","label":"Tente novamente"}
+{"ts":"2026-10-27T19:57:18.662Z","sid":"nwup2j","event":"click","route":"/localrefresh","tag":"button","label":"Fechar"}
+{"ts":"2026-10-27T19:57:19.542Z","sid":"nwup2j","event":"click","route":"/localrefresh","tag":"button","label":""}
+{"ts":"2026-10-27T19:57:20.282Z","sid":"nwup2j","event":"click","route":"/localrefresh","tag":"button","label":""}
+{"ts":"2026-10-27T19:57:21.039Z","sid":"nwup2j","event":"click","route":"/localrefresh","tag":"button","label":""}
+{"ts":"2026-10-27T19:57:21.824Z","sid":"nwup2j","event":"click","route":"/localrefresh","tag":"button","label":""}
+{"ts":"2026-10-27T19:57:32.574Z","sid":"nwup2j","event":"click","route":"/localrefresh","tag":"button","label":"Navegue pelas fontes"}
+{"ts":"2026-10-27T19:57:33.751Z","sid":"nwup2j","event":"click","route":"/localrefresh","tag":"div","label":"HTTP 502Tente novamente"}
+{"ts":"2026-10-27T19:57:34.118Z","sid":"nwup2j","event":"click","route":"/localrefresh","tag":"button","label":"Tente novamente"}
+{"ts":"2026-10-27T19:59:06.421Z","sid":"nwup2j","event":"click","route":"/localrefresh","tag":"button","label":"Tente novamente"}
+{"ts":"2026-10-27T19:59:07.133Z","sid":"nwup2j","event":"click","route":"/localrefresh","tag":"button","label":"Tente novamente"}
+{"ts":"2026-10-27T19:59:07.347Z","sid":"nwup2j","event":"click","route":"/localrefresh","tag":"div","label":"This URL is not a recognized source bucket.Tente novamente"}
+{"ts":"2026-10-27T19:59:09.837Z","sid":"nwup2j","event":"click","route":"/localrefresh","tag":"button","label":"Tente novamente"}
+{"ts":"2026-10-27T19:59:10.645Z","sid":"nwup2j","event":"click","route":"/localrefresh","tag":"div","label":"Fontes fornecidas pelo seu bucket configuradoFechar"}
+{"ts":"2026-10-27T19:59:10.885Z","sid":"nwup2j","event":"click","route":"/localrefresh","tag":"div","label":"Fontes fornecidas pelo seu bucket configuradoFechar"}
+{"ts":"2026-10-27T19:59:12.045Z","sid":"nwup2j","event":"click","route":"/localrefresh","tag":"div","label":""}
