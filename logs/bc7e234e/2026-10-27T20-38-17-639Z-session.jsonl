@@ -1,0 +1,13 @@
+{"ts":"2026-10-27T20:36:12.996Z","sid":"6e0gu6","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-27T20:36:26.547Z","sid":"6e0gu6","event":"page-ready","route":"/"}
+{"ts":"2026-10-27T20:36:35.535Z","sid":"6e0gu6","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-27T20:36:37.434Z","sid":"6e0gu6","event":"click","route":"/library","tag":"div","label":"eFootball™"}
+{"ts":"2026-10-27T20:37:00.968Z","sid":"6e0gu6","event":"click","route":"/gamescreen","tag":"div","label":"ConquistasNenhuma conquista encontradaEstatísticasTempo de jogoNunca jogadoExecutável principaleFootball.exeNão gerencia"}
+{"ts":"2026-10-27T20:37:04.121Z","sid":"6e0gu6","event":"click","route":"/gamescreen","tag":"div","label":"Tempo de jogoNunca jogadoJogar"}
+{"ts":"2026-10-27T20:37:06.423Z","sid":"6e0gu6","event":"click","route":"/gamescreen","tag":"div","label":"Tempo de jogoNunca jogadoJogar"}
+{"ts":"2026-10-27T20:37:18.832Z","sid":"6e0gu6","event":"click","route":"/gamescreen","tag":"div","label":"VoltarNunca jogadoLançado em Sep 29, 2021Desenvolvido por KONAMIPublicado por KONAMIGêneros: Simulation, Sports, Free To"}
+{"ts":"2026-10-27T20:37:24.952Z","sid":"6e0gu6","event":"click","route":"/gamescreen","tag":"button","label":"Voltar"}
+{"ts":"2026-10-27T20:37:26.843Z","sid":"6e0gu6","event":"click","route":"/library","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-27T20:37:27.368Z","sid":"6e0gu6","event":"click","route":"/library","tag":"a","label":"ProcurarProcurar"}
+{"ts":"2026-10-27T20:37:28.624Z","sid":"6e0gu6","event":"click","route":"/search","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-27T20:37:30.104Z","sid":"6e0gu6","event":"click","route":"/library","tag":"div","label":"eFootball™"}
