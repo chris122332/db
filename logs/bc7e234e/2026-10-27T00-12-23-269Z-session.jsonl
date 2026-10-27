@@ -1,0 +1,16 @@
+{"ts":"2026-10-27T00:10:18.794Z","sid":"axw12w","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-27T00:10:28.725Z","sid":"axw12w","event":"page-ready","route":"/"}
+{"ts":"2026-10-27T00:10:37.100Z","sid":"axw12w","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-27T00:10:39.003Z","sid":"axw12w","event":"click","route":"/settings","tag":"div","label":"Escolha seu idioma preferido para a IU🇵🇹PortuguêsVeja a lista completa de idiomasNOTA: Isso não alterará nomes de jogo"}
+{"ts":"2026-10-27T00:10:39.493Z","sid":"axw12w","event":"click","route":"/settings","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-27T00:10:41.837Z","sid":"axw12w","event":"click","route":"/settings","tag":"div","label":"🇫🇷Français"}
+{"ts":"2026-10-27T00:10:43.276Z","sid":"axw12w","event":"click","route":"/settings","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-27T00:10:46.291Z","sid":"axw12w","event":"click","route":"/settings","tag":"div","label":"🇮🇹Italiano"}
+{"ts":"2026-10-27T00:10:47.619Z","sid":"axw12w","event":"click","route":"/settings","tag":"div","label":"Preferenze di Gmx LauncherJogos e índiceGeral e aparênciaBig PictureDownloadsBackup e salvamentosCompatibilidadeFerramen"}
+{"ts":"2026-10-27T00:11:00.493Z","sid":"axw12w","event":"click","route":"/settings","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-27T00:11:01.461Z","sid":"axw12w","event":"click","route":"/settings","tag":"div","label":"🇮🇹Italiano"}
+{"ts":"2026-10-27T00:11:08.004Z","sid":"axw12w","event":"click","route":"/settings","tag":"a","label":"ComunitàComunità"}
+{"ts":"2026-10-27T00:11:28.140Z","sid":"axw12w","event":"click","route":"/community","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-27T00:11:31.094Z","sid":"axw12w","event":"click","route":"/library","tag":"div","label":"eFootball™"}
+{"ts":"2026-10-27T00:11:49.388Z","sid":"axw12w","event":"click","route":"/gamescreen","tag":"button","label":"Giocare"}
+{"ts":"2026-10-27T00:12:09.020Z","sid":"axw12w","event":"click","route":"/gamescreen","tag":"button","label":"Parar"}
