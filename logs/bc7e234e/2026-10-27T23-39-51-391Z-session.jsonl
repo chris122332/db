@@ -1,0 +1,24 @@
+{"ts":"2026-10-27T23:37:47.495Z","sid":"jlevv1","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-27T23:38:00.840Z","sid":"jlevv1","event":"page-ready","route":"/"}
+{"ts":"2026-10-27T23:38:01.958Z","sid":"jlevv1","event":"click","route":"/","tag":"div","label":"InícioInícioProcurarProcurarBibliotecaBibliotecaDownloadsDownloadsComunidadeComunidadePreferênciasPreferências"}
+{"ts":"2026-10-27T23:38:02.317Z","sid":"jlevv1","event":"click","route":"/","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-27T23:38:10.822Z","sid":"jlevv1","event":"click","route":"/community","tag":"div","label":"Hub da ComunidadeCapas, banners e logos dos seus jogos. Abra uma imagem para ver em tamanho real e baixar.0 jogosFontes:"}
+{"ts":"2026-10-27T23:38:11.237Z","sid":"jlevv1","event":"click","route":"/community","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-27T23:38:13.878Z","sid":"jlevv1","event":"click","route":"/settings","tag":"button","label":"Jogos e índice"}
+{"ts":"2026-10-27T23:38:15.782Z","sid":"jlevv1","event":"click","route":"/settings","tag":"button","label":"Gerenciar"}
+{"ts":"2026-10-27T23:38:18.022Z","sid":"jlevv1","event":"click","route":"/localrefresh","tag":"button","label":""}
+{"ts":"2026-10-27T23:38:20.173Z","sid":"jlevv1","event":"click","route":"/localrefresh","tag":"button","label":"Obter o índice"}
+{"ts":"2026-10-27T23:38:21.582Z","sid":"jlevv1","event":"click","route":"/localrefresh","tag":"button","label":"Atualizar agora"}
+{"ts":"2026-10-27T23:38:25.990Z","sid":"jlevv1","event":"click","route":"/localrefresh","tag":"button","label":"Coletar manualmente"}
+{"ts":"2026-10-27T23:38:30.469Z","sid":"jlevv1","event":"click","route":"/localrefresh","tag":"button","label":"Próximo"}
+{"ts":"2026-10-27T23:38:43.070Z","sid":"jlevv1","event":"click","route":"/localrefresh","tag":"button","label":"Não, eu não tenhoCopiarei manualmente o cookie das ferramentas de desenvolvimento do navegador"}
+{"ts":"2026-10-27T23:38:49.318Z","sid":"jlevv1","event":"click","route":"/localrefresh","tag":"button","label":"Próximo"}
+{"ts":"2026-10-27T23:38:51.655Z","sid":"jlevv1","event":"click","route":"/localrefresh","tag":"button","label":"Voltar"}
+{"ts":"2026-10-27T23:38:52.822Z","sid":"jlevv1","event":"click","route":"/localrefresh","tag":"button","label":"Voltar"}
+{"ts":"2026-10-27T23:38:54.117Z","sid":"jlevv1","event":"click","route":"/localrefresh","tag":"button","label":"Sim, tenho a extensão"}
+{"ts":"2026-10-27T23:39:00.118Z","sid":"jlevv1","event":"click","route":"/localrefresh","tag":"button","label":"Voltar"}
+{"ts":"2026-10-27T23:39:00.910Z","sid":"jlevv1","event":"click","route":"/localrefresh","tag":"button","label":"Voltar"}
+{"ts":"2026-10-27T23:39:02.181Z","sid":"jlevv1","event":"click","route":"/localrefresh","tag":"button","label":"Cancelar"}
+{"ts":"2026-10-27T23:39:04.735Z","sid":"jlevv1","event":"click","route":"/localrefresh","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-27T23:39:06.927Z","sid":"jlevv1","event":"click","route":"/library","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-27T23:39:07.390Z","sid":"jlevv1","event":"click","route":"/downloads","tag":"a","label":"ComunidadeComunidade"}
