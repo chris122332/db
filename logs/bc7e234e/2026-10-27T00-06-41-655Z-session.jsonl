@@ -1,0 +1,38 @@
+{"ts":"2026-10-24T15:00:16.032Z","sid":"0n2ex9","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-24T15:00:32.008Z","sid":"0n2ex9","event":"page-ready","route":"/welcome"}
+{"ts":"2026-10-24T15:00:42.607Z","sid":"0n2ex9","event":"click","route":"/welcome","tag":"button","label":"Français"}
+{"ts":"2026-10-24T15:00:44.145Z","sid":"0n2ex9","event":"click","route":"/welcome","tag":"button","label":"简体中文"}
+{"ts":"2026-10-24T15:00:44.877Z","sid":"0n2ex9","event":"click","route":"/welcome","tag":"button","label":"日本語"}
+{"ts":"2026-10-24T15:00:45.719Z","sid":"0n2ex9","event":"click","route":"/welcome","tag":"button","label":"বাংলা"}
+{"ts":"2026-10-24T15:00:46.855Z","sid":"0n2ex9","event":"click","route":"/welcome","tag":"div","label":"বাংলাما هي لغتك المفضلة؟EnglishالعربيةবাংলাEspañolहिन्दी日本語PortuguêsРусский简体中文ItalianoDeutschFrançaisপরবর্তীআপনি সেটিংস"}
+{"ts":"2026-10-24T15:00:47.582Z","sid":"0n2ex9","event":"click","route":"/welcome","tag":"button","label":"পরবর্তী"}
+{"ts":"2026-10-24T15:00:49.201Z","sid":"0n2ex9","event":"click","route":"/welcome","tag":"button","label":"ব্যাক"}
+{"ts":"2026-10-24T15:00:50.215Z","sid":"0n2ex9","event":"click","route":"/welcome","tag":"div","label":"EnglishالعربيةবাংলাEspañolहिन्दी日本語PortuguêsРусский简体中文ItalianoDeutschFrançais"}
+{"ts":"2026-10-24T15:00:50.562Z","sid":"0n2ex9","event":"click","route":"/welcome","tag":"button","label":"Português"}
+{"ts":"2026-10-24T15:00:51.415Z","sid":"0n2ex9","event":"click","route":"/welcome","tag":"button","label":"Próximo"}
+{"ts":"2026-10-24T15:00:52.078Z","sid":"0n2ex9","event":"click","route":"/welcome","tag":"div","label":"Bem-vindo ao Gmx LauncherVocê está quase pronto para começar a usar o Gmx Launcher. Passaremos juntos pelo processo de i"}
+{"ts":"2026-10-24T15:00:52.326Z","sid":"0n2ex9","event":"click","route":"/welcome","tag":"div","label":"Bem-vindo ao Gmx LauncherVocê está quase pronto para começar a usar o Gmx Launcher. Passaremos juntos pelo processo de i"}
+{"ts":"2026-10-24T15:00:53.175Z","sid":"0n2ex9","event":"click","route":"/welcome","tag":"div","label":"Eu li e concordo com a Gmx Launcher Termos de Serviço"}
+{"ts":"2026-10-24T15:00:54.288Z","sid":"0n2ex9","event":"click","route":"/welcome","tag":"button","label":"Li e concordo"}
+{"ts":"2026-10-24T15:00:55.135Z","sid":"0n2ex9","event":"click","route":"/welcome","tag":"div","label":"Eu li e concordo com a Gmx Launcher Termos de Serviço"}
+{"ts":"2026-10-24T15:00:55.545Z","sid":"0n2ex9","event":"click","route":"/welcome","tag":"label","label":"Eu li e concordo com a Gmx Launcher"}
+{"ts":"2026-10-24T15:00:55.958Z","sid":"0n2ex9","event":"click","route":"/welcome","tag":"button","label":"Começar"}
+{"ts":"2026-10-24T15:00:57.742Z","sid":"0n2ex9","event":"click","route":"/welcome","tag":"button","label":"Próximo"}
+{"ts":"2026-10-24T15:00:59.187Z","sid":"0n2ex9","event":"click","route":"/welcome","tag":"button","label":"Continuar"}
+{"ts":"2026-10-24T15:01:00.543Z","sid":"0n2ex9","event":"click","route":"/welcome","tag":"button","label":"Pular"}
+{"ts":"2026-10-24T15:01:02.414Z","sid":"0n2ex9","event":"click","route":"/welcome","tag":"button","label":"Ignore os downloads e o tour"}
+{"ts":"2026-10-24T15:01:03.326Z","sid":"0n2ex9","event":"page-ready","route":"/"}
+{"ts":"2026-10-24T15:01:07.590Z","sid":"0n2ex9","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-24T15:01:09.640Z","sid":"0n2ex9","event":"click","route":"/settings","tag":"div","label":"Jogos e índiceGeral e aparênciaBig PictureDownloadsBackup e salvamentosCompatibilidadeFerramentasIdiomaSistemaTutoriaisF"}
+{"ts":"2026-10-24T15:01:10.094Z","sid":"0n2ex9","event":"click","route":"/settings","tag":"button","label":"Idioma"}
+{"ts":"2026-10-24T15:01:10.969Z","sid":"0n2ex9","event":"click","route":"/settings","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-24T15:01:12.722Z","sid":"0n2ex9","event":"click","route":"/settings","tag":"div","label":"🇫🇷Français"}
+{"ts":"2026-10-24T15:01:15.441Z","sid":"0n2ex9","event":"click","route":"/settings","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-24T15:01:19.915Z","sid":"0n2ex9","event":"click","route":"/settings","tag":"div","label":"🇺🇸English🇪🇸Español🇫🇷Français🇮🇹Italiano🇩🇪Deutsch🇵🇹Português🇷🇺Русский🇨🇳中文🇸🇦العربية🇮🇳हिन्दी🇧🇩বাংলা🇯\ud83c"}
+{"ts":"2026-10-24T15:01:19.937Z","sid":"0n2ex9","event":"click","route":"/settings","tag":"div","label":"🇩🇪Deutsch"}
+{"ts":"2026-10-24T15:01:21.359Z","sid":"0n2ex9","event":"click","route":"/settings","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-24T15:01:23.082Z","sid":"0n2ex9","event":"click","route":"/settings","tag":"div","label":"🇺🇸English"}
+{"ts":"2026-10-24T15:01:23.607Z","sid":"0n2ex9","event":"click","route":"/settings","tag":"div","label":"Choose your preferred language for the UI🇺🇸EnglishSee entire list of languagesNOTE: This will not change game names, t"}
+{"ts":"2026-10-24T15:01:24.322Z","sid":"0n2ex9","event":"click","route":"/settings","tag":"div","label":"Choose your preferred language for the UI🇺🇸EnglishSee entire list of languagesNOTE: This will not change game names, t"}
+{"ts":"2026-10-24T15:01:25.080Z","sid":"0n2ex9","event":"click","route":"/settings","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-24T15:01:27.714Z","sid":"0n2ex9","event":"click","route":"/settings","tag":"div","label":"🇵🇹Português"}
