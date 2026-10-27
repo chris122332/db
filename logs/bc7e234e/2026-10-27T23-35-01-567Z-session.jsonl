@@ -1,0 +1,18 @@
+{"ts":"2026-10-27T21:27:04.488Z","sid":"a6jh2i","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-27T21:27:18.836Z","sid":"a6jh2i","event":"page-ready","route":"/"}
+{"ts":"2026-10-27T21:27:26.762Z","sid":"a6jh2i","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-27T21:28:31.106Z","sid":"a6jh2i","event":"click","route":"/library","tag":"div","label":"Todos os jogosTodos os seus jogos instalados em um só lugar.eFootball™Playing                  eFootball™Você ainda não "}
+{"ts":"2026-10-27T21:28:32.913Z","sid":"a6jh2i","event":"click","route":"/library","tag":"div","label":"Todos os jogosTodos os seus jogos instalados em um só lugar.eFootball™Playing                  eFootball™Você ainda não "}
+{"ts":"2026-10-27T21:28:41.217Z","sid":"a6jh2i","event":"click","route":"/library","tag":"div","label":"eFootball™"}
+{"ts":"2026-10-27T21:28:51.929Z","sid":"a6jh2i","event":"click","route":"/gamescreen","tag":"div","label":"VoltarNunca jogadoLançado em Sep 29, 2021Desenvolvido por KONAMIPublicado por KONAMIGêneros: Simulation, Sports, Free To"}
+{"ts":"2026-10-27T21:28:52.905Z","sid":"a6jh2i","event":"click","route":"/gamescreen","tag":"button","label":"Voltar"}
+{"ts":"2026-10-27T21:29:34.049Z","sid":"a6jh2i","event":"click","route":"/library","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-27T21:29:38.585Z","sid":"a6jh2i","event":"click","route":"/","tag":"div","label":"Estatísticas"}
+{"ts":"2026-10-27T21:29:46.889Z","sid":"a6jh2i","event":"click","route":"/stats","tag":"div","label":"The Coffin of Andy and Leyley42min"}
+{"ts":"2026-10-27T21:29:53.185Z","sid":"a6jh2i","event":"click","route":"/stats","tag":"button","label":"Voltar"}
+{"ts":"2026-10-27T21:29:53.445Z","sid":"a6jh2i","event":"navigate","to":"/","from":"/"}
+{"ts":"2026-10-27T21:29:56.249Z","sid":"a6jh2i","event":"click","route":"/","tag":"div","label":"InícioInícioProcurarProcurarBibliotecaBibliotecaDownloadsDownloadsComunidadeComunidadePreferênciasPreferências"}
+{"ts":"2026-10-27T21:29:56.817Z","sid":"a6jh2i","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-27T21:29:59.073Z","sid":"a6jh2i","event":"click","route":"/settings","tag":"div","label":"InícioInícioProcurarProcurarBibliotecaBibliotecaDownloadsDownloadsComunidadeComunidadePreferênciasPreferências"}
+{"ts":"2026-10-27T21:29:59.705Z","sid":"a6jh2i","event":"click","route":"/settings","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-27T21:30:02.352Z","sid":"a6jh2i","event":"click","route":"/","tag":"div","label":""}
