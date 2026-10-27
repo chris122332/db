@@ -1,0 +1,12 @@
+{"ts":"2026-10-27T20:23:12.783Z","sid":"r87nb6","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-27T20:23:25.685Z","sid":"r87nb6","event":"page-ready","route":"/"}
+{"ts":"2026-10-27T20:23:28.977Z","sid":"r87nb6","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-27T20:23:30.719Z","sid":"r87nb6","event":"click","route":"/settings","tag":"button","label":"Gerenciar"}
+{"ts":"2026-10-27T20:23:32.046Z","sid":"r87nb6","event":"click","route":"/localrefresh","tag":"button","label":"Sincronizar agora"}
+{"ts":"2026-10-27T20:23:33.352Z","sid":"r87nb6","event":"click","route":"/localrefresh","tag":"div","label":"Sincronizando...Mudar"}
+{"ts":"2026-10-27T20:23:58.630Z","sid":"r87nb6","event":"click","route":"/localrefresh","tag":"button","label":"Mudar"}
+{"ts":"2026-10-27T20:24:05.037Z","sid":"r87nb6","event":"click","route":"/localrefresh","tag":"button","label":"Essas fontes podem falhar70"}
+{"ts":"2026-10-27T20:24:09.694Z","sid":"r87nb6","event":"click","route":"/localrefresh","tag":"button","label":"Essas fontes podem falhar70"}
+{"ts":"2026-10-27T20:24:15.574Z","sid":"r87nb6","event":"click","route":"/localrefresh","tag":"div","label":""}
+{"ts":"2026-10-27T20:24:16.785Z","sid":"r87nb6","event":"click","route":"/localrefresh","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-27T20:24:19.694Z","sid":"r87nb6","event":"click","route":"/library","tag":"div","label":"InícioInícioProcurarProcurarBibliotecaBibliotecaDownloadsDownloadsComunidadeComunidadePreferênciasPreferências"}
