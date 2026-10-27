@@ -1,0 +1,114 @@
+ERROR: [2026-10-27T22:55:28.222Z] (node:22936) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `GMX --trace-deprecation ...` to show where the warning was created)
+[2026-10-27T22:55:28.876Z] Current version 1.0.0 is not broken
+[2026-10-27T22:55:28.876Z] Timestamp file not found. Probing disk instead.
+[2026-10-27T22:55:29.222Z] [StartupCleanup] nenhuma outra instalação GMX/Ascendara - nada a limpar
+[2026-10-27T22:55:29.227Z] Settings file not found, creating with default values
+[2026-10-27T22:55:29.228Z] Settings file created successfully at: C:\Users\c2644\AppData\Roaming\gmx\ascendarasettings.json
+[2026-10-27T22:55:29.235Z] [ActivityGuard] monitor iniciado (poll a cada 6s)
+[2026-10-27T22:55:29.237Z] [Screenshots] Shift+F global registrado
+[2026-10-27T22:55:29.315Z] [Scheduler] agendador de downloads iniciado (tick 60s)
+[2026-10-27T22:55:29.331Z] Window icon loaded from: C:\Users\c2644\AppData\Local\Programs\GMX\resources\app.asar\electron\icon.ico
+[2026-10-27T22:55:29.379Z] Loading window from: http://localhost:46859
+[2026-10-27T22:55:29.488Z] System tray created successfully
+[2026-10-27T22:55:29.507Z] Achievement watcher started
+[2026-10-27T22:55:29.512Z] Local server running at http://localhost:46859
+[2026-10-27T22:55:30.175Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-27T22:55:30.244Z] [WATCHER] About to acquire single-instance lock...
+[2026-10-27T22:55:30.251Z] [WATCHER] Single-instance lock acquired. Starting app...
+[2026-10-27T22:55:30.253Z] [WATCHER] Achievement Watchdog starting ...
+ERROR: [2026-10-27T22:55:30.258Z] [WATCHER ERROR] Settings file not found. This is normal on first run. Using default settings.
+[2026-10-27T22:55:30.260Z] [WATCHER] Watchdog status updated: running=true, timestamp=2026-10-27T19:55:30-03:00
+[2026-10-27T22:55:30.265Z] [WATCHER] monitor.getFolders() returned 3 folders
+[2026-10-27T22:55:30.268Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\c2644\AppData\Roaming\GSE Saves" with options: { recursive: true, filter: /([0-9]+)/, file: [ 'achievements.json' ] }
+[2026-10-27T22:55:30.268Z] [WATCHER] Watching files in C:\Users\c2644\AppData\Roaming\GSE Saves: ["achievements.json"] with filter: /([0-9]+)/
+[2026-10-27T22:55:30.284Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\Steam\RUNE" with options: { recursive: true, filter: /.*/, file: [ 'achievements.ini' ] }
+Watching files in C:\Users\Public\Documents\Steam\RUNE: ["achievements.ini"] with filter: /.*/
+[2026-10-27T22:55:30.287Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\OnlineFix" with options: {
+  recursive: true,
+  filter: /([0-9]+)[\\/]Stats/i,
+  file: [ 'achievements.ini', 'Achievements.ini' ]
+}
+Watching files in C:\Users\Public\Documents\OnlineFix: ["achievements.ini","Achievements.ini"] with filter: /([0-9]+)[\\/]Stats/i
+[2026-10-27T22:55:30.289Z] [WATCHER] Started 3 file watchers
+[2026-10-27T22:55:30.290Z] [WATCHER] Memory Usage: RSS=34.37MB, Heap=7.58/11.72MB
+[2026-10-27T22:55:30.578Z] Window DOM ready
+[2026-10-27T22:55:30.579Z] ready-to-show event fired
+[2026-10-27T22:55:30.609Z] Window shown event fired
+[2026-10-27T22:55:30.610Z] Window shown via ready-to-show event
+[2026-10-27T22:55:30.626Z] Window finished loading
+[2026-10-27T22:55:30.637Z] Window started loading
+[2026-10-27T22:55:31.098Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T22:55:31.385Z] Discord is not running, skipping RPC connection
+[2026-10-27T22:55:31.385Z] Discord RPC connection attempt 1/3 - Discord not running, retrying in 30s
+[2026-10-27T22:55:32.107Z] Discord RPC not connected, skipping activity update
+[2026-10-27T22:55:35.276Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T22:55:35.339Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T22:55:38.077Z] Window started loading
+[2026-10-27T22:55:38.103Z] Discord RPC not connected, skipping activity update
+[2026-10-27T22:55:38.579Z] Getting auth token for download...
+[2026-10-27T22:55:38.579Z] [Build Signature] Loaded: f172c6f3cae337e73959fae56e37d669
+ERROR: [2026-10-27T22:55:38.815Z] Failed to download shared index: {}
+[2026-10-27T22:56:01.599Z] Discord is not running, skipping RPC connection
+[2026-10-27T22:56:01.599Z] Discord RPC connection attempt 2/3 - Discord not running, retrying in 30s
+[2026-10-27T22:56:31.811Z] Discord is not running, skipping RPC connection
+[2026-10-27T22:56:31.811Z] Discord RPC connection attempt 3/3 - Discord not running, retrying in 30s
+[2026-10-27T22:56:41.347Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T22:57:01.826Z] Maximum Discord RPC connection attempts reached. Stopping retries.
+[2026-10-27T22:57:31.309Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T22:57:38.108Z] Discord RPC not connected, skipping activity update
+[2026-10-27T22:57:41.415Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T22:58:41.514Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T22:59:31.760Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T22:59:41.619Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:00:30.298Z] [WATCHER] Memory Usage: RSS=31.92MB, Heap=6.76/8.47MB
+[2026-10-27T23:00:41.700Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:01:31.418Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:01:41.794Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:02:41.870Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:03:31.489Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:03:41.953Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:04:42.044Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:05:30.304Z] [WATCHER] Memory Usage: RSS=31.93MB, Heap=6.80/8.47MB
+[2026-10-27T23:05:31.303Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:05:42.160Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:06:42.194Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:07:31.152Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:07:42.276Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:08:42.350Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:09:31.274Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:09:42.431Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:10:30.313Z] [WATCHER] Memory Usage: RSS=31.91MB, Heap=6.81/8.47MB
+[2026-10-27T23:10:42.542Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:11:31.530Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:11:42.640Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:12:42.724Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:13:31.336Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:13:42.796Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:14:42.886Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:15:30.317Z] [WATCHER] Memory Usage: RSS=31.92MB, Heap=6.81/8.47MB
+[2026-10-27T23:15:31.380Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:15:43.015Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:16:49.031Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:17:31.710Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:17:49.091Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:18:49.185Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:19:31.292Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:19:49.270Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:20:30.320Z] [WATCHER] Memory Usage: RSS=31.92MB, Heap=6.81/8.47MB
+[2026-10-27T23:20:49.314Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:21:31.492Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:21:49.385Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:22:49.485Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:23:31.285Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:23:49.556Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:24:49.625Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:25:30.333Z] [WATCHER] Memory Usage: RSS=31.93MB, Heap=6.81/8.47MB
+[2026-10-27T23:25:31.250Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:25:49.736Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:26:55.752Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:27:21.381Z] Window started loading
+[2026-10-27T23:27:21.385Z] Window started loading
+[2026-10-27T23:27:21.401Z] Getting auth token for download...
+[2026-10-27T23:27:21.417Z] Discord RPC not connected, skipping activity update
+ERROR: [2026-10-27T23:27:21.749Z] Failed to download shared index: {}
