@@ -1,0 +1,13 @@
+{"ts":"2026-10-27T21:24:43.986Z","sid":"4g1vft","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-27T21:24:59.550Z","sid":"4g1vft","event":"page-ready","route":"/"}
+{"ts":"2026-10-27T21:25:01.203Z","sid":"4g1vft","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-27T21:25:07.883Z","sid":"4g1vft","event":"click","route":"/library","tag":"div","label":""}
+{"ts":"2026-10-27T21:25:08.365Z","sid":"4g1vft","event":"click","route":"/library","tag":"p","label":"Você ainda não jogou este jogo"}
+{"ts":"2026-10-27T21:25:16.802Z","sid":"4g1vft","event":"click","route":"/gamescreen","tag":"div","label":"Mínimos:Requer um sistema operativo e processador de 64 bitsSistema Operativo: Windows 11 - 64bitProcessador: Intel Core"}
+{"ts":"2026-10-27T21:25:17.274Z","sid":"4g1vft","event":"click","route":"/gamescreen","tag":"button","label":"Recomendado"}
+{"ts":"2026-10-27T21:25:18.386Z","sid":"4g1vft","event":"click","route":"/gamescreen","tag":"button","label":"Mínimo"}
+{"ts":"2026-10-27T21:25:21.893Z","sid":"4g1vft","event":"click","route":"/gamescreen","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-27T21:25:23.635Z","sid":"4g1vft","event":"click","route":"/gamescreen","tag":"div","label":"Editar jogo"}
+{"ts":"2026-10-27T21:25:25.405Z","sid":"4g1vft","event":"click","route":"/gamescreen","tag":"div","label":"CapaArquivosAçõesExecutáveisO primeiro da lista é usado para iniciar o jogo.11 · PrincipalAdicionar executávelSalvar exe"}
+{"ts":"2026-10-27T21:25:26.330Z","sid":"4g1vft","event":"click","route":"/gamescreen","tag":"div","label":"eFootball™Minha BibliotecaCapaArquivosAçõesAções rápidasAcesso rápido às ações desta instalação.Abrir diretório do jogoC"}
+{"ts":"2026-10-27T21:25:44.080Z","sid":"4g1vft","event":"click","route":"/gamescreen","tag":"div","label":""}
