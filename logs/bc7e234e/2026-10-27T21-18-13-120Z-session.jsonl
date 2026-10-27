@@ -1,0 +1,4 @@
+{"ts":"2026-10-27T21:16:08.091Z","sid":"i95ypy","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-27T21:16:24.446Z","sid":"i95ypy","event":"page-ready","route":"/"}
+{"ts":"2026-10-27T21:16:26.928Z","sid":"i95ypy","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-27T21:16:33.969Z","sid":"i95ypy","event":"click","route":"/library","tag":"div","label":"eFootball™Playing"}
