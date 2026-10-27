@@ -1,0 +1,6 @@
+{"ts":"2026-10-27T22:55:28.881Z","sid":"nb9r7v","event":"app-start","version":"1.0.0","isDev":false,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-27T22:55:29.223Z","sid":"nb9r7v","event":"startup-cleanup-none"}
+{"ts":"2026-10-27T22:55:38.110Z","sid":"nb9r7v","event":"page-ready","route":"/welcome"}
+{"ts":"2026-10-27T22:58:24.425Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"button","label":"Português"}
+{"ts":"2026-10-27T22:58:25.430Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"div","label":"PortuguêsQuale è la tua lingua preferita?EnglishالعربيةবাংলাEspañolहिन्दी日本語PortuguêsРусский简体中文ItalianoDeutschFrançaisP"}
+{"ts":"2026-10-27T22:58:26.077Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"button","label":"Próximo"}
