@@ -1,0 +1,999 @@
+ERROR: [2026-10-27T22:55:28.222Z] (node:22936) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `GMX --trace-deprecation ...` to show where the warning was created)
+[2026-10-27T22:55:28.876Z] Current version 1.0.0 is not broken
+[2026-10-27T22:55:28.876Z] Timestamp file not found. Probing disk instead.
+[2026-10-27T22:55:29.222Z] [StartupCleanup] nenhuma outra instalação GMX/Ascendara - nada a limpar
+[2026-10-27T22:55:29.227Z] Settings file not found, creating with default values
+[2026-10-27T22:55:29.228Z] Settings file created successfully at: C:\Users\c2644\AppData\Roaming\gmx\ascendarasettings.json
+[2026-10-27T22:55:29.235Z] [ActivityGuard] monitor iniciado (poll a cada 6s)
+[2026-10-27T22:55:29.237Z] [Screenshots] Shift+F global registrado
+[2026-10-27T22:55:29.315Z] [Scheduler] agendador de downloads iniciado (tick 60s)
+[2026-10-27T22:55:29.331Z] Window icon loaded from: C:\Users\c2644\AppData\Local\Programs\GMX\resources\app.asar\electron\icon.ico
+[2026-10-27T22:55:29.379Z] Loading window from: http://localhost:46859
+[2026-10-27T22:55:29.488Z] System tray created successfully
+[2026-10-27T22:55:29.507Z] Achievement watcher started
+[2026-10-27T22:55:29.512Z] Local server running at http://localhost:46859
+[2026-10-27T22:55:30.175Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-27T22:55:30.244Z] [WATCHER] About to acquire single-instance lock...
+[2026-10-27T22:55:30.251Z] [WATCHER] Single-instance lock acquired. Starting app...
+[2026-10-27T22:55:30.253Z] [WATCHER] Achievement Watchdog starting ...
+ERROR: [2026-10-27T22:55:30.258Z] [WATCHER ERROR] Settings file not found. This is normal on first run. Using default settings.
+[2026-10-27T22:55:30.260Z] [WATCHER] Watchdog status updated: running=true, timestamp=2026-10-27T19:55:30-03:00
+[2026-10-27T22:55:30.265Z] [WATCHER] monitor.getFolders() returned 3 folders
+[2026-10-27T22:55:30.268Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\c2644\AppData\Roaming\GSE Saves" with options: { recursive: true, filter: /([0-9]+)/, file: [ 'achievements.json' ] }
+[2026-10-27T22:55:30.268Z] [WATCHER] Watching files in C:\Users\c2644\AppData\Roaming\GSE Saves: ["achievements.json"] with filter: /([0-9]+)/
+[2026-10-27T22:55:30.284Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\Steam\RUNE" with options: { recursive: true, filter: /.*/, file: [ 'achievements.ini' ] }
+Watching files in C:\Users\Public\Documents\Steam\RUNE: ["achievements.ini"] with filter: /.*/
+[2026-10-27T22:55:30.287Z] [WATCHER] Monitoring achievement changes in directory: "C:\Users\Public\Documents\OnlineFix" with options: {
+  recursive: true,
+  filter: /([0-9]+)[\\/]Stats/i,
+  file: [ 'achievements.ini', 'Achievements.ini' ]
+}
+Watching files in C:\Users\Public\Documents\OnlineFix: ["achievements.ini","Achievements.ini"] with filter: /([0-9]+)[\\/]Stats/i
+[2026-10-27T22:55:30.289Z] [WATCHER] Started 3 file watchers
+[2026-10-27T22:55:30.290Z] [WATCHER] Memory Usage: RSS=34.37MB, Heap=7.58/11.72MB
+[2026-10-27T22:55:30.578Z] Window DOM ready
+[2026-10-27T22:55:30.579Z] ready-to-show event fired
+[2026-10-27T22:55:30.609Z] Window shown event fired
+[2026-10-27T22:55:30.610Z] Window shown via ready-to-show event
+[2026-10-27T22:55:30.626Z] Window finished loading
+[2026-10-27T22:55:30.637Z] Window started loading
+[2026-10-27T22:55:31.098Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T22:55:31.385Z] Discord is not running, skipping RPC connection
+[2026-10-27T22:55:31.385Z] Discord RPC connection attempt 1/3 - Discord not running, retrying in 30s
+[2026-10-27T22:55:32.107Z] Discord RPC not connected, skipping activity update
+[2026-10-27T22:55:35.276Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T22:55:35.339Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T22:55:38.077Z] Window started loading
+[2026-10-27T22:55:38.103Z] Discord RPC not connected, skipping activity update
+[2026-10-27T22:55:38.579Z] Getting auth token for download...
+[2026-10-27T22:55:38.579Z] [Build Signature] Loaded: f172c6f3cae337e73959fae56e37d669
+ERROR: [2026-10-27T22:55:38.815Z] Failed to download shared index: {}
+[2026-10-27T22:56:01.599Z] Discord is not running, skipping RPC connection
+[2026-10-27T22:56:01.599Z] Discord RPC connection attempt 2/3 - Discord not running, retrying in 30s
+[2026-10-27T22:56:31.811Z] Discord is not running, skipping RPC connection
+[2026-10-27T22:56:31.811Z] Discord RPC connection attempt 3/3 - Discord not running, retrying in 30s
+[2026-10-27T22:56:41.347Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T22:57:01.826Z] Maximum Discord RPC connection attempts reached. Stopping retries.
+[2026-10-27T22:57:31.309Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T22:57:38.108Z] Discord RPC not connected, skipping activity update
+[2026-10-27T22:57:41.415Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T22:58:41.514Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T22:59:31.760Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T22:59:41.619Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:00:30.298Z] [WATCHER] Memory Usage: RSS=31.92MB, Heap=6.76/8.47MB
+[2026-10-27T23:00:41.700Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:01:31.418Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:01:41.794Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:02:41.870Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:03:31.489Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:03:41.953Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:04:42.044Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:05:30.304Z] [WATCHER] Memory Usage: RSS=31.93MB, Heap=6.80/8.47MB
+[2026-10-27T23:05:31.303Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:05:42.160Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:06:42.194Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:07:31.152Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:07:42.276Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:08:42.350Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:09:31.274Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:09:42.431Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:10:30.313Z] [WATCHER] Memory Usage: RSS=31.91MB, Heap=6.81/8.47MB
+[2026-10-27T23:10:42.542Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:11:31.530Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:11:42.640Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:12:42.724Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:13:31.336Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:13:42.796Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:14:42.886Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:15:30.317Z] [WATCHER] Memory Usage: RSS=31.92MB, Heap=6.81/8.47MB
+[2026-10-27T23:15:31.380Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:15:43.015Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:16:49.031Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:17:31.710Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:17:49.091Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:18:49.185Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:19:31.292Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:19:49.270Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:20:30.320Z] [WATCHER] Memory Usage: RSS=31.92MB, Heap=6.81/8.47MB
+[2026-10-27T23:20:49.314Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:21:31.492Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:21:49.385Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:22:49.485Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:23:31.285Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:23:49.556Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:24:49.625Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:25:30.333Z] [WATCHER] Memory Usage: RSS=31.93MB, Heap=6.81/8.47MB
+[2026-10-27T23:25:31.250Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:25:49.736Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:26:55.752Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:27:21.381Z] Window started loading
+[2026-10-27T23:27:21.385Z] Window started loading
+[2026-10-27T23:27:21.401Z] Getting auth token for download...
+[2026-10-27T23:27:21.417Z] Discord RPC not connected, skipping activity update
+ERROR: [2026-10-27T23:27:21.749Z] Failed to download shared index: {}
+[2026-10-27T23:27:31.354Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:27:32.913Z] Window started loading
+[2026-10-27T23:27:33.071Z] Discord RPC not connected, skipping activity update
+[2026-10-27T23:27:33.185Z] Window started loading
+[2026-10-27T23:27:34.372Z] Window started loading
+[2026-10-27T23:27:34.396Z] Discord RPC not connected, skipping activity update
+[2026-10-27T23:27:34.502Z] Window started loading
+[2026-10-27T23:27:55.822Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:28:24.582Z] Window started loading
+[2026-10-27T23:28:24.620Z] Discord RPC not connected, skipping activity update
+[2026-10-27T23:28:24.732Z] Window started loading
+[2026-10-27T23:28:24.771Z] Discord RPC not connected, skipping activity update
+[2026-10-27T23:28:55.914Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:29:08.426Z] Window started loading
+[2026-10-27T23:29:08.452Z] Discord RPC not connected, skipping activity update
+[2026-10-27T23:29:08.456Z] Discord RPC not connected, skipping activity update
+[2026-10-27T23:29:08.568Z] Window started loading
+[2026-10-27T23:29:14.578Z] Window started loading
+[2026-10-27T23:29:24.799Z] Window started loading
+[2026-10-27T23:29:24.834Z] Discord RPC not connected, skipping activity update
+[2026-10-27T23:29:26.338Z] Window started loading
+[2026-10-27T23:29:26.378Z] Discord RPC not connected, skipping activity update
+[2026-10-27T23:29:31.302Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:29:55.978Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:30:30.344Z] [WATCHER] Memory Usage: RSS=22.13MB, Heap=6.82/8.47MB
+[2026-10-27T23:30:56.056Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:31:26.390Z] Discord RPC not connected, skipping activity update
+[2026-10-27T23:31:31.155Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:31:56.118Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:32:56.196Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:33:31.506Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:33:56.270Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:34:41.155Z] Window started loading
+[2026-10-27T23:34:41.238Z] Discord RPC not connected, skipping activity update
+[2026-10-27T23:34:44.225Z] Window started loading
+[2026-10-27T23:34:44.277Z] Discord RPC not connected, skipping activity update
+[2026-10-27T23:34:45.496Z] Window started loading
+[2026-10-27T23:34:45.533Z] Discord RPC not connected, skipping activity update
+[2026-10-27T23:34:52.499Z] Window close event fired
+[2026-10-27T23:34:56.387Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:35:01.171Z] Removing stale lock file
+ERROR: [2026-10-27T23:35:01.248Z] (node:26064) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-27T23:35:01.555Z] Current version 1.0.0 is not broken
+[2026-10-27T23:35:01.587Z] [ActivityGuard] monitor iniciado (poll a cada 6s)
+[2026-10-27T23:35:01.590Z] [Screenshots] Shift+F global registrado
+[2026-10-27T23:35:02.888Z] [Scheduler] agendador de downloads iniciado (tick 60s)
+[2026-10-27T23:35:02.913Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-27T23:35:02.978Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-27T23:35:03.006Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-27T23:35:03.145Z] System tray created successfully
+[2026-10-27T23:35:03.160Z] Achievement watcher started
+[2026-10-27T23:35:03.414Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-27T23:35:03.484Z] [WATCHER] About to acquire single-instance lock...
+ERROR: [2026-10-27T23:35:03.490Z] [WATCHER ERROR] Failed to acquire single-instance lock: An application is already running
+[2026-10-27T23:35:03.490Z] [WATCHER] Another instance may already be running.
+[2026-10-27T23:35:03.510Z] Achievement watcher exited with code 0 and signal null
+[2026-10-27T23:35:05.488Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:35:07.735Z] [ActivityGuard] biblioteca mapeada: 5 jogo(s) (steam: 4)
+[2026-10-27T23:35:08.015Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:35:09.639Z] Window DOM ready
+[2026-10-27T23:35:09.640Z] ready-to-show event fired
+[2026-10-27T23:35:09.745Z] Window shown event fired
+[2026-10-27T23:35:09.745Z] Window shown via ready-to-show event
+[2026-10-27T23:35:09.778Z] Window finished loading
+[2026-10-27T23:35:09.792Z] Window started loading
+[2026-10-27T23:35:15.404Z] Getting auth token for download...
+[2026-10-27T23:35:15.405Z] [Build Signature] Loaded: f172c6f3cae337e73959fae56e37d669
+ERROR: [2026-10-27T23:35:15.587Z] Failed to download shared index: {}
+[2026-10-27T23:35:30.352Z] [WATCHER] Memory Usage: RSS=21.46MB, Heap=6.83/8.47MB
+[2026-10-27T23:35:31.324Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:35:56.526Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:36:12.406Z] Window started loading
+[2026-10-27T23:36:13.690Z] Window started loading
+[2026-10-27T23:36:13.722Z] [ActivityGuard] biblioteca mapeada: 5 jogo(s) (steam: 4)
+[2026-10-27T23:36:49.241Z] Window started loading
+[2026-10-27T23:36:50.465Z] Window started loading
+[2026-10-27T23:36:54.818Z] Window started loading
+[2026-10-27T23:36:56.543Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:37:08.031Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:37:13.823Z] [ActivityGuard] biblioteca mapeada: 5 jogo(s) (steam: 4)
+[2026-10-27T23:37:28.804Z] Window started loading
+[2026-10-27T23:37:31.594Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:37:47.103Z] Removing stale lock file
+ERROR: [2026-10-27T23:37:47.180Z] (node:25184) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-27T23:37:47.487Z] Current version 1.0.0 is not broken
+[2026-10-27T23:37:47.516Z] [ActivityGuard] monitor iniciado (poll a cada 6s)
+[2026-10-27T23:37:47.518Z] [Screenshots] Shift+F global registrado
+[2026-10-27T23:37:48.653Z] [Scheduler] agendador de downloads iniciado (tick 60s)
+[2026-10-27T23:37:48.665Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-27T23:37:48.721Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-27T23:37:48.738Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-27T23:37:48.839Z] System tray created successfully
+[2026-10-27T23:37:48.853Z] Achievement watcher started
+[2026-10-27T23:37:49.024Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-27T23:37:49.094Z] [WATCHER] About to acquire single-instance lock...
+ERROR: [2026-10-27T23:37:49.097Z] [WATCHER ERROR] Failed to acquire single-instance lock: An application is already running
+[2026-10-27T23:37:49.098Z] [WATCHER] Another instance may already be running.
+[2026-10-27T23:37:49.111Z] Achievement watcher exited with code 0 and signal null
+[2026-10-27T23:37:51.375Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:37:53.616Z] [ActivityGuard] biblioteca mapeada: 5 jogo(s) (steam: 4)
+[2026-10-27T23:37:53.781Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:37:54.433Z] Window DOM ready
+[2026-10-27T23:37:54.437Z] ready-to-show event fired
+[2026-10-27T23:37:54.472Z] Window shown event fired
+[2026-10-27T23:37:54.472Z] Window shown via ready-to-show event
+[2026-10-27T23:37:54.485Z] Window finished loading
+[2026-10-27T23:37:54.490Z] Window started loading
+[2026-10-27T23:37:56.606Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:38:00.039Z] Getting auth token for download...
+[2026-10-27T23:38:00.040Z] [Build Signature] Loaded: f172c6f3cae337e73959fae56e37d669
+ERROR: [2026-10-27T23:38:00.221Z] Failed to download shared index: {}
+[2026-10-27T23:38:02.320Z] Window started loading
+[2026-10-27T23:38:11.240Z] Window started loading
+[2026-10-27T23:38:15.785Z] Window started loading
+[2026-10-27T23:38:20.176Z] Getting auth token for download...
+ERROR: [2026-10-27T23:38:20.413Z] Failed to download shared index: {}
+[2026-10-27T23:38:21.584Z] Getting auth token for download...
+ERROR: [2026-10-27T23:38:21.759Z] Failed to download shared index: {}
+[2026-10-27T23:38:56.682Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:38:59.603Z] [ActivityGuard] biblioteca mapeada: 5 jogo(s) (steam: 4)
+[2026-10-27T23:39:04.738Z] Window started loading
+[2026-10-27T23:39:06.930Z] Window started loading
+[2026-10-27T23:39:07.392Z] Window started loading
+[2026-10-27T23:39:31.463Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:39:53.893Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:39:56.754Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:39:59.661Z] [ActivityGuard] biblioteca mapeada: 5 jogo(s) (steam: 4)
+[2026-10-27T23:40:30.357Z] [WATCHER] Memory Usage: RSS=21.48MB, Heap=6.84/8.47MB
+[2026-10-27T23:40:56.819Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:40:59.733Z] [ActivityGuard] biblioteca mapeada: 5 jogo(s) (steam: 4)
+[2026-10-27T23:41:31.398Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:41:53.976Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:41:56.904Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:41:59.849Z] [ActivityGuard] biblioteca mapeada: 5 jogo(s) (steam: 4)
+[2026-10-27T23:42:56.969Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:42:59.920Z] [ActivityGuard] biblioteca mapeada: 5 jogo(s) (steam: 4)
+[2026-10-27T23:43:31.767Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:43:47.398Z] Removing stale lock file
+ERROR: [2026-10-27T23:43:47.472Z] (node:4184) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2026-10-27T23:43:47.783Z] Current version 1.0.0 is not broken
+[2026-10-27T23:43:47.811Z] [ActivityGuard] monitor iniciado (poll a cada 6s)
+[2026-10-27T23:43:47.814Z] [Screenshots] Shift+F global registrado
+[2026-10-27T23:43:48.802Z] [Scheduler] agendador de downloads iniciado (tick 60s)
+[2026-10-27T23:43:48.814Z] Window icon loaded from: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\electron\icon.ico
+[2026-10-27T23:43:48.869Z] Loading window from: http://localhost:5173
+ERROR: [2026-10-27T23:43:48.886Z] Tray icon not found at: C:\Users\c2644\Downloads\github.com\ascendara-main\ascendara-main\readme\logo\ico\ascendara_64x.ico
+[2026-10-27T23:43:48.915Z] System tray created successfully
+[2026-10-27T23:43:48.929Z] Achievement watcher started
+[2026-10-27T23:43:49.090Z] [WATCHER] watchdog.js script loaded and running.
+[2026-10-27T23:43:49.156Z] [WATCHER] About to acquire single-instance lock...
+ERROR: [2026-10-27T23:43:49.160Z] [WATCHER ERROR] Failed to acquire single-instance lock: An application is already running
+[2026-10-27T23:43:49.161Z] [WATCHER] Another instance may already be running.
+[2026-10-27T23:43:49.171Z] Achievement watcher exited with code 0 and signal null
+[2026-10-27T23:43:51.142Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:43:53.916Z] [ActivityGuard] biblioteca mapeada: 5 jogo(s) (steam: 4)
+[2026-10-27T23:43:54.430Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:43:54.794Z] Window DOM ready
+[2026-10-27T23:43:54.795Z] ready-to-show event fired
+[2026-10-27T23:43:54.824Z] Window shown event fired
+[2026-10-27T23:43:54.825Z] Window shown via ready-to-show event
+[2026-10-27T23:43:54.844Z] Window finished loading
+[2026-10-27T23:43:54.851Z] Window started loading
+[2026-10-27T23:43:57.052Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:44:00.312Z] Getting auth token for download...
+[2026-10-27T23:44:00.313Z] [Build Signature] Loaded: f172c6f3cae337e73959fae56e37d669
+ERROR: [2026-10-27T23:44:00.536Z] Failed to download shared index: {}
+[2026-10-27T23:44:04.651Z] Window started loading
+[2026-10-27T23:44:05.889Z] Window started loading
+[2026-10-27T23:44:07.812Z] Window started loading
+[2026-10-27T23:44:09.995Z] Window started loading
+[2026-10-27T23:44:15.994Z] Window started loading
+[2026-10-27T23:44:17.177Z] Window started loading
+[2026-10-27T23:44:18.641Z] Window started loading
+[2026-10-27T23:44:20.537Z] Window started loading
+[2026-10-27T23:44:21.753Z] Window started loading
+[2026-10-27T23:44:23.337Z] Window started loading
+[2026-10-27T23:44:54.023Z] [ActivityGuard] biblioteca mapeada: 5 jogo(s) (steam: 4)
+[2026-10-27T23:44:57.092Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:44:58.332Z] Window started loading
+[2026-10-27T23:44:59.256Z] Window started loading
+[2026-10-27T23:45:30.370Z] [WATCHER] Memory Usage: RSS=21.51MB, Heap=6.85/8.47MB
+[2026-10-27T23:45:31.638Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:45:33.745Z] Closing app completely...
+[2026-10-27T23:45:33.804Z] App is quitting...
+[2026-10-27T23:45:33.812Z] App will quit - final cleanup...
+[2026-10-27T23:45:34.183Z] Achievement watcher exited with code 1 and signal null
+[2026-10-27T23:45:57.238Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:47:03.259Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:47:31.392Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:48:03.343Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:49:03.424Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:49:31.497Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:50:03.495Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:51:03.590Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:51:31.683Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:52:03.667Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:53:03.736Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:53:31.510Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:54:03.786Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:55:03.859Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:55:31.880Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:56:04.015Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:57:04.050Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:57:31.611Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-27T23:58:04.150Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:59:04.213Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-27T23:59:31.406Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:00:04.293Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:01:04.385Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:01:31.440Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:02:04.471Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:03:04.538Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:03:31.841Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:04:04.606Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:05:04.690Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:05:31.606Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:06:04.812Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:07:10.834Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:07:31.422Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:08:10.903Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:09:10.987Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:09:31.749Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:10:11.031Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:11:11.100Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:11:31.953Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:12:11.162Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:13:11.264Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:13:31.709Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:14:11.356Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:15:11.456Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:15:32.126Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:16:11.622Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:17:11.646Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:17:31.869Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:18:11.720Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:19:11.819Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:19:31.585Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:20:11.896Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:21:11.980Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:21:31.926Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:22:12.080Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:23:12.162Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:23:31.761Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:24:12.254Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:25:12.325Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:25:31.702Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:26:12.424Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:27:12.479Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:27:32.430Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:28:12.535Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:29:12.605Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:29:31.805Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:30:12.671Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:31:12.765Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:31:32.287Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:32:12.850Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:33:12.937Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:33:31.942Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:34:13.005Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:35:13.082Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:35:31.579Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:36:13.225Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:37:13.248Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:37:31.786Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:38:13.335Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:39:13.401Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:39:31.564Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:40:13.498Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:41:13.575Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:41:31.834Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:42:13.653Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:43:13.733Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:43:31.682Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:44:13.789Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:45:13.870Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:45:31.934Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:46:14.006Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:47:14.044Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:47:32.011Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:48:14.120Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:49:14.195Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:49:31.952Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:50:14.285Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:51:14.388Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:51:31.812Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:52:14.454Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:53:14.560Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:53:32.020Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:54:14.629Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:55:14.721Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:55:32.044Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:56:14.861Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:57:14.888Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:57:32.171Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T00:58:14.951Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:59:15.010Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T00:59:31.583Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:00:15.088Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:01:15.199Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:01:32.087Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:02:15.302Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:03:15.392Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:03:31.978Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:04:15.467Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:05:15.558Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:05:32.314Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:06:15.691Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:07:21.684Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:07:31.957Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:08:21.756Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:09:21.829Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:09:31.614Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:10:21.913Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:11:22.003Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:11:32.003Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:12:22.080Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:13:22.162Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:13:31.650Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:14:22.241Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:15:22.348Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:15:32.165Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:16:22.472Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:17:28.501Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:17:31.824Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:18:28.579Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:19:28.663Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:19:31.851Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:20:28.767Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:21:28.819Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:21:32.285Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:22:28.897Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:23:28.968Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:23:31.700Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:24:29.038Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:25:29.143Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:25:31.927Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:26:29.269Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:27:29.293Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:27:31.756Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:28:29.368Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:29:29.448Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:29:32.111Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:30:29.522Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:31:29.604Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:31:32.147Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:32:29.679Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:33:29.745Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:33:31.814Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:34:29.831Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:35:29.908Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:35:31.788Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:36:30.027Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:37:30.048Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:37:32.150Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:38:30.137Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:39:30.223Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:39:32.056Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:40:30.314Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:41:30.397Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:41:31.825Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:42:30.472Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:43:30.559Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:43:31.918Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:44:30.653Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:45:30.740Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:45:32.450Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:46:30.863Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:47:30.906Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:47:31.830Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:48:30.978Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:49:31.077Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:49:32.212Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:50:31.152Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:51:31.239Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:51:31.893Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:52:31.349Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:53:31.424Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:53:31.999Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:54:31.515Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:55:31.593Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:55:32.171Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:56:31.715Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:57:31.747Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:57:32.641Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T01:58:31.848Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:59:31.921Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T01:59:32.069Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:00:32.001Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:01:32.065Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:01:32.424Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:02:32.141Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:03:32.092Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:03:32.254Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:04:32.347Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:05:32.183Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:05:32.415Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:06:32.566Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:07:32.311Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:07:32.606Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:08:32.672Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:09:32.334Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:09:32.750Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:10:32.817Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:11:32.311Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:11:32.902Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:12:32.955Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:13:32.165Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:13:33.017Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:14:33.070Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:15:32.247Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:15:33.149Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:16:33.257Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:17:32.120Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:17:33.281Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:18:33.357Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:19:32.260Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:19:33.432Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:20:33.504Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:21:32.202Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:21:33.574Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:22:33.633Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:23:32.219Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:23:33.711Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:24:33.780Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:25:32.100Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:25:33.860Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:26:33.986Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:27:32.542Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:27:34.005Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:28:34.098Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:29:32.395Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:29:34.191Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:30:34.285Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:31:32.447Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:31:34.379Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:32:34.473Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:33:32.409Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:33:34.575Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:34:34.655Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:35:32.083Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:35:34.733Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:36:34.878Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:37:32.193Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:37:34.896Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:38:34.976Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:39:32.365Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:39:35.053Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:40:35.140Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:41:32.132Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:41:35.218Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:42:35.299Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:43:31.901Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:43:35.380Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:44:35.462Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:45:32.287Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:45:35.515Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:46:35.657Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:47:32.190Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:47:41.675Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:48:41.757Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:49:32.327Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:49:41.825Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:50:41.881Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:51:32.506Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:51:41.969Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:52:42.052Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:53:32.287Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:53:42.152Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:54:42.223Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:55:32.430Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:55:42.288Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:56:42.429Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:57:32.563Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:57:42.453Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:58:42.536Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T02:59:32.312Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T02:59:42.638Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:00:42.707Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:01:32.200Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:01:42.798Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:02:42.856Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:03:32.388Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:03:42.935Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:04:43.000Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:05:32.372Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:05:43.071Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:06:43.193Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:07:32.357Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:07:43.222Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:08:43.304Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:09:32.355Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:09:43.374Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:10:43.466Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:11:32.392Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:11:43.548Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:12:43.600Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:13:32.386Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:13:43.710Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:14:43.764Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:15:32.385Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:15:43.841Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:16:43.961Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:17:32.577Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:17:43.994Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:18:44.032Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:19:32.194Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:19:44.079Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:20:44.147Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:21:32.603Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:21:44.229Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:22:44.302Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:23:32.522Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:23:44.361Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:24:44.452Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:25:32.513Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:25:44.522Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:26:44.646Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:27:32.515Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:27:44.681Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:28:44.745Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:29:32.652Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:29:44.837Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:30:44.957Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:31:32.392Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:31:45.065Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:32:45.138Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:33:32.324Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:33:45.224Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:34:45.284Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:35:32.563Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:35:45.345Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:36:45.478Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:37:32.411Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:37:45.493Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:38:45.574Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:39:32.517Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:39:45.653Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:40:45.744Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:41:32.829Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:41:45.805Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:42:45.910Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:43:32.359Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:43:45.976Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:44:46.058Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:45:32.513Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:45:46.141Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:46:46.238Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:47:32.407Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:47:46.266Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:48:46.357Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:49:32.385Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:49:46.434Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:50:46.509Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:51:32.654Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:51:46.593Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:52:46.670Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:53:32.778Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:53:46.765Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:54:46.823Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:55:32.581Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:55:46.909Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:56:47.042Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:57:32.578Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:57:53.049Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:58:53.129Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T03:59:32.831Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T03:59:53.232Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:00:53.300Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:01:32.755Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:01:53.391Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:02:53.457Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:03:32.549Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:03:53.521Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:04:53.584Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:05:32.651Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:05:53.672Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:06:53.781Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:07:32.569Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:07:53.839Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:08:53.933Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:09:32.547Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:09:54.007Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:10:54.084Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:11:33.018Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:11:54.180Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:12:54.268Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:13:32.987Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:13:54.346Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:14:54.420Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:15:32.647Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:15:54.505Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:16:54.637Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:17:32.718Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:18:00.649Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:19:00.715Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:19:32.931Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:20:00.806Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:21:00.885Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:21:32.877Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:22:00.955Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:23:01.044Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:23:33.110Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:24:01.130Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:25:01.213Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:25:32.918Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:26:01.294Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:27:01.411Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:27:33.020Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:28:01.435Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:29:01.524Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:29:33.113Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:30:01.584Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:31:01.656Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:31:33.041Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:32:01.716Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:33:01.798Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:33:32.791Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:34:01.877Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:35:01.957Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:35:32.855Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:36:02.045Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:37:02.175Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:37:32.906Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:38:02.212Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:39:02.282Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:39:32.844Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:40:02.357Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:41:02.403Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:41:32.994Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:42:02.494Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:43:02.586Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:43:33.000Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:44:02.666Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:45:02.742Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:45:33.668Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:46:02.820Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:47:02.936Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:47:32.864Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:48:02.975Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:49:03.038Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:49:32.812Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:50:03.126Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:51:03.220Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:51:33.021Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:52:03.296Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:53:03.350Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:53:32.958Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:54:03.441Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:55:03.518Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:55:33.177Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:56:03.588Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:57:03.742Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:57:33.653Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T04:58:09.769Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:59:09.865Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T04:59:33.184Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:00:09.948Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:01:09.994Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:01:33.102Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:02:10.076Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:03:10.159Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:03:33.546Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:04:10.248Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:05:10.328Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:05:32.846Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:06:10.401Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:07:10.532Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:07:33.291Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:08:10.550Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:09:10.638Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:09:33.338Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:10:10.734Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:11:10.826Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:11:33.224Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:12:10.907Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:13:10.986Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:13:33.023Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:14:11.058Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:15:11.111Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:15:33.360Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:16:11.205Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:17:11.339Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:17:33.107Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:18:11.356Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:19:11.425Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:19:33.107Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:20:11.513Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:21:11.590Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:21:33.344Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:22:11.655Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:23:11.729Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:23:33.376Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:24:11.810Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:25:11.888Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:25:33.195Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:26:11.964Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:27:12.099Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:27:33.228Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:28:12.126Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:29:12.196Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:29:33.277Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:30:12.279Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:31:12.381Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:31:33.050Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:32:12.476Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:33:12.533Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:33:33.334Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:34:12.646Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:35:12.744Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:35:33.251Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:36:12.835Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:37:12.950Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:37:33.087Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:38:18.976Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:39:19.037Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:39:33.174Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:40:19.134Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:41:19.216Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:41:33.182Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:42:19.295Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:43:19.387Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:43:33.307Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:44:19.463Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:45:19.547Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:45:33.200Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:46:19.637Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:47:19.771Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:47:33.391Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:48:25.785Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:49:25.853Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:49:33.526Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:50:25.925Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:51:26.016Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:51:33.327Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:52:26.070Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:53:26.156Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:53:33.341Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:54:26.216Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:55:26.303Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:55:33.514Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:56:26.383Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:57:26.492Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:57:33.354Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T05:58:26.526Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:59:26.613Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T05:59:33.372Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:00:26.681Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:01:26.745Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:01:33.360Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:02:26.834Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:03:26.901Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:03:33.581Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:04:26.956Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:05:27.029Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:05:33.348Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:06:27.097Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:07:27.238Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:07:33.421Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:08:27.267Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:09:27.332Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:09:33.273Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:10:27.413Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:11:27.503Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:11:33.391Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:12:27.567Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:13:27.651Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:13:33.289Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:14:27.744Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:15:27.839Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:15:33.489Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:16:27.930Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:17:28.067Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:17:33.315Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:18:28.096Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:19:28.177Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:19:33.620Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:20:28.258Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:21:28.365Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:21:33.457Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:22:28.442Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:23:28.512Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:23:33.435Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:24:28.563Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:25:28.655Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:25:33.654Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:26:28.732Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:27:28.868Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:27:33.298Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:28:28.917Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:29:28.999Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:29:33.481Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:30:29.094Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:31:29.176Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:31:33.754Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:32:29.240Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:33:29.309Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:33:33.305Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:34:29.415Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:35:29.477Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:35:34.011Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:36:29.517Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:37:29.629Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:37:33.530Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:38:29.668Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:39:29.721Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:39:33.473Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:40:29.802Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:41:29.884Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:41:33.350Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:42:29.972Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:43:30.045Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:43:33.589Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:44:30.106Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:45:30.173Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:45:33.610Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:46:30.241Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:47:30.385Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:47:33.393Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:48:30.409Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:49:30.481Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:49:33.837Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:50:30.595Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:51:30.668Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:51:33.625Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:52:30.733Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:53:30.787Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:53:33.401Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:54:30.869Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:55:30.956Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:55:33.349Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T06:56:31.030Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+WARN: [2026-10-28T06:57:30.666Z] [Telemetry] upload logs/b29a6572/2026-10-28T06-57-30-657Z-session.jsonl -> getaddrinfo ENOTFOUND api.github.com
+[2026-10-28T06:57:31.164Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T06:58:31.193Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+WARN: [2026-10-28T06:59:30.664Z] [Telemetry] upload logs/b29a6572/2026-10-28T06-59-30-659Z-session.jsonl -> getaddrinfo ENOTFOUND api.github.com
+[2026-10-28T06:59:31.266Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T07:00:31.337Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+WARN: [2026-10-28T07:01:30.668Z] [Telemetry] upload logs/b29a6572/2026-10-28T07-01-30-662Z-session.jsonl -> getaddrinfo ENOTFOUND api.github.com
+[2026-10-28T07:01:31.384Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T07:02:31.465Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T07:03:31.536Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T07:03:33.650Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T07:04:31.631Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T07:05:31.717Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T07:05:33.853Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T07:06:31.794Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T07:07:31.941Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T07:07:33.477Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T07:08:31.975Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T07:09:32.054Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+WARN: [2026-10-28T07:09:51.752Z] [Telemetry] upload logs/b29a6572/2026-10-28T07-09-30-681Z-session.jsonl -> connect ETIMEDOUT 4.228.31.149:443
+[2026-10-28T07:10:32.155Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T07:11:32.231Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+WARN: [2026-10-28T07:11:51.777Z] [Telemetry] upload logs/b29a6572/2026-10-28T07-11-30-692Z-session.jsonl -> connect ETIMEDOUT 4.228.31.149:443
+[2026-10-28T07:12:32.307Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+WARN: [2026-10-28T07:13:30.707Z] [Telemetry] upload logs/b29a6572/2026-10-28T07-13-30-702Z-session.jsonl -> getaddrinfo ENOTFOUND api.github.com
+[2026-10-28T07:13:32.378Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T07:14:32.437Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+WARN: [2026-10-28T07:15:30.720Z] [Telemetry] upload logs/b29a6572/2026-10-28T07-15-30-715Z-session.jsonl -> getaddrinfo ENOTFOUND api.github.com
+[2026-10-28T07:15:32.515Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T07:16:32.579Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T07:17:32.718Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T07:17:34.176Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T07:18:38.734Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T07:19:33.538Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T07:19:38.804Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T07:20:38.873Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T07:21:33.678Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T07:21:38.941Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T07:22:39.011Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T07:23:33.487Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T07:23:39.089Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T07:24:39.181Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T07:25:33.832Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T07:25:39.257Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T07:26:39.343Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T07:27:33.525Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T07:27:39.482Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T07:28:39.500Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T07:29:33.451Z] [Telemetry] upload OK (2 arquivo(s))
+[2026-10-28T07:29:39.576Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
+[2026-10-28T07:30:39.664Z] [ActivityGuard] biblioteca mapeada: 4 jogo(s) (steam: 4)
