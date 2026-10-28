@@ -1,0 +1,44 @@
+{"ts":"2026-10-27T22:55:28.881Z","sid":"nb9r7v","event":"app-start","version":"1.0.0","isDev":false,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-27T22:55:29.223Z","sid":"nb9r7v","event":"startup-cleanup-none"}
+{"ts":"2026-10-27T22:55:38.110Z","sid":"nb9r7v","event":"page-ready","route":"/welcome"}
+{"ts":"2026-10-27T22:58:24.425Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"button","label":"Português"}
+{"ts":"2026-10-27T22:58:25.430Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"div","label":"PortuguêsQuale è la tua lingua preferita?EnglishالعربيةবাংলাEspañolहिन्दी日本語PortuguêsРусский简体中文ItalianoDeutschFrançaisP"}
+{"ts":"2026-10-27T22:58:26.077Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"button","label":"Próximo"}
+{"ts":"2026-10-27T23:25:56.518Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"label","label":"Eu li e concordo com a Gmx Launcher"}
+{"ts":"2026-10-27T23:25:57.750Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"button","label":"Li e concordo"}
+{"ts":"2026-10-27T23:25:58.438Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"div","label":"Eu li e concordo com a Gmx Launcher Termos de Serviço"}
+{"ts":"2026-10-27T23:25:59.214Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"div","label":"Eu li e concordo com a Gmx Launcher Política de Privacidade"}
+{"ts":"2026-10-27T23:26:00.141Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"button","label":"Começar"}
+{"ts":"2026-10-27T23:26:02.741Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"button","label":"Fontes externasOpcionalEscolha outro catálogo mantido por outra pessoa. Você pode trocar depois nas Configurações.Escolh"}
+{"ts":"2026-10-27T23:27:12.502Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"button","label":"FitGirl | Made by VinikjkkjOfflineThis source and other sources from this author have auto update everyday.7.281 jogos5."}
+{"ts":"2026-10-27T23:27:14.486Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"button","label":"Próximo"}
+{"ts":"2026-10-27T23:27:16.518Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"button","label":"Continuar"}
+{"ts":"2026-10-27T23:27:18.013Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"button","label":"Pular"}
+{"ts":"2026-10-27T23:27:20.565Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"button","label":"Eu tenho isso, leve-me para o tour"}
+{"ts":"2026-10-27T23:27:21.429Z","sid":"nb9r7v","event":"page-ready","route":"/"}
+{"ts":"2026-10-27T23:27:24.157Z","sid":"nb9r7v","event":"click","route":"/","tag":"button","label":"Próximo"}
+{"ts":"2026-10-27T23:27:28.501Z","sid":"nb9r7v","event":"click","route":"/","tag":"button","label":"Próximo"}
+{"ts":"2026-10-27T23:27:30.934Z","sid":"nb9r7v","event":"click","route":"/","tag":"div","label":"Redimensionar a navegaçãoPrecisa de mais espaço? Você pode redimensionar a barra de navegação arrastando os cantos para "}
+{"ts":"2026-10-27T23:27:31.579Z","sid":"nb9r7v","event":"click","route":"/","tag":"div","label":"Redimensionar a navegaçãoPrecisa de mais espaço? Você pode redimensionar a barra de navegação arrastando os cantos para "}
+{"ts":"2026-10-27T23:27:32.695Z","sid":"nb9r7v","event":"click","route":"/","tag":"button","label":"Próximo"}
+{"ts":"2026-10-27T23:27:34.159Z","sid":"nb9r7v","event":"click","route":"/search","tag":"button","label":"Próximo"}
+{"ts":"2026-10-27T23:28:24.357Z","sid":"nb9r7v","event":"click","route":"/library","tag":"button","label":"Próximo"}
+{"ts":"2026-10-27T23:29:08.205Z","sid":"nb9r7v","event":"click","route":"/downloads","tag":"button","label":"Próximo"}
+{"ts":"2026-10-27T23:29:14.365Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Próximo"}
+{"ts":"2026-10-27T23:29:22.645Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Próximo"}
+{"ts":"2026-10-27T23:29:24.694Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Concluir"}
+{"ts":"2026-10-27T23:29:26.335Z","sid":"nb9r7v","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-27T23:34:41.152Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-27T23:34:44.222Z","sid":"nb9r7v","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-27T23:34:45.493Z","sid":"nb9r7v","event":"click","route":"/library","tag":"a","label":"ProcurarProcurar"}
+{"ts":"2026-10-28T06:57:30.666Z","sid":"nb9r7v","event":"telemetry-upload-failed","file":"2026-10-28T06-57-30-657Z-session.jsonl","msg":"getaddrinfo ENOTFOUND api.github.com"}
+{"ts":"2026-10-28T06:59:30.664Z","sid":"nb9r7v","event":"telemetry-upload-failed","file":"2026-10-28T06-59-30-659Z-session.jsonl","msg":"getaddrinfo ENOTFOUND api.github.com"}
+{"ts":"2026-10-28T07:01:30.668Z","sid":"nb9r7v","event":"telemetry-upload-failed","file":"2026-10-28T07-01-30-662Z-session.jsonl","msg":"getaddrinfo ENOTFOUND api.github.com"}
+{"ts":"2026-10-28T07:09:51.752Z","sid":"nb9r7v","event":"telemetry-upload-failed","file":"2026-10-28T07-09-30-681Z-session.jsonl","msg":"connect ETIMEDOUT 4.228.31.149:443"}
+{"ts":"2026-10-28T07:11:51.777Z","sid":"nb9r7v","event":"telemetry-upload-failed","file":"2026-10-28T07-11-30-692Z-session.jsonl","msg":"connect ETIMEDOUT 4.228.31.149:443"}
+{"ts":"2026-10-28T07:13:30.707Z","sid":"nb9r7v","event":"telemetry-upload-failed","file":"2026-10-28T07-13-30-702Z-session.jsonl","msg":"getaddrinfo ENOTFOUND api.github.com"}
+{"ts":"2026-10-28T07:15:30.720Z","sid":"nb9r7v","event":"telemetry-upload-failed","file":"2026-10-28T07-15-30-715Z-session.jsonl","msg":"getaddrinfo ENOTFOUND api.github.com"}
+{"ts":"2026-10-28T07:35:51.827Z","sid":"nb9r7v","event":"telemetry-upload-failed","file":"2026-10-28T07-35-30-780Z-session.jsonl","msg":"connect ETIMEDOUT 4.228.31.149:443"}
+{"ts":"2026-10-28T07:37:41.870Z","sid":"nb9r7v","event":"telemetry-upload-failed","file":"2026-10-28T07-37-30-789Z-session.jsonl","msg":"getaddrinfo ENOTFOUND api.github.com"}
+{"ts":"2026-10-28T07:39:41.855Z","sid":"nb9r7v","event":"telemetry-upload-failed","file":"2026-10-28T07-39-30-793Z-session.jsonl","msg":"getaddrinfo ENOTFOUND api.github.com"}
+{"ts":"2026-10-28T07:41:30.813Z","sid":"nb9r7v","event":"telemetry-upload-failed","file":"2026-10-28T07-41-30-808Z-session.jsonl","msg":"getaddrinfo ENOTFOUND api.github.com"}
