@@ -1,0 +1,48 @@
+{"ts":"2026-10-29T11:11:57.536Z","sid":"vg2eaz","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T11:12:11.227Z","sid":"vg2eaz","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T11:12:14.720Z","sid":"vg2eaz","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-29T11:12:16.903Z","sid":"vg2eaz","event":"click","route":"/library","tag":"div","label":"eFootball™"}
+{"ts":"2026-10-29T11:12:18.775Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"button","label":"Jogar"}
+{"ts":"2026-10-29T11:12:24.839Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"button","label":"Voltar"}
+{"ts":"2026-10-29T11:12:40.521Z","sid":"vg2eaz","event":"click","route":"/library","tag":"button","label":"Ferramentas de desenvolvedor"}
+{"ts":"2026-10-29T11:13:07.136Z","sid":"vg2eaz","event":"click","route":"/library","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-29T11:13:10.625Z","sid":"vg2eaz","event":"click","route":"/settings","tag":"button","label":"Idioma"}
+{"ts":"2026-10-29T11:13:11.983Z","sid":"vg2eaz","event":"click","route":"/settings","tag":"p","label":"Escolha seu idioma preferido para a IU"}
+{"ts":"2026-10-29T11:13:12.423Z","sid":"vg2eaz","event":"click","route":"/settings","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-29T11:13:59.311Z","sid":"vg2eaz","event":"click","route":"/settings","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-29T11:14:01.919Z","sid":"vg2eaz","event":"click","route":"/library","tag":"div","label":"eFootball™Playing"}
+{"ts":"2026-10-29T11:14:06.280Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"button","label":"Parar"}
+{"ts":"2026-10-29T11:14:08.141Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"button","label":"Jogar"}
+{"ts":"2026-10-29T11:14:33.518Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"div","label":"Conquistas"}
+{"ts":"2026-10-29T11:14:37.406Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-29T11:14:38.664Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-29T11:14:39.120Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"button","label":"Abra o diretório do jogo"}
+{"ts":"2026-10-29T11:14:49.945Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-29T11:14:50.911Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"div","label":"Jogar mais tarde"}
+{"ts":"2026-10-29T11:14:52.222Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-29T11:14:53.047Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"div","label":"Editar jogo"}
+{"ts":"2026-10-29T11:14:55.026Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"input","label":"Buscar capa…"}
+{"ts":"2026-10-29T11:14:55.472Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"button","label":"Arquivos"}
+{"ts":"2026-10-29T11:14:58.808Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"input","label":"…\\Game.exe"}
+{"ts":"2026-10-29T11:15:03.959Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"input","label":"…\\Game.exe"}
+{"ts":"2026-10-29T11:15:05.184Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"input","label":"…\\Game.exe"}
+{"ts":"2026-10-29T11:15:11.448Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"input","label":"…\\Game.exe"}
+{"ts":"2026-10-29T11:15:11.984Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"input","label":"…\\Game.exe"}
+{"ts":"2026-10-29T11:15:13.816Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"input","label":"…\\Game.exe"}
+{"ts":"2026-10-29T11:15:16.039Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"button","label":"Adicionar executável"}
+{"ts":"2026-10-29T11:15:16.919Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"div","label":"121 · Principal"}
+{"ts":"2026-10-29T11:15:17.375Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"input","label":""}
+{"ts":"2026-10-29T11:15:17.791Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"div","label":"Adicionar executávelSalvar executáveis"}
+{"ts":"2026-10-29T11:15:18.193Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"p","label":"1 · Principal"}
+{"ts":"2026-10-29T11:15:18.511Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"input","label":""}
+{"ts":"2026-10-29T11:15:19.216Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"span","label":"2"}
+{"ts":"2026-10-29T11:15:19.632Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"span","label":"2"}
+{"ts":"2026-10-29T11:15:19.936Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"span","label":"2"}
+{"ts":"2026-10-29T11:15:20.376Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"span","label":"2"}
+{"ts":"2026-10-29T11:15:21.008Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"input","label":""}
+{"ts":"2026-10-29T11:15:40.298Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"button","label":"Salvar executáveis"}
+{"ts":"2026-10-29T11:15:42.151Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"button","label":"Salvar opções"}
+{"ts":"2026-10-29T11:15:43.023Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"div","label":""}
+{"ts":"2026-10-29T11:15:45.912Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"button","label":"Parar"}
+{"ts":"2026-10-29T11:15:47.007Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"button","label":"Jogar"}
+{"ts":"2026-10-29T11:15:55.976Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"button","label":"PrincipaleFootball.exeE:\\SteamLibrary\\steamapps\\common\\eFootball\\eFootball\\Binaries\\Win64\\eFootball.exe"}
