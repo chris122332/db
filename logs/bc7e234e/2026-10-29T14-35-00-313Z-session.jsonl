@@ -1,0 +1,40 @@
+{"ts":"2026-10-29T14:21:58.825Z","sid":"wzj61c","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T14:22:13.310Z","sid":"wzj61c","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T14:22:39.753Z","sid":"wzj61c","event":"navigate","to":"/stats","from":"/"}
+{"ts":"2026-10-29T14:24:01.575Z","sid":"wzj61c","event":"click","route":"/stats","tag":"div","label":"Média por dia ativo9minDia mais longo: 23 de out. · 31min"}
+{"ts":"2026-10-29T14:25:33.954Z","sid":"wzj61c","event":"navigate","to":"/library","from":"/stats"}
+{"ts":"2026-10-29T14:25:35.755Z","sid":"wzj61c","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-29T14:25:37.672Z","sid":"wzj61c","event":"click","route":"/gamescreen","tag":"button","label":"Mídia"}
+{"ts":"2026-10-29T14:26:17.575Z","sid":"wzj61c","event":"navigate","to":"/settings","from":"/library"}
+{"ts":"2026-10-29T14:26:19.599Z","sid":"wzj61c","event":"click","route":"/settings","tag":"button","label":"Idioma"}
+{"ts":"2026-10-29T14:26:44.836Z","sid":"wzj61c","event":"navigate","to":"/localrefresh","from":"/settings"}
+{"ts":"2026-10-29T14:26:46.645Z","sid":"wzj61c","event":"click","route":"/localrefresh","tag":"button","label":"Avançado"}
+{"ts":"2026-10-29T14:27:18.875Z","sid":"wzj61c","event":"navigate","to":"/extralanguages","from":"/localrefresh"}
+{"ts":"2026-10-29T14:27:20.859Z","sid":"wzj61c","event":"navigate","to":"/screenshots","from":"/extralanguages"}
+{"ts":"2026-10-29T14:27:22.798Z","sid":"wzj61c","event":"navigate","to":"/workshopdownloader","from":"/screenshots"}
+{"ts":"2026-10-29T14:27:24.803Z","sid":"wzj61c","event":"click","route":"/workshopdownloader","tag":"button","label":"Começar"}
+{"ts":"2026-10-29T14:27:41.570Z","sid":"wzj61c","event":"navigate","to":"/settings","from":"/workshopdownloader"}
+{"ts":"2026-10-29T14:27:43.384Z","sid":"wzj61c","event":"click","route":"/settings","tag":"button","label":"Idioma"}
+{"ts":"2026-10-29T14:27:44.834Z","sid":"wzj61c","event":"click","route":"/settings","tag":"button","label":"English"}
+{"ts":"2026-10-29T14:28:01.066Z","sid":"wzj61c","event":"navigate","to":"/stats","from":"/settings"}
+{"ts":"2026-10-29T14:28:03.729Z","sid":"wzj61c","event":"click","route":"/stats","tag":"button","label":"90 days"}
+{"ts":"2026-10-29T14:28:15.546Z","sid":"wzj61c","event":"navigate","to":"/library","from":"/stats"}
+{"ts":"2026-10-29T14:28:17.363Z","sid":"wzj61c","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-29T14:28:19.290Z","sid":"wzj61c","event":"click","route":"/gamescreen","tag":"button","label":"Media"}
+{"ts":"2026-10-29T14:28:34.814Z","sid":"wzj61c","event":"navigate","to":"/settings","from":"/library"}
+{"ts":"2026-10-29T14:28:36.743Z","sid":"wzj61c","event":"click","route":"/settings","tag":"button","label":"Language"}
+{"ts":"2026-10-29T14:28:39.015Z","sid":"wzj61c","event":"navigate","to":"/extralanguages","from":"/settings"}
+{"ts":"2026-10-29T14:28:41.006Z","sid":"wzj61c","event":"navigate","to":"/localrefresh","from":"/extralanguages"}
+{"ts":"2026-10-29T14:28:43.339Z","sid":"wzj61c","event":"click","route":"/localrefresh","tag":"button","label":"Advanced"}
+{"ts":"2026-10-29T14:28:45.398Z","sid":"wzj61c","event":"navigate","to":"/screenshots","from":"/localrefresh"}
+{"ts":"2026-10-29T14:28:47.321Z","sid":"wzj61c","event":"navigate","to":"/workshopdownloader","from":"/screenshots"}
+{"ts":"2026-10-29T14:28:49.331Z","sid":"wzj61c","event":"click","route":"/workshopdownloader","tag":"button","label":"Get Started"}
+{"ts":"2026-10-29T14:29:03.981Z","sid":"wzj61c","event":"navigate","to":"/settings","from":"/workshopdownloader"}
+{"ts":"2026-10-29T14:29:05.902Z","sid":"wzj61c","event":"click","route":"/settings","tag":"button","label":"Language"}
+{"ts":"2026-10-29T14:29:07.445Z","sid":"wzj61c","event":"click","route":"/settings","tag":"button","label":"Português"}
+{"ts":"2026-10-29T14:29:53.078Z","sid":"wzj61c","event":"navigate","to":"/tutorials","from":"/settings"}
+{"ts":"2026-10-29T14:29:59.833Z","sid":"wzj61c","event":"page-ready","route":"/tutorials"}
+{"ts":"2026-10-29T14:30:19.757Z","sid":"wzj61c","event":"click","route":"/tutorials","tag":"button","label":"Primeiros passosAcompanhando quanto tempo você jogaHoras por dia, sequência de dias e seus jogos mais jogados, num só lu"}
+{"ts":"2026-10-29T14:31:45.066Z","sid":"wzj61c","event":"page-ready","route":"/tutorials"}
+{"ts":"2026-10-29T14:32:04.981Z","sid":"wzj61c","event":"click","route":"/tutorials","tag":"button","label":"Primeiros passosAcompanhando quanto tempo você jogaHoras por dia, sequência de dias e seus jogos mais jogados, num só lu"}
+{"ts":"2026-10-29T14:32:39.261Z","sid":"wzj61c","event":"crash","message":"Invalid event object","stack":"Error: Invalid event object\n    at Server.<anonymous> (C:\\Users\\c2644\\Downloads\\github.com\\ascendara-main\\ascendara-main\\electron\\modules\\dev-bridge.js:289:27)\n    at Server.emit (node:events:509:28)\n    at parserOnIncoming (node:_http_server:1213:12)\n    at HTTPParser.parserOnHeadersComplete (node:_http_common:125:17)"}
