@@ -1,0 +1,4 @@
+{"ts":"2026-10-29T15:54:47.346Z","sid":"qh7ziv","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T15:54:51.308Z","sid":"qh7ziv","event":"telemetry-upload-failed","file":"2026-10-29T15-54-47-353Z-debug.log","msg":"is at d54d6daff0a53c3b86e24bb45230176aa58bdbcf but expected b11907660e4288886afd43c7e59e83d2537027a4"}
+{"ts":"2026-10-29T15:54:51.506Z","sid":"qh7ziv","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T15:54:52.703Z","sid":"qh7ziv","event":"telemetry-upload-failed","file":"2026-10-29T15-54-51-359Z-session.jsonl","msg":"is at 34258f52571f9b8a00062aceaa776b70bd9f83a5 but expected d54d6daff0a53c3b86e24bb45230176aa58bdbcf"}
