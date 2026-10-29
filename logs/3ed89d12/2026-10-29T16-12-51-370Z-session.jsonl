@@ -1,0 +1,22 @@
+{"ts":"2026-10-29T15:54:47.346Z","sid":"qh7ziv","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T15:54:51.308Z","sid":"qh7ziv","event":"telemetry-upload-failed","file":"2026-10-29T15-54-47-353Z-debug.log","msg":"is at d54d6daff0a53c3b86e24bb45230176aa58bdbcf but expected b11907660e4288886afd43c7e59e83d2537027a4"}
+{"ts":"2026-10-29T15:54:51.506Z","sid":"qh7ziv","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T15:54:52.703Z","sid":"qh7ziv","event":"telemetry-upload-failed","file":"2026-10-29T15-54-51-359Z-session.jsonl","msg":"is at 34258f52571f9b8a00062aceaa776b70bd9f83a5 but expected d54d6daff0a53c3b86e24bb45230176aa58bdbcf"}
+{"ts":"2026-10-29T15:59:14.150Z","sid":"qh7ziv","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T16:04:09.946Z","sid":"qh7ziv","event":"navigate","to":"/","from":"/"}
+{"ts":"2026-10-29T16:04:21.060Z","sid":"qh7ziv","event":"navigate","to":"/library","from":"/"}
+{"ts":"2026-10-29T16:04:25.920Z","sid":"qh7ziv","event":"navigate","to":"/downloads","from":"/library"}
+{"ts":"2026-10-29T16:04:30.434Z","sid":"qh7ziv","event":"navigate","to":"/","from":"/downloads"}
+{"ts":"2026-10-29T16:04:42.179Z","sid":"qh7ziv","event":"navigate","to":"/","from":"/"}
+{"ts":"2026-10-29T16:04:47.144Z","sid":"qh7ziv","event":"navigate","to":"/settings","from":"/"}
+{"ts":"2026-10-29T16:04:51.275Z","sid":"qh7ziv","event":"click","route":"/settings","tag":"button","label":"Jeux et index"}
+{"ts":"2026-10-29T16:04:57.550Z","sid":"qh7ziv","event":"click","route":"/settings","tag":"button","label":"Vue d'ensemble"}
+{"ts":"2026-10-29T16:05:03.796Z","sid":"qh7ziv","event":"click","route":"/settings","tag":"button","label":"Général et apparence"}
+{"ts":"2026-10-29T16:05:10.245Z","sid":"qh7ziv","event":"click","route":"/settings","tag":"button","label":"Général et apparence"}
+{"ts":"2026-10-29T16:05:17.724Z","sid":"qh7ziv","event":"click","route":"/settings","tag":"button","label":"Général et apparence"}
+{"ts":"2026-10-29T16:05:25.550Z","sid":"qh7ziv","event":"click","route":"/settings","tag":"div","label":""}
+{"ts":"2026-10-29T16:05:28.914Z","sid":"qh7ziv","event":"navigate","to":"/bigpicture","from":"/settings"}
+{"ts":"2026-10-29T16:08:55.338Z","sid":"qh7ziv","event":"page-ready","route":"/bigpicture"}
+{"ts":"2026-10-29T16:11:37.837Z","sid":"qh7ziv","event":"navigate","to":"/library","from":"/bigpicture"}
+{"ts":"2026-10-29T16:11:43.659Z","sid":"qh7ziv","event":"navigate","to":"/","from":"/library"}
+{"ts":"2026-10-29T16:11:59.010Z","sid":"qh7ziv","event":"navigate","to":"/library","from":"/"}
