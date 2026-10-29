@@ -1,0 +1,8 @@
+{"ts":"2026-10-29T11:17:38.156Z","sid":"foa52m","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T11:17:52.957Z","sid":"foa52m","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T11:17:56.458Z","sid":"foa52m","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-29T11:18:04.183Z","sid":"foa52m","event":"click","route":"/library","tag":"div","label":"eFootball™"}
+{"ts":"2026-10-29T11:18:30.360Z","sid":"foa52m","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T11:18:32.783Z","sid":"foa52m","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-29T11:18:36.192Z","sid":"foa52m","event":"click","route":"/settings","tag":"button","label":"العربية"}
+{"ts":"2026-10-29T11:18:38.792Z","sid":"foa52m","event":"click","route":"/settings","tag":"button","label":"Português"}
