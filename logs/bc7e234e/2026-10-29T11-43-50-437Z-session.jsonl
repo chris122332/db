@@ -1,0 +1,6 @@
+{"ts":"2026-10-29T11:41:45.921Z","sid":"95ajrh","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T11:42:00.696Z","sid":"95ajrh","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T11:42:10.034Z","sid":"95ajrh","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-29T11:42:13.636Z","sid":"95ajrh","event":"click","route":"/settings","tag":"p","label":"Veja a lista completa de idiomas"}
+{"ts":"2026-10-29T11:42:23.067Z","sid":"95ajrh","event":"click","route":"/extralanguages","tag":"button","label":"Català(Catalan)"}
+{"ts":"2026-10-29T11:42:29.077Z","sid":"95ajrh","event":"click","route":"/extralanguages","tag":"button","label":"Continuar"}
