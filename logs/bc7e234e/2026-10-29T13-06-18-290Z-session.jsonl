@@ -1,0 +1,8 @@
+{"ts":"2026-10-29T12:56:35.023Z","sid":"onm7bx","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T12:56:50.645Z","sid":"onm7bx","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T12:57:00.741Z","sid":"onm7bx","event":"click","route":"/","tag":"div","label":"InícioInícioProcurarProcurarBibliotecaBibliotecaDownloadsDownloadsComunidadeComunidadePreferênciasPreferências"}
+{"ts":"2026-10-29T12:57:01.602Z","sid":"onm7bx","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-29T12:57:05.435Z","sid":"onm7bx","event":"click","route":"/settings","tag":"div","label":"Escolha seu idioma preferido para a IUEnglishEspañolFrançaisItalianoDeutschPortuguêsРусский中文العربيةहिन्दीবাংলা日本語Veja a"}
+{"ts":"2026-10-29T12:57:05.803Z","sid":"onm7bx","event":"click","route":"/settings","tag":"p","label":"Veja a lista completa de idiomas"}
+{"ts":"2026-10-29T12:57:08.866Z","sid":"onm7bx","event":"click","route":"/extralanguages","tag":"button","label":"Afrikaans(Afrikaans)"}
+{"ts":"2026-10-29T12:57:10.208Z","sid":"onm7bx","event":"click","route":"/extralanguages","tag":"button","label":"Continuar"}
