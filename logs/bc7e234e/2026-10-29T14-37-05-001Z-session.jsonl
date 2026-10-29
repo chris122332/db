@@ -1,0 +1,23 @@
+{"ts":"2026-10-29T14:35:00.310Z","sid":"6bo4kr","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T14:35:10.593Z","sid":"6bo4kr","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T14:35:15.700Z","sid":"6bo4kr","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-29T14:35:19.667Z","sid":"6bo4kr","event":"click","route":"/settings","tag":"button","label":"Tutoriais"}
+{"ts":"2026-10-29T14:35:19.796Z","sid":"6bo4kr","event":"navigate","to":"/tutorials","from":"/"}
+{"ts":"2026-10-29T14:35:27.298Z","sid":"6bo4kr","event":"click","route":"/tutorials","tag":"button","label":"Configurações do Gmx Launcher"}
+{"ts":"2026-10-29T14:35:28.912Z","sid":"6bo4kr","event":"click","route":"/settings","tag":"button","label":"BaixarAdicionar a bibliotecahero / title / pills / sidebarJogos e downloadsComo baixar um jogoDa busca até o jogo instal"}
+{"ts":"2026-10-29T14:35:38.440Z","sid":"6bo4kr","event":"click","route":"/settings","tag":"button","label":"Voltar aos tutoriais"}
+{"ts":"2026-10-29T14:35:41.169Z","sid":"6bo4kr","event":"click","route":"/settings","tag":"button","label":"Primeiros passosAcompanhando quanto tempo você jogaHoras por dia, sequência de dias e seus jogos mais jogados, num só lu"}
+{"ts":"2026-10-29T14:35:47.386Z","sid":"6bo4kr","event":"click","route":"/settings","tag":"img","label":""}
+{"ts":"2026-10-29T14:35:48.792Z","sid":"6bo4kr","event":"click","route":"/settings","tag":"div","label":""}
+{"ts":"2026-10-29T14:35:50.395Z","sid":"6bo4kr","event":"click","route":"/settings","tag":"button","label":"Voltar aos tutoriais"}
+{"ts":"2026-10-29T14:36:17.904Z","sid":"6bo4kr","event":"click","route":"/settings","tag":"button","label":"Modo consoleCapturando telas dos seus jogosAperte Shift+F durante o jogo e a captura cai na galeria, sem programa extern"}
+{"ts":"2026-10-29T14:36:30.019Z","sid":"6bo4kr","event":"click","route":"/settings","tag":"img","label":""}
+{"ts":"2026-10-29T14:36:48.343Z","sid":"6bo4kr","event":"click","route":"/settings","tag":"button","label":"Primeiros passosColocando o app no seu idiomaDoze idiomas prontos — e mais 93 que o app traduz na hora, no seu computado"}
+{"ts":"2026-10-29T14:36:51.154Z","sid":"6bo4kr","event":"click","route":"/settings","tag":"button","label":"Voltar aos tutoriais"}
+{"ts":"2026-10-29T14:36:52.564Z","sid":"6bo4kr","event":"click","route":"/settings","tag":"div","label":"Primeiros passosConhecendo o GMXPara que serve cada botão da barra de navegação e as telas principais.5 passos →BaixarAd"}
+{"ts":"2026-10-29T14:36:53.824Z","sid":"6bo4kr","event":"click","route":"/settings","tag":"button","label":"Jogos e downloadsUsando o GMX sem internetO app traz fontes embutidas: buscar jogos continua funcionando offline.2 passo"}
+{"ts":"2026-10-29T14:36:54.864Z","sid":"6bo4kr","event":"click","route":"/settings","tag":"img","label":""}
+{"ts":"2026-10-29T14:36:55.935Z","sid":"6bo4kr","event":"click","route":"/settings","tag":"div","label":""}
+{"ts":"2026-10-29T14:36:57.353Z","sid":"6bo4kr","event":"click","route":"/settings","tag":"div","label":"Configurações do Gmx LauncherJogos e índiceGeral e aparênciaBig PictureDownloadsBackup e salvamentosCompatibilidadeFerra"}
+{"ts":"2026-10-29T14:36:57.810Z","sid":"6bo4kr","event":"click","route":"/settings","tag":"button","label":"Voltar aos tutoriais"}
+{"ts":"2026-10-29T14:37:04.168Z","sid":"6bo4kr","event":"click","route":"/settings","tag":"button","label":"Jogos e downloadsBaixando mods de um jogo (Oficina da Steam)Coloque mods e itens da Oficina da Steam no seu jogo, sem pr"}
