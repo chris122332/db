@@ -1,0 +1,42 @@
+{"ts":"2026-10-29T15:54:51.517Z","sid":"29huv6","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T15:54:55.468Z","sid":"29huv6","event":"telemetry-upload-failed","file":"2026-10-29T15-54-51-523Z-debug.log","msg":"is at 7bf0ab098d08c6359da8464c6cdffb0fbd6e59b4 but expected bb8aa62af48556813d74bb41cbca4fd1f6cf6d23"}
+{"ts":"2026-10-29T15:54:59.955Z","sid":"29huv6","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T15:56:56.690Z","sid":"29huv6","event":"telemetry-upload-failed","file":"2026-10-29T15-56-55-482Z-session.jsonl","msg":"is at 642adcc1f6cba1d0911d83ec16f1a3ef99ca518e but expected 376a79fadf28091597dc9f9fd21b31dd23c55d39"}
+{"ts":"2026-10-29T15:59:24.544Z","sid":"29huv6","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T16:07:00.752Z","sid":"29huv6","event":"navigate","to":"/","from":"/"}
+{"ts":"2026-10-29T16:07:11.997Z","sid":"29huv6","event":"navigate","to":"/library","from":"/"}
+{"ts":"2026-10-29T16:07:16.891Z","sid":"29huv6","event":"navigate","to":"/downloads","from":"/library"}
+{"ts":"2026-10-29T16:07:21.438Z","sid":"29huv6","event":"navigate","to":"/","from":"/downloads"}
+{"ts":"2026-10-29T16:07:33.269Z","sid":"29huv6","event":"navigate","to":"/","from":"/"}
+{"ts":"2026-10-29T16:07:38.242Z","sid":"29huv6","event":"navigate","to":"/settings","from":"/"}
+{"ts":"2026-10-29T16:07:42.476Z","sid":"29huv6","event":"click","route":"/settings","tag":"button","label":"Spiele und Index"}
+{"ts":"2026-10-29T16:07:48.772Z","sid":"29huv6","event":"click","route":"/settings","tag":"button","label":"Big Picture"}
+{"ts":"2026-10-29T16:08:07.512Z","sid":"29huv6","event":"click","route":"/settings","tag":"button","label":"Allgemein und Darstellung"}
+{"ts":"2026-10-29T16:08:13.999Z","sid":"29huv6","event":"click","route":"/settings","tag":"button","label":"Allgemein und Darstellung"}
+{"ts":"2026-10-29T16:08:21.526Z","sid":"29huv6","event":"click","route":"/settings","tag":"button","label":"Allgemein und Darstellung"}
+{"ts":"2026-10-29T16:08:29.402Z","sid":"29huv6","event":"click","route":"/settings","tag":"div","label":""}
+{"ts":"2026-10-29T16:08:32.807Z","sid":"29huv6","event":"navigate","to":"/bigpicture","from":"/settings"}
+{"ts":"2026-10-29T16:09:01.731Z","sid":"29huv6","event":"page-ready","route":"/bigpicture"}
+{"ts":"2026-10-29T16:09:03.382Z","sid":"29huv6","event":"click","route":"/bigpicture","tag":"div","label":""}
+{"ts":"2026-10-29T16:09:04.050Z","sid":"29huv6","event":"click","route":"/bigpicture","tag":"div","label":""}
+{"ts":"2026-10-29T16:10:35.270Z","sid":"29huv6","event":"click","route":"/bigpicture","tag":"img","label":""}
+{"ts":"2026-10-29T16:10:52.665Z","sid":"29huv6","event":"click","route":"/bigpicture","tag":"div","label":"eFootball™ZULETZT GESPIELT0h gespieltEuro Truck Simulator 2MECCHA CHAMELEONThe Coffin of Andy and Leyley"}
+{"ts":"2026-10-29T16:10:59.272Z","sid":"29huv6","event":"click","route":"/bigpicture","tag":"div","label":""}
+{"ts":"2026-10-29T16:11:01.682Z","sid":"29huv6","event":"click","route":"/bigpicture","tag":"button","label":"SPEISEKARTEStart"}
+{"ts":"2026-10-29T16:11:03.528Z","sid":"29huv6","event":"click","route":"/bigpicture","tag":"span","label":"EINSTELLUNGEN"}
+{"ts":"2026-10-29T16:11:05.025Z","sid":"29huv6","event":"click","route":"/bigpicture","tag":"span","label":"Generisch"}
+{"ts":"2026-10-29T16:11:06.847Z","sid":"29huv6","event":"click","route":"/bigpicture","tag":"span","label":"Generisch"}
+{"ts":"2026-10-29T16:11:07.747Z","sid":"29huv6","event":"click","route":"/bigpicture","tag":"span","label":"Generisch"}
+{"ts":"2026-10-29T16:11:08.199Z","sid":"29huv6","event":"click","route":"/bigpicture","tag":"span","label":"Generisch"}
+{"ts":"2026-10-29T16:11:08.720Z","sid":"29huv6","event":"click","route":"/bigpicture","tag":"span","label":"Generisch"}
+{"ts":"2026-10-29T16:11:08.931Z","sid":"29huv6","event":"click","route":"/bigpicture","tag":"span","label":"Generisch"}
+{"ts":"2026-10-29T16:11:15.983Z","sid":"29huv6","event":"click","route":"/bigpicture","tag":"span","label":"ZURÜCK"}
+{"ts":"2026-10-29T16:11:16.489Z","sid":"29huv6","event":"click","route":"/bigpicture","tag":"span","label":"B"}
+{"ts":"2026-10-29T16:11:17.802Z","sid":"29huv6","event":"click","route":"/bigpicture","tag":"div","label":"ASPIELEN"}
+{"ts":"2026-10-29T16:12:41.549Z","sid":"29huv6","event":"navigate","to":"/library","from":"/bigpicture"}
+{"ts":"2026-10-29T16:12:47.491Z","sid":"29huv6","event":"navigate","to":"/","from":"/library"}
+{"ts":"2026-10-29T16:13:02.546Z","sid":"29huv6","event":"navigate","to":"/library","from":"/"}
+{"ts":"2026-10-29T16:18:56.992Z","sid":"29huv6","event":"telemetry-upload-failed","file":"2026-10-29T16-18-55-566Z-session.jsonl","msg":"is at 3ba316bafd8577d0f59c95ef27e200249c89bccf but expected 7d24717346dbdcbe918c2f6829d8fcb39e325b7b"}
+{"ts":"2026-10-29T16:20:36.338Z","sid":"29huv6","event":"navigate","to":"/","from":"/library"}
+{"ts":"2026-10-29T16:20:54.236Z","sid":"29huv6","event":"navigate","to":"/library","from":"/"}
+{"ts":"2026-10-29T16:23:17.071Z","sid":"29huv6","event":"telemetry-upload-failed","file":"2026-10-29T16-22-55-577Z-session.jsonl","msg":"connect ETIMEDOUT 4.228.31.149:443"}
