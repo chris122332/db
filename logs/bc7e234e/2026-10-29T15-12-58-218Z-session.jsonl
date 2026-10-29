@@ -1,0 +1,137 @@
+{"ts":"2026-10-29T14:46:53.869Z","sid":"aghq6l","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T14:47:07.807Z","sid":"aghq6l","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T14:47:20.603Z","sid":"aghq6l","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-29T14:47:27.163Z","sid":"aghq6l","event":"click","route":"/settings","tag":"button","label":"Tutoriais"}
+{"ts":"2026-10-29T14:47:33.441Z","sid":"aghq6l","event":"click","route":"/settings","tag":"button","label":"Jogos e downloadsUsando o GMX sem internetO app traz fontes embutidas: buscar jogos continua funcionando offline.2 passo"}
+{"ts":"2026-10-29T14:47:35.464Z","sid":"aghq6l","event":"click","route":"/settings","tag":"img","label":""}
+{"ts":"2026-10-29T14:47:36.775Z","sid":"aghq6l","event":"click","route":"/settings","tag":"div","label":""}
+{"ts":"2026-10-29T14:47:38.322Z","sid":"aghq6l","event":"click","route":"/settings","tag":"button","label":"Voltar aos tutoriais"}
+{"ts":"2026-10-29T14:51:50.202Z","sid":"aghq6l","event":"page-ready","route":"/stats"}
+{"ts":"2026-10-29T14:51:52.725Z","sid":"aghq6l","event":"navigate","to":"/library","from":"/stats"}
+{"ts":"2026-10-29T14:51:59.931Z","sid":"aghq6l","event":"navigate","to":"/settings","from":"/library"}
+{"ts":"2026-10-29T14:52:03.559Z","sid":"aghq6l","event":"navigate","to":"/localrefresh","from":"/settings"}
+{"ts":"2026-10-29T14:52:08.080Z","sid":"aghq6l","event":"navigate","to":"/extralanguages","from":"/localrefresh"}
+{"ts":"2026-10-29T14:52:10.265Z","sid":"aghq6l","event":"navigate","to":"/screenshots","from":"/extralanguages"}
+{"ts":"2026-10-29T14:52:12.381Z","sid":"aghq6l","event":"navigate","to":"/workshopdownloader","from":"/screenshots"}
+{"ts":"2026-10-29T14:52:14.582Z","sid":"aghq6l","event":"click","route":"/workshopdownloader","tag":"button","label":"Empezar"}
+{"ts":"2026-10-29T14:52:23.124Z","sid":"aghq6l","event":"page-ready","route":"/stats"}
+{"ts":"2026-10-29T14:52:25.505Z","sid":"aghq6l","event":"navigate","to":"/library","from":"/stats"}
+{"ts":"2026-10-29T14:52:32.719Z","sid":"aghq6l","event":"navigate","to":"/settings","from":"/library"}
+{"ts":"2026-10-29T14:52:36.371Z","sid":"aghq6l","event":"navigate","to":"/localrefresh","from":"/settings"}
+{"ts":"2026-10-29T14:52:40.890Z","sid":"aghq6l","event":"navigate","to":"/extralanguages","from":"/localrefresh"}
+{"ts":"2026-10-29T14:52:43.039Z","sid":"aghq6l","event":"navigate","to":"/screenshots","from":"/extralanguages"}
+{"ts":"2026-10-29T14:52:45.158Z","sid":"aghq6l","event":"navigate","to":"/workshopdownloader","from":"/screenshots"}
+{"ts":"2026-10-29T14:52:47.331Z","sid":"aghq6l","event":"click","route":"/workshopdownloader","tag":"button","label":"Commencer"}
+{"ts":"2026-10-29T14:53:14.767Z","sid":"aghq6l","event":"navigate","to":"/settings","from":"/workshopdownloader"}
+{"ts":"2026-10-29T14:53:38.927Z","sid":"aghq6l","event":"page-ready","route":"/stats"}
+{"ts":"2026-10-29T14:53:41.315Z","sid":"aghq6l","event":"navigate","to":"/library","from":"/stats"}
+{"ts":"2026-10-29T14:53:48.583Z","sid":"aghq6l","event":"navigate","to":"/settings","from":"/library"}
+{"ts":"2026-10-29T14:53:52.846Z","sid":"aghq6l","event":"navigate","to":"/localrefresh","from":"/settings"}
+{"ts":"2026-10-29T14:53:57.408Z","sid":"aghq6l","event":"navigate","to":"/extralanguages","from":"/localrefresh"}
+{"ts":"2026-10-29T14:53:59.557Z","sid":"aghq6l","event":"navigate","to":"/screenshots","from":"/extralanguages"}
+{"ts":"2026-10-29T14:54:01.664Z","sid":"aghq6l","event":"navigate","to":"/workshopdownloader","from":"/screenshots"}
+{"ts":"2026-10-29T14:54:03.836Z","sid":"aghq6l","event":"click","route":"/workshopdownloader","tag":"button","label":"Empezar"}
+{"ts":"2026-10-29T14:54:12.490Z","sid":"aghq6l","event":"page-ready","route":"/stats"}
+{"ts":"2026-10-29T14:54:14.764Z","sid":"aghq6l","event":"navigate","to":"/library","from":"/stats"}
+{"ts":"2026-10-29T14:54:21.988Z","sid":"aghq6l","event":"navigate","to":"/settings","from":"/library"}
+{"ts":"2026-10-29T14:54:25.636Z","sid":"aghq6l","event":"navigate","to":"/localrefresh","from":"/settings"}
+{"ts":"2026-10-29T14:54:30.164Z","sid":"aghq6l","event":"navigate","to":"/extralanguages","from":"/localrefresh"}
+{"ts":"2026-10-29T14:54:32.335Z","sid":"aghq6l","event":"navigate","to":"/screenshots","from":"/extralanguages"}
+{"ts":"2026-10-29T14:54:34.482Z","sid":"aghq6l","event":"navigate","to":"/workshopdownloader","from":"/screenshots"}
+{"ts":"2026-10-29T14:54:36.714Z","sid":"aghq6l","event":"click","route":"/workshopdownloader","tag":"button","label":"Commencer"}
+{"ts":"2026-10-29T14:56:13.062Z","sid":"aghq6l","event":"navigate","to":"/settings","from":"/workshopdownloader"}
+{"ts":"2026-10-29T14:56:19.376Z","sid":"aghq6l","event":"navigate","to":"/stats","from":"/settings"}
+{"ts":"2026-10-29T14:56:23.870Z","sid":"aghq6l","event":"navigate","to":"/library","from":"/stats"}
+{"ts":"2026-10-29T14:56:29.636Z","sid":"aghq6l","event":"navigate","to":"/localrefresh","from":"/library"}
+{"ts":"2026-10-29T14:56:33.765Z","sid":"aghq6l","event":"navigate","to":"/extralanguages","from":"/localrefresh"}
+{"ts":"2026-10-29T14:56:35.910Z","sid":"aghq6l","event":"navigate","to":"/screenshots","from":"/extralanguages"}
+{"ts":"2026-10-29T14:56:38.026Z","sid":"aghq6l","event":"navigate","to":"/workshopdownloader","from":"/screenshots"}
+{"ts":"2026-10-29T14:56:40.219Z","sid":"aghq6l","event":"click","route":"/workshopdownloader","tag":"button","label":"Commencer"}
+{"ts":"2026-10-29T14:56:42.156Z","sid":"aghq6l","event":"navigate","to":"/settings","from":"/workshopdownloader"}
+{"ts":"2026-10-29T14:56:48.196Z","sid":"aghq6l","event":"navigate","to":"/stats","from":"/settings"}
+{"ts":"2026-10-29T14:56:52.687Z","sid":"aghq6l","event":"navigate","to":"/library","from":"/stats"}
+{"ts":"2026-10-29T14:56:58.470Z","sid":"aghq6l","event":"navigate","to":"/localrefresh","from":"/library"}
+{"ts":"2026-10-29T14:57:02.656Z","sid":"aghq6l","event":"navigate","to":"/extralanguages","from":"/localrefresh"}
+{"ts":"2026-10-29T14:57:04.816Z","sid":"aghq6l","event":"navigate","to":"/screenshots","from":"/extralanguages"}
+{"ts":"2026-10-29T14:57:06.932Z","sid":"aghq6l","event":"navigate","to":"/workshopdownloader","from":"/screenshots"}
+{"ts":"2026-10-29T14:57:09.124Z","sid":"aghq6l","event":"click","route":"/workshopdownloader","tag":"button","label":"Commencer"}
+{"ts":"2026-10-29T14:57:43.963Z","sid":"aghq6l","event":"navigate","to":"/settings","from":"/workshopdownloader"}
+{"ts":"2026-10-29T14:59:52.725Z","sid":"aghq6l","event":"navigate","to":"/extralanguages","from":"/settings"}
+{"ts":"2026-10-29T14:59:54.892Z","sid":"aghq6l","event":"navigate","to":"/screenshots","from":"/extralanguages"}
+{"ts":"2026-10-29T14:59:57.294Z","sid":"aghq6l","event":"click","route":"/screenshots","tag":"div","label":"Fare clic per caricare29/10/2026, 10:49:07Fare clic per caricare29/10/2026, 10:49:00Fare clic per caricare24/10/2026, 11"}
+{"ts":"2026-10-29T15:00:30.890Z","sid":"aghq6l","event":"navigate","to":"/extralanguages","from":"/screenshots"}
+{"ts":"2026-10-29T15:00:33.034Z","sid":"aghq6l","event":"navigate","to":"/screenshots","from":"/extralanguages"}
+{"ts":"2026-10-29T15:00:35.449Z","sid":"aghq6l","event":"click","route":"/screenshots","tag":"div","label":"Fare clic per caricare29/10/2026, 10:49:07Fare clic per caricare29/10/2026, 10:49:00Fare clic per caricare24/10/2026, 11"}
+{"ts":"2026-10-29T15:02:44.079Z","sid":"aghq6l","event":"navigate","to":"/settings","from":"/screenshots"}
+{"ts":"2026-10-29T15:03:48.262Z","sid":"aghq6l","event":"click","route":"/settings","tag":"button","label":"Deutsch"}
+{"ts":"2026-10-29T15:04:07.236Z","sid":"aghq6l","event":"navigate","to":"/stats","from":"/settings"}
+{"ts":"2026-10-29T15:04:09.683Z","sid":"aghq6l","event":"click","route":"/stats","tag":"button","label":"90 Tage"}
+{"ts":"2026-10-29T15:05:16.358Z","sid":"aghq6l","event":"navigate","to":"/settings","from":"/stats"}
+{"ts":"2026-10-29T15:05:25.809Z","sid":"aghq6l","event":"navigate","to":"/stats","from":"/settings"}
+{"ts":"2026-10-29T15:05:28.338Z","sid":"aghq6l","event":"click","route":"/stats","tag":"button","label":"90 Tage"}
+{"ts":"2026-10-29T15:05:38.362Z","sid":"aghq6l","event":"navigate","to":"/library","from":"/stats"}
+{"ts":"2026-10-29T15:05:40.415Z","sid":"aghq6l","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-29T15:05:42.386Z","sid":"aghq6l","event":"click","route":"/gamescreen","tag":"button","label":"Medien"}
+{"ts":"2026-10-29T15:06:13.798Z","sid":"aghq6l","event":"navigate","to":"/localrefresh","from":"/library"}
+{"ts":"2026-10-29T15:06:16.423Z","sid":"aghq6l","event":"click","route":"/localrefresh","tag":"button","label":"Fortschrittlich"}
+{"ts":"2026-10-29T15:06:18.765Z","sid":"aghq6l","event":"navigate","to":"/extralanguages","from":"/localrefresh"}
+{"ts":"2026-10-29T15:06:21.022Z","sid":"aghq6l","event":"navigate","to":"/screenshots","from":"/extralanguages"}
+{"ts":"2026-10-29T15:06:23.207Z","sid":"aghq6l","event":"navigate","to":"/workshopdownloader","from":"/screenshots"}
+{"ts":"2026-10-29T15:06:25.530Z","sid":"aghq6l","event":"click","route":"/workshopdownloader","tag":"button","label":"Legen Sie los"}
+{"ts":"2026-10-29T15:06:38.667Z","sid":"aghq6l","event":"navigate","to":"/settings","from":"/workshopdownloader"}
+{"ts":"2026-10-29T15:06:40.868Z","sid":"aghq6l","event":"click","route":"/settings","tag":"button","label":"Русский"}
+{"ts":"2026-10-29T15:06:56.403Z","sid":"aghq6l","event":"navigate","to":"/stats","from":"/settings"}
+{"ts":"2026-10-29T15:06:58.844Z","sid":"aghq6l","event":"click","route":"/stats","tag":"button","label":"90 дней"}
+{"ts":"2026-10-29T15:07:12.676Z","sid":"aghq6l","event":"navigate","to":"/library","from":"/stats"}
+{"ts":"2026-10-29T15:07:14.664Z","sid":"aghq6l","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-29T15:07:18.814Z","sid":"aghq6l","event":"navigate","to":"/localrefresh","from":"/library"}
+{"ts":"2026-10-29T15:07:21.385Z","sid":"aghq6l","event":"click","route":"/localrefresh","tag":"button","label":"Передовой"}
+{"ts":"2026-10-29T15:07:35.582Z","sid":"aghq6l","event":"navigate","to":"/library","from":"/localrefresh"}
+{"ts":"2026-10-29T15:07:37.611Z","sid":"aghq6l","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-29T15:08:11.249Z","sid":"aghq6l","event":"navigate","to":"/extralanguages","from":"/library"}
+{"ts":"2026-10-29T15:08:13.592Z","sid":"aghq6l","event":"navigate","to":"/screenshots","from":"/extralanguages"}
+{"ts":"2026-10-29T15:08:15.802Z","sid":"aghq6l","event":"navigate","to":"/workshopdownloader","from":"/screenshots"}
+{"ts":"2026-10-29T15:08:18.090Z","sid":"aghq6l","event":"click","route":"/workshopdownloader","tag":"button","label":"Начать"}
+{"ts":"2026-10-29T15:08:26.269Z","sid":"aghq6l","event":"navigate","to":"/settings","from":"/workshopdownloader"}
+{"ts":"2026-10-29T15:08:28.499Z","sid":"aghq6l","event":"click","route":"/settings","tag":"button","label":"العربية"}
+{"ts":"2026-10-29T15:08:52.422Z","sid":"aghq6l","event":"navigate","to":"/stats","from":"/settings"}
+{"ts":"2026-10-29T15:08:54.915Z","sid":"aghq6l","event":"click","route":"/stats","tag":"button","label":"90 يوما"}
+{"ts":"2026-10-29T15:09:13.570Z","sid":"aghq6l","event":"navigate","to":"/library","from":"/stats"}
+{"ts":"2026-10-29T15:09:15.615Z","sid":"aghq6l","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-29T15:09:20.921Z","sid":"aghq6l","event":"navigate","to":"/localrefresh","from":"/library"}
+{"ts":"2026-10-29T15:09:23.429Z","sid":"aghq6l","event":"click","route":"/localrefresh","tag":"button","label":"متقدم"}
+{"ts":"2026-10-29T15:09:25.613Z","sid":"aghq6l","event":"navigate","to":"/extralanguages","from":"/localrefresh"}
+{"ts":"2026-10-29T15:09:27.831Z","sid":"aghq6l","event":"navigate","to":"/screenshots","from":"/extralanguages"}
+{"ts":"2026-10-29T15:09:30.027Z","sid":"aghq6l","event":"navigate","to":"/workshopdownloader","from":"/screenshots"}
+{"ts":"2026-10-29T15:09:32.333Z","sid":"aghq6l","event":"click","route":"/workshopdownloader","tag":"button","label":"ابدأ"}
+{"ts":"2026-10-29T15:09:42.705Z","sid":"aghq6l","event":"navigate","to":"/settings","from":"/workshopdownloader"}
+{"ts":"2026-10-29T15:09:44.920Z","sid":"aghq6l","event":"click","route":"/settings","tag":"button","label":"हिन्दी"}
+{"ts":"2026-10-29T15:10:04.572Z","sid":"aghq6l","event":"navigate","to":"/stats","from":"/settings"}
+{"ts":"2026-10-29T15:10:07.016Z","sid":"aghq6l","event":"click","route":"/stats","tag":"button","label":"90 दिन"}
+{"ts":"2026-10-29T15:10:27.892Z","sid":"aghq6l","event":"navigate","to":"/library","from":"/stats"}
+{"ts":"2026-10-29T15:10:29.908Z","sid":"aghq6l","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-29T15:10:35.184Z","sid":"aghq6l","event":"navigate","to":"/localrefresh","from":"/library"}
+{"ts":"2026-10-29T15:10:37.718Z","sid":"aghq6l","event":"click","route":"/localrefresh","tag":"button","label":"विकसित"}
+{"ts":"2026-10-29T15:10:39.954Z","sid":"aghq6l","event":"navigate","to":"/extralanguages","from":"/localrefresh"}
+{"ts":"2026-10-29T15:10:42.216Z","sid":"aghq6l","event":"navigate","to":"/screenshots","from":"/extralanguages"}
+{"ts":"2026-10-29T15:10:44.421Z","sid":"aghq6l","event":"navigate","to":"/workshopdownloader","from":"/screenshots"}
+{"ts":"2026-10-29T15:10:46.695Z","sid":"aghq6l","event":"click","route":"/workshopdownloader","tag":"button","label":"शुरू हो जाओ"}
+{"ts":"2026-10-29T15:10:55.820Z","sid":"aghq6l","event":"navigate","to":"/settings","from":"/workshopdownloader"}
+{"ts":"2026-10-29T15:10:58.029Z","sid":"aghq6l","event":"click","route":"/settings","tag":"button","label":"বাংলা"}
+{"ts":"2026-10-29T15:11:11.010Z","sid":"aghq6l","event":"navigate","to":"/stats","from":"/settings"}
+{"ts":"2026-10-29T15:11:13.481Z","sid":"aghq6l","event":"click","route":"/stats","tag":"button","label":"90 দিন"}
+{"ts":"2026-10-29T15:11:31.811Z","sid":"aghq6l","event":"navigate","to":"/library","from":"/stats"}
+{"ts":"2026-10-29T15:11:33.808Z","sid":"aghq6l","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-29T15:11:39.175Z","sid":"aghq6l","event":"navigate","to":"/localrefresh","from":"/library"}
+{"ts":"2026-10-29T15:11:41.695Z","sid":"aghq6l","event":"click","route":"/localrefresh","tag":"button","label":"উন্নত"}
+{"ts":"2026-10-29T15:11:43.903Z","sid":"aghq6l","event":"navigate","to":"/extralanguages","from":"/localrefresh"}
+{"ts":"2026-10-29T15:11:46.151Z","sid":"aghq6l","event":"navigate","to":"/screenshots","from":"/extralanguages"}
+{"ts":"2026-10-29T15:11:48.337Z","sid":"aghq6l","event":"navigate","to":"/workshopdownloader","from":"/screenshots"}
+{"ts":"2026-10-29T15:11:50.623Z","sid":"aghq6l","event":"click","route":"/workshopdownloader","tag":"button","label":"শুরু করুন"}
+{"ts":"2026-10-29T15:11:58.194Z","sid":"aghq6l","event":"navigate","to":"/settings","from":"/workshopdownloader"}
+{"ts":"2026-10-29T15:12:00.418Z","sid":"aghq6l","event":"click","route":"/settings","tag":"button","label":"日本語"}
+{"ts":"2026-10-29T15:12:12.313Z","sid":"aghq6l","event":"navigate","to":"/stats","from":"/settings"}
+{"ts":"2026-10-29T15:12:14.779Z","sid":"aghq6l","event":"click","route":"/stats","tag":"button","label":"90日間"}
+{"ts":"2026-10-29T15:12:49.099Z","sid":"aghq6l","event":"navigate","to":"/library","from":"/stats"}
+{"ts":"2026-10-29T15:12:51.132Z","sid":"aghq6l","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-29T15:12:56.355Z","sid":"aghq6l","event":"navigate","to":"/localrefresh","from":"/library"}
