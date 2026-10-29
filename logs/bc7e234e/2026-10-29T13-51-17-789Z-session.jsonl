@@ -1,0 +1,16 @@
+{"ts":"2026-10-29T13:31:13.515Z","sid":"uvd5q0","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T13:31:27.411Z","sid":"uvd5q0","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T13:31:30.846Z","sid":"uvd5q0","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-29T13:31:33.526Z","sid":"uvd5q0","event":"click","route":"/settings","tag":"button","label":"Tutoriais"}
+{"ts":"2026-10-29T13:31:43.261Z","sid":"uvd5q0","event":"click","route":"/settings","tag":"button","label":"Primeiros passosConhecendo o GMXPara que serve cada botão da barra de navegação e as telas principais.5 passos →"}
+{"ts":"2026-10-29T13:31:44.547Z","sid":"uvd5q0","event":"click","route":"/settings","tag":"div","label":"Voltar aos tutoriaisConhecendo o GMXPara que serve cada botão da barra de navegação e as telas principais.1A barra de na"}
+{"ts":"2026-10-29T13:31:44.911Z","sid":"uvd5q0","event":"click","route":"/settings","tag":"button","label":"Voltar aos tutoriais"}
+{"ts":"2026-10-29T13:31:47.128Z","sid":"uvd5q0","event":"click","route":"/settings","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-29T13:32:05.882Z","sid":"uvd5q0","event":"navigate","to":"/tutorials","from":"/"}
+{"ts":"2026-10-29T13:32:28.236Z","sid":"uvd5q0","event":"click","route":"/tutorials","tag":"button","label":"BaixarAdicionar a bibliotecahero / title / pills / sidebarJogos e downloadsComo baixar um jogoDa busca até o jogo instal"}
+{"ts":"2026-10-29T13:32:38.029Z","sid":"uvd5q0","event":"click","route":"/tutorials","tag":"img","label":""}
+{"ts":"2026-10-29T13:46:59.953Z","sid":"uvd5q0","event":"navigate","to":"/stats","from":"/tutorials"}
+{"ts":"2026-10-29T13:47:02.596Z","sid":"uvd5q0","event":"navigate","to":"/workshopdownloader","from":"/stats"}
+{"ts":"2026-10-29T13:47:14.901Z","sid":"uvd5q0","event":"click","route":"/workshopdownloader","tag":"button","label":"Começar"}
+{"ts":"2026-10-29T13:47:16.682Z","sid":"uvd5q0","event":"navigate","to":"/localrefresh","from":"/workshopdownloader"}
+{"ts":"2026-10-29T13:51:06.582Z","sid":"uvd5q0","event":"navigate","to":"/library","from":"/localrefresh"}
