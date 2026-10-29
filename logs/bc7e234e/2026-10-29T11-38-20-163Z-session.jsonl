@@ -1,0 +1,5 @@
+{"ts":"2026-10-29T11:36:15.527Z","sid":"ip8811","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T11:36:30.243Z","sid":"ip8811","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T11:36:33.626Z","sid":"ip8811","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-29T11:36:35.194Z","sid":"ip8811","event":"click","route":"/library","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-29T11:37:38.346Z","sid":"ip8811","event":"click","route":"/settings","tag":"p","label":"Veja a lista completa de idiomas"}
