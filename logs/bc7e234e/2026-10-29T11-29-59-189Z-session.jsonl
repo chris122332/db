@@ -1,0 +1,22 @@
+{"ts":"2026-10-29T11:24:45.805Z","sid":"jumboy","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T11:24:59.944Z","sid":"jumboy","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T11:25:08.201Z","sid":"jumboy","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-29T11:25:10.260Z","sid":"jumboy","event":"click","route":"/library","tag":"div","label":"eFootball™Playing"}
+{"ts":"2026-10-29T11:25:14.450Z","sid":"jumboy","event":"click","route":"/gamescreen","tag":"img","label":""}
+{"ts":"2026-10-29T11:25:23.577Z","sid":"jumboy","event":"click","route":"/gamescreen","tag":"button","label":"Próximo"}
+{"ts":"2026-10-29T11:25:24.706Z","sid":"jumboy","event":"click","route":"/gamescreen","tag":"button","label":"Próximo"}
+{"ts":"2026-10-29T11:25:25.795Z","sid":"jumboy","event":"click","route":"/gamescreen","tag":"button","label":"Próximo"}
+{"ts":"2026-10-29T11:25:26.585Z","sid":"jumboy","event":"click","route":"/gamescreen","tag":"button","label":"Próximo"}
+{"ts":"2026-10-29T11:25:27.281Z","sid":"jumboy","event":"click","route":"/gamescreen","tag":"button","label":"Próximo"}
+{"ts":"2026-10-29T11:25:27.915Z","sid":"jumboy","event":"click","route":"/gamescreen","tag":"button","label":"Próximo"}
+{"ts":"2026-10-29T11:25:28.881Z","sid":"jumboy","event":"click","route":"/gamescreen","tag":"button","label":"Próximo"}
+{"ts":"2026-10-29T11:25:33.434Z","sid":"jumboy","event":"click","route":"/gamescreen","tag":"button","label":"Anterior"}
+{"ts":"2026-10-29T11:25:35.657Z","sid":"jumboy","event":"click","route":"/gamescreen","tag":"button","label":"Rolar para frente"}
+{"ts":"2026-10-29T11:25:36.177Z","sid":"jumboy","event":"click","route":"/gamescreen","tag":"button","label":""}
+{"ts":"2026-10-29T11:25:40.761Z","sid":"jumboy","event":"click","route":"/gamescreen","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-29T11:25:45.051Z","sid":"jumboy","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-29T11:25:46.448Z","sid":"jumboy","event":"click","route":"/library","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-29T11:25:50.498Z","sid":"jumboy","event":"click","route":"/settings","tag":"button","label":"Tutoriais"}
+{"ts":"2026-10-29T11:25:55.224Z","sid":"jumboy","event":"click","route":"/settings","tag":"button","label":"Funcionalidades"}
+{"ts":"2026-10-29T11:25:57.977Z","sid":"jumboy","event":"click","route":"/settings","tag":"button","label":"Jogos e índice"}
+{"ts":"2026-10-29T11:28:53.657Z","sid":"jumboy","event":"click","route":"/settings","tag":"button","label":"Idioma"}
