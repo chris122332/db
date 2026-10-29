@@ -1,0 +1,7 @@
+{"ts":"2026-10-29T11:23:17.182Z","sid":"d6avyp","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T11:23:32.821Z","sid":"d6avyp","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T11:23:37.957Z","sid":"d6avyp","event":"click","route":"/","tag":"button","label":"Sempre permitir este jogo"}
+{"ts":"2026-10-29T11:23:40.040Z","sid":"d6avyp","event":"click","route":"/","tag":"div","label":"Atualizado mais recentemente12+"}
+{"ts":"2026-10-29T11:23:40.337Z","sid":"d6avyp","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-29T11:23:44.528Z","sid":"d6avyp","event":"click","route":"/settings","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-29T11:23:47.089Z","sid":"d6avyp","event":"click","route":"/library","tag":"div","label":"eFootball™Playing"}
