@@ -1,0 +1,26 @@
+{"ts":"2026-10-29T11:08:08.145Z","sid":"2yf4vp","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T11:08:23.850Z","sid":"2yf4vp","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T11:08:29.415Z","sid":"2yf4vp","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-29T11:08:34.254Z","sid":"2yf4vp","event":"click","route":"/settings","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-29T11:08:35.289Z","sid":"2yf4vp","event":"click","route":"/library","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-29T11:08:50.183Z","sid":"2yf4vp","event":"click","route":"/community","tag":"button","label":"Lost Wiki Kozlovka"}
+{"ts":"2026-10-29T11:08:51.608Z","sid":"2yf4vp","event":"click","route":"/community","tag":"div","label":""}
+{"ts":"2026-10-29T11:08:52.023Z","sid":"2yf4vp","event":"click","route":"/community","tag":"div","label":"Visualizador de Imagem"}
+{"ts":"2026-10-29T11:08:54.030Z","sid":"2yf4vp","event":"click","route":"/community","tag":"button","label":"Grids26"}
+{"ts":"2026-10-29T11:08:56.286Z","sid":"2yf4vp","event":"click","route":"/community","tag":"button","label":"BioShock Remastered600×900SteamGridDB"}
+{"ts":"2026-10-29T11:08:57.163Z","sid":"2yf4vp","event":"click","route":"/community","tag":"div","label":"Visualizador de Imagem"}
+{"ts":"2026-10-29T11:09:00.246Z","sid":"2yf4vp","event":"click","route":"/community","tag":"button","label":"Grids17"}
+{"ts":"2026-10-29T11:09:00.606Z","sid":"2yf4vp","event":"click","route":"/community","tag":"button","label":"Heroes26"}
+{"ts":"2026-10-29T11:09:07.711Z","sid":"2yf4vp","event":"click","route":"/community","tag":"button","label":"Logos21"}
+{"ts":"2026-10-29T11:09:11.558Z","sid":"2yf4vp","event":"click","route":"/community","tag":"button","label":"Beast of Reincarnation"}
+{"ts":"2026-10-29T11:09:13.438Z","sid":"2yf4vp","event":"click","route":"/community","tag":"div","label":"Visualizador de Imagem"}
+{"ts":"2026-10-29T11:09:16.791Z","sid":"2yf4vp","event":"click","route":"/community","tag":"button","label":"Início"}
+{"ts":"2026-10-29T11:09:18.767Z","sid":"2yf4vp","event":"click","route":"/community","tag":"div","label":""}
+{"ts":"2026-10-29T11:09:22.063Z","sid":"2yf4vp","event":"click","route":"/community","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-29T11:09:26.879Z","sid":"2yf4vp","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-29T11:09:55.655Z","sid":"2yf4vp","event":"click","route":"/library","tag":"div","label":"eFootball™"}
+{"ts":"2026-10-29T11:09:57.847Z","sid":"2yf4vp","event":"click","route":"/gamescreen","tag":"button","label":"Jogar"}
+{"ts":"2026-10-29T11:10:13.183Z","sid":"2yf4vp","event":"click","route":"/gamescreen","tag":"p","label":"Gêneros: Simulation, Sports, Free To Play"}
+{"ts":"2026-10-29T11:10:14.631Z","sid":"2yf4vp","event":"click","route":"/gamescreen","tag":"button","label":"Voltar"}
+{"ts":"2026-10-29T11:10:31.888Z","sid":"2yf4vp","event":"click","route":"/library","tag":"p","label":"eFootball™"}
+{"ts":"2026-10-29T11:11:05.792Z","sid":"2yf4vp","event":"click","route":"/gamescreen","tag":"div","label":""}
