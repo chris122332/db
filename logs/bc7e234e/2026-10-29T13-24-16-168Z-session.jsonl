@@ -1,0 +1,9 @@
+{"ts":"2026-10-29T13:18:10.948Z","sid":"7kmbrk","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T13:18:25.713Z","sid":"7kmbrk","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T13:18:32.627Z","sid":"7kmbrk","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-29T13:19:28.118Z","sid":"7kmbrk","event":"click","route":"/library","tag":"div","label":"GMX"}
+{"ts":"2026-10-29T13:19:39.710Z","sid":"7kmbrk","event":"click","route":"/library","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-29T13:19:46.915Z","sid":"7kmbrk","event":"click","route":"/community","tag":"button","label":"Entrar na tela cheia"}
+{"ts":"2026-10-29T13:20:39.022Z","sid":"7kmbrk","event":"navigate","to":"/library","from":"/"}
+{"ts":"2026-10-29T13:21:19.091Z","sid":"7kmbrk","event":"click","route":"/library","tag":"div","label":"Rodando agora · 2mineFootball™Playing                  eFootball™Rodando agora · 2minEuro Truck Simulator 2             "}
+{"ts":"2026-10-29T13:24:12.479Z","sid":"7kmbrk","event":"navigate","to":"/tutorials","from":"/library"}
