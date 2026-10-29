@@ -1,0 +1,26 @@
+{"ts":"2026-10-27T23:43:47.791Z","sid":"bk8x6f","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-27T23:44:01.103Z","sid":"bk8x6f","event":"page-ready","route":"/"}
+{"ts":"2026-10-27T23:44:04.647Z","sid":"bk8x6f","event":"click","route":"/","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-27T23:44:05.886Z","sid":"bk8x6f","event":"click","route":"/downloads","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-27T23:44:07.809Z","sid":"bk8x6f","event":"click","route":"/community","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-27T23:44:09.991Z","sid":"bk8x6f","event":"click","route":"/settings","tag":"button","label":"Gerenciar"}
+{"ts":"2026-10-27T23:44:12.286Z","sid":"bk8x6f","event":"click","route":"/localrefresh","tag":"button","label":""}
+{"ts":"2026-10-27T23:44:15.991Z","sid":"bk8x6f","event":"click","route":"/localrefresh","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-27T23:44:17.174Z","sid":"bk8x6f","event":"click","route":"/downloads","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-27T23:44:18.638Z","sid":"bk8x6f","event":"click","route":"/community","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-27T23:44:20.534Z","sid":"bk8x6f","event":"click","route":"/","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-27T23:44:21.750Z","sid":"bk8x6f","event":"click","route":"/community","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-27T23:44:23.334Z","sid":"bk8x6f","event":"click","route":"/settings","tag":"button","label":"Gerenciar"}
+{"ts":"2026-10-27T23:44:24.823Z","sid":"bk8x6f","event":"click","route":"/localrefresh","tag":"button","label":"Sincronizar agora"}
+{"ts":"2026-10-27T23:44:32.023Z","sid":"bk8x6f","event":"click","route":"/localrefresh","tag":"div","label":"Sincronizando...Mudar"}
+{"ts":"2026-10-27T23:44:32.454Z","sid":"bk8x6f","event":"click","route":"/localrefresh","tag":"div","label":"Sincronizando...Mudar"}
+{"ts":"2026-10-27T23:44:32.983Z","sid":"bk8x6f","event":"click","route":"/localrefresh","tag":"div","label":"Sincronizando...Mudar"}
+{"ts":"2026-10-27T23:44:33.584Z","sid":"bk8x6f","event":"click","route":"/localrefresh","tag":"div","label":"Sincronizando...Mudar"}
+{"ts":"2026-10-27T23:44:34.319Z","sid":"bk8x6f","event":"click","route":"/localrefresh","tag":"div","label":"Sincronizando...Mudar"}
+{"ts":"2026-10-27T23:44:36.776Z","sid":"bk8x6f","event":"click","route":"/localrefresh","tag":"div","label":"Sincronizando...Mudar"}
+{"ts":"2026-10-27T23:44:48.735Z","sid":"bk8x6f","event":"click","route":"/localrefresh","tag":"button","label":"Mudar"}
+{"ts":"2026-10-27T23:44:54.854Z","sid":"bk8x6f","event":"click","route":"/localrefresh","tag":"button","label":"RexaGamesProvides pre-installed PC games via direct download links.3.025 jogos3.57(14)vikingfile · 34datanodes · 4"}
+{"ts":"2026-10-27T23:44:58.328Z","sid":"bk8x6f","event":"click","route":"/localrefresh","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-27T23:44:59.254Z","sid":"bk8x6f","event":"click","route":"/downloads","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-27T23:45:33.743Z","sid":"bk8x6f","event":"click","route":"/community","tag":"button","label":"Fechar"}
+{"ts":"2026-10-27T23:45:33.804Z","sid":"bk8x6f","event":"app-quit"}
