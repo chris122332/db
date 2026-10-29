@@ -1,0 +1,6 @@
+{"ts":"2026-10-29T15:33:42.345Z","sid":"eaixq9","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T15:33:44.241Z","sid":"eaixq9","event":"telemetry-upload-failed","file":"2026-10-29T15-33-42-349Z-session.jsonl","msg":"is at 218d20bbd9c3f2b158df9a9f8111298a7151405d but expected 944a976a992d6de8721bd07ec38ac455f79004bb"}
+{"ts":"2026-10-29T15:33:49.655Z","sid":"eaixq9","event":"telemetry-upload-failed","file":"2026-10-29T15-33-46-356Z-debug.log","msg":"is at 5a689fd733d89f0f781887f88a963adcb0fbcfc7 but expected 235ac7aa2d424cafb099d9676ec07ee898a472b6"}
+{"ts":"2026-10-29T15:33:54.915Z","sid":"eaixq9","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T15:35:45.599Z","sid":"eaixq9","event":"telemetry-upload-failed","file":"2026-10-29T15-35-42-374Z-debug.log","msg":"is at b2f44768f37d95d3df106be36e90f32dddb667f2 but expected a7ce5334f28d996c73d8d70e897f34feb30d19e7"}
+{"ts":"2026-10-29T15:36:28.006Z","sid":"eaixq9","event":"page-ready","route":"/"}
