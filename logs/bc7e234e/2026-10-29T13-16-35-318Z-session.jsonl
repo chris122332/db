@@ -1,0 +1,11 @@
+{"ts":"2026-10-29T13:11:27.179Z","sid":"otepoz","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T13:11:43.089Z","sid":"otepoz","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T13:11:56.512Z","sid":"otepoz","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-29T13:12:01.829Z","sid":"otepoz","event":"click","route":"/settings","tag":"p","label":"Veja a lista completa de idiomas"}
+{"ts":"2026-10-29T13:12:05.155Z","sid":"otepoz","event":"click","route":"/extralanguages","tag":"button","label":"Ελληνικά(Greek)"}
+{"ts":"2026-10-29T13:12:06.484Z","sid":"otepoz","event":"click","route":"/extralanguages","tag":"button","label":"Continuar"}
+{"ts":"2026-10-29T13:12:10.732Z","sid":"otepoz","event":"click","route":"/extralanguages","tag":"input","label":"Procurar idiomas..."}
+{"ts":"2026-10-29T13:12:11.184Z","sid":"otepoz","event":"click","route":"/extralanguages","tag":"input","label":"Procurar idiomas..."}
+{"ts":"2026-10-29T13:12:11.686Z","sid":"otepoz","event":"click","route":"/extralanguages","tag":"input","label":"Procurar idiomas..."}
+{"ts":"2026-10-29T13:12:12.409Z","sid":"otepoz","event":"click","route":"/extralanguages","tag":"div","label":"Idiomas Adicionais93Escolha entre 93 idiomas adicionais. Esses idiomas serão traduzidos no seu computador.Afrikaans(Afri"}
+{"ts":"2026-10-29T13:12:14.375Z","sid":"otepoz","event":"click","route":"/extralanguages","tag":"input","label":"Procurar idiomas..."}
