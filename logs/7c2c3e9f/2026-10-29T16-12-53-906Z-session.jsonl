@@ -1,0 +1,29 @@
+{"ts":"2026-10-29T15:54:49.861Z","sid":"nb5wo9","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T15:54:53.846Z","sid":"nb5wo9","event":"telemetry-upload-failed","file":"2026-10-29T15-54-49-866Z-debug.log","msg":"is at bb8aa62af48556813d74bb41cbca4fd1f6cf6d23 but expected 34258f52571f9b8a00062aceaa776b70bd9f83a5"}
+{"ts":"2026-10-29T15:54:57.144Z","sid":"nb5wo9","event":"telemetry-upload-failed","file":"2026-10-29T15-54-53-876Z-debug.log","msg":"is at 2607b28ad7b68c1e8139277cd685f19316171308 but expected 7bf0ab098d08c6359da8464c6cdffb0fbd6e59b4"}
+{"ts":"2026-10-29T15:54:57.949Z","sid":"nb5wo9","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T15:58:56.877Z","sid":"nb5wo9","event":"telemetry-upload-failed","file":"2026-10-29T15-58-53-865Z-debug.log","msg":"is at 034ff209dbe82690aa9a232a4ecbae603d2ba192 but expected ab39fc920c14798936ef49fd0c4bb429867d1f32"}
+{"ts":"2026-10-29T15:59:19.255Z","sid":"nb5wo9","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T16:00:55.627Z","sid":"nb5wo9","event":"telemetry-upload-failed","file":"2026-10-29T16-00-53-871Z-session.jsonl","msg":"is at 1091763cb8ab565f13be1da5bd0359f30bb48fff but expected 8d0f7a4397b737bb862be98126554d91ef9c8a1e"}
+{"ts":"2026-10-29T16:02:57.383Z","sid":"nb5wo9","event":"telemetry-upload-failed","file":"2026-10-29T16-02-53-888Z-debug.log","msg":"is at 0e36204101a49c103393ac2419e359a79481c3b1 but expected dfa8fb76b659e1260234c3c711097b7b18f0ef05"}
+{"ts":"2026-10-29T16:04:56.948Z","sid":"nb5wo9","event":"telemetry-upload-failed","file":"2026-10-29T16-04-53-891Z-debug.log","msg":"is at b67d0804245f7af32e3cd6ba5f25fc24d8da0893 but expected 5e1e49d864ba08e8fff2ad7cfe96b87b15fc89bc"}
+{"ts":"2026-10-29T16:05:35.132Z","sid":"nb5wo9","event":"navigate","to":"/","from":"/"}
+{"ts":"2026-10-29T16:05:46.331Z","sid":"nb5wo9","event":"navigate","to":"/library","from":"/"}
+{"ts":"2026-10-29T16:05:51.182Z","sid":"nb5wo9","event":"navigate","to":"/downloads","from":"/library"}
+{"ts":"2026-10-29T16:05:55.708Z","sid":"nb5wo9","event":"navigate","to":"/","from":"/downloads"}
+{"ts":"2026-10-29T16:06:07.473Z","sid":"nb5wo9","event":"navigate","to":"/","from":"/"}
+{"ts":"2026-10-29T16:06:12.387Z","sid":"nb5wo9","event":"navigate","to":"/settings","from":"/"}
+{"ts":"2026-10-29T16:06:16.518Z","sid":"nb5wo9","event":"click","route":"/settings","tag":"button","label":"Giochi e indice"}
+{"ts":"2026-10-29T16:06:22.758Z","sid":"nb5wo9","event":"click","route":"/settings","tag":"button","label":"Big Picture"}
+{"ts":"2026-10-29T16:06:29.044Z","sid":"nb5wo9","event":"click","route":"/settings","tag":"button","label":"Generale e aspetto"}
+{"ts":"2026-10-29T16:06:35.506Z","sid":"nb5wo9","event":"click","route":"/settings","tag":"button","label":"Generale e aspetto"}
+{"ts":"2026-10-29T16:06:43.049Z","sid":"nb5wo9","event":"click","route":"/settings","tag":"button","label":"Generale e aspetto"}
+{"ts":"2026-10-29T16:06:51.000Z","sid":"nb5wo9","event":"click","route":"/settings","tag":"div","label":""}
+{"ts":"2026-10-29T16:06:54.370Z","sid":"nb5wo9","event":"navigate","to":"/bigpicture","from":"/settings"}
+{"ts":"2026-10-29T16:06:57.416Z","sid":"nb5wo9","event":"telemetry-upload-failed","file":"2026-10-29T16-06-53-896Z-debug.log","msg":"is at 0aba2a7963a071b55937e8228589fc5fe913ce42 but expected 5369924ef9d29ab4809a4e1b954146e0fb94265e"}
+{"ts":"2026-10-29T16:08:55.170Z","sid":"nb5wo9","event":"telemetry-upload-failed","file":"2026-10-29T16-08-53-894Z-session.jsonl","msg":"is at 8e7f3799bb998072184433424bcda460d5750502 but expected 37e03558406789cbb976a00a58d004e8b74e9605"}
+{"ts":"2026-10-29T16:08:58.601Z","sid":"nb5wo9","event":"page-ready","route":"/bigpicture"}
+{"ts":"2026-10-29T16:10:56.957Z","sid":"nb5wo9","event":"telemetry-upload-failed","file":"2026-10-29T16-10-53-900Z-debug.log","msg":"is at 806ae9b1e81bc73a19ae634e2d2e73873fe4cffb but expected 45a086fec7576aea90a70cc7838a29831d570c4f"}
+{"ts":"2026-10-29T16:12:09.757Z","sid":"nb5wo9","event":"navigate","to":"/library","from":"/bigpicture"}
+{"ts":"2026-10-29T16:12:15.868Z","sid":"nb5wo9","event":"navigate","to":"/","from":"/library"}
+{"ts":"2026-10-29T16:12:31.041Z","sid":"nb5wo9","event":"navigate","to":"/library","from":"/"}
