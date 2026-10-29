@@ -1,0 +1,6 @@
+{"ts":"2026-10-29T15:33:44.695Z","sid":"htvsod","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T15:33:51.504Z","sid":"htvsod","event":"telemetry-upload-failed","file":"2026-10-29T15-33-48-713Z-debug.log","msg":"is at 95dec1ecb08cd90866552990d7c4c3a393c54525 but expected 3b18d10958a20ae0f3945574058ac27c7fde1b0f"}
+{"ts":"2026-10-29T15:33:56.692Z","sid":"htvsod","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T15:36:28.083Z","sid":"htvsod","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T15:39:47.492Z","sid":"htvsod","event":"telemetry-upload-failed","file":"2026-10-29T15-39-44-764Z-debug.log","msg":"is at 1330370317c5f82f1a48fb53bc8c70b398816244 but expected a699f3e0f5be42690d35a1ab44b34f33628dc633"}
+{"ts":"2026-10-29T15:41:54.131Z","sid":"htvsod","event":"page-ready","route":"/"}
