@@ -1,0 +1,9 @@
+{"ts":"2026-10-29T13:06:18.285Z","sid":"e6ewfa","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T13:06:34.945Z","sid":"e6ewfa","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T13:07:21.432Z","sid":"e6ewfa","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-29T13:07:23.988Z","sid":"e6ewfa","event":"click","route":"/settings","tag":"button","label":"English"}
+{"ts":"2026-10-29T13:07:26.862Z","sid":"e6ewfa","event":"click","route":"/settings","tag":"button","label":"Português"}
+{"ts":"2026-10-29T13:07:28.248Z","sid":"e6ewfa","event":"click","route":"/settings","tag":"p","label":"Veja a lista completa de idiomas"}
+{"ts":"2026-10-29T13:07:37.769Z","sid":"e6ewfa","event":"click","route":"/extralanguages","tag":"button","label":"Azərbaycan dili(Azerbaijani)"}
+{"ts":"2026-10-29T13:07:38.829Z","sid":"e6ewfa","event":"click","route":"/extralanguages","tag":"button","label":"Continuar"}
+{"ts":"2026-10-29T13:07:50.516Z","sid":"e6ewfa","event":"click","route":"/extralanguages","tag":"div","label":"Idiomas Adicionais93Escolha entre 93 idiomas adicionais. Esses idiomas serão traduzidos no seu computador.Afrikaans(Afri"}
