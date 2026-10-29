@@ -1,0 +1,2 @@
+{"ts":"2026-10-29T15:33:42.345Z","sid":"eaixq9","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T15:33:44.241Z","sid":"eaixq9","event":"telemetry-upload-failed","file":"2026-10-29T15-33-42-349Z-session.jsonl","msg":"is at 218d20bbd9c3f2b158df9a9f8111298a7151405d but expected 944a976a992d6de8721bd07ec38ac455f79004bb"}
