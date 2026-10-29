@@ -1,0 +1,12 @@
+{"ts":"2026-10-29T14:13:03.175Z","sid":"99x97z","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T14:13:18.160Z","sid":"99x97z","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T14:13:22.433Z","sid":"99x97z","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-29T14:13:25.351Z","sid":"99x97z","event":"click","route":"/settings","tag":"button","label":"Tutoriais"}
+{"ts":"2026-10-29T14:13:29.836Z","sid":"99x97z","event":"click","route":"/settings","tag":"button","label":"Primeiros passosColocando o app no seu idiomaDoze idiomas prontos — e mais 93 que o app traduz na hora, no seu computado"}
+{"ts":"2026-10-29T14:13:34.185Z","sid":"99x97z","event":"click","route":"/settings","tag":"button","label":"Voltar aos tutoriais"}
+{"ts":"2026-10-29T14:13:37.783Z","sid":"99x97z","event":"click","route":"/settings","tag":"button","label":"Jogos e downloadsUsando o GMX sem internetO app traz fontes embutidas: buscar jogos continua funcionando offline.2 passo"}
+{"ts":"2026-10-29T14:16:06.638Z","sid":"99x97z","event":"click","route":"/settings","tag":"img","label":""}
+{"ts":"2026-10-29T14:16:10.215Z","sid":"99x97z","event":"click","route":"/settings","tag":"div","label":""}
+{"ts":"2026-10-29T14:16:10.869Z","sid":"99x97z","event":"click","route":"/settings","tag":"img","label":""}
+{"ts":"2026-10-29T14:16:14.431Z","sid":"99x97z","event":"click","route":"/settings","tag":"div","label":""}
+{"ts":"2026-10-29T14:16:19.758Z","sid":"99x97z","event":"click","route":"/settings","tag":"img","label":""}
