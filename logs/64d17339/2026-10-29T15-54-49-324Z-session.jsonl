@@ -1,0 +1,3 @@
+{"ts":"2026-10-29T15:54:45.310Z","sid":"6k07su","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T15:54:47.028Z","sid":"6k07su","event":"telemetry-upload-failed","file":"2026-10-29T15-54-45-314Z-session.jsonl","msg":"is at 06c3286cd86bebeca8b0750ea93dcb0a90ba51fb but expected 0aa3e27714afb58014308a7521486e6dbd806efd"}
+{"ts":"2026-10-29T15:54:48.130Z","sid":"6k07su","event":"page-ready","route":"/"}
