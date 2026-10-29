@@ -1,0 +1,8 @@
+{"ts":"2026-10-29T14:46:53.869Z","sid":"aghq6l","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T14:47:07.807Z","sid":"aghq6l","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T14:47:20.603Z","sid":"aghq6l","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-29T14:47:27.163Z","sid":"aghq6l","event":"click","route":"/settings","tag":"button","label":"Tutoriais"}
+{"ts":"2026-10-29T14:47:33.441Z","sid":"aghq6l","event":"click","route":"/settings","tag":"button","label":"Jogos e downloadsUsando o GMX sem internetO app traz fontes embutidas: buscar jogos continua funcionando offline.2 passo"}
+{"ts":"2026-10-29T14:47:35.464Z","sid":"aghq6l","event":"click","route":"/settings","tag":"img","label":""}
+{"ts":"2026-10-29T14:47:36.775Z","sid":"aghq6l","event":"click","route":"/settings","tag":"div","label":""}
+{"ts":"2026-10-29T14:47:38.322Z","sid":"aghq6l","event":"click","route":"/settings","tag":"button","label":"Voltar aos tutoriais"}
