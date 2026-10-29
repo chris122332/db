@@ -1,0 +1,54 @@
+{"ts":"2026-10-29T13:31:13.515Z","sid":"uvd5q0","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T13:31:27.411Z","sid":"uvd5q0","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T13:31:30.846Z","sid":"uvd5q0","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-29T13:31:33.526Z","sid":"uvd5q0","event":"click","route":"/settings","tag":"button","label":"Tutoriais"}
+{"ts":"2026-10-29T13:31:43.261Z","sid":"uvd5q0","event":"click","route":"/settings","tag":"button","label":"Primeiros passosConhecendo o GMXPara que serve cada botão da barra de navegação e as telas principais.5 passos →"}
+{"ts":"2026-10-29T13:31:44.547Z","sid":"uvd5q0","event":"click","route":"/settings","tag":"div","label":"Voltar aos tutoriaisConhecendo o GMXPara que serve cada botão da barra de navegação e as telas principais.1A barra de na"}
+{"ts":"2026-10-29T13:31:44.911Z","sid":"uvd5q0","event":"click","route":"/settings","tag":"button","label":"Voltar aos tutoriais"}
+{"ts":"2026-10-29T13:31:47.128Z","sid":"uvd5q0","event":"click","route":"/settings","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-29T13:32:05.882Z","sid":"uvd5q0","event":"navigate","to":"/tutorials","from":"/"}
+{"ts":"2026-10-29T13:32:28.236Z","sid":"uvd5q0","event":"click","route":"/tutorials","tag":"button","label":"BaixarAdicionar a bibliotecahero / title / pills / sidebarJogos e downloadsComo baixar um jogoDa busca até o jogo instal"}
+{"ts":"2026-10-29T13:32:38.029Z","sid":"uvd5q0","event":"click","route":"/tutorials","tag":"img","label":""}
+{"ts":"2026-10-29T13:46:59.953Z","sid":"uvd5q0","event":"navigate","to":"/stats","from":"/tutorials"}
+{"ts":"2026-10-29T13:47:02.596Z","sid":"uvd5q0","event":"navigate","to":"/workshopdownloader","from":"/stats"}
+{"ts":"2026-10-29T13:47:14.901Z","sid":"uvd5q0","event":"click","route":"/workshopdownloader","tag":"button","label":"Começar"}
+{"ts":"2026-10-29T13:47:16.682Z","sid":"uvd5q0","event":"navigate","to":"/localrefresh","from":"/workshopdownloader"}
+{"ts":"2026-10-29T13:51:06.582Z","sid":"uvd5q0","event":"navigate","to":"/library","from":"/localrefresh"}
+{"ts":"2026-10-29T13:51:18.576Z","sid":"uvd5q0","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-29T13:51:30.148Z","sid":"uvd5q0","event":"click","route":"/gamescreen","tag":"button","label":"Mídia"}
+{"ts":"2026-10-29T13:51:47.408Z","sid":"uvd5q0","event":"navigate","to":"/stats","from":"/library"}
+{"ts":"2026-10-29T13:51:49.748Z","sid":"uvd5q0","event":"navigate","to":"/extralanguages","from":"/stats"}
+{"ts":"2026-10-29T13:51:51.832Z","sid":"uvd5q0","event":"navigate","to":"/settings","from":"/extralanguages"}
+{"ts":"2026-10-29T13:52:19.137Z","sid":"uvd5q0","event":"click","route":"/settings","tag":"button","label":"Sistema"}
+{"ts":"2026-10-29T13:52:21.104Z","sid":"uvd5q0","event":"navigate","to":"/screenshots","from":"/settings"}
+{"ts":"2026-10-29T13:52:22.841Z","sid":"uvd5q0","event":"navigate","to":"/stats","from":"/screenshots"}
+{"ts":"2026-10-29T13:52:24.213Z","sid":"uvd5q0","event":"click","route":"/stats","tag":"button","label":"90 dias"}
+{"ts":"2026-10-29T13:52:58.061Z","sid":"uvd5q0","event":"navigate","to":"/settings","from":"/stats"}
+{"ts":"2026-10-29T13:52:59.753Z","sid":"uvd5q0","event":"click","route":"/settings","tag":"button","label":"Idioma"}
+{"ts":"2026-10-29T13:53:19.600Z","sid":"uvd5q0","event":"navigate","to":"/localrefresh","from":"/settings"}
+{"ts":"2026-10-29T13:53:21.299Z","sid":"uvd5q0","event":"click","route":"/localrefresh","tag":"button","label":"Avançado"}
+{"ts":"2026-10-29T13:57:31.159Z","sid":"uvd5q0","event":"navigate","to":"/tutorials","from":"/localrefresh"}
+{"ts":"2026-10-29T13:57:37.904Z","sid":"uvd5q0","event":"page-ready","route":"/tutorials"}
+{"ts":"2026-10-29T13:57:47.042Z","sid":"uvd5q0","event":"click","route":"/tutorials","tag":"button","label":"BaixarAdicionar a bibliotecahero / title / pills / sidebarJogos e downloadsComo baixar um jogoDa busca até o jogo instal"}
+{"ts":"2026-10-29T13:58:19.674Z","sid":"uvd5q0","event":"click","route":"/tutorials","tag":"button","label":"Voltar aos tutoriais"}
+{"ts":"2026-10-29T13:58:21.857Z","sid":"uvd5q0","event":"crash","message":"Invalid event object","stack":"Error: Invalid event object\n    at Server.<anonymous> (C:\\Users\\c2644\\Downloads\\github.com\\ascendara-main\\ascendara-main\\electron\\modules\\dev-bridge.js:162:27)\n    at Server.emit (node:events:509:28)\n    at parserOnIncoming (node:_http_server:1213:12)\n    at HTTPParser.parserOnHeadersComplete (node:_http_common:125:17)"}
+{"ts":"2026-10-29T14:01:55.463Z","sid":"uvd5q0","event":"click","route":"/tutorials","tag":"button","label":"Jogos e downloads"}
+{"ts":"2026-10-29T14:01:57.296Z","sid":"uvd5q0","event":"click","route":"/tutorials","tag":"button","label":"Primeiros passos"}
+{"ts":"2026-10-29T14:01:58.913Z","sid":"uvd5q0","event":"click","route":"/tutorials","tag":"button","label":"Modo console"}
+{"ts":"2026-10-29T14:02:40.847Z","sid":"uvd5q0","event":"click","route":"/tutorials","tag":"button","label":"Todos"}
+{"ts":"2026-10-29T14:03:03.844Z","sid":"uvd5q0","event":"page-ready","route":"/tutorials"}
+{"ts":"2026-10-29T14:03:23.760Z","sid":"uvd5q0","event":"navigate","to":"/settings","from":"/tutorials"}
+{"ts":"2026-10-29T14:03:25.793Z","sid":"uvd5q0","event":"click","route":"/settings","tag":"button","label":"Idioma"}
+{"ts":"2026-10-29T14:03:27.469Z","sid":"uvd5q0","event":"click","route":"/settings","tag":"button","label":"English"}
+{"ts":"2026-10-29T14:03:56.753Z","sid":"uvd5q0","event":"navigate","to":"/stats","from":"/settings"}
+{"ts":"2026-10-29T14:03:59.386Z","sid":"uvd5q0","event":"click","route":"/stats","tag":"button","label":"90 days"}
+{"ts":"2026-10-29T14:04:01.517Z","sid":"uvd5q0","event":"navigate","to":"/workshopdownloader","from":"/stats"}
+{"ts":"2026-10-29T14:04:03.602Z","sid":"uvd5q0","event":"click","route":"/workshopdownloader","tag":"button","label":"Get Started"}
+{"ts":"2026-10-29T14:04:05.391Z","sid":"uvd5q0","event":"navigate","to":"/localrefresh","from":"/workshopdownloader"}
+{"ts":"2026-10-29T14:04:07.813Z","sid":"uvd5q0","event":"click","route":"/localrefresh","tag":"button","label":"Advanced"}
+{"ts":"2026-10-29T14:04:09.533Z","sid":"uvd5q0","event":"navigate","to":"/extralanguages","from":"/localrefresh"}
+{"ts":"2026-10-29T14:04:11.618Z","sid":"uvd5q0","event":"navigate","to":"/library","from":"/extralanguages"}
+{"ts":"2026-10-29T14:04:13.543Z","sid":"uvd5q0","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-29T14:04:15.466Z","sid":"uvd5q0","event":"click","route":"/gamescreen","tag":"button","label":"Media"}
+{"ts":"2026-10-29T14:04:18.801Z","sid":"uvd5q0","event":"navigate","to":"/screenshots","from":"/library"}
+{"ts":"2026-10-29T14:05:16.314Z","sid":"uvd5q0","event":"navigate","to":"/settings","from":"/screenshots"}
