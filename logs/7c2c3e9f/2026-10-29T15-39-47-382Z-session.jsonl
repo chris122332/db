@@ -1,0 +1,7 @@
+{"ts":"2026-10-29T15:33:47.330Z","sid":"2oirvf","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T15:33:52.494Z","sid":"2oirvf","event":"telemetry-upload-failed","file":"2026-10-29T15-33-51-342Z-session.jsonl","msg":"is at 43a50b49d59326d26180877f5a0745acb328c542 but expected 95dec1ecb08cd90866552990d7c4c3a393c54525"}
+{"ts":"2026-10-29T15:33:59.183Z","sid":"2oirvf","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T15:36:28.234Z","sid":"2oirvf","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T15:38:14.421Z","sid":"2oirvf","event":"click","route":"/","tag":"a","label":"Download di TorboxDownload di Torbox"}
+{"ts":"2026-10-29T15:38:16.998Z","sid":"2oirvf","event":"click","route":"/torboxdownloads","tag":"a","label":"RicercaRicerca"}
+{"ts":"2026-10-29T15:38:17.901Z","sid":"2oirvf","event":"click","route":"/search","tag":"a","label":"CasaCasa"}
