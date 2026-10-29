@@ -1,0 +1,13 @@
+{"ts":"2026-10-29T11:11:57.536Z","sid":"vg2eaz","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T11:12:11.227Z","sid":"vg2eaz","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T11:12:14.720Z","sid":"vg2eaz","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-29T11:12:16.903Z","sid":"vg2eaz","event":"click","route":"/library","tag":"div","label":"eFootball™"}
+{"ts":"2026-10-29T11:12:18.775Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"button","label":"Jogar"}
+{"ts":"2026-10-29T11:12:24.839Z","sid":"vg2eaz","event":"click","route":"/gamescreen","tag":"button","label":"Voltar"}
+{"ts":"2026-10-29T11:12:40.521Z","sid":"vg2eaz","event":"click","route":"/library","tag":"button","label":"Ferramentas de desenvolvedor"}
+{"ts":"2026-10-29T11:13:07.136Z","sid":"vg2eaz","event":"click","route":"/library","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-29T11:13:10.625Z","sid":"vg2eaz","event":"click","route":"/settings","tag":"button","label":"Idioma"}
+{"ts":"2026-10-29T11:13:11.983Z","sid":"vg2eaz","event":"click","route":"/settings","tag":"p","label":"Escolha seu idioma preferido para a IU"}
+{"ts":"2026-10-29T11:13:12.423Z","sid":"vg2eaz","event":"click","route":"/settings","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-29T11:13:59.311Z","sid":"vg2eaz","event":"click","route":"/settings","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-29T11:14:01.919Z","sid":"vg2eaz","event":"click","route":"/library","tag":"div","label":"eFootball™Playing"}
