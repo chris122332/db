@@ -1,0 +1,7 @@
+{"ts":"2026-10-29T14:21:58.825Z","sid":"wzj61c","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T14:22:13.310Z","sid":"wzj61c","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T14:22:39.753Z","sid":"wzj61c","event":"navigate","to":"/stats","from":"/"}
+{"ts":"2026-10-29T14:24:01.575Z","sid":"wzj61c","event":"click","route":"/stats","tag":"div","label":"Média por dia ativo9minDia mais longo: 23 de out. · 31min"}
+{"ts":"2026-10-29T14:25:33.954Z","sid":"wzj61c","event":"navigate","to":"/library","from":"/stats"}
+{"ts":"2026-10-29T14:25:35.755Z","sid":"wzj61c","event":"click","route":"/library","tag":"div","label":"The Coffin of Andy and Leyley"}
+{"ts":"2026-10-29T14:25:37.672Z","sid":"wzj61c","event":"click","route":"/gamescreen","tag":"button","label":"Mídia"}
