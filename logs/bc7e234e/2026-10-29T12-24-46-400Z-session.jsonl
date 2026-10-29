@@ -1,0 +1,5 @@
+{"ts":"2026-10-29T11:58:41.639Z","sid":"wl7ew7","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T11:58:59.883Z","sid":"wl7ew7","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T11:59:05.688Z","sid":"wl7ew7","event":"click","route":"/","tag":"button","label":"Sempre permitir este jogo"}
+{"ts":"2026-10-29T12:24:41.112Z","sid":"wl7ew7","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-29T12:24:44.552Z","sid":"wl7ew7","event":"click","route":"/settings","tag":"p","label":"Veja a lista completa de idiomas"}
