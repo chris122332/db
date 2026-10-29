@@ -1,0 +1,3 @@
+{"ts":"2026-10-29T11:33:03.620Z","sid":"dgy9mq","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T11:33:18.608Z","sid":"dgy9mq","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T11:33:42.106Z","sid":"dgy9mq","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
