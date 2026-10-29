@@ -1,0 +1,15 @@
+{"ts":"2026-10-29T15:33:40.375Z","sid":"881gv2","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T15:33:47.191Z","sid":"881gv2","event":"telemetry-upload-failed","file":"2026-10-29T15-33-44-394Z-debug.log","msg":"is at 1e3811aea3998a7f83464f8b798441a5cba0b4a5 but expected 94112b9b38501f696288d13bad0915b64a32fb82"}
+{"ts":"2026-10-29T15:33:48.434Z","sid":"881gv2","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T15:33:58.806Z","sid":"881gv2","event":"click","route":"/","tag":"div","label":"HomeHomeSearchSearchLibraryLibraryDownloadsDownloadsCommunityCommunityPreferencesPreferences"}
+{"ts":"2026-10-29T15:33:59.229Z","sid":"881gv2","event":"click","route":"/","tag":"div","label":"Search for games...Press to start searchingLibraryStatisticsHelpNo games in the index yetYour local game index is empty "}
+{"ts":"2026-10-29T15:33:59.607Z","sid":"881gv2","event":"click","route":"/","tag":"div","label":"Search for games...Press to start searchingLibraryStatisticsHelpNo games in the index yetYour local game index is empty "}
+{"ts":"2026-10-29T15:33:59.990Z","sid":"881gv2","event":"click","route":"/","tag":"div","label":"HomeHomeSearchSearchLibraryLibraryDownloadsDownloadsCommunityCommunityPreferencesPreferences"}
+{"ts":"2026-10-29T15:34:00.558Z","sid":"881gv2","event":"click","route":"/","tag":"a","label":"PreferencesPreferences"}
+{"ts":"2026-10-29T15:34:02.415Z","sid":"881gv2","event":"click","route":"/settings","tag":"div","label":"Manage GamesAdd, remove and organise the games in your library. Your library is scanned from the folders you choose.Gmx "}
+{"ts":"2026-10-29T15:34:03.020Z","sid":"881gv2","event":"click","route":"/settings","tag":"button","label":"Manage"}
+{"ts":"2026-10-29T15:34:04.981Z","sid":"881gv2","event":"click","route":"/localrefresh","tag":"button","label":""}
+{"ts":"2026-10-29T15:34:07.108Z","sid":"881gv2","event":"click","route":"/localrefresh","tag":"button","label":"Browse sources"}
+{"ts":"2026-10-29T15:34:09.217Z","sid":"881gv2","event":"click","route":"/localrefresh","tag":"button","label":"FitGirlHome archivist to web's top game repacker: the ultimate source for trustworthy games.8.771 games3.85(163)torrent "}
+{"ts":"2026-10-29T15:34:24.624Z","sid":"881gv2","event":"click","route":"/localrefresh","tag":"a","label":"HomeHome"}
+{"ts":"2026-10-29T15:37:45.432Z","sid":"881gv2","event":"telemetry-upload-failed","file":"2026-10-29T15-37-44-120Z-session.jsonl","msg":"is at e6091654cb8d0ce6d93094e5cb323dd034113925 but expected 2ceb0574596618f8fb84806d478907755fdba8c0"}
