@@ -1,0 +1,27 @@
+{"ts":"2026-10-29T15:30:41.790Z","sid":"cvrbzs","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T15:30:50.839Z","sid":"cvrbzs","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T15:31:11.405Z","sid":"cvrbzs","event":"click","route":"/","tag":"div","label":"No games in the index yetYour local game index is empty or could not be found. Build the index to start browsing the cat"}
+{"ts":"2026-10-29T15:31:12.125Z","sid":"cvrbzs","event":"click","route":"/","tag":"button","label":"Open the game index"}
+{"ts":"2026-10-29T15:31:14.550Z","sid":"cvrbzs","event":"click","route":"/localrefresh","tag":"div","label":"BackYour Game IndexRefresh your game index to see the latest available games.Gmx Launcher IndexYou are using the officia"}
+{"ts":"2026-10-29T15:31:14.918Z","sid":"cvrbzs","event":"click","route":"/localrefresh","tag":"a","label":"HomeHome"}
+{"ts":"2026-10-29T15:31:16.357Z","sid":"cvrbzs","event":"click","route":"/","tag":"a","label":"PreferencesPreferences"}
+{"ts":"2026-10-29T15:31:18.318Z","sid":"cvrbzs","event":"click","route":"/settings","tag":"div","label":"Manage GamesAdd, remove and organise the games in your library. Your library is scanned from the folders you choose.Gmx "}
+{"ts":"2026-10-29T15:31:19.140Z","sid":"cvrbzs","event":"click","route":"/settings","tag":"div","label":"Manage GamesAdd, remove and organise the games in your library. Your library is scanned from the folders you choose.Gmx "}
+{"ts":"2026-10-29T15:31:19.660Z","sid":"cvrbzs","event":"click","route":"/settings","tag":"div","label":"Manage GamesAdd, remove and organise the games in your library. Your library is scanned from the folders you choose.Gmx "}
+{"ts":"2026-10-29T15:31:20.356Z","sid":"cvrbzs","event":"click","route":"/settings","tag":"button","label":"Manage"}
+{"ts":"2026-10-29T15:31:21.624Z","sid":"cvrbzs","event":"click","route":"/localrefresh","tag":"button","label":"Get the index"}
+{"ts":"2026-10-29T15:31:24.500Z","sid":"cvrbzs","event":"click","route":"/localrefresh","tag":"a","label":"HomeHome"}
+{"ts":"2026-10-29T15:31:25.868Z","sid":"cvrbzs","event":"click","route":"/","tag":"button","label":"Open the game index"}
+{"ts":"2026-10-29T15:31:27.150Z","sid":"cvrbzs","event":"click","route":"/localrefresh","tag":"div","label":"Index age"}
+{"ts":"2026-10-29T15:31:27.324Z","sid":"cvrbzs","event":"click","route":"/localrefresh","tag":"div","label":"Index age"}
+{"ts":"2026-10-29T15:31:29.476Z","sid":"cvrbzs","event":"click","route":"/localrefresh","tag":"a","label":"HomeHome"}
+{"ts":"2026-10-29T15:31:30.607Z","sid":"cvrbzs","event":"click","route":"/","tag":"a","label":"PreferencesPreferences"}
+{"ts":"2026-10-29T15:31:32.476Z","sid":"cvrbzs","event":"click","route":"/settings","tag":"div","label":"Manage GamesAdd, remove and organise the games in your library. Your library is scanned from the folders you choose.Gmx "}
+{"ts":"2026-10-29T15:31:33.286Z","sid":"cvrbzs","event":"click","route":"/settings","tag":"div","label":"Manage GamesAdd, remove and organise the games in your library. Your library is scanned from the folders you choose.Gmx "}
+{"ts":"2026-10-29T15:31:33.909Z","sid":"cvrbzs","event":"click","route":"/settings","tag":"button","label":"Manage"}
+{"ts":"2026-10-29T15:31:35.582Z","sid":"cvrbzs","event":"click","route":"/localrefresh","tag":"div","label":"External Sources ModePull games from an external source bucket of your choice instead of Gmx Launcher's official index."}
+{"ts":"2026-10-29T15:31:36.125Z","sid":"cvrbzs","event":"click","route":"/localrefresh","tag":"div","label":"External Sources ModePull games from an external source bucket of your choice instead of Gmx Launcher's official index."}
+{"ts":"2026-10-29T15:31:36.428Z","sid":"cvrbzs","event":"click","route":"/localrefresh","tag":"button","label":""}
+{"ts":"2026-10-29T15:31:38.111Z","sid":"cvrbzs","event":"click","route":"/localrefresh","tag":"button","label":"Browse sources"}
+{"ts":"2026-10-29T15:31:43.035Z","sid":"cvrbzs","event":"click","route":"/localrefresh","tag":"button","label":"FitGirlHome archivist to web's top game repacker: the ultimate source for trustworthy games.8.771 games3.85(163)torrent "}
+{"ts":"2026-10-29T15:32:11.035Z","sid":"cvrbzs","event":"click","route":"/localrefresh","tag":"a","label":"HomeHome"}
