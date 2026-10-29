@@ -1,0 +1,98 @@
+{"ts":"2026-10-27T22:55:28.881Z","sid":"nb9r7v","event":"app-start","version":"1.0.0","isDev":false,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-27T22:55:29.223Z","sid":"nb9r7v","event":"startup-cleanup-none"}
+{"ts":"2026-10-27T22:55:38.110Z","sid":"nb9r7v","event":"page-ready","route":"/welcome"}
+{"ts":"2026-10-27T22:58:24.425Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"button","label":"Português"}
+{"ts":"2026-10-27T22:58:25.430Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"div","label":"PortuguêsQuale è la tua lingua preferita?EnglishالعربيةবাংলাEspañolहिन्दी日本語PortuguêsРусский简体中文ItalianoDeutschFrançaisP"}
+{"ts":"2026-10-27T22:58:26.077Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"button","label":"Próximo"}
+{"ts":"2026-10-27T23:25:56.518Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"label","label":"Eu li e concordo com a Gmx Launcher"}
+{"ts":"2026-10-27T23:25:57.750Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"button","label":"Li e concordo"}
+{"ts":"2026-10-27T23:25:58.438Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"div","label":"Eu li e concordo com a Gmx Launcher Termos de Serviço"}
+{"ts":"2026-10-27T23:25:59.214Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"div","label":"Eu li e concordo com a Gmx Launcher Política de Privacidade"}
+{"ts":"2026-10-27T23:26:00.141Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"button","label":"Começar"}
+{"ts":"2026-10-27T23:26:02.741Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"button","label":"Fontes externasOpcionalEscolha outro catálogo mantido por outra pessoa. Você pode trocar depois nas Configurações.Escolh"}
+{"ts":"2026-10-27T23:27:12.502Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"button","label":"FitGirl | Made by VinikjkkjOfflineThis source and other sources from this author have auto update everyday.7.281 jogos5."}
+{"ts":"2026-10-27T23:27:14.486Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"button","label":"Próximo"}
+{"ts":"2026-10-27T23:27:16.518Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"button","label":"Continuar"}
+{"ts":"2026-10-27T23:27:18.013Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"button","label":"Pular"}
+{"ts":"2026-10-27T23:27:20.565Z","sid":"nb9r7v","event":"click","route":"/welcome","tag":"button","label":"Eu tenho isso, leve-me para o tour"}
+{"ts":"2026-10-27T23:27:21.429Z","sid":"nb9r7v","event":"page-ready","route":"/"}
+{"ts":"2026-10-27T23:27:24.157Z","sid":"nb9r7v","event":"click","route":"/","tag":"button","label":"Próximo"}
+{"ts":"2026-10-27T23:27:28.501Z","sid":"nb9r7v","event":"click","route":"/","tag":"button","label":"Próximo"}
+{"ts":"2026-10-27T23:27:30.934Z","sid":"nb9r7v","event":"click","route":"/","tag":"div","label":"Redimensionar a navegaçãoPrecisa de mais espaço? Você pode redimensionar a barra de navegação arrastando os cantos para "}
+{"ts":"2026-10-27T23:27:31.579Z","sid":"nb9r7v","event":"click","route":"/","tag":"div","label":"Redimensionar a navegaçãoPrecisa de mais espaço? Você pode redimensionar a barra de navegação arrastando os cantos para "}
+{"ts":"2026-10-27T23:27:32.695Z","sid":"nb9r7v","event":"click","route":"/","tag":"button","label":"Próximo"}
+{"ts":"2026-10-27T23:27:34.159Z","sid":"nb9r7v","event":"click","route":"/search","tag":"button","label":"Próximo"}
+{"ts":"2026-10-27T23:28:24.357Z","sid":"nb9r7v","event":"click","route":"/library","tag":"button","label":"Próximo"}
+{"ts":"2026-10-27T23:29:08.205Z","sid":"nb9r7v","event":"click","route":"/downloads","tag":"button","label":"Próximo"}
+{"ts":"2026-10-27T23:29:14.365Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Próximo"}
+{"ts":"2026-10-27T23:29:22.645Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Próximo"}
+{"ts":"2026-10-27T23:29:24.694Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Concluir"}
+{"ts":"2026-10-27T23:29:26.335Z","sid":"nb9r7v","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-27T23:34:41.152Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"a","label":"InícioInício"}
+{"ts":"2026-10-27T23:34:44.222Z","sid":"nb9r7v","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-27T23:34:45.493Z","sid":"nb9r7v","event":"click","route":"/library","tag":"a","label":"ProcurarProcurar"}
+{"ts":"2026-10-28T06:57:30.666Z","sid":"nb9r7v","event":"telemetry-upload-failed","file":"2026-10-28T06-57-30-657Z-session.jsonl","msg":"getaddrinfo ENOTFOUND api.github.com"}
+{"ts":"2026-10-28T06:59:30.664Z","sid":"nb9r7v","event":"telemetry-upload-failed","file":"2026-10-28T06-59-30-659Z-session.jsonl","msg":"getaddrinfo ENOTFOUND api.github.com"}
+{"ts":"2026-10-28T07:01:30.668Z","sid":"nb9r7v","event":"telemetry-upload-failed","file":"2026-10-28T07-01-30-662Z-session.jsonl","msg":"getaddrinfo ENOTFOUND api.github.com"}
+{"ts":"2026-10-28T07:09:51.752Z","sid":"nb9r7v","event":"telemetry-upload-failed","file":"2026-10-28T07-09-30-681Z-session.jsonl","msg":"connect ETIMEDOUT 4.228.31.149:443"}
+{"ts":"2026-10-28T07:11:51.777Z","sid":"nb9r7v","event":"telemetry-upload-failed","file":"2026-10-28T07-11-30-692Z-session.jsonl","msg":"connect ETIMEDOUT 4.228.31.149:443"}
+{"ts":"2026-10-28T07:13:30.707Z","sid":"nb9r7v","event":"telemetry-upload-failed","file":"2026-10-28T07-13-30-702Z-session.jsonl","msg":"getaddrinfo ENOTFOUND api.github.com"}
+{"ts":"2026-10-28T07:15:30.720Z","sid":"nb9r7v","event":"telemetry-upload-failed","file":"2026-10-28T07-15-30-715Z-session.jsonl","msg":"getaddrinfo ENOTFOUND api.github.com"}
+{"ts":"2026-10-28T07:35:51.827Z","sid":"nb9r7v","event":"telemetry-upload-failed","file":"2026-10-28T07-35-30-780Z-session.jsonl","msg":"connect ETIMEDOUT 4.228.31.149:443"}
+{"ts":"2026-10-28T07:37:41.870Z","sid":"nb9r7v","event":"telemetry-upload-failed","file":"2026-10-28T07-37-30-789Z-session.jsonl","msg":"getaddrinfo ENOTFOUND api.github.com"}
+{"ts":"2026-10-28T07:39:41.855Z","sid":"nb9r7v","event":"telemetry-upload-failed","file":"2026-10-28T07-39-30-793Z-session.jsonl","msg":"getaddrinfo ENOTFOUND api.github.com"}
+{"ts":"2026-10-28T07:41:30.813Z","sid":"nb9r7v","event":"telemetry-upload-failed","file":"2026-10-28T07-41-30-808Z-session.jsonl","msg":"getaddrinfo ENOTFOUND api.github.com"}
+{"ts":"2026-10-28T16:13:56.406Z","sid":"nb9r7v","event":"page-ready","route":"/"}
+{"ts":"2026-10-28T16:14:09.246Z","sid":"nb9r7v","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-28T16:14:11.325Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Jogos e índice"}
+{"ts":"2026-10-28T16:14:15.747Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Rever a configuração inicialRefazer o assistente na próxima abertura"}
+{"ts":"2026-10-28T16:14:22.068Z","sid":"nb9r7v","event":"page-ready","route":"/settings"}
+{"ts":"2026-10-28T16:14:28.013Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Français"}
+{"ts":"2026-10-28T16:14:33.827Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"简体中文"}
+{"ts":"2026-10-28T16:14:36.497Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"日本語"}
+{"ts":"2026-10-28T16:14:39.526Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"বাংলা"}
+{"ts":"2026-10-28T16:14:43.460Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"العربية"}
+{"ts":"2026-10-28T16:14:44.732Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"हिन्दी"}
+{"ts":"2026-10-28T16:14:48.255Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Русский"}
+{"ts":"2026-10-28T16:14:50.088Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Deutsch"}
+{"ts":"2026-10-28T16:14:51.877Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Italiano"}
+{"ts":"2026-10-28T16:14:53.896Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Português"}
+{"ts":"2026-10-28T16:14:55.078Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Español"}
+{"ts":"2026-10-28T16:14:56.557Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"English"}
+{"ts":"2026-10-28T16:15:00.420Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"简体中文"}
+{"ts":"2026-10-28T16:15:02.660Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"简体中文"}
+{"ts":"2026-10-28T16:15:03.914Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"div","label":"简体中文Quelle est votre langue préférée?EnglishالعربيةবাংলাEspañolहिन्दी日本語PortuguêsРусский简体中文ItalianoDeutschFrançais下一个您稍"}
+{"ts":"2026-10-28T16:15:05.227Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"下一个"}
+{"ts":"2026-10-28T16:15:54.796Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"后退"}
+{"ts":"2026-10-28T16:15:56.368Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Português"}
+{"ts":"2026-10-28T16:16:00.182Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Próximo"}
+{"ts":"2026-10-28T16:16:07.507Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"div","label":"Eu li e concordo com a Gmx Launcher Termos de Serviço"}
+{"ts":"2026-10-28T16:16:10.932Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Li e concordo"}
+{"ts":"2026-10-28T16:16:12.059Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"div","label":"Eu li e concordo com a Gmx Launcher Termos de Serviço"}
+{"ts":"2026-10-28T16:16:12.669Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"label","label":"Eu li e concordo com a Gmx Launcher"}
+{"ts":"2026-10-28T16:16:13.507Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Começar"}
+{"ts":"2026-10-28T16:16:15.443Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Próximo"}
+{"ts":"2026-10-28T16:16:19.243Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Arctic Sky"}
+{"ts":"2026-10-28T16:16:19.963Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Ocean Blue"}
+{"ts":"2026-10-28T16:16:20.483Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"GMX Purple"}
+{"ts":"2026-10-28T16:16:21.237Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Amber Sand"}
+{"ts":"2026-10-28T16:16:21.908Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Rose"}
+{"ts":"2026-10-28T16:16:22.708Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Emerald"}
+{"ts":"2026-10-28T16:16:23.916Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Temas escuros"}
+{"ts":"2026-10-28T16:16:25.163Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Dark Blue"}
+{"ts":"2026-10-28T16:16:32.227Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Midnight"}
+{"ts":"2026-10-28T16:16:33.659Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Forest"}
+{"ts":"2026-10-28T16:16:35.334Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Continuar"}
+{"ts":"2026-10-28T16:16:37.595Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Pular"}
+{"ts":"2026-10-28T16:16:40.014Z","sid":"nb9r7v","event":"click","route":"/settings","tag":"button","label":"Eu tenho isso, leve-me para o tour"}
+{"ts":"2026-10-28T16:16:44.300Z","sid":"nb9r7v","event":"click","route":"/","tag":"button","label":"Próximo"}
+{"ts":"2026-10-28T16:16:45.028Z","sid":"nb9r7v","event":"click","route":"/","tag":"div","label":"Barra de navegaçãoÉ aqui que você alternará entre as páginas do Gmx Launcher. Você também pode usar a tecla de controle "}
+{"ts":"2026-10-28T16:16:45.867Z","sid":"nb9r7v","event":"click","route":"/","tag":"button","label":"Próximo"}
+{"ts":"2026-10-28T16:16:46.259Z","sid":"nb9r7v","event":"click","route":"/","tag":"button","label":"Próximo"}
+{"ts":"2026-10-28T16:16:47.692Z","sid":"nb9r7v","event":"click","route":"/search","tag":"div","label":"Pesquisar e baixarÉ aqui que você pesquisa e baixa jogos. Navegue pela enorme coleção e encontre o seu próximo jogo favo"}
+{"ts":"2026-10-28T16:16:48.844Z","sid":"nb9r7v","event":"click","route":"/search","tag":"button","label":"Próximo"}
+{"ts":"2026-10-28T16:32:35.054Z","sid":"nb9r7v","event":"click","route":"/library","tag":"div","label":"Controlador detectadoO Gmx Launcher detectou um controle conectado ao seu dispositivo. Quer entrar no Big Picture para t"}
+{"ts":"2026-10-28T16:32:35.342Z","sid":"nb9r7v","event":"click","route":"/library","tag":"div","label":"O Gmx Launcher detectou um controle conectado ao seu dispositivo. Quer entrar no Big Picture para ter uma experiência me"}
+{"ts":"2026-10-28T16:32:36.358Z","sid":"nb9r7v","event":"click","route":"/library","tag":"button","label":"Entrar no Big PictureA"}
+{"ts":"2026-10-28T16:32:37.444Z","sid":"nb9r7v","event":"click","route":"/bigpicture","tag":"span","label":"n"}
+{"ts":"2026-10-29T03:45:38.087Z","sid":"nb9r7v","event":"telemetry-upload-failed","file":"2026-10-29T03-45-34-985Z-debug.log","msg":"HTTP 500"}
