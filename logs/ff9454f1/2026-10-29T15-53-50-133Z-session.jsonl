@@ -1,0 +1,13 @@
+{"ts":"2026-10-29T15:33:50.038Z","sid":"whbfo2","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T15:34:03.161Z","sid":"whbfo2","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T15:36:28.329Z","sid":"whbfo2","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T15:39:04.188Z","sid":"whbfo2","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T15:39:24.196Z","sid":"whbfo2","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T15:41:54.631Z","sid":"whbfo2","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T15:45:51.344Z","sid":"whbfo2","event":"telemetry-upload-failed","file":"2026-10-29T15-45-50-098Z-session.jsonl","msg":"is at 8a675cc53b11112018267aaea39431d8a92cd797 but expected b31ba8b1151f798a4239fc7b160e4f66636bf774"}
+{"ts":"2026-10-29T15:49:51.250Z","sid":"whbfo2","event":"telemetry-upload-failed","file":"2026-10-29T15-49-50-124Z-session.jsonl","msg":"is at 101f84db80ae2be6641903fd351f5cca30358ae2 but expected 38dbd5e67724917283dfcc1201c35aa6555e365c"}
+{"ts":"2026-10-29T15:50:18.851Z","sid":"whbfo2","event":"navigate","to":"/","from":"/"}
+{"ts":"2026-10-29T15:50:21.421Z","sid":"whbfo2","event":"navigate","to":"/library","from":"/"}
+{"ts":"2026-10-29T15:50:24.418Z","sid":"whbfo2","event":"navigate","to":"/downloads","from":"/library"}
+{"ts":"2026-10-29T15:50:27.385Z","sid":"whbfo2","event":"navigate","to":"/","from":"/downloads"}
+{"ts":"2026-10-29T15:50:31.081Z","sid":"whbfo2","event":"navigate","to":"/gamescreen","from":"/"}
