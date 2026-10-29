@@ -1,0 +1,7 @@
+{"ts":"2026-10-29T15:46:09.751Z","sid":"eguyp7","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-29T15:46:18.000Z","sid":"eguyp7","event":"page-ready","route":"/"}
+{"ts":"2026-10-29T15:46:39.926Z","sid":"eguyp7","event":"navigate","to":"/","from":"/"}
+{"ts":"2026-10-29T15:46:42.691Z","sid":"eguyp7","event":"navigate","to":"/library","from":"/"}
+{"ts":"2026-10-29T15:46:45.729Z","sid":"eguyp7","event":"navigate","to":"/downloads","from":"/library"}
+{"ts":"2026-10-29T15:46:48.712Z","sid":"eguyp7","event":"navigate","to":"/","from":"/downloads"}
+{"ts":"2026-10-29T15:46:52.691Z","sid":"eguyp7","event":"navigate","to":"/gamescreen","from":"/"}
