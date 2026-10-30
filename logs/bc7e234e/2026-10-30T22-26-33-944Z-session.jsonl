@@ -1,0 +1,11 @@
+{"ts":"2026-10-30T22:16:29.707Z","sid":"us9eq7","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-30T22:16:45.529Z","sid":"us9eq7","event":"page-ready","route":"/"}
+{"ts":"2026-10-30T22:17:26.412Z","sid":"us9eq7","event":"click","route":"/","tag":"a","label":"Downloads1Downloads"}
+{"ts":"2026-10-30T22:17:29.702Z","sid":"us9eq7","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-30T22:17:30.850Z","sid":"us9eq7","event":"click","route":"/downloads","tag":"div","label":"Pausar download"}
+{"ts":"2026-10-30T22:17:34.138Z","sid":"us9eq7","event":"click","route":"/downloads","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-10-30T22:17:36.950Z","sid":"us9eq7","event":"click","route":"/community","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-30T22:17:39.801Z","sid":"us9eq7","event":"click","route":"/downloads","tag":"div","label":"Agendador de downloadsDesativadoAbrir configurações"}
+{"ts":"2026-10-30T22:17:41.114Z","sid":"us9eq7","event":"click","route":"/downloads","tag":"button","label":"Abrir configurações"}
+{"ts":"2026-10-30T22:26:13.882Z","sid":"us9eq7","event":"click","route":"/settings","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-30T22:26:16.929Z","sid":"us9eq7","event":"click","route":"/downloads","tag":"div","label":"It Takes Two45 GBDownload interrompidoO download foi interrompido. Clique em Continuar para continuar de onde parou.Reto"}
