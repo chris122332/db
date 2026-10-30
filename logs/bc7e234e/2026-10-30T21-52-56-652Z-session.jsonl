@@ -1,0 +1,21 @@
+{"ts":"2026-10-30T21:48:14.084Z","sid":"lcio0i","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-30T21:48:31.509Z","sid":"lcio0i","event":"page-ready","route":"/"}
+{"ts":"2026-10-30T21:52:02.192Z","sid":"lcio0i","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-30T21:52:08.551Z","sid":"lcio0i","event":"click","route":"/library","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-30T21:52:11.215Z","sid":"lcio0i","event":"click","route":"/downloads","tag":"button","label":"Ver detalhes"}
+{"ts":"2026-10-30T21:52:14.336Z","sid":"lcio0i","event":"click","route":"/gamescreen","tag":"span","label":"Nunca jogado"}
+{"ts":"2026-10-30T21:52:20.061Z","sid":"lcio0i","event":"click","route":"/gamescreen","tag":"div","label":"VoltarGerenciadoNunca jogadoLançado em 25 Mar, 2021Desenvolvido por Hazelight StudiosPublicado por Electronic ArtsGênero"}
+{"ts":"2026-10-30T21:52:20.558Z","sid":"lcio0i","event":"click","route":"/gamescreen","tag":"button","label":"Voltar"}
+{"ts":"2026-10-30T21:52:21.888Z","sid":"lcio0i","event":"click","route":"/library","tag":"a","label":"ProcurarProcurar"}
+{"ts":"2026-10-30T21:52:23.717Z","sid":"lcio0i","event":"click","route":"/search","tag":"input","label":"Pesquisar jogos..."}
+{"ts":"2026-10-30T21:52:29.722Z","sid":"lcio0i","event":"click","route":"/search","tag":"div","label":""}
+{"ts":"2026-10-30T21:52:32.210Z","sid":"lcio0i","event":"click","route":"/download","tag":"div","label":"Download disponívelBaixe agoraJogar mais tarde"}
+{"ts":"2026-10-30T21:52:32.574Z","sid":"lcio0i","event":"click","route":"/download","tag":"div","label":"Download disponívelBaixe agoraJogar mais tarde"}
+{"ts":"2026-10-30T21:52:32.999Z","sid":"lcio0i","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-30T21:52:35.065Z","sid":"lcio0i","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-30T21:52:45.889Z","sid":"lcio0i","event":"click","route":"/download","tag":"button","label":"E:\\E:/gmx-games151.9 GB livres de 464.7 GB"}
+{"ts":"2026-10-30T21:52:47.838Z","sid":"lcio0i","event":"click","route":"/download","tag":"button","label":"Continuar"}
+{"ts":"2026-10-30T21:52:51.289Z","sid":"lcio0i","event":"click","route":"/download","tag":"button","label":"Mesclar com Novo DownloadBaixe na pasta existente, mantendo os arquivos que não forem substituídos. Isso pode corromper "}
+{"ts":"2026-10-30T21:52:52.511Z","sid":"lcio0i","event":"click","route":"/download","tag":"button","label":"Mesclar Mesmo Assim"}
+{"ts":"2026-10-30T21:52:52.648Z","sid":"lcio0i","event":"download-request","game":"It Takes Two","dirIndex":1,"linkHost":"ts.bzzhr.to","torrent":false}
+{"ts":"2026-10-30T21:52:52.703Z","sid":"lcio0i","event":"download-spawn","game":"It Takes Two","exe":"python"}
