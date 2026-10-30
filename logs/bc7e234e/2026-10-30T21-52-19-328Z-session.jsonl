@@ -1,0 +1,6 @@
+{"ts":"2026-10-30T21:48:14.084Z","sid":"lcio0i","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-30T21:48:31.509Z","sid":"lcio0i","event":"page-ready","route":"/"}
+{"ts":"2026-10-30T21:52:02.192Z","sid":"lcio0i","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-30T21:52:08.551Z","sid":"lcio0i","event":"click","route":"/library","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-30T21:52:11.215Z","sid":"lcio0i","event":"click","route":"/downloads","tag":"button","label":"Ver detalhes"}
+{"ts":"2026-10-30T21:52:14.336Z","sid":"lcio0i","event":"click","route":"/gamescreen","tag":"span","label":"Nunca jogado"}
