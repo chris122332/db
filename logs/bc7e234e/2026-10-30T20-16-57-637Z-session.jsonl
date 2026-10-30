@@ -1,0 +1,20 @@
+{"ts":"2026-10-30T20:15:46.787Z","sid":"ituiys","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-30T20:16:03.252Z","sid":"ituiys","event":"page-ready","route":"/"}
+{"ts":"2026-10-30T20:16:12.726Z","sid":"ituiys","event":"click","route":"/","tag":"a","label":"ProcurarProcurar"}
+{"ts":"2026-10-30T20:16:15.550Z","sid":"ituiys","event":"click","route":"/search","tag":"input","label":"Pesquisar jogos..."}
+{"ts":"2026-10-30T20:16:21.215Z","sid":"ituiys","event":"click","route":"/search","tag":"div","label":"4.825 Jogos indexadosResultados de pesquisa rápidaIt Takes Two45 GB1 de janeiro de 2025Buscas recentesKimetsu no Yaiba17"}
+{"ts":"2026-10-30T20:16:30.956Z","sid":"ituiys","event":"click","route":"/search","tag":"input","label":"Pesquisar jogos..."}
+{"ts":"2026-10-30T20:16:32.211Z","sid":"ituiys","event":"click","route":"/search","tag":"div","label":"It Takes Two45 GB1 de janeiro de 2025"}
+{"ts":"2026-10-30T20:16:35.628Z","sid":"ituiys","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-30T20:16:37.068Z","sid":"ituiys","event":"click","route":"/download","tag":"body","label":"((e, i, s, u, m, a, l, h) => {\n  let d = document.documentElement, w = [\"light\", \"dark\"];\n  function p(n) {\n    (Array.i"}
+{"ts":"2026-10-30T20:16:38.344Z","sid":"ituiys","event":"click","route":"/download","tag":"div","label":"Seamless (BuzzHeavier)"}
+{"ts":"2026-10-30T20:16:39.259Z","sid":"ituiys","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-30T20:16:44.245Z","sid":"ituiys","event":"click","route":"/download","tag":"body","label":"((e, i, s, u, m, a, l, h) => {\n  let d = document.documentElement, w = [\"light\", \"dark\"];\n  function p(n) {\n    (Array.i"}
+{"ts":"2026-10-30T20:16:45.472Z","sid":"ituiys","event":"click","route":"/download","tag":"div","label":"1fichier"}
+{"ts":"2026-10-30T20:16:46.316Z","sid":"ituiys","event":"click","route":"/download","tag":"body","label":"((e, i, s, u, m, a, l, h) => {\n  let d = document.documentElement, w = [\"light\", \"dark\"];\n  function p(n) {\n    (Array.i"}
+{"ts":"2026-10-30T20:16:47.042Z","sid":"ituiys","event":"click","route":"/download","tag":"div","label":"Seamless (BuzzHeavier)"}
+{"ts":"2026-10-30T20:16:47.790Z","sid":"ituiys","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-30T20:16:52.516Z","sid":"ituiys","event":"click","route":"/download","tag":"button","label":"E:\\E:/gmx-games155.0 GB livres de 464.7 GB"}
+{"ts":"2026-10-30T20:16:53.524Z","sid":"ituiys","event":"click","route":"/download","tag":"button","label":"Continuar"}
+{"ts":"2026-10-30T20:16:53.634Z","sid":"ituiys","event":"download-request","game":"It Takes Two","dirIndex":1,"linkHost":"ts.bzzhr.to","torrent":false}
+{"ts":"2026-10-30T20:16:53.671Z","sid":"ituiys","event":"download-spawn","game":"It Takes Two","exe":"python"}
