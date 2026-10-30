@@ -1,0 +1,23 @@
+{"ts":"2026-10-30T22:36:19.466Z","sid":"kv2ld5","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-30T22:36:35.676Z","sid":"kv2ld5","event":"page-ready","route":"/"}
+{"ts":"2026-10-30T22:36:44.805Z","sid":"kv2ld5","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-30T22:36:46.658Z","sid":"kv2ld5","event":"click","route":"/library","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-30T22:36:50.580Z","sid":"kv2ld5","event":"click","route":"/downloads","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-30T22:36:57.683Z","sid":"kv2ld5","event":"click","route":"/settings","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-30T22:37:17.603Z","sid":"kv2ld5","event":"click","route":"/downloads","tag":"div","label":"Agendador de downloadsAtivo de 03:00 às 08:00Abrir configurações"}
+{"ts":"2026-10-30T22:37:18.043Z","sid":"kv2ld5","event":"click","route":"/downloads","tag":"button","label":"Abrir configurações"}
+{"ts":"2026-10-30T22:37:21.549Z","sid":"kv2ld5","event":"click","route":"/settings","tag":"p","label":"Defina uma janela horaria para o GMX baixar sozinho. Fora dela os downloads ativos sao pausados e retomados do ponto exa"}
+{"ts":"2026-10-30T22:37:22.636Z","sid":"kv2ld5","event":"click","route":"/settings","tag":"div","label":"Comeca asTermina asJanela virada da meia-noite (ex.: 22:00 as 06:00) funciona. Extracao em curso termina antes de pausar"}
+{"ts":"2026-10-30T22:37:23.026Z","sid":"kv2ld5","event":"click","route":"/settings","tag":"input","label":""}
+{"ts":"2026-10-30T22:37:24.683Z","sid":"kv2ld5","event":"click","route":"/settings","tag":"input","label":""}
+{"ts":"2026-10-30T22:37:25.028Z","sid":"kv2ld5","event":"click","route":"/settings","tag":"input","label":""}
+{"ts":"2026-10-30T22:38:02.891Z","sid":"kv2ld5","event":"click","route":"/settings","tag":"input","label":""}
+{"ts":"2026-10-30T22:38:08.714Z","sid":"kv2ld5","event":"click","route":"/settings","tag":"div","label":"Comeca asTermina asJanela virada da meia-noite (ex.: 22:00 as 06:00) funciona. Extracao em curso termina antes de pausar"}
+{"ts":"2026-10-30T22:38:10.085Z","sid":"kv2ld5","event":"click","route":"/settings","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-30T22:38:10.974Z","sid":"kv2ld5","event":"click","route":"/library","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-30T22:38:11.437Z","sid":"kv2ld5","event":"click","route":"/library","tag":"div","label":"InícioInícioProcurarProcurarBibliotecaBibliotecaDownloadsDownloadsComunidadeComunidadePreferênciasPreferências"}
+{"ts":"2026-10-30T22:38:11.874Z","sid":"kv2ld5","event":"click","route":"/library","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-30T22:39:56.909Z","sid":"kv2ld5","event":"click","route":"/downloads","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-30T22:40:14.261Z","sid":"kv2ld5","event":"click","route":"/downloads","tag":"h3","label":"It Takes Two"}
+{"ts":"2026-10-30T22:40:15.739Z","sid":"kv2ld5","event":"click","route":"/downloads","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-30T22:41:19.458Z","sid":"kv2ld5","event":"click","route":"/downloads","tag":"main","label":"Ativos0 download em andamentoVelocidade total atual0.00 MB/sVelocidade máxima0.00 MB/sAtivos0Velocidades de downloadAgen"}
