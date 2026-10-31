@@ -1,0 +1,37 @@
+{"ts":"2026-10-31T13:49:56.038Z","sid":"bmpmtd","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-31T13:50:10.790Z","sid":"bmpmtd","event":"page-ready","route":"/"}
+{"ts":"2026-10-31T13:50:27.835Z","sid":"bmpmtd","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-31T13:50:37.396Z","sid":"bmpmtd","event":"click","route":"/settings","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-31T13:50:44.341Z","sid":"bmpmtd","event":"click","route":"/settings","tag":"div","label":"10"}
+{"ts":"2026-10-31T13:50:45.095Z","sid":"bmpmtd","event":"click","route":"/settings","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-31T13:50:46.582Z","sid":"bmpmtd","event":"click","route":"/settings","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-31T13:50:50.901Z","sid":"bmpmtd","event":"click","route":"/settings","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-31T13:50:51.725Z","sid":"bmpmtd","event":"click","route":"/downloads","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-31T13:50:52.917Z","sid":"bmpmtd","event":"click","route":"/downloads","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-31T13:50:56.873Z","sid":"bmpmtd","event":"click","route":"/settings","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-31T13:50:57.564Z","sid":"bmpmtd","event":"click","route":"/settings","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-31T13:50:58.079Z","sid":"bmpmtd","event":"click","route":"/settings","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-31T13:51:00.026Z","sid":"bmpmtd","event":"click","route":"/settings","tag":"div","label":"10"}
+{"ts":"2026-10-31T13:51:01.519Z","sid":"bmpmtd","event":"click","route":"/settings","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-31T13:51:09.058Z","sid":"bmpmtd","event":"click","route":"/settings","tag":"div","label":"55"}
+{"ts":"2026-10-31T13:51:10.149Z","sid":"bmpmtd","event":"click","route":"/settings","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-31T13:51:15.261Z","sid":"bmpmtd","event":"click","route":"/settings","tag":"div","label":"53"}
+{"ts":"2026-10-31T13:51:18.817Z","sid":"bmpmtd","event":"click","route":"/settings","tag":"svg","label":""}
+{"ts":"2026-10-31T13:51:19.368Z","sid":"bmpmtd","event":"click","route":"/settings","tag":"svg","label":""}
+{"ts":"2026-10-31T13:51:25.512Z","sid":"bmpmtd","event":"click","route":"/settings","tag":"button","label":"Adicionar janela"}
+{"ts":"2026-10-31T13:51:30.898Z","sid":"bmpmtd","event":"click","route":"/settings","tag":"button","label":"Remover janela"}
+{"ts":"2026-10-31T13:51:33.761Z","sid":"bmpmtd","event":"click","route":"/settings","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-10-31T13:51:36.457Z","sid":"bmpmtd","event":"click","route":"/library","tag":"a","label":"ProcurarProcurar"}
+{"ts":"2026-10-31T13:51:38.459Z","sid":"bmpmtd","event":"click","route":"/search","tag":"div","label":"4.825 Jogos indexadosFiltrosJOGO EM DESTAQUEForza Horizon 6139 GBv440.85311 de setembro de 2026TODOS os DLCs incluídosMu"}
+{"ts":"2026-10-31T13:51:39.025Z","sid":"bmpmtd","event":"click","route":"/search","tag":"input","label":"Pesquisar jogos..."}
+{"ts":"2026-10-31T13:51:42.778Z","sid":"bmpmtd","event":"click","route":"/search","tag":"div","label":"It Takes Two"}
+{"ts":"2026-10-31T13:51:44.889Z","sid":"bmpmtd","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-31T13:51:45.834Z","sid":"bmpmtd","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-10-31T13:51:50.419Z","sid":"bmpmtd","event":"click","route":"/download","tag":"button","label":"E:\\E:/gmx-games141.2 GB livres de 464.7 GB"}
+{"ts":"2026-10-31T13:51:51.473Z","sid":"bmpmtd","event":"click","route":"/download","tag":"button","label":"Continuar"}
+{"ts":"2026-10-31T13:51:55.304Z","sid":"bmpmtd","event":"click","route":"/download","tag":"button","label":"Excluir Pasta ExistenteRemova permanentemente a pasta existente antes de baixar."}
+{"ts":"2026-10-31T13:51:56.504Z","sid":"bmpmtd","event":"click","route":"/download","tag":"button","label":"Não, obrigado"}
+{"ts":"2026-10-31T13:51:56.779Z","sid":"bmpmtd","event":"download-request","game":"It Takes Two","dirIndex":1,"linkHost":"ts.bzzhr.to","torrent":false}
+{"ts":"2026-10-31T13:51:59.281Z","sid":"bmpmtd","event":"download-spawn","game":"It Takes Two","exe":"python"}
+{"ts":"2026-10-31T13:52:18.622Z","sid":"bmpmtd","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-31T13:52:19.689Z","sid":"bmpmtd","event":"click","route":"/downloads","tag":"div","label":"Pausar download"}
