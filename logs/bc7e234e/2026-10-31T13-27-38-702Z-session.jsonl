@@ -1,0 +1,11 @@
+{"ts":"2026-10-31T13:21:34.619Z","sid":"atfhts","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-31T13:21:50.183Z","sid":"atfhts","event":"page-ready","route":"/"}
+{"ts":"2026-10-31T13:22:11.305Z","sid":"atfhts","event":"click","route":"/","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-31T13:22:17.661Z","sid":"atfhts","event":"click","route":"/settings","tag":"input","label":""}
+{"ts":"2026-10-31T13:22:34.907Z","sid":"atfhts","event":"click","route":"/settings","tag":"input","label":""}
+{"ts":"2026-10-31T13:22:45.100Z","sid":"atfhts","event":"click","route":"/settings","tag":"div","label":"Agendador de downloadsDefina uma janela horaria para o GMX baixar sozinho. Fora dela os downloads ativos sao pausados e "}
+{"ts":"2026-10-31T13:22:46.283Z","sid":"atfhts","event":"click","route":"/settings","tag":"div","label":"Agendador de downloads"}
+{"ts":"2026-10-31T13:22:46.947Z","sid":"atfhts","event":"click","route":"/settings","tag":"button","label":""}
+{"ts":"2026-10-31T13:22:50.499Z","sid":"atfhts","event":"click","route":"/settings","tag":"button","label":""}
+{"ts":"2026-10-31T13:22:52.802Z","sid":"atfhts","event":"click","route":"/settings","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-31T13:23:53.483Z","sid":"atfhts","event":"click","route":"/downloads","tag":"p","label":"Velocidades de download"}
