@@ -1,0 +1,12 @@
+{"ts":"2026-10-31T13:31:12.021Z","sid":"lbt5g8","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-31T13:31:27.663Z","sid":"lbt5g8","event":"page-ready","route":"/"}
+{"ts":"2026-10-31T13:31:40.625Z","sid":"lbt5g8","event":"click","route":"/","tag":"a","label":"Downloads1Downloads"}
+{"ts":"2026-10-31T13:31:46.414Z","sid":"lbt5g8","event":"click","route":"/downloads","tag":"div","label":""}
+{"ts":"2026-10-31T13:31:47.173Z","sid":"lbt5g8","event":"click","route":"/downloads","tag":"div","label":"45 GB"}
+{"ts":"2026-10-31T13:31:49.169Z","sid":"lbt5g8","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-31T13:31:50.325Z","sid":"lbt5g8","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-31T13:31:51.998Z","sid":"lbt5g8","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-31T13:31:54.197Z","sid":"lbt5g8","event":"click","route":"/downloads","tag":"div","label":"Cancelar download"}
+{"ts":"2026-10-31T13:31:56.469Z","sid":"lbt5g8","event":"click","route":"/downloads","tag":"button","label":"Cancelar download"}
+{"ts":"2026-10-31T13:32:08.231Z","sid":"lbt5g8","event":"click","route":"/downloads","tag":"div","label":""}
+{"ts":"2026-10-31T13:32:14.876Z","sid":"lbt5g8","event":"click","route":"/downloads","tag":"a","label":"PreferênciasPreferências"}
