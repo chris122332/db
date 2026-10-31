@@ -1,0 +1,28 @@
+{"ts":"2026-10-30T22:47:46.960Z","sid":"h56gsq","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-10-30T22:47:58.235Z","sid":"h56gsq","event":"page-ready","route":"/"}
+{"ts":"2026-10-30T22:48:18.157Z","sid":"h56gsq","event":"click","route":"/","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-30T22:48:20.548Z","sid":"h56gsq","event":"click","route":"/downloads","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-30T22:48:25.245Z","sid":"h56gsq","event":"click","route":"/settings","tag":"button","label":""}
+{"ts":"2026-10-30T22:48:28.093Z","sid":"h56gsq","event":"click","route":"/settings","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-30T22:48:30.190Z","sid":"h56gsq","event":"click","route":"/downloads","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-30T22:48:44.317Z","sid":"h56gsq","event":"click","route":"/settings","tag":"input","label":""}
+{"ts":"2026-10-30T22:48:54.102Z","sid":"h56gsq","event":"click","route":"/settings","tag":"div","label":"Termina as"}
+{"ts":"2026-10-30T22:48:54.439Z","sid":"h56gsq","event":"click","route":"/settings","tag":"input","label":""}
+{"ts":"2026-10-30T22:48:55.547Z","sid":"h56gsq","event":"click","route":"/settings","tag":"input","label":""}
+{"ts":"2026-10-30T22:48:56.007Z","sid":"h56gsq","event":"click","route":"/settings","tag":"input","label":""}
+{"ts":"2026-10-30T22:48:56.348Z","sid":"h56gsq","event":"click","route":"/settings","tag":"label","label":"Termina as"}
+{"ts":"2026-10-30T22:48:56.351Z","sid":"h56gsq","event":"click","route":"/settings","tag":"input","label":""}
+{"ts":"2026-10-30T22:48:56.780Z","sid":"h56gsq","event":"click","route":"/settings","tag":"input","label":""}
+{"ts":"2026-10-30T22:48:57.138Z","sid":"h56gsq","event":"click","route":"/settings","tag":"input","label":""}
+{"ts":"2026-10-30T22:48:57.468Z","sid":"h56gsq","event":"click","route":"/settings","tag":"input","label":""}
+{"ts":"2026-10-30T22:49:03.822Z","sid":"h56gsq","event":"click","route":"/settings","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-30T22:49:05.573Z","sid":"h56gsq","event":"click","route":"/downloads","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-10-30T22:49:15.739Z","sid":"h56gsq","event":"click","route":"/settings","tag":"div","label":"Agendador de downloadsDefina uma janela horaria para o GMX baixar sozinho. Fora dela os downloads ativos sao pausados e "}
+{"ts":"2026-10-30T22:49:15.956Z","sid":"h56gsq","event":"click","route":"/settings","tag":"div","label":"Agendador de downloadsDefina uma janela horaria para o GMX baixar sozinho. Fora dela os downloads ativos sao pausados e "}
+{"ts":"2026-10-30T22:49:17.262Z","sid":"h56gsq","event":"click","route":"/settings","tag":"button","label":""}
+{"ts":"2026-10-30T22:49:17.651Z","sid":"h56gsq","event":"click","route":"/settings","tag":"button","label":""}
+{"ts":"2026-10-30T22:49:18.252Z","sid":"h56gsq","event":"click","route":"/settings","tag":"button","label":""}
+{"ts":"2026-10-30T22:49:18.892Z","sid":"h56gsq","event":"click","route":"/settings","tag":"button","label":""}
+{"ts":"2026-10-30T22:49:19.989Z","sid":"h56gsq","event":"click","route":"/settings","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-10-30T22:50:33.656Z","sid":"h56gsq","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
+{"ts":"2026-10-30T22:50:35.843Z","sid":"h56gsq","event":"click","route":"/downloads","tag":"html","label":"Gmx Launcher\n    \n      /* Pre-React, e aqui tinha duas coisas erradas que nao eram o rosa.\n\n         1. A cor. Este era"}
