@@ -1,0 +1,5 @@
+{"ts":"2026-11-01T01:35:21.029Z","sid":"24oznc","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-01T01:35:36.012Z","sid":"24oznc","event":"page-ready","route":"/"}
+{"ts":"2026-11-01T01:35:44.147Z","sid":"24oznc","event":"click","route":"/","tag":"a","label":"RecopiladosRecopilados"}
+{"ts":"2026-11-01T01:35:46.876Z","sid":"24oznc","event":"click","route":"/recopilados","tag":"div","label":"Sem conexão — não foi possível carregar o catálogo."}
+{"ts":"2026-11-01T01:35:47.973Z","sid":"24oznc","event":"click","route":"/recopilados","tag":"button","label":"Atualizar"}
