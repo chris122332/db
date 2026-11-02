@@ -1,0 +1,4 @@
+{"ts":"2026-11-02T16:17:07.024Z","sid":"4r82ae","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-02T16:17:21.040Z","sid":"4r82ae","event":"page-ready","route":"/"}
+{"ts":"2026-11-02T16:17:24.951Z","sid":"4r82ae","event":"click","route":"/","tag":"a","label":"NovidadesNovidades"}
+{"ts":"2026-11-02T16:17:32.335Z","sid":"4r82ae","event":"click","route":"/news","tag":"button","label":"Entrar na tela cheia"}
