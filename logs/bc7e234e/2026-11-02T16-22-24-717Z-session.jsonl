@@ -1,0 +1,5 @@
+{"ts":"2026-11-02T16:20:20.011Z","sid":"ltx56x","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-02T16:20:32.536Z","sid":"ltx56x","event":"page-ready","route":"/"}
+{"ts":"2026-11-02T16:20:37.560Z","sid":"ltx56x","event":"click","route":"/","tag":"a","label":"NovidadesNovidades"}
+{"ts":"2026-11-02T16:21:06.336Z","sid":"ltx56x","event":"click","route":"/news","tag":"button","label":"Entrar na tela cheia"}
+{"ts":"2026-11-02T16:21:14.791Z","sid":"ltx56x","event":"click","route":"/news","tag":"a","label":"ComunidadeComunidade"}
