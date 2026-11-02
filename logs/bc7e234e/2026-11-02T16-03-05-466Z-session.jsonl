@@ -1,0 +1,16 @@
+{"ts":"2026-11-02T15:59:31.174Z","sid":"uboa9i","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-02T15:59:44.246Z","sid":"uboa9i","event":"page-ready","route":"/bigpicture"}
+{"ts":"2026-11-02T15:59:47.136Z","sid":"uboa9i","event":"click","route":"/bigpicture","tag":"div","label":"BLOODSTRIKE foi iniciado fora do GmxSessão externa detectada. O playtime está sendo contabilizado normalmente.Always all"}
+{"ts":"2026-11-02T15:59:56.006Z","sid":"uboa9i","event":"click","route":"/bigpicture","tag":"path","label":""}
+{"ts":"2026-11-02T15:59:56.806Z","sid":"uboa9i","event":"click","route":"/bigpicture","tag":"button","label":"SAIR DO BIG PICTURE"}
+{"ts":"2026-11-02T16:00:00.840Z","sid":"uboa9i","event":"click","route":"/","tag":"div","label":"InícioInícioProcurarProcurarBibliotecaBibliotecaDownloadsDownloadsComunidadeComunidadeNovidadesNovidadesPreferênciasPref"}
+{"ts":"2026-11-02T16:00:01.453Z","sid":"uboa9i","event":"click","route":"/","tag":"a","label":"NovidadesNovidades"}
+{"ts":"2026-11-02T16:00:09.489Z","sid":"uboa9i","event":"click","route":"/news","tag":"div","label":"adrenaline · há 14 hA New Beginning para PC de graça hoje – resgate agora!"}
+{"ts":"2026-11-02T16:00:14.823Z","sid":"uboa9i","event":"click","route":"/news","tag":"button","label":"Tentar de novo"}
+{"ts":"2026-11-02T16:00:28.511Z","sid":"uboa9i","event":"click","route":"/news","tag":"div","label":""}
+{"ts":"2026-11-02T16:00:29.135Z","sid":"uboa9i","event":"click","route":"/news","tag":"button","label":"Traduzir"}
+{"ts":"2026-11-02T16:00:30.037Z","sid":"uboa9i","event":"click","route":"/news","tag":"div","label":"TraduziradrenalineA New Beginning para PC de graça hoje – resgate agora!adrenaline · 01/11/2026Confira os detalhes do no"}
+{"ts":"2026-11-02T16:00:30.397Z","sid":"uboa9i","event":"click","route":"/news","tag":"div","label":"NovidadesNotícias e updates da SteamTraduziradrenaline · há 22 minArduview: novo console retrô aposta em design 100% tra"}
+{"ts":"2026-11-02T16:00:35.415Z","sid":"uboa9i","event":"click","route":"/news","tag":"div","label":"adrenaline · há 22 minArduview: novo console retrô aposta em design 100% transparenteO Arduview fez sucesso no Kickstart"}
+{"ts":"2026-11-02T16:00:39.455Z","sid":"uboa9i","event":"click","route":"/news","tag":"div","label":"Traduziradrenaline"}
+{"ts":"2026-11-02T16:00:41.214Z","sid":"uboa9i","event":"click","route":"/news","tag":"button","label":"Voltar"}
