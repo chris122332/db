@@ -1,0 +1,15 @@
+{"ts":"2026-11-02T17:22:33.741Z","sid":"y4ride","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-02T17:22:48.128Z","sid":"y4ride","event":"page-ready","route":"/"}
+{"ts":"2026-11-02T17:22:52.543Z","sid":"y4ride","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-02T17:22:54.247Z","sid":"y4ride","event":"click","route":"/library","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-11-02T17:23:09.957Z","sid":"y4ride","event":"click","route":"/community","tag":"div","label":"InícioNovidadesGrids4.776Heroes4.783Logos4.815Baixador do Workshop"}
+{"ts":"2026-11-02T17:23:10.456Z","sid":"y4ride","event":"click","route":"/community","tag":"input","label":"Buscar por nome do jogo..."}
+{"ts":"2026-11-02T17:23:11.069Z","sid":"y4ride","event":"click","route":"/community","tag":"button","label":"Baixador do Workshop"}
+{"ts":"2026-11-02T17:23:11.734Z","sid":"y4ride","event":"click","route":"/community","tag":"div","label":"InícioNovidadesGrids4.776Heroes4.783Logos4.815Baixador do Workshop"}
+{"ts":"2026-11-02T17:23:12.549Z","sid":"y4ride","event":"click","route":"/community","tag":"div","label":"InícioNovidadesGrids4.776Heroes4.783Logos4.814Baixador do Workshop"}
+{"ts":"2026-11-02T17:23:12.949Z","sid":"y4ride","event":"click","route":"/community","tag":"button","label":"Logos4.814"}
+{"ts":"2026-11-02T17:23:13.294Z","sid":"y4ride","event":"click","route":"/community","tag":"button","label":"Heroes4.783"}
+{"ts":"2026-11-02T17:23:14.037Z","sid":"y4ride","event":"click","route":"/community","tag":"button","label":"Grids4.776"}
+{"ts":"2026-11-02T17:23:14.655Z","sid":"y4ride","event":"click","route":"/community","tag":"button","label":"Novidades"}
+{"ts":"2026-11-02T17:23:15.253Z","sid":"y4ride","event":"click","route":"/community","tag":"button","label":"Início"}
+{"ts":"2026-11-02T17:23:18.565Z","sid":"y4ride","event":"click","route":"/community","tag":"button","label":"Entrar na tela cheia"}
