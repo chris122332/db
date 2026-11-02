@@ -1,0 +1,7 @@
+{"ts":"2026-11-02T18:17:23.893Z","sid":"0juxqf","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-02T18:17:38.752Z","sid":"0juxqf","event":"page-ready","route":"/"}
+{"ts":"2026-11-02T18:18:04.270Z","sid":"0juxqf","event":"click","route":"/","tag":"div","label":""}
+{"ts":"2026-11-02T18:18:05.602Z","sid":"0juxqf","event":"click","route":"/","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-11-02T18:18:07.385Z","sid":"0juxqf","event":"click","route":"/","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-11-02T18:18:19.548Z","sid":"0juxqf","event":"click","route":"/community","tag":"button","label":"Entrar no Big Picture"}
+{"ts":"2026-11-02T18:18:21.038Z","sid":"0juxqf","event":"click","route":"/bigpicture","tag":"div","label":"@keyframes fadeOut {\n              to {\n                opacity: 0;\n                visibility: hidden;\n                "}
