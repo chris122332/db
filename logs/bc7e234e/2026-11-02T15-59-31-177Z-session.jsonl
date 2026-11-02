@@ -1,0 +1,11 @@
+{"ts":"2026-11-02T15:58:05.538Z","sid":"83k660","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-02T15:58:21.310Z","sid":"83k660","event":"page-ready","route":"/"}
+{"ts":"2026-11-02T15:58:24.652Z","sid":"83k660","event":"click","route":"/","tag":"a","label":"NovidadesNovidades"}
+{"ts":"2026-11-02T15:58:27.136Z","sid":"83k660","event":"click","route":"/news","tag":"a","label":"NovidadesNovidades"}
+{"ts":"2026-11-02T15:58:32.840Z","sid":"83k660","event":"click","route":"/news","tag":"div","label":"gamespot · há 2 hResident Evil Director Reacts To Backlash: “I Should Have Known Better”"}
+{"ts":"2026-11-02T15:58:39.493Z","sid":"83k660","event":"click","route":"/news","tag":"button","label":"Traduzir"}
+{"ts":"2026-11-02T15:58:42.981Z","sid":"83k660","event":"click","route":"/news","tag":"button","label":"Traduzir"}
+{"ts":"2026-11-02T15:58:43.693Z","sid":"83k660","event":"click","route":"/news","tag":"button","label":"Traduzir"}
+{"ts":"2026-11-02T15:58:44.574Z","sid":"83k660","event":"click","route":"/news","tag":"span","label":"gamespot"}
+{"ts":"2026-11-02T15:58:44.862Z","sid":"83k660","event":"click","route":"/news","tag":"span","label":"gamespot"}
+{"ts":"2026-11-02T15:58:45.189Z","sid":"83k660","event":"click","route":"/news","tag":"button","label":"Traduzir"}
