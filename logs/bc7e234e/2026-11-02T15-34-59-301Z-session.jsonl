@@ -1,0 +1,4 @@
+{"ts":"2026-11-02T15:28:52.469Z","sid":"isrlcd","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-02T15:29:09.530Z","sid":"isrlcd","event":"page-ready","route":"/"}
+{"ts":"2026-11-02T15:29:16.820Z","sid":"isrlcd","event":"click","route":"/","tag":"a","label":"NovidadesNovidades"}
+{"ts":"2026-11-02T15:29:31.889Z","sid":"isrlcd","event":"click","route":"/news","tag":"div","label":"Adrenaline · há 11 minMario Kart World roda com DLSS 5 em PC por meio de emulação do Switch 2"}
