@@ -1,0 +1,6 @@
+{"ts":"2026-11-02T16:52:58.064Z","sid":"b64u2g","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-02T16:53:10.757Z","sid":"b64u2g","event":"page-ready","route":"/"}
+{"ts":"2026-11-02T16:53:13.899Z","sid":"b64u2g","event":"click","route":"/","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-11-02T16:53:25.762Z","sid":"b64u2g","event":"click","route":"/community","tag":"button","label":"Início"}
+{"ts":"2026-11-02T16:53:36.811Z","sid":"b64u2g","event":"click","route":"/community","tag":"div","label":""}
+{"ts":"2026-11-02T16:53:38.998Z","sid":"b64u2g","event":"click","route":"/community","tag":"button","label":"Entrar na tela cheia"}
