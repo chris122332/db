@@ -1,0 +1,9 @@
+{"ts":"2026-11-02T16:59:19.950Z","sid":"lu5z56","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-02T16:59:34.688Z","sid":"lu5z56","event":"page-ready","route":"/"}
+{"ts":"2026-11-02T16:59:45.539Z","sid":"lu5z56","event":"click","route":"/","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-11-02T16:59:47.291Z","sid":"lu5z56","event":"click","route":"/","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-11-02T16:59:52.371Z","sid":"lu5z56","event":"click","route":"/community","tag":"button","label":"Novidades"}
+{"ts":"2026-11-02T16:59:59.007Z","sid":"lu5z56","event":"click","route":"/community","tag":"button","label":"Entrar na tela cheia"}
+{"ts":"2026-11-02T17:00:15.010Z","sid":"lu5z56","event":"click","route":"/community","tag":"button","label":"Atualizar"}
+{"ts":"2026-11-02T17:00:38.386Z","sid":"lu5z56","event":"click","route":"/community","tag":"button","label":"Início"}
+{"ts":"2026-11-02T17:01:16.284Z","sid":"lu5z56","event":"click","route":"/community","tag":"div","label":"GMXEntrar no Big Picture"}
