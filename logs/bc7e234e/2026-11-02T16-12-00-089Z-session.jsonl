@@ -1,0 +1,9 @@
+{"ts":"2026-11-02T16:09:54.017Z","sid":"nspbtn","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-02T16:10:09.326Z","sid":"nspbtn","event":"page-ready","route":"/"}
+{"ts":"2026-11-02T16:10:52.145Z","sid":"nspbtn","event":"click","route":"/","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-11-02T16:10:52.951Z","sid":"nspbtn","event":"click","route":"/","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-11-02T16:10:53.489Z","sid":"nspbtn","event":"click","route":"/community","tag":"a","label":"NovidadesNovidades"}
+{"ts":"2026-11-02T16:11:11.294Z","sid":"nspbtn","event":"click","route":"/news","tag":"button","label":"Traduzir"}
+{"ts":"2026-11-02T16:11:15.776Z","sid":"nspbtn","event":"click","route":"/news","tag":"div","label":"Baldur's Gate 3 · há 8 hИсполнительница ролей Орин и Леди Димитреску рассказала, что любит озвучивать горячих кровожадны"}
+{"ts":"2026-11-02T16:11:23.014Z","sid":"nspbtn","event":"click","route":"/news","tag":"button","label":"Traduzir"}
+{"ts":"2026-11-02T16:11:28.456Z","sid":"nspbtn","event":"click","route":"/news","tag":"button","label":"Voltar"}
