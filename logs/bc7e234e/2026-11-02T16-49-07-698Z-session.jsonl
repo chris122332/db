@@ -1,0 +1,4 @@
+{"ts":"2026-11-02T16:39:03.320Z","sid":"xlza3i","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-02T16:39:18.355Z","sid":"xlza3i","event":"page-ready","route":"/"}
+{"ts":"2026-11-02T16:39:30.322Z","sid":"xlza3i","event":"click","route":"/","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-11-02T16:39:35.863Z","sid":"xlza3i","event":"click","route":"/community","tag":"button","label":"Novidades"}
