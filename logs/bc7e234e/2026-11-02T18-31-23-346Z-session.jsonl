@@ -1,0 +1,7 @@
+{"ts":"2026-11-02T18:19:19.033Z","sid":"2pmwxw","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-02T18:19:32.391Z","sid":"2pmwxw","event":"page-ready","route":"/"}
+{"ts":"2026-11-02T18:19:34.414Z","sid":"2pmwxw","event":"click","route":"/","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-11-02T18:19:35.720Z","sid":"2pmwxw","event":"click","route":"/community","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-11-02T18:19:44.443Z","sid":"2pmwxw","event":"click","route":"/community","tag":"button","label":"Entrar na tela cheia"}
+{"ts":"2026-11-02T18:24:07.897Z","sid":"2pmwxw","event":"click","route":"/community","tag":"a","label":"PreferênciasPreferências"}
+{"ts":"2026-11-02T18:24:11.682Z","sid":"2pmwxw","event":"click","route":"/settings","tag":"button","label":"Tutoriais"}
