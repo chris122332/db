@@ -1,0 +1,33 @@
+{"ts":"2026-11-04T23:42:02.270Z","sid":"r00kai","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-04T23:42:17.134Z","sid":"r00kai","event":"page-ready","route":"/"}
+{"ts":"2026-11-04T23:42:18.047Z","sid":"r00kai","event":"click","route":"/","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-11-04T23:42:19.328Z","sid":"r00kai","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-04T23:42:20.710Z","sid":"r00kai","event":"click","route":"/library","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-04T23:42:22.419Z","sid":"r00kai","event":"click","route":"/library","tag":"button","label":"Emuladores e portáteis"}
+{"ts":"2026-11-04T23:42:22.940Z","sid":"r00kai","event":"click","route":"/library","tag":"button","label":"RECOPILADOS"}
+{"ts":"2026-11-04T23:43:43.380Z","sid":"r00kai","event":"page-ready","route":"/library"}
+{"ts":"2026-11-04T23:43:48.186Z","sid":"r00kai","event":"click","route":"/library","tag":"button","label":"RECOPILADOS"}
+{"ts":"2026-11-04T23:44:12.300Z","sid":"r00kai","event":"click","route":"/library","tag":"button","label":"Selecionar Pasta das ROMs"}
+{"ts":"2026-11-04T23:44:15.863Z","sid":"r00kai","event":"click","route":"/library","tag":"button","label":"Selecionar Pasta das ROMs"}
+{"ts":"2026-11-04T23:44:17.354Z","sid":"r00kai","event":"click","route":"/library","tag":"button","label":"Continuar"}
+{"ts":"2026-11-04T23:44:18.690Z","sid":"r00kai","event":"click","route":"/library","tag":"button","label":"Selecionar Pasta das ROMs"}
+{"ts":"2026-11-04T23:44:19.122Z","sid":"r00kai","event":"click","route":"/library","tag":"button","label":"Selecionar Pasta das ROMs"}
+{"ts":"2026-11-04T23:44:19.286Z","sid":"r00kai","event":"click","route":"/library","tag":"button","label":"Selecionar Pasta das ROMs"}
+{"ts":"2026-11-04T23:44:39.169Z","sid":"r00kai","event":"page-ready","route":"/library"}
+{"ts":"2026-11-04T23:44:49.006Z","sid":"r00kai","event":"page-ready","route":"/library"}
+{"ts":"2026-11-04T23:45:18.682Z","sid":"r00kai","event":"page-ready","route":"/library"}
+{"ts":"2026-11-04T23:46:29.352Z","sid":"r00kai","event":"page-ready","route":"/library"}
+{"ts":"2026-11-04T23:46:32.651Z","sid":"r00kai","event":"click","route":"/library","tag":"button","label":"RECOPILADOS"}
+{"ts":"2026-11-04T23:46:40.446Z","sid":"r00kai","event":"click","route":"/library","tag":"button","label":"Selecionar Pasta das ROMs"}
+{"ts":"2026-11-04T23:46:51.255Z","sid":"r00kai","event":"click","route":"/library","tag":"button","label":"Continuar"}
+{"ts":"2026-11-04T23:46:53.627Z","sid":"r00kai","event":"click","route":"/library","tag":"button","label":"Selecionar Pasta dos Ports"}
+{"ts":"2026-11-04T23:47:01.253Z","sid":"r00kai","event":"click","route":"/library","tag":"button","label":"Continuar"}
+{"ts":"2026-11-04T23:47:11.500Z","sid":"r00kai","event":"click","route":"/library","tag":"input","label":"Buscar jogo (ex: Zelda, Mario, Sonic) ou repo GitHub..."}
+{"ts":"2026-11-04T23:47:14.938Z","sid":"r00kai","event":"click","route":"/library","tag":"button","label":"BloodbornePlayStation 4windows-v1.9.7BloodborneSupermedo \\u00B7 701.498 downloads"}
+{"ts":"2026-11-04T23:47:21.842Z","sid":"r00kai","event":"click","route":"/library","tag":"button","label":"Vis\\u00E3o Geral"}
+{"ts":"2026-11-04T23:47:22.279Z","sid":"r00kai","event":"click","route":"/library","tag":"button","label":"Detalhes T\\u00E9cnicos"}
+{"ts":"2026-11-04T23:47:22.834Z","sid":"r00kai","event":"click","route":"/library","tag":"button","label":"Requisitos"}
+{"ts":"2026-11-04T23:47:23.745Z","sid":"r00kai","event":"click","route":"/library","tag":"button","label":"Detalhes T\\u00E9cnicos"}
+{"ts":"2026-11-04T23:47:24.435Z","sid":"r00kai","event":"click","route":"/library","tag":"button","label":"Requisitos"}
+{"ts":"2026-11-04T23:47:27.027Z","sid":"r00kai","event":"click","route":"/library","tag":"button","label":"Vis\\u00E3o Geral"}
+{"ts":"2026-11-04T23:47:30.267Z","sid":"r00kai","event":"click","route":"/library","tag":"button","label":"Instalar Port"}
