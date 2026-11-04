@@ -1,0 +1,4 @@
+{"ts":"2026-11-04T22:04:33.251Z","sid":"4dhakq","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-04T22:04:47.375Z","sid":"4dhakq","event":"page-ready","route":"/"}
+{"ts":"2026-11-04T22:04:49.877Z","sid":"4dhakq","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-04T22:04:53.035Z","sid":"4dhakq","event":"click","route":"/library","tag":"button","label":"Port"}
