@@ -1,0 +1,17 @@
+{"ts":"2026-11-04T21:54:53.470Z","sid":"vzgmal","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-04T21:55:08.371Z","sid":"vzgmal","event":"page-ready","route":"/"}
+{"ts":"2026-11-04T21:55:08.905Z","sid":"vzgmal","event":"click","route":"/","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-11-04T21:55:10.529Z","sid":"vzgmal","event":"click","route":"/","tag":"a","label":"ComunidadeComunidade"}
+{"ts":"2026-11-04T21:55:11.653Z","sid":"vzgmal","event":"click","route":"/community","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-04T21:55:14.811Z","sid":"vzgmal","event":"click","route":"/library","tag":"button","label":"Emuladores e portáteis"}
+{"ts":"2026-11-04T21:56:43.586Z","sid":"vzgmal","event":"page-ready","route":"/library"}
+{"ts":"2026-11-04T21:57:21.989Z","sid":"vzgmal","event":"page-ready","route":"/library"}
+{"ts":"2026-11-04T21:57:24.658Z","sid":"vzgmal","event":"click","route":"/library","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-11-04T21:58:05.519Z","sid":"vzgmal","event":"page-ready","route":"/library"}
+{"ts":"2026-11-04T21:58:08.035Z","sid":"vzgmal","event":"click","route":"/library","tag":"button","label":"library.port.title"}
+{"ts":"2026-11-04T21:58:21.589Z","sid":"vzgmal","event":"page-ready","route":"/library"}
+{"ts":"2026-11-04T21:58:24.115Z","sid":"vzgmal","event":"click","route":"/library","tag":"button","label":"Port"}
+{"ts":"2026-11-04T21:58:27.818Z","sid":"vzgmal","event":"click","route":"/library","tag":"button","label":"Nintendo GameCubeDolphin00 jogo encontradoConfiguração necessáriaConfigurar"}
+{"ts":"2026-11-04T21:58:29.009Z","sid":"vzgmal","event":"click","route":"/library","tag":"div","label":""}
+{"ts":"2026-11-04T21:58:30.379Z","sid":"vzgmal","event":"click","route":"/library","tag":"button","label":"Emuladores e portáteis"}
+{"ts":"2026-11-04T21:58:31.266Z","sid":"vzgmal","event":"click","route":"/library","tag":"button","label":"Port"}
