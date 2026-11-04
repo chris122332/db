@@ -1,0 +1,6 @@
+{"ts":"2026-11-04T16:42:34.346Z","sid":"4tmrwu","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-04T16:42:52.861Z","sid":"4tmrwu","event":"page-ready","route":"/"}
+{"ts":"2026-11-04T16:43:18.908Z","sid":"4tmrwu","event":"click","route":"/","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-11-04T16:43:20.331Z","sid":"4tmrwu","event":"click","route":"/","tag":"a","label":"ProcurarProcurar"}
+{"ts":"2026-11-04T16:43:21.291Z","sid":"4tmrwu","event":"click","route":"/search","tag":"div","label":"InícioInícioProcurarProcurarBibliotecaBibliotecaDownloadsDownloadsComunidadeComunidadePreferênciasPreferências"}
+{"ts":"2026-11-04T16:43:21.899Z","sid":"4tmrwu","event":"click","route":"/search","tag":"a","label":"ComunidadeComunidade"}
