@@ -1,0 +1,17 @@
+{"ts":"2026-11-04T21:58:56.320Z","sid":"pjtblt","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-04T21:59:10.960Z","sid":"pjtblt","event":"page-ready","route":"/"}
+{"ts":"2026-11-04T21:59:19.019Z","sid":"pjtblt","event":"click","route":"/","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-11-04T21:59:20.530Z","sid":"pjtblt","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-04T21:59:22.570Z","sid":"pjtblt","event":"click","route":"/library","tag":"button","label":"Port"}
+{"ts":"2026-11-04T22:01:14.623Z","sid":"pjtblt","event":"page-ready","route":"/library"}
+{"ts":"2026-11-04T22:01:55.771Z","sid":"pjtblt","event":"click","route":"/library","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-11-04T22:01:56.794Z","sid":"pjtblt","event":"click","route":"/library","tag":"button","label":"Port"}
+{"ts":"2026-11-04T22:01:59.921Z","sid":"pjtblt","event":"click","route":"/library","tag":"button","label":"Port"}
+{"ts":"2026-11-04T22:02:00.591Z","sid":"pjtblt","event":"click","route":"/library","tag":"button","label":"Emuladores e portáteis"}
+{"ts":"2026-11-04T22:02:01.825Z","sid":"pjtblt","event":"click","route":"/library","tag":"button","label":"Port"}
+{"ts":"2026-11-04T22:02:04.244Z","sid":"pjtblt","event":"click","route":"/library","tag":"button","label":"Histórico"}
+{"ts":"2026-11-04T22:02:04.850Z","sid":"pjtblt","event":"click","route":"/library","tag":"button","label":"Jogar mais tarde2"}
+{"ts":"2026-11-04T22:02:05.618Z","sid":"pjtblt","event":"click","route":"/library","tag":"button","label":"Favoritos2"}
+{"ts":"2026-11-04T22:02:06.353Z","sid":"pjtblt","event":"click","route":"/library","tag":"button","label":"Todos os jogos4"}
+{"ts":"2026-11-04T22:02:07.705Z","sid":"pjtblt","event":"click","route":"/library","tag":"a","label":"ProcurarProcurar"}
+{"ts":"2026-11-04T22:02:09.585Z","sid":"pjtblt","event":"click","route":"/search","tag":"a","label":"InícioInício"}
