@@ -1,0 +1,9 @@
+{"ts":"2026-11-04T23:42:02.270Z","sid":"r00kai","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-04T23:42:17.134Z","sid":"r00kai","event":"page-ready","route":"/"}
+{"ts":"2026-11-04T23:42:18.047Z","sid":"r00kai","event":"click","route":"/","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-11-04T23:42:19.328Z","sid":"r00kai","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-04T23:42:20.710Z","sid":"r00kai","event":"click","route":"/library","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-04T23:42:22.419Z","sid":"r00kai","event":"click","route":"/library","tag":"button","label":"Emuladores e portáteis"}
+{"ts":"2026-11-04T23:42:22.940Z","sid":"r00kai","event":"click","route":"/library","tag":"button","label":"RECOPILADOS"}
+{"ts":"2026-11-04T23:43:43.380Z","sid":"r00kai","event":"page-ready","route":"/library"}
+{"ts":"2026-11-04T23:43:48.186Z","sid":"r00kai","event":"click","route":"/library","tag":"button","label":"RECOPILADOS"}
