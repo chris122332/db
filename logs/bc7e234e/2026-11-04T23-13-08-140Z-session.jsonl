@@ -1,0 +1,19 @@
+{"ts":"2026-11-04T23:09:04.176Z","sid":"hcl6vk","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-04T23:09:16.303Z","sid":"hcl6vk","event":"page-ready","route":"/"}
+{"ts":"2026-11-04T23:09:19.094Z","sid":"hcl6vk","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-04T23:09:22.199Z","sid":"hcl6vk","event":"click","route":"/library","tag":"button","label":"RecompLab"}
+{"ts":"2026-11-04T23:09:31.148Z","sid":"hcl6vk","event":"click","route":"/library","tag":"button","label":"Carregar mais jogos..."}
+{"ts":"2026-11-04T23:09:33.689Z","sid":"hcl6vk","event":"click","route":"/library","tag":"button","label":"Forza HorizonXbox 3600.7.1Forza Horizonarcanite24 · 72.333 downloads"}
+{"ts":"2026-11-04T23:09:45.015Z","sid":"hcl6vk","event":"click","route":"/library","tag":"button","label":"Mostrar todos os arquivos do port ▾"}
+{"ts":"2026-11-04T23:09:50.717Z","sid":"hcl6vk","event":"click","route":"/library","tag":"span","label":"#1 · android-shell-101ad468f139-android-arm64.tar.xz"}
+{"ts":"2026-11-04T23:09:51.682Z","sid":"hcl6vk","event":"click","route":"/library","tag":"button","label":"Mostrar todos os arquivos do port ▴"}
+{"ts":"2026-11-04T23:09:54.065Z","sid":"hcl6vk","event":"click","route":"/library","tag":"button","label":"Mostrar todos os arquivos do port ▾"}
+{"ts":"2026-11-04T23:09:58.227Z","sid":"hcl6vk","event":"click","route":"/library","tag":"button","label":"Mostrar todos os arquivos do port ▴"}
+{"ts":"2026-11-04T23:09:59.523Z","sid":"hcl6vk","event":"click","route":"/library","tag":"button","label":"Baixar"}
+{"ts":"2026-11-04T23:10:03.906Z","sid":"hcl6vk","event":"click","route":"/library","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-11-04T23:10:05.362Z","sid":"hcl6vk","event":"click","route":"/downloads","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-04T23:10:07.497Z","sid":"hcl6vk","event":"click","route":"/library","tag":"button","label":"RecompLab"}
+{"ts":"2026-11-04T23:10:08.338Z","sid":"hcl6vk","event":"click","route":"/library","tag":"button","label":"Port"}
+{"ts":"2026-11-04T23:10:35.331Z","sid":"hcl6vk","event":"click","route":"/library","tag":"button","label":"RecompLab"}
+{"ts":"2026-11-04T23:10:38.706Z","sid":"hcl6vk","event":"click","route":"/library","tag":"input","label":"Buscar jogos na sua biblioteca..."}
+{"ts":"2026-11-04T23:10:42.250Z","sid":"hcl6vk","event":"click","route":"/library","tag":"button","label":"RecompLab"}
