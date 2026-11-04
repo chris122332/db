@@ -1,0 +1,10 @@
+{"ts":"2026-11-04T23:39:44.701Z","sid":"dtldd1","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-04T23:40:00.181Z","sid":"dtldd1","event":"page-ready","route":"/"}
+{"ts":"2026-11-04T23:40:03.821Z","sid":"dtldd1","event":"click","route":"/","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-11-04T23:40:05.250Z","sid":"dtldd1","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-04T23:40:07.283Z","sid":"dtldd1","event":"click","route":"/library","tag":"nav","label":"LibraryTodos os jogos4Favoritos2Jogar mais tarde2HistóricoEmuladores e portáteisRECOPILADOS"}
+{"ts":"2026-11-04T23:40:08.028Z","sid":"dtldd1","event":"click","route":"/library","tag":"button","label":"RECOPILADOS"}
+{"ts":"2026-11-04T23:40:46.429Z","sid":"dtldd1","event":"click","route":"/library","tag":"h1","label":"Onde est\\u00E3o suas ROMs?"}
+{"ts":"2026-11-04T23:40:46.644Z","sid":"dtldd1","event":"click","route":"/library","tag":"h1","label":"Onde est\\u00E3o suas ROMs?"}
+{"ts":"2026-11-04T23:41:28.883Z","sid":"dtldd1","event":"page-ready","route":"/library"}
+{"ts":"2026-11-04T23:41:33.434Z","sid":"dtldd1","event":"click","route":"/library","tag":"button","label":"RECOPILADOS"}
