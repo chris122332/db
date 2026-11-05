@@ -1,0 +1,9 @@
+{"ts":"2026-11-05T05:25:11.513Z","sid":"m95dpz","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-05T05:25:25.377Z","sid":"m95dpz","event":"page-ready","route":"/"}
+{"ts":"2026-11-05T05:25:28.708Z","sid":"m95dpz","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-05T05:25:33.124Z","sid":"m95dpz","event":"click","route":"/library","tag":"button","label":"RECOPILADOS"}
+{"ts":"2026-11-05T05:25:36.591Z","sid":"m95dpz","event":"click","route":"/library","tag":"button","label":"The Legend of Zelda: Majora's MaskNintendo 641.2.2The Legend of Zelda: Majora's MaskZelda64Recomp \\u00B7 384.638 downloa"}
+{"ts":"2026-11-05T05:25:44.004Z","sid":"m95dpz","event":"click","route":"/library","tag":"button","label":"Instalar Port"}
+{"ts":"2026-11-05T05:25:49.996Z","sid":"m95dpz","event":"click","route":"/library","tag":"button","label":"Baixar ROM Agora"}
+{"ts":"2026-11-05T05:26:18.328Z","sid":"m95dpz","event":"click","route":"/library","tag":"button","label":"Fechar"}
+{"ts":"2026-11-05T05:26:21.826Z","sid":"m95dpz","event":"click","route":"/library","tag":"button","label":"Entendi, Fechar"}
