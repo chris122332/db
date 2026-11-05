@@ -1,0 +1,8 @@
+{"ts":"2026-11-05T16:21:33.017Z","sid":"72iuu0","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-05T16:21:46.403Z","sid":"72iuu0","event":"page-ready","route":"/"}
+{"ts":"2026-11-05T16:21:51.574Z","sid":"72iuu0","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-05T16:21:53.597Z","sid":"72iuu0","event":"click","route":"/library","tag":"button","label":"RECOPILADOS"}
+{"ts":"2026-11-05T16:21:56.845Z","sid":"72iuu0","event":"click","route":"/library","tag":"button","label":"Sonic UnleashedXbox 360Sonic Unleashedhedge-dev · 742.516 downloads"}
+{"ts":"2026-11-05T16:21:58.678Z","sid":"72iuu0","event":"click","route":"/library","tag":"button","label":"Baixar Port"}
+{"ts":"2026-11-05T16:22:01.789Z","sid":"72iuu0","event":"click","route":"/library","tag":"button","label":"Voltar à Biblioteca"}
+{"ts":"2026-11-05T16:22:37.972Z","sid":"72iuu0","event":"click","route":"/library","tag":"div","label":""}
