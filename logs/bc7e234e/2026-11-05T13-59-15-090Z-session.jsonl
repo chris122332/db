@@ -1,0 +1,15 @@
+{"ts":"2026-11-05T13:51:10.308Z","sid":"s8ywe8","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-05T13:51:25.333Z","sid":"s8ywe8","event":"page-ready","route":"/"}
+{"ts":"2026-11-05T13:51:27.828Z","sid":"s8ywe8","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-05T13:51:31.019Z","sid":"s8ywe8","event":"click","route":"/library","tag":"button","label":"RECOPILADOS"}
+{"ts":"2026-11-05T13:51:33.138Z","sid":"s8ywe8","event":"click","route":"/library","tag":"button","label":"The Legend of Zelda: Ocarina of TimeNintendo 64The Legend of Zelda: Ocarina of TimeHarbourMasters · 2.402.321 downloads"}
+{"ts":"2026-11-05T13:51:39.850Z","sid":"s8ywe8","event":"click","route":"/library","tag":"button","label":"Baixar Port"}
+{"ts":"2026-11-05T13:51:42.314Z","sid":"s8ywe8","event":"click","route":"/library","tag":"button","label":"Voltar à Biblioteca"}
+{"ts":"2026-11-05T13:51:46.259Z","sid":"s8ywe8","event":"click","route":"/library","tag":"button","label":"E:\\E:/gmx-games170.4 GB livres de 464.7 GB"}
+{"ts":"2026-11-05T13:51:50.258Z","sid":"s8ywe8","event":"click","route":"/library","tag":"div","label":"E:/gmx-games"}
+{"ts":"2026-11-05T13:55:00.928Z","sid":"s8ywe8","event":"page-ready","route":"/library"}
+{"ts":"2026-11-05T13:55:04.418Z","sid":"s8ywe8","event":"click","route":"/library","tag":"button","label":"RECOPILADOS"}
+{"ts":"2026-11-05T13:55:05.738Z","sid":"s8ywe8","event":"click","route":"/library","tag":"button","label":"The Legend of Zelda: Ocarina of TimeNintendo 64The Legend of Zelda: Ocarina of TimeHarbourMasters · 2.402.321 downloads"}
+{"ts":"2026-11-05T13:55:06.729Z","sid":"s8ywe8","event":"click","route":"/library","tag":"button","label":"Baixar Port"}
+{"ts":"2026-11-05T13:55:09.090Z","sid":"s8ywe8","event":"click","route":"/library","tag":"button","label":"Voltar à Biblioteca"}
+{"ts":"2026-11-05T13:55:10.066Z","sid":"s8ywe8","event":"click","route":"/library","tag":"div","label":""}
