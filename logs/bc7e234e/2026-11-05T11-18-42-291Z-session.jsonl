@@ -1,0 +1,15 @@
+{"ts":"2026-11-05T11:12:37.560Z","sid":"2fjopn","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-05T11:12:48.460Z","sid":"2fjopn","event":"page-ready","route":"/"}
+{"ts":"2026-11-05T11:14:43.894Z","sid":"2fjopn","event":"click","route":"/","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-11-05T11:14:50.111Z","sid":"2fjopn","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-05T11:14:52.103Z","sid":"2fjopn","event":"click","route":"/library","tag":"button","label":"RECOPILADOS"}
+{"ts":"2026-11-05T11:14:54.886Z","sid":"2fjopn","event":"click","route":"/library","tag":"button","label":"The Legend of Zelda: Majora's MaskNintendo 64INSTALADOThe Legend of Zelda: Majora's MaskZelda64Recomp · 384.638 download"}
+{"ts":"2026-11-05T11:14:57.017Z","sid":"2fjopn","event":"click","route":"/library","tag":"button","label":"Baixar ROM"}
+{"ts":"2026-11-05T11:14:59.318Z","sid":"2fjopn","event":"click","route":"/library","tag":"button","label":"The Legend of Zelda: Majora's MaskNintendo 6426.7MiB★ 9.8"}
+{"ts":"2026-11-05T11:15:08.663Z","sid":"2fjopn","event":"click","route":"/library","tag":"div","label":"Nintendo 64High FPSWidescreenGyroThe Legend of Zelda: Majora's MaskZelda64Recomp· Nintendo EAD Software Development Grou"}
+{"ts":"2026-11-05T11:15:09.140Z","sid":"2fjopn","event":"click","route":"/library","tag":"button","label":"Baixar ROM"}
+{"ts":"2026-11-05T11:15:11.119Z","sid":"2fjopn","event":"click","route":"/library","tag":"button","label":"The Legend of Zelda: Majora's MaskNintendo 6426.7MiB★ 9.8"}
+{"ts":"2026-11-05T11:15:14.263Z","sid":"2fjopn","event":"click","route":"/library","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-11-05T11:15:18.878Z","sid":"2fjopn","event":"click","route":"/downloads","tag":"button","label":"Ver detalhes"}
+{"ts":"2026-11-05T11:15:26.214Z","sid":"2fjopn","event":"click","route":"/gamescreen","tag":"button","label":"Voltar"}
+{"ts":"2026-11-05T11:18:16.150Z","sid":"2fjopn","event":"page-ready","route":"/library"}
