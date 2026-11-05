@@ -1,0 +1,9 @@
+{"ts":"2026-11-05T09:50:41.598Z","sid":"vysmpz","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-05T09:50:56.018Z","sid":"vysmpz","event":"page-ready","route":"/"}
+{"ts":"2026-11-05T09:50:57.968Z","sid":"vysmpz","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-05T09:50:58.676Z","sid":"vysmpz","event":"click","route":"/library","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-05T09:51:01.637Z","sid":"vysmpz","event":"click","route":"/library","tag":"button","label":"RECOPILADOS"}
+{"ts":"2026-11-05T09:51:06.703Z","sid":"vysmpz","event":"click","route":"/library","tag":"button","label":"The Legend of Zelda: Majora's MaskNintendo 641.2.2INSTALADOThe Legend of Zelda: Majora's MaskZelda64Recomp · 384.638 dow"}
+{"ts":"2026-11-05T09:51:26.432Z","sid":"vysmpz","event":"click","route":"/library","tag":"button","label":"Downloads"}
+{"ts":"2026-11-05T09:51:28.071Z","sid":"vysmpz","event":"click","route":"/library","tag":"button","label":"Downloads"}
+{"ts":"2026-11-05T09:54:44.255Z","sid":"vysmpz","event":"click","route":"/library","tag":"button","label":"Entrar na tela cheia"}
