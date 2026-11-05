@@ -1,0 +1,25 @@
+{"ts":"2026-11-05T10:22:07.625Z","sid":"06vwyv","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-05T10:22:20.868Z","sid":"06vwyv","event":"page-ready","route":"/"}
+{"ts":"2026-11-05T10:22:22.900Z","sid":"06vwyv","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-05T10:22:25.654Z","sid":"06vwyv","event":"click","route":"/library","tag":"button","label":"RECOPILADOS"}
+{"ts":"2026-11-05T10:22:26.925Z","sid":"06vwyv","event":"click","route":"/library","tag":"button","label":"The Legend of Zelda: Majora's MaskNintendo 64INSTALADOThe Legend of Zelda: Majora's MaskZelda64Recomp · 384.638 download"}
+{"ts":"2026-11-05T10:22:33.798Z","sid":"06vwyv","event":"click","route":"/library","tag":"button","label":"Entrar na tela cheia"}
+{"ts":"2026-11-05T10:22:41.265Z","sid":"06vwyv","event":"click","route":"/library","tag":"button","label":"Detalhes Técnicos"}
+{"ts":"2026-11-05T10:22:42.590Z","sid":"06vwyv","event":"click","route":"/library","tag":"button","label":"Requisitos"}
+{"ts":"2026-11-05T10:22:49.997Z","sid":"06vwyv","event":"click","route":"/library","tag":"button","label":"Download/Arquivos"}
+{"ts":"2026-11-05T10:22:52.317Z","sid":"06vwyv","event":"click","route":"/library","tag":"button","label":"Visão Geral"}
+{"ts":"2026-11-05T10:22:58.758Z","sid":"06vwyv","event":"click","route":"/library","tag":"button","label":"Baixar ROM"}
+{"ts":"2026-11-05T10:23:06.463Z","sid":"06vwyv","event":"click","route":"/library","tag":"button","label":"The Legend of Zelda: Majora's MaskNintendo 6426.7MiB★ 9.8"}
+{"ts":"2026-11-05T10:23:07.040Z","sid":"06vwyv","event":"download-request","game":"The Legend of Zelda- Majoras Mask","linkHost":"tracker.opentrackr.org:1337","torrent":true}
+{"ts":"2026-11-05T10:23:11.373Z","sid":"06vwyv","event":"click","route":"/library","tag":"a","label":"ProcurarProcurar"}
+{"ts":"2026-11-05T10:23:12.487Z","sid":"06vwyv","event":"click","route":"/search","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-11-05T10:23:14.782Z","sid":"06vwyv","event":"click","route":"/downloads","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-05T10:23:17.078Z","sid":"06vwyv","event":"click","route":"/library","tag":"button","label":"RECOPILADOS"}
+{"ts":"2026-11-05T10:23:24.062Z","sid":"06vwyv","event":"click","route":"/library","tag":"button","label":"The Legend of Zelda: Majora's MaskNintendo 64INSTALADOThe Legend of Zelda: Majora's MaskZelda64Recomp · 384.638 download"}
+{"ts":"2026-11-05T10:23:25.463Z","sid":"06vwyv","event":"click","route":"/library","tag":"button","label":"Download/Arquivos"}
+{"ts":"2026-11-05T10:23:29.182Z","sid":"06vwyv","event":"click","route":"/library","tag":"button","label":"Baixar ROM"}
+{"ts":"2026-11-05T10:23:30.357Z","sid":"06vwyv","event":"click","route":"/library","tag":"div","label":"The Legend of Zelda: Majora's MaskNintendo 6426.7MiB★ 9.8The Legend of Zelda: Majora's Mask 3DNintendo 3DS569.8MiB★ 9.4"}
+{"ts":"2026-11-05T10:23:30.967Z","sid":"06vwyv","event":"click","route":"/library","tag":"button","label":"The Legend of Zelda: Majora's MaskNintendo 6426.7MiB★ 9.8"}
+{"ts":"2026-11-05T10:23:31.585Z","sid":"06vwyv","event":"download-request","game":"The Legend of Zelda- Majoras Mask","linkHost":"tracker.opentrackr.org:1337","torrent":true}
+{"ts":"2026-11-05T10:24:01.834Z","sid":"06vwyv","event":"click","route":"/library","tag":"button","label":"Visão Geral"}
+{"ts":"2026-11-05T10:24:06.854Z","sid":"06vwyv","event":"click","route":"/library","tag":"button","label":""}
