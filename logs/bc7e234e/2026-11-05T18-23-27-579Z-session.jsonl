@@ -1,0 +1,20 @@
+{"ts":"2026-11-05T18:19:43.851Z","sid":"65t1ht","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-05T18:19:58.253Z","sid":"65t1ht","event":"page-ready","route":"/"}
+{"ts":"2026-11-05T18:21:07.465Z","sid":"65t1ht","event":"click","route":"/","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-11-05T18:21:09.763Z","sid":"65t1ht","event":"click","route":"/","tag":"a","label":"InícioInício"}
+{"ts":"2026-11-05T18:21:10.318Z","sid":"65t1ht","event":"click","route":"/","tag":"a","label":"ProcurarProcurar"}
+{"ts":"2026-11-05T18:21:12.453Z","sid":"65t1ht","event":"click","route":"/search","tag":"a","label":"ProcurarProcurar"}
+{"ts":"2026-11-05T18:21:14.097Z","sid":"65t1ht","event":"click","route":"/search","tag":"div","label":"4.825 Jogos indexados"}
+{"ts":"2026-11-05T18:21:14.592Z","sid":"65t1ht","event":"click","route":"/search","tag":"input","label":"Pesquisar jogos..."}
+{"ts":"2026-11-05T18:21:18.007Z","sid":"65t1ht","event":"click","route":"/search","tag":"input","label":"Pesquisar jogos..."}
+{"ts":"2026-11-05T18:21:18.402Z","sid":"65t1ht","event":"click","route":"/search","tag":"input","label":"Pesquisar jogos..."}
+{"ts":"2026-11-05T18:21:22.955Z","sid":"65t1ht","event":"click","route":"/search","tag":"div","label":"4.825 Jogos indexadosResultados de pesquisa rápidaCrimson Capes566.5 MB15 de fevereiro de 2026eFootball PES 202037.2 GB2"}
+{"ts":"2026-11-05T18:21:25.560Z","sid":"65t1ht","event":"click","route":"/search","tag":"input","label":"Pesquisar jogos..."}
+{"ts":"2026-11-05T18:21:32.417Z","sid":"65t1ht","event":"click","route":"/search","tag":"div","label":"4.825 Jogos indexados"}
+{"ts":"2026-11-05T18:21:53.533Z","sid":"65t1ht","event":"click","route":"/search","tag":"div","label":"4.825 Jogos indexados"}
+{"ts":"2026-11-05T18:21:54.088Z","sid":"65t1ht","event":"click","route":"/search","tag":"input","label":"Pesquisar jogos..."}
+{"ts":"2026-11-05T18:21:57.420Z","sid":"65t1ht","event":"click","route":"/search","tag":"div","label":"PRO EVOLUTION SOCCER 201928.0 GB15 de junho de 2026"}
+{"ts":"2026-11-05T18:22:04.634Z","sid":"65t1ht","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-11-05T18:22:06.051Z","sid":"65t1ht","event":"click","route":"/download","tag":"button","label":"Baixe agora"}
+{"ts":"2026-11-05T18:22:21.063Z","sid":"65t1ht","event":"page-ready","route":"/"}
+{"ts":"2026-11-05T18:23:27.574Z","sid":"65t1ht","event":"app-quit"}
