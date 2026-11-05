@@ -1,0 +1,14 @@
+{"ts":"2026-11-05T17:08:39.622Z","sid":"k9m6wv","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-05T17:08:58.066Z","sid":"k9m6wv","event":"page-ready","route":"/"}
+{"ts":"2026-11-05T17:08:58.945Z","sid":"k9m6wv","event":"click","route":"/","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-11-05T17:08:59.321Z","sid":"k9m6wv","event":"click","route":"/","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-11-05T17:09:02.069Z","sid":"k9m6wv","event":"click","route":"/","tag":"div","label":"FINAL FANTASY IVAdventureRole-playing GameVer jogo"}
+{"ts":"2026-11-05T17:09:02.078Z","sid":"k9m6wv","event":"click","route":"/","tag":"div","label":"FINAL FANTASY IVAdventureRole-playing GameVer jogo"}
+{"ts":"2026-11-05T17:09:03.197Z","sid":"k9m6wv","event":"click","route":"/","tag":"div","label":"FINAL FANTASY IVAdventureRole-playing GameVer jogo"}
+{"ts":"2026-11-05T17:09:04.166Z","sid":"k9m6wv","event":"click","route":"/download","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-05T17:09:09.629Z","sid":"k9m6wv","event":"click","route":"/download","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-05T17:09:12.215Z","sid":"k9m6wv","event":"click","route":"/","tag":"button","label":"RECOPILADOS"}
+{"ts":"2026-11-05T17:09:14.078Z","sid":"k9m6wv","event":"click","route":"/","tag":"button","label":"The Legend of Zelda: Twilight PrincessGameCubeThe Legend of Zelda: Twilight PrincessTwilitRealm · 1.454.450 downloads"}
+{"ts":"2026-11-05T17:09:15.441Z","sid":"k9m6wv","event":"click","route":"/","tag":"button","label":"Baixar Port"}
+{"ts":"2026-11-05T17:09:22.208Z","sid":"k9m6wv","event":"click","route":"/","tag":"button","label":"Fechar"}
+{"ts":"2026-11-05T17:09:22.372Z","sid":"k9m6wv","event":"app-quit"}
