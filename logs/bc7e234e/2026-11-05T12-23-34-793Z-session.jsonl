@@ -1,0 +1,20 @@
+{"ts":"2026-11-05T12:21:29.841Z","sid":"c83alu","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-05T12:21:44.418Z","sid":"c83alu","event":"page-ready","route":"/"}
+{"ts":"2026-11-05T12:21:48.976Z","sid":"c83alu","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-05T12:21:51.208Z","sid":"c83alu","event":"click","route":"/library","tag":"button","label":"RECOPILADOS"}
+{"ts":"2026-11-05T12:21:53.096Z","sid":"c83alu","event":"click","route":"/library","tag":"button","label":"The Legend of Zelda: Majora's MaskNintendo 64INSTALADOThe Legend of Zelda: Majora's MaskZelda64Recomp · 384.638 download"}
+{"ts":"2026-11-05T12:21:54.592Z","sid":"c83alu","event":"click","route":"/library","tag":"button","label":"Baixar ROM novamente"}
+{"ts":"2026-11-05T12:21:58.128Z","sid":"c83alu","event":"click","route":"/library","tag":"button","label":"The Legend of Zelda: Majora's MaskNintendo 6426.7 MB★ 9.8"}
+{"ts":"2026-11-05T12:22:08.968Z","sid":"c83alu","event":"click","route":"/library","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-11-05T12:22:11.008Z","sid":"c83alu","event":"click","route":"/downloads","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-05T12:22:12.768Z","sid":"c83alu","event":"click","route":"/library","tag":"button","label":"RECOPILADOS"}
+{"ts":"2026-11-05T12:22:14.448Z","sid":"c83alu","event":"click","route":"/library","tag":"button","label":"The Legend of Zelda: Ocarina of TimeNintendo 64The Legend of Zelda: Ocarina of TimeHarbourMasters · 2.402.321 downloads"}
+{"ts":"2026-11-05T12:22:15.520Z","sid":"c83alu","event":"click","route":"/library","tag":"button","label":"Baixar Port"}
+{"ts":"2026-11-05T12:22:21.144Z","sid":"c83alu","event":"click","route":"/library","tag":"a","label":"DownloadsDownloads"}
+{"ts":"2026-11-05T12:22:22.096Z","sid":"c83alu","event":"click","route":"/downloads","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-05T12:22:24.072Z","sid":"c83alu","event":"click","route":"/library","tag":"button","label":"Emuladores e portáteis"}
+{"ts":"2026-11-05T12:22:24.520Z","sid":"c83alu","event":"click","route":"/library","tag":"button","label":"RECOPILADOS"}
+{"ts":"2026-11-05T12:22:25.600Z","sid":"c83alu","event":"click","route":"/library","tag":"button","label":"The Legend of Zelda: Ocarina of TimeNintendo 64The Legend of Zelda: Ocarina of TimeHarbourMasters · 2.402.321 downloads"}
+{"ts":"2026-11-05T12:22:26.441Z","sid":"c83alu","event":"click","route":"/library","tag":"button","label":"Baixar Port"}
+{"ts":"2026-11-05T12:22:35.264Z","sid":"c83alu","event":"click","route":"/library","tag":"button","label":"Baixar ROM"}
+{"ts":"2026-11-05T12:22:51.224Z","sid":"c83alu","event":"click","route":"/library","tag":"button","label":"The Legend of Zelda: Ocarina of TimeNintendo 6425.2 MB★ 10.0"}
