@@ -1,0 +1,43 @@
+{"ts":"2026-11-05T12:28:24.850Z","sid":"u06w5r","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-05T12:28:35.416Z","sid":"u06w5r","event":"page-ready","route":"/"}
+{"ts":"2026-11-05T12:28:41.792Z","sid":"u06w5r","event":"navigate","to":"/recomplab","from":"/"}
+{"ts":"2026-11-05T12:28:44.432Z","sid":"u06w5r","event":"click","route":"/recomplab","tag":"div","label":"Controlador detectadoO Gmx Launcher detectou um controle conectado ao seu dispositivo. Quer entrar no Big Picture para t"}
+{"ts":"2026-11-05T12:28:44.871Z","sid":"u06w5r","event":"click","route":"/recomplab","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-11-05T12:28:51.888Z","sid":"u06w5r","event":"click","route":"/recomplab","tag":"div","label":"Nintendo 64High FPSWidescreenGyro"}
+{"ts":"2026-11-05T12:28:53.736Z","sid":"u06w5r","event":"click","route":"/recomplab","tag":"button","label":"Reinstalar Port"}
+{"ts":"2026-11-05T12:28:59.520Z","sid":"u06w5r","event":"click","route":"/recomplab","tag":"button","label":"The Legend of Zelda: Majora's MaskNintendo 6426.7 MB★ 9.8"}
+{"ts":"2026-11-05T12:29:04.992Z","sid":"u06w5r","event":"click","route":"/recomplab","tag":"button","label":"Download/Arquivos"}
+{"ts":"2026-11-05T12:29:06.912Z","sid":"u06w5r","event":"click","route":"/recomplab","tag":"button","label":"Baixar ROM"}
+{"ts":"2026-11-05T12:29:09.544Z","sid":"u06w5r","event":"click","route":"/recomplab","tag":"button","label":"The Legend of Zelda: Majora's MaskNintendo 6426.7 MB★ 9.8"}
+{"ts":"2026-11-05T12:29:16.479Z","sid":"u06w5r","event":"click","route":"/recomplab","tag":"ol","label":"1. Clique em Baixar ROM — a GMX busca no storage oficial e, se necessário, no BlueRoms (magnet).2. Com o download conclu"}
+{"ts":"2026-11-05T12:29:16.680Z","sid":"u06w5r","event":"click","route":"/recomplab","tag":"ol","label":"1. Clique em Baixar ROM — a GMX busca no storage oficial e, se necessário, no BlueRoms (magnet).2. Com o download conclu"}
+{"ts":"2026-11-05T12:29:16.855Z","sid":"u06w5r","event":"click","route":"/recomplab","tag":"ol","label":"1. Clique em Baixar ROM — a GMX busca no storage oficial e, se necessário, no BlueRoms (magnet).2. Com o download conclu"}
+{"ts":"2026-11-05T12:34:46.536Z","sid":"u06w5r","event":"click","route":"/recomplab","tag":"button","label":"Voltar à Biblioteca"}
+{"ts":"2026-11-05T12:35:18.425Z","sid":"u06w5r","event":"click","route":"/recomplab","tag":"button","label":"Cancelar"}
+{"ts":"2026-11-05T12:35:22.384Z","sid":"u06w5r","event":"click","route":"/recomplab","tag":"button","label":"Mario Kart 64Nintendo 64Mario Kart 64HarbourMasters · 246.712 downloads"}
+{"ts":"2026-11-05T12:35:23.496Z","sid":"u06w5r","event":"click","route":"/recomplab","tag":"button","label":"Baixar ROM"}
+{"ts":"2026-11-05T12:35:51.304Z","sid":"u06w5r","event":"click","route":"/recomplab","tag":"button","label":"Mario Kart 64Nintendo 648.6 MB★ 8.2"}
+{"ts":"2026-11-05T12:36:57.313Z","sid":"u06w5r","event":"click","route":"/recomplab","tag":"div","label":"Baixar Port Baixar ROM"}
+{"ts":"2026-11-05T12:36:58.585Z","sid":"u06w5r","event":"click","route":"/recomplab","tag":"div","label":"Baixar Port Baixar ROM"}
+{"ts":"2026-11-05T12:36:59.080Z","sid":"u06w5r","event":"click","route":"/recomplab","tag":"div","label":"Baixar Port Baixar ROM"}
+{"ts":"2026-11-05T12:37:01.792Z","sid":"u06w5r","event":"click","route":"/recomplab","tag":"span","label":"Mods"}
+{"ts":"2026-11-05T12:37:02.968Z","sid":"u06w5r","event":"click","route":"/recomplab","tag":"span","label":"Mods"}
+{"ts":"2026-11-05T12:37:04.880Z","sid":"u06w5r","event":"click","route":"/recomplab","tag":"button","label":"Voltar à Biblioteca"}
+{"ts":"2026-11-05T12:37:07.633Z","sid":"u06w5r","event":"click","route":"/recomplab","tag":"button","label":"Cancelar"}
+{"ts":"2026-11-05T12:40:50.304Z","sid":"u06w5r","event":"click","route":"/recomplab","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-05T12:40:52.272Z","sid":"u06w5r","event":"click","route":"/library","tag":"button","label":"RECOPILADOS"}
+{"ts":"2026-11-05T12:40:54.001Z","sid":"u06w5r","event":"click","route":"/library","tag":"button","label":"Star Fox 64Nintendo 64Star Fox 64HarbourMasters · 231.162 downloads"}
+{"ts":"2026-11-05T12:40:55.768Z","sid":"u06w5r","event":"click","route":"/library","tag":"button","label":"Voltar à Biblioteca"}
+{"ts":"2026-11-05T12:40:57.837Z","sid":"u06w5r","event":"click","route":"/library","tag":"button","label":"Tony Hawk's Pro SkaterNintendo 64Tony Hawk's Pro SkaterTHPS64Recomp · 435 downloads"}
+{"ts":"2026-11-05T12:41:44.664Z","sid":"u06w5r","event":"click","route":"/library","tag":"button","label":"Detalhes Técnicos"}
+{"ts":"2026-11-05T12:41:46.047Z","sid":"u06w5r","event":"click","route":"/library","tag":"button","label":"Requisitos"}
+{"ts":"2026-11-05T12:41:47.593Z","sid":"u06w5r","event":"click","route":"/library","tag":"button","label":"Download/Arquivos"}
+{"ts":"2026-11-05T12:41:51.880Z","sid":"u06w5r","event":"click","route":"/library","tag":"div","label":"#1SHA256SUMS212 B Baixar"}
+{"ts":"2026-11-05T12:41:52.056Z","sid":"u06w5r","event":"click","route":"/library","tag":"div","label":"#1SHA256SUMS212 B Baixar"}
+{"ts":"2026-11-05T12:41:52.224Z","sid":"u06w5r","event":"click","route":"/library","tag":"div","label":"#1SHA256SUMS212 B Baixar"}
+{"ts":"2026-11-05T12:41:52.400Z","sid":"u06w5r","event":"click","route":"/library","tag":"div","label":"#1SHA256SUMS212 B Baixar"}
+{"ts":"2026-11-05T12:43:34.307Z","sid":"u06w5r","event":"click","route":"/library","tag":"button","label":"Voltar à Biblioteca"}
+{"ts":"2026-11-05T12:43:36.544Z","sid":"u06w5r","event":"click","route":"/library","tag":"a","label":"InícioInício"}
+{"ts":"2026-11-05T12:43:41.038Z","sid":"u06w5r","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-05T12:43:42.977Z","sid":"u06w5r","event":"click","route":"/library","tag":"button","label":"RECOPILADOS"}
+{"ts":"2026-11-05T12:43:44.609Z","sid":"u06w5r","event":"click","route":"/library","tag":"button","label":"Super Mario 64Nintendo 64Super Mario 64HarbourMasters · 141.155 downloads"}
