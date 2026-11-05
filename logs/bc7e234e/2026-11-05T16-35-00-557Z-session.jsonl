@@ -1,0 +1,13 @@
+{"ts":"2026-11-05T16:28:53.697Z","sid":"t8q42c","event":"app-start","version":"40.10.6","isDev":true,"hostname":"DESKTOP-JKA2AF9"}
+{"ts":"2026-11-05T16:29:13.445Z","sid":"t8q42c","event":"page-ready","route":"/"}
+{"ts":"2026-11-05T16:29:16.701Z","sid":"t8q42c","event":"click","route":"/","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-11-05T16:29:16.775Z","sid":"t8q42c","event":"click","route":"/","tag":"button","label":"Agora nãoB"}
+{"ts":"2026-11-05T16:29:18.440Z","sid":"t8q42c","event":"click","route":"/","tag":"a","label":"BibliotecaBiblioteca"}
+{"ts":"2026-11-05T16:29:20.054Z","sid":"t8q42c","event":"click","route":"/library","tag":"div","label":"eFootball™"}
+{"ts":"2026-11-05T16:29:22.183Z","sid":"t8q42c","event":"click","route":"/gamescreen","tag":"button","label":"Voltar"}
+{"ts":"2026-11-05T16:29:24.494Z","sid":"t8q42c","event":"click","route":"/library","tag":"button","label":"RECOPILADOS"}
+{"ts":"2026-11-05T16:29:26.843Z","sid":"t8q42c","event":"click","route":"/library","tag":"button","label":"The Legend of Zelda: Twilight PrincessGameCubeThe Legend of Zelda: Twilight PrincessTwilitRealm · 1.454.450 downloads"}
+{"ts":"2026-11-05T16:29:29.766Z","sid":"t8q42c","event":"click","route":"/library","tag":"button","label":"Baixar Port"}
+{"ts":"2026-11-05T16:29:35.727Z","sid":"t8q42c","event":"click","route":"/library","tag":"button","label":"Baixar ROM"}
+{"ts":"2026-11-05T16:29:40.823Z","sid":"t8q42c","event":"click","route":"/library","tag":"button","label":"The Legend of Zelda: Twilight PrincessNintendo GameCube708.4 MB★ 9.6"}
+{"ts":"2026-11-05T16:30:29.117Z","sid":"t8q42c","event":"click","route":"/library","tag":"a","label":"DownloadsDownloads"}
